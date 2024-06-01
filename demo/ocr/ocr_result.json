@@ -1,0 +1,4640 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0015450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            107,
+            183
+          ],
+          [
+            1172,
+            185
+          ],
+          [
+            1172,
+            224
+          ],
+          [
+            107,
+            221
+          ]
+        ],
+        "transcription": "Secrets of Gosu: Understanding Physical Combat"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            63,
+            246
+          ],
+          [
+            1219,
+            248
+          ],
+          [
+            1219,
+            287
+          ],
+          [
+            63,
+            286
+          ]
+        ],
+        "transcription": "Skills of Professional Plavers in First-Person Shooters"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            311,
+            374
+          ],
+          [
+            969,
+            374
+          ],
+          [
+            969,
+            415
+          ],
+          [
+            311,
+            415
+          ]
+        ],
+        "transcription": "Eunji Park 1 , Sangyoon Lee 1 , Auejin Ham 1,2"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            300,
+            438
+          ],
+          [
+            986,
+            438
+          ],
+          [
+            986,
+            475
+          ],
+          [
+            300,
+            475
+          ]
+        ],
+        "transcription": "Minyeop Choi 1 , Sunjun Kim 2 , Byungjoo Lee 3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            397,
+            525
+          ],
+          [
+            902,
+            525
+          ],
+          [
+            902,
+            568
+          ],
+          [
+            397,
+            568
+          ]
+        ],
+        "transcription": "KAIST 1 , DGIST 2 , Yonsei University 3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            1087,
+            627
+          ],
+          [
+            1237,
+            627
+          ],
+          [
+            1237,
+            655
+          ],
+          [
+            1087,
+            655
+          ]
+        ],
+        "transcription": "YONSEI"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            1089,
+            658
+          ],
+          [
+            1236,
+            659
+          ],
+          [
+            1236,
+            678
+          ],
+          [
+            1089,
+            676
+          ]
+        ],
+        "transcription": "UNIVERSITY"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            782,
+            628
+          ],
+          [
+            978,
+            623
+          ],
+          [
+            980,
+            680
+          ],
+          [
+            783,
+            685
+          ]
+        ],
+        "transcription": "DGIST"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            569,
+            634
+          ],
+          [
+            727,
+            630
+          ],
+          [
+            728,
+            673
+          ],
+          [
+            570,
+            678
+          ]
+        ],
+        "transcription": "KAIST"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0051500.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            44,
+            49
+          ],
+          [
+            640,
+            49
+          ],
+          [
+            640,
+            89
+          ],
+          [
+            44,
+            89
+          ]
+        ],
+        "transcription": "Why First Person Shooters?"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            830,
+            155
+          ],
+          [
+            1116,
+            159
+          ],
+          [
+            1116,
+            196
+          ],
+          [
+            829,
+            192
+          ]
+        ],
+        "transcription": "Fast reaction,"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            768,
+            217
+          ],
+          [
+            1178,
+            222
+          ],
+          [
+            1183,
+            265
+          ],
+          [
+            768,
+            257
+          ]
+        ],
+        "transcription": "Accurate aiming, ..."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            835,
+            365
+          ],
+          [
+            1113,
+            365
+          ],
+          [
+            1113,
+            402
+          ],
+          [
+            835,
+            402
+          ]
+        ],
+        "transcription": "Combat skills"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            895,
+            491
+          ],
+          [
+            1054,
+            494
+          ],
+          [
+            1053,
+            540
+          ],
+          [
+            894,
+            537
+          ]
+        ],
+        "transcription": "\"Gosu\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            285,
+            631
+          ],
+          [
+            991,
+            629
+          ],
+          [
+            991,
+            668
+          ],
+          [
+            285,
+            671
+          ]
+        ],
+        "transcription": "How the player performs better?"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0070000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            17
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            59
+          ],
+          [
+            1053,
+            54
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            556,
+            20
+          ],
+          [
+            697,
+            20
+          ],
+          [
+            697,
+            53
+          ],
+          [
+            556,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            24,
+            21
+          ],
+          [
+            216,
+            21
+          ],
+          [
+            216,
+            53
+          ],
+          [
+            24,
+            53
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            108,
+            105
+          ],
+          [
+            1027,
+            105
+          ],
+          [
+            1027,
+            136
+          ],
+          [
+            108,
+            136
+          ]
+        ],
+        "transcription": "\"Gamers want to know how to improve their skills.\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            66,
+            232
+          ],
+          [
+            225,
+            199
+          ],
+          [
+            240,
+            268
+          ],
+          [
+            80,
+            301
+          ]
+        ],
+        "transcription": "10 TIPS"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            134,
+            279
+          ],
+          [
+            366,
+            284
+          ],
+          [
+            365,
+            339
+          ],
+          [
+            133,
+            335
+          ]
+        ],
+        "transcription": "TO IMPROVE"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            68,
+            304
+          ],
+          [
+            92,
+            304
+          ],
+          [
+            92,
+            384
+          ],
+          [
+            68,
+            384
+          ]
+        ],
+        "transcription": "Tips &"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            197,
+            371
+          ],
+          [
+            383,
+            371
+          ],
+          [
+            383,
+            421
+          ],
+          [
+            197,
+            421
+          ]
+        ],
+        "transcription": "How To"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 7,
+        "points": [
+          [
+            201,
+            425
+          ],
+          [
+            432,
+            422
+          ],
+          [
+            432,
+            458
+          ],
+          [
+            202,
+            461
+          ]
+        ],
+        "transcription": "IMPROVE AIM"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 7,
+        "points": [
+          [
+            297,
+            465
+          ],
+          [
+            435,
+            465
+          ],
+          [
+            435,
+            529
+          ],
+          [
+            297,
+            529
+          ]
+        ],
+        "transcription": "FAST"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            245,
+            627
+          ],
+          [
+            383,
+            627
+          ],
+          [
+            383,
+            660
+          ],
+          [
+            245,
+            660
+          ]
+        ],
+        "transcription": "Gamers"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0071000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            18
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            57
+          ],
+          [
+            1053,
+            54
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            24,
+            20
+          ],
+          [
+            215,
+            20
+          ],
+          [
+            215,
+            52
+          ],
+          [
+            24,
+            52
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            556,
+            20
+          ],
+          [
+            697,
+            20
+          ],
+          [
+            697,
+            53
+          ],
+          [
+            556,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            108,
+            106
+          ],
+          [
+            1120,
+            106
+          ],
+          [
+            1120,
+            136
+          ],
+          [
+            108,
+            136
+          ]
+        ],
+        "transcription": "Different Perspectives between Gamers and Researchers"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            65,
+            231
+          ],
+          [
+            226,
+            199
+          ],
+          [
+            240,
+            269
+          ],
+          [
+            80,
+            302
+          ]
+        ],
+        "transcription": "10 TIPS"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            136,
+            282
+          ],
+          [
+            363,
+            285
+          ],
+          [
+            362,
+            335
+          ],
+          [
+            136,
+            332
+          ]
+        ],
+        "transcription": "TO IMPROVE"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            195,
+            365
+          ],
+          [
+            383,
+            365
+          ],
+          [
+            383,
+            421
+          ],
+          [
+            195,
+            421
+          ]
+        ],
+        "transcription": "How To"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            203,
+            424
+          ],
+          [
+            429,
+            424
+          ],
+          [
+            429,
+            459
+          ],
+          [
+            203,
+            459
+          ]
+        ],
+        "transcription": "IMPROVE AIM"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 6,
+        "points": [
+          [
+            299,
+            463
+          ],
+          [
+            435,
+            463
+          ],
+          [
+            435,
+            528
+          ],
+          [
+            299,
+            528
+          ]
+        ],
+        "transcription": "FAST"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            858,
+            625
+          ],
+          [
+            1072,
+            625
+          ],
+          [
+            1072,
+            660
+          ],
+          [
+            858,
+            660
+          ]
+        ],
+        "transcription": "Researchers"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            246,
+            626
+          ],
+          [
+            382,
+            629
+          ],
+          [
+            381,
+            661
+          ],
+          [
+            245,
+            658
+          ]
+        ],
+        "transcription": "Gamers"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0098000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            18
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            58
+          ],
+          [
+            1053,
+            55
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            556,
+            20
+          ],
+          [
+            697,
+            20
+          ],
+          [
+            697,
+            53
+          ],
+          [
+            556,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            24,
+            21
+          ],
+          [
+            216,
+            21
+          ],
+          [
+            216,
+            53
+          ],
+          [
+            24,
+            53
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            107,
+            105
+          ],
+          [
+            377,
+            105
+          ],
+          [
+            377,
+            136
+          ],
+          [
+            107,
+            136
+          ]
+        ],
+        "transcription": "Research Goals"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            271,
+            238
+          ],
+          [
+            415,
+            208
+          ],
+          [
+            429,
+            273
+          ],
+          [
+            285,
+            303
+          ]
+        ],
+        "transcription": "10 TIPS"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            332,
+            289
+          ],
+          [
+            537,
+            289
+          ],
+          [
+            537,
+            335
+          ],
+          [
+            332,
+            335
+          ]
+        ],
+        "transcription": "TO IMPROVE"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            368,
+            351
+          ],
+          [
+            535,
+            351
+          ],
+          [
+            535,
+            393
+          ],
+          [
+            368,
+            393
+          ]
+        ],
+        "transcription": "How To"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            376,
+            397
+          ],
+          [
+            580,
+            397
+          ],
+          [
+            580,
+            429
+          ],
+          [
+            376,
+            429
+          ]
+        ],
+        "transcription": "IMPROVE AIM"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 5,
+        "points": [
+          [
+            455,
+            434
+          ],
+          [
+            581,
+            434
+          ],
+          [
+            581,
+            494
+          ],
+          [
+            455,
+            494
+          ]
+        ],
+        "transcription": "FAST"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            715,
+            535
+          ],
+          [
+            924,
+            535
+          ],
+          [
+            924,
+            570
+          ],
+          [
+            715,
+            570
+          ]
+        ],
+        "transcription": "Researchers"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            407,
+            537
+          ],
+          [
+            543,
+            537
+          ],
+          [
+            543,
+            570
+          ],
+          [
+            407,
+            570
+          ]
+        ],
+        "transcription": "Gamers"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            165,
+            613
+          ],
+          [
+            952,
+            613
+          ],
+          [
+            952,
+            643
+          ],
+          [
+            165,
+            643
+          ]
+        ],
+        "transcription": "Verify the conjectures from the online communities"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            164,
+            656
+          ],
+          [
+            1123,
+            655
+          ],
+          [
+            1123,
+            687
+          ],
+          [
+            164,
+            688
+          ]
+        ],
+        "transcription": "Analyze what makes the differences in the player's combat skill"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0127000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            17
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            59
+          ],
+          [
+            1053,
+            54
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            556,
+            20
+          ],
+          [
+            699,
+            20
+          ],
+          [
+            699,
+            53
+          ],
+          [
+            556,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            24,
+            24
+          ],
+          [
+            216,
+            24
+          ],
+          [
+            216,
+            52
+          ],
+          [
+            24,
+            52
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            108,
+            107
+          ],
+          [
+            571,
+            107
+          ],
+          [
+            571,
+            139
+          ],
+          [
+            108,
+            139
+          ]
+        ],
+        "transcription": "Conjecture Categorization"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            273,
+            179
+          ],
+          [
+            369,
+            167
+          ],
+          [
+            375,
+            212
+          ],
+          [
+            279,
+            224
+          ]
+        ],
+        "transcription": "10 TIPS"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            605,
+            213
+          ],
+          [
+            1201,
+            216
+          ],
+          [
+            1201,
+            244
+          ],
+          [
+            605,
+            241
+          ]
+        ],
+        "transcription": "Selected conjectures from the official blogs"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            607,
+            251
+          ],
+          [
+            1165,
+            251
+          ],
+          [
+            1165,
+            278
+          ],
+          [
+            607,
+            278
+          ]
+        ],
+        "transcription": "of FPS software companies and YouTube"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            607,
+            287
+          ],
+          [
+            1196,
+            287
+          ],
+          [
+            1196,
+            314
+          ],
+          [
+            607,
+            314
+          ]
+        ],
+        "transcription": "videos with least 100,000 to over 2,000,000"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 5,
+        "points": [
+          [
+            605,
+            320
+          ],
+          [
+            684,
+            323
+          ],
+          [
+            683,
+            352
+          ],
+          [
+            604,
+            349
+          ]
+        ],
+        "transcription": "views"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            313,
+            213
+          ],
+          [
+            448,
+            213
+          ],
+          [
+            448,
+            244
+          ],
+          [
+            313,
+            244
+          ]
+        ],
+        "transcription": "TO IMPROVE"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            278,
+            287
+          ],
+          [
+            378,
+            287
+          ],
+          [
+            378,
+            310
+          ],
+          [
+            278,
+            310
+          ]
+        ],
+        "transcription": "How To"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 7,
+        "points": [
+          [
+            281,
+            310
+          ],
+          [
+            403,
+            310
+          ],
+          [
+            403,
+            334
+          ],
+          [
+            281,
+            334
+          ]
+        ],
+        "transcription": "IMPROVE AIM"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 7,
+        "points": [
+          [
+            335,
+            334
+          ],
+          [
+            404,
+            334
+          ],
+          [
+            404,
+            368
+          ],
+          [
+            335,
+            368
+          ]
+        ],
+        "transcription": "FAST"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            605,
+            394
+          ],
+          [
+            1147,
+            396
+          ],
+          [
+            1147,
+            424
+          ],
+          [
+            605,
+            422
+          ]
+        ],
+        "transcription": "Summarized the 13 conjectures into four"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            607,
+            434
+          ],
+          [
+            753,
+            434
+          ],
+          [
+            753,
+            462
+          ],
+          [
+            607,
+            462
+          ]
+        ],
+        "transcription": "categories:"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 8,
+        "points": [
+          [
+            607,
+            470
+          ],
+          [
+            1195,
+            470
+          ],
+          [
+            1195,
+            496
+          ],
+          [
+            607,
+            496
+          ]
+        ],
+        "transcription": "Aiming, character movement, physical skills."
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 8,
+        "points": [
+          [
+            606,
+            503
+          ],
+          [
+            863,
+            506
+          ],
+          [
+            862,
+            533
+          ],
+          [
+            605,
+            531
+          ]
+        ],
+        "transcription": "device and settings"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            159,
+            463
+          ],
+          [
+            249,
+            469
+          ],
+          [
+            247,
+            498
+          ],
+          [
+            157,
+            492
+          ]
+        ],
+        "transcription": "Aiming"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            160,
+            532
+          ],
+          [
+            421,
+            535
+          ],
+          [
+            421,
+            559
+          ],
+          [
+            160,
+            556
+          ]
+        ],
+        "transcription": "Character Movement"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            159,
+            597
+          ],
+          [
+            324,
+            597
+          ],
+          [
+            324,
+            623
+          ],
+          [
+            159,
+            623
+          ]
+        ],
+        "transcription": "Physical Skills"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            161,
+            659
+          ],
+          [
+            401,
+            663
+          ],
+          [
+            400,
+            691
+          ],
+          [
+            161,
+            687
+          ]
+        ],
+        "transcription": "Device and Settings"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0134000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1055,
+            20
+          ],
+          [
+            1243,
+            20
+          ],
+          [
+            1243,
+            56
+          ],
+          [
+            1055,
+            56
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            554,
+            21
+          ],
+          [
+            698,
+            18
+          ],
+          [
+            699,
+            51
+          ],
+          [
+            555,
+            54
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            24,
+            24
+          ],
+          [
+            216,
+            24
+          ],
+          [
+            216,
+            52
+          ],
+          [
+            24,
+            52
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            107,
+            105
+          ],
+          [
+            716,
+            105
+          ],
+          [
+            716,
+            135
+          ],
+          [
+            107,
+            135
+          ]
+        ],
+        "transcription": "Quantitative Performance Metrics"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            389,
+            169
+          ],
+          [
+            536,
+            169
+          ],
+          [
+            536,
+            197
+          ],
+          [
+            389,
+            197
+          ]
+        ],
+        "transcription": "Conjectures"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            900,
+            171
+          ],
+          [
+            989,
+            171
+          ],
+          [
+            989,
+            195
+          ],
+          [
+            900,
+            195
+          ]
+        ],
+        "transcription": "Metrics"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            193,
+            202
+          ],
+          [
+            259,
+            205
+          ],
+          [
+            258,
+            224
+          ],
+          [
+            192,
+            221
+          ]
+        ],
+        "transcription": "Aiming"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            245,
+            226
+          ],
+          [
+            775,
+            226
+          ],
+          [
+            775,
+            244
+          ],
+          [
+            245,
+            244
+          ]
+        ],
+        "transcription": "\"When track aiming, keep the crosshairs on the target at all times.\"[1, 20, 22]"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 7,
+        "points": [
+          [
+            247,
+            246
+          ],
+          [
+            645,
+            247
+          ],
+          [
+            644,
+            264
+          ],
+          [
+            247,
+            265
+          ]
+        ],
+        "transcription": "\"When flicking(snapping) aim, quickly and accurately hit"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 7,
+        "points": [
+          [
+            244,
+            269
+          ],
+          [
+            560,
+            269
+          ],
+          [
+            560,
+            286
+          ],
+          [
+            244,
+            286
+          ]
+        ],
+        "transcription": "a moving target before they can react.\" [1,22]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            812,
+            226
+          ],
+          [
+            1004,
+            225
+          ],
+          [
+            1004,
+            243
+          ],
+          [
+            812,
+            245
+          ]
+        ],
+        "transcription": "Enemy-crosshair stickiness"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            816,
+            258
+          ],
+          [
+            1025,
+            258
+          ],
+          [
+            1025,
+            275
+          ],
+          [
+            816,
+            275
+          ]
+        ],
+        "transcription": "Angular velocity of the mouse"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            813,
+            290
+          ],
+          [
+            1031,
+            290
+          ],
+          [
+            1031,
+            307
+          ],
+          [
+            813,
+            307
+          ]
+        ],
+        "transcription": "Amplitude of the recoil pattern"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 10,
+        "points": [
+          [
+            814,
+            306
+          ],
+          [
+            962,
+            310
+          ],
+          [
+            961,
+            330
+          ],
+          [
+            813,
+            325
+          ]
+        ],
+        "transcription": "Duration of shooting"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 10,
+        "points": [
+          [
+            815,
+            331
+          ],
+          [
+            967,
+            331
+          ],
+          [
+            967,
+            349
+          ],
+          [
+            815,
+            349
+          ]
+        ],
+        "transcription": "(tapping vs. spraying)"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 10,
+        "points": [
+          [
+            812,
+            357
+          ],
+          [
+            939,
+            360
+          ],
+          [
+            938,
+            383
+          ],
+          [
+            812,
+            380
+          ]
+        ],
+        "transcription": "Force inefficiency"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            247,
+            299
+          ],
+          [
+            715,
+            299
+          ],
+          [
+            715,
+            318
+          ],
+          [
+            247,
+            318
+          ]
+        ],
+        "transcription": "\"Move your mouse in the opposite direction of each weapon's spray"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 11,
+        "points": [
+          [
+            245,
+            322
+          ],
+          [
+            739,
+            322
+          ],
+          [
+            739,
+            339
+          ],
+          [
+            245,
+            339
+          ]
+        ],
+        "transcription": "or recoil pattern. This compensates for the kicks during shooting.\" [2, 5]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            245,
+            361
+          ],
+          [
+            673,
+            360
+          ],
+          [
+            673,
+            379
+          ],
+          [
+            245,
+            380
+          ]
+        ],
+        "transcription": "\"Most professional players have their own sensitivity. [22, 38]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 13,
+        "points": [
+          [
+            193,
+            392
+          ],
+          [
+            360,
+            393
+          ],
+          [
+            360,
+            412
+          ],
+          [
+            193,
+            410
+          ]
+        ],
+        "transcription": "Character Movement"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 14,
+        "points": [
+          [
+            240,
+            416
+          ],
+          [
+            551,
+            416
+          ],
+          [
+            551,
+            433
+          ],
+          [
+            240,
+            433
+          ]
+        ],
+        "transcription": "\"Be unpredictable. Make random moves.\" [5]"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 14,
+        "points": [
+          [
+            247,
+            437
+          ],
+          [
+            557,
+            437
+          ],
+          [
+            557,
+            454
+          ],
+          [
+            247,
+            454
+          ]
+        ],
+        "transcription": "\"Make your special movement combinations:"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 14,
+        "points": [
+          [
+            245,
+            457
+          ],
+          [
+            611,
+            457
+          ],
+          [
+            611,
+            475
+          ],
+          [
+            245,
+            475
+          ]
+        ],
+        "transcription": "Sidestep, Strafe shooting, Jumping, Crouching.\" [2, 5]"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 14,
+        "points": [
+          [
+            243,
+            476
+          ],
+          [
+            663,
+            478
+          ],
+          [
+            663,
+            496
+          ],
+          [
+            243,
+            495
+          ]
+        ],
+        "transcription": "\"Don't reload habitually. Know the right time to reload.\" [11]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 15,
+        "points": [
+          [
+            813,
+            416
+          ],
+          [
+            983,
+            416
+          ],
+          [
+            983,
+            433
+          ],
+          [
+            813,
+            433
+          ]
+        ],
+        "transcription": "Entropy of pressed keys"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 16,
+        "points": [
+          [
+            815,
+            446
+          ],
+          [
+            1081,
+            446
+          ],
+          [
+            1081,
+            465
+          ],
+          [
+            815,
+            465
+          ]
+        ],
+        "transcription": "Frequency of movement combinations"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 16,
+        "points": [
+          [
+            812,
+            475
+          ],
+          [
+            934,
+            479
+          ],
+          [
+            933,
+            498
+          ],
+          [
+            812,
+            493
+          ]
+        ],
+        "transcription": "Reload efficiency"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 17,
+        "points": [
+          [
+            196,
+            499
+          ],
+          [
+            309,
+            499
+          ],
+          [
+            309,
+            516
+          ],
+          [
+            196,
+            516
+          ]
+        ],
+        "transcription": "Physical Skills"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 18,
+        "points": [
+          [
+            243,
+            521
+          ],
+          [
+            568,
+            521
+          ],
+          [
+            568,
+            539
+          ],
+          [
+            243,
+            539
+          ]
+        ],
+        "transcription": "\"Most professional players use arm aiming.\" [4]"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 18,
+        "points": [
+          [
+            243,
+            543
+          ],
+          [
+            676,
+            543
+          ],
+          [
+            676,
+            560
+          ],
+          [
+            243,
+            560
+          ]
+        ],
+        "transcription": "\"Let loose of your arm and wrist, especially during aiming.\" [6]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 19,
+        "points": [
+          [
+            813,
+            521
+          ],
+          [
+            1045,
+            521
+          ],
+          [
+            1045,
+            539
+          ],
+          [
+            813,
+            539
+          ]
+        ],
+        "transcription": "Rotation ratio of elbow and wrist"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 19,
+        "points": [
+          [
+            813,
+            543
+          ],
+          [
+            920,
+            543
+          ],
+          [
+            920,
+            560
+          ],
+          [
+            813,
+            560
+          ]
+        ],
+        "transcription": "Muscle activity"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 19,
+        "points": [
+          [
+            813,
+            564
+          ],
+          [
+            955,
+            564
+          ],
+          [
+            955,
+            581
+          ],
+          [
+            813,
+            581
+          ]
+        ],
+        "transcription": "Duration of fixation"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 19,
+        "points": [
+          [
+            813,
+            584
+          ],
+          [
+            955,
+            584
+          ],
+          [
+            955,
+            602
+          ],
+          [
+            813,
+            602
+          ]
+        ],
+        "transcription": "Number of saccades"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 19,
+        "points": [
+          [
+            815,
+            608
+          ],
+          [
+            896,
+            608
+          ],
+          [
+            896,
+            622
+          ],
+          [
+            815,
+            622
+          ]
+        ],
+        "transcription": "Composure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 20,
+        "points": [
+          [
+            245,
+            572
+          ],
+          [
+            549,
+            573
+          ],
+          [
+            549,
+            592
+          ],
+          [
+            245,
+            590
+          ]
+        ],
+        "transcription": "\"Scan all surroundings continuously.\" [6, 35]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 21,
+        "points": [
+          [
+            245,
+            606
+          ],
+          [
+            508,
+            606
+          ],
+          [
+            508,
+            623
+          ],
+          [
+            245,
+            623
+          ]
+        ],
+        "transcription": "Stay calm and have a composure.[6]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 22,
+        "points": [
+          [
+            196,
+            627
+          ],
+          [
+            345,
+            627
+          ],
+          [
+            345,
+            645
+          ],
+          [
+            196,
+            645
+          ]
+        ],
+        "transcription": "Device and Settings"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 23,
+        "points": [
+          [
+            241,
+            649
+          ],
+          [
+            620,
+            649
+          ],
+          [
+            620,
+            666
+          ],
+          [
+            241,
+            666
+          ]
+        ],
+        "transcription": "\"Most professional players use low sensitivity.\" [20, 38]"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 23,
+        "points": [
+          [
+            247,
+            670
+          ],
+          [
+            804,
+            670
+          ],
+          [
+            804,
+            687
+          ],
+          [
+            247,
+            687
+          ]
+        ],
+        "transcription": "\"To minimize the stress of a player's wrist, place a keyboard perpendicular.\" [42]"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 24,
+        "points": [
+          [
+            812,
+            649
+          ],
+          [
+            1001,
+            649
+          ],
+          [
+            1001,
+            666
+          ],
+          [
+            812,
+            666
+          ]
+        ],
+        "transcription": "Used area of the mousepad"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 24,
+        "points": [
+          [
+            815,
+            669
+          ],
+          [
+            1002,
+            669
+          ],
+          [
+            1002,
+            689
+          ],
+          [
+            815,
+            689
+          ]
+        ],
+        "transcription": "Keyboard perpendicularity"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0154400.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            18
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            58
+          ],
+          [
+            1053,
+            55
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            556,
+            19
+          ],
+          [
+            699,
+            19
+          ],
+          [
+            699,
+            52
+          ],
+          [
+            556,
+            52
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            24,
+            24
+          ],
+          [
+            216,
+            24
+          ],
+          [
+            216,
+            52
+          ],
+          [
+            24,
+            52
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            107,
+            105
+          ],
+          [
+            716,
+            105
+          ],
+          [
+            716,
+            135
+          ],
+          [
+            107,
+            135
+          ]
+        ],
+        "transcription": "Quantitative Performance Metrics"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            327,
+            208
+          ],
+          [
+            504,
+            208
+          ],
+          [
+            504,
+            240
+          ],
+          [
+            327,
+            240
+          ]
+        ],
+        "transcription": "Conjectures"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            903,
+            222
+          ],
+          [
+            1017,
+            222
+          ],
+          [
+            1017,
+            254
+          ],
+          [
+            903,
+            254
+          ]
+        ],
+        "transcription": "Metrics"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            252,
+            304
+          ],
+          [
+            617,
+            307
+          ],
+          [
+            617,
+            335
+          ],
+          [
+            252,
+            332
+          ]
+        ],
+        "transcription": "\"When flicking(snapping) aim,"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            221,
+            343
+          ],
+          [
+            652,
+            344
+          ],
+          [
+            652,
+            372
+          ],
+          [
+            221,
+            371
+          ]
+        ],
+        "transcription": "quickly and accurately hit a moving"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 6,
+        "points": [
+          [
+            257,
+            379
+          ],
+          [
+            613,
+            379
+          ],
+          [
+            613,
+            405
+          ],
+          [
+            257,
+            405
+          ]
+        ],
+        "transcription": "target before they can react.\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            863,
+            326
+          ],
+          [
+            1057,
+            326
+          ],
+          [
+            1057,
+            353
+          ],
+          [
+            863,
+            353
+          ]
+        ],
+        "transcription": "Angular velocity"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 7,
+        "points": [
+          [
+            878,
+            360
+          ],
+          [
+            1043,
+            363
+          ],
+          [
+            1042,
+            389
+          ],
+          [
+            877,
+            386
+          ]
+        ],
+        "transcription": "of the mouse"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            267,
+            524
+          ],
+          [
+            589,
+            525
+          ],
+          [
+            589,
+            553
+          ],
+          [
+            267,
+            552
+          ]
+        ],
+        "transcription": "\"Most professional players"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            324,
+            562
+          ],
+          [
+            528,
+            562
+          ],
+          [
+            528,
+            590
+          ],
+          [
+            324,
+            590
+          ]
+        ],
+        "transcription": "use arm aiming.\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            859,
+            525
+          ],
+          [
+            1061,
+            525
+          ],
+          [
+            1061,
+            552
+          ],
+          [
+            859,
+            552
+          ]
+        ],
+        "transcription": "Rotation ratio of"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 9,
+        "points": [
+          [
+            863,
+            561
+          ],
+          [
+            1060,
+            561
+          ],
+          [
+            1060,
+            588
+          ],
+          [
+            863,
+            588
+          ]
+        ],
+        "transcription": "elbow and wrist"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0183000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            17
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            59
+          ],
+          [
+            1053,
+            54
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            556,
+            20
+          ],
+          [
+            699,
+            20
+          ],
+          [
+            699,
+            53
+          ],
+          [
+            556,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            23,
+            22
+          ],
+          [
+            217,
+            22
+          ],
+          [
+            217,
+            54
+          ],
+          [
+            23,
+            54
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            105,
+            105
+          ],
+          [
+            573,
+            106
+          ],
+          [
+            573,
+            143
+          ],
+          [
+            105,
+            142
+          ]
+        ],
+        "transcription": "Gameplay Logging System"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            559,
+            200
+          ],
+          [
+            1168,
+            204
+          ],
+          [
+            1168,
+            230
+          ],
+          [
+            559,
+            226
+          ]
+        ],
+        "transcription": "Six behavioral Sensors + in-game data logger"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            559,
+            274
+          ],
+          [
+            783,
+            274
+          ],
+          [
+            783,
+            300
+          ],
+          [
+            559,
+            300
+          ]
+        ],
+        "transcription": "Behavioral data"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            559,
+            310
+          ],
+          [
+            1189,
+            311
+          ],
+          [
+            1189,
+            339
+          ],
+          [
+            559,
+            337
+          ]
+        ],
+        "transcription": "- Eight motion capture cameras, an eye tracker"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            559,
+            345
+          ],
+          [
+            1179,
+            347
+          ],
+          [
+            1179,
+            375
+          ],
+          [
+            559,
+            373
+          ]
+        ],
+        "transcription": "EMG sensors, a pulse sensor, an analog Input"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 5,
+        "points": [
+          [
+            560,
+            384
+          ],
+          [
+            1040,
+            384
+          ],
+          [
+            1040,
+            410
+          ],
+          [
+            560,
+            410
+          ]
+        ],
+        "transcription": "keyboard, and a dual sensor mouse"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            556,
+            457
+          ],
+          [
+            745,
+            457
+          ],
+          [
+            745,
+            484
+          ],
+          [
+            556,
+            484
+          ]
+        ],
+        "transcription": "In-game data"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            557,
+            490
+          ],
+          [
+            1143,
+            492
+          ],
+          [
+            1143,
+            523
+          ],
+          [
+            557,
+            520
+          ]
+        ],
+        "transcription": "- Player data (position of the player, enemy"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 6,
+        "points": [
+          [
+            560,
+            531
+          ],
+          [
+            1164,
+            531
+          ],
+          [
+            1164,
+            557
+          ],
+          [
+            560,
+            557
+          ]
+        ],
+        "transcription": "player's skeletal position, player's health, etc)"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 6,
+        "points": [
+          [
+            559,
+            566
+          ],
+          [
+            1145,
+            566
+          ],
+          [
+            1145,
+            593
+          ],
+          [
+            559,
+            593
+          ]
+        ],
+        "transcription": "- Game events (player_death, weapon_fire,"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 6,
+        "points": [
+          [
+            559,
+            604
+          ],
+          [
+            1211,
+            604
+          ],
+          [
+            1211,
+            630
+          ],
+          [
+            559,
+            630
+          ]
+        ],
+        "transcription": "weapon_reload, player_jump, player_zoom, etc)"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0212000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1055,
+            18
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            58
+          ],
+          [
+            1054,
+            55
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            22,
+            20
+          ],
+          [
+            217,
+            23
+          ],
+          [
+            217,
+            54
+          ],
+          [
+            21,
+            51
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            556,
+            21
+          ],
+          [
+            699,
+            21
+          ],
+          [
+            699,
+            53
+          ],
+          [
+            556,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            107,
+            107
+          ],
+          [
+            433,
+            110
+          ],
+          [
+            433,
+            146
+          ],
+          [
+            107,
+            143
+          ]
+        ],
+        "transcription": "Data Collection"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            716,
+            123
+          ],
+          [
+            860,
+            123
+          ],
+          [
+            860,
+            151
+          ],
+          [
+            716,
+            151
+          ]
+        ],
+        "transcription": "Participant"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            716,
+            157
+          ],
+          [
+            1203,
+            160
+          ],
+          [
+            1203,
+            187
+          ],
+          [
+            716,
+            184
+          ]
+        ],
+        "transcription": "16 participants: 8 professional FPS players"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 4,
+        "points": [
+          [
+            720,
+            193
+          ],
+          [
+            961,
+            195
+          ],
+          [
+            961,
+            218
+          ],
+          [
+            720,
+            217
+          ]
+        ],
+        "transcription": "and 8 normal players"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            716,
+            259
+          ],
+          [
+            779,
+            259
+          ],
+          [
+            779,
+            289
+          ],
+          [
+            716,
+            289
+          ]
+        ],
+        "transcription": "Task"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            721,
+            299
+          ],
+          [
+            1181,
+            299
+          ],
+          [
+            1181,
+            322
+          ],
+          [
+            721,
+            322
+          ]
+        ],
+        "transcription": "Counter Strike: Global Offensive (CS: GO"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            719,
+            332
+          ],
+          [
+            1113,
+            334
+          ],
+          [
+            1113,
+            356
+          ],
+          [
+            719,
+            355
+          ]
+        ],
+        "transcription": "One-on-one match for 30 minutes"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 5,
+        "points": [
+          [
+            723,
+            368
+          ],
+          [
+            1205,
+            368
+          ],
+          [
+            1205,
+            390
+          ],
+          [
+            723,
+            390
+          ]
+        ],
+        "transcription": "(15 minutes for assault rifle such as AK-47"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 5,
+        "points": [
+          [
+            721,
+            402
+          ],
+          [
+            1179,
+            402
+          ],
+          [
+            1179,
+            425
+          ],
+          [
+            721,
+            425
+          ]
+        ],
+        "transcription": "15 minutes for sniper rifle such as AWP)"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 5,
+        "points": [
+          [
+            717,
+            435
+          ],
+          [
+            1181,
+            435
+          ],
+          [
+            1181,
+            458
+          ],
+          [
+            717,
+            458
+          ]
+        ],
+        "transcription": "Opponent was selected within the same"
+      },
+      {
+        "index_in_para": 6,
+        "index_para": 5,
+        "points": [
+          [
+            719,
+            470
+          ],
+          [
+            789,
+            470
+          ],
+          [
+            789,
+            498
+          ],
+          [
+            719,
+            498
+          ]
+        ],
+        "transcription": "group"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            717,
+            535
+          ],
+          [
+            857,
+            535
+          ],
+          [
+            857,
+            561
+          ],
+          [
+            717,
+            561
+          ]
+        ],
+        "transcription": "Instruction"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            717,
+            569
+          ],
+          [
+            1221,
+            570
+          ],
+          [
+            1221,
+            597
+          ],
+          [
+            717,
+            596
+          ]
+        ],
+        "transcription": "Kill the opponent as many times as possible"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0230000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            17
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            59
+          ],
+          [
+            1053,
+            54
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            555,
+            20
+          ],
+          [
+            699,
+            20
+          ],
+          [
+            699,
+            53
+          ],
+          [
+            555,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            24,
+            22
+          ],
+          [
+            213,
+            22
+          ],
+          [
+            213,
+            50
+          ],
+          [
+            24,
+            50
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            103,
+            103
+          ],
+          [
+            259,
+            103
+          ],
+          [
+            259,
+            146
+          ],
+          [
+            103,
+            146
+          ]
+        ],
+        "transcription": "Results"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            104,
+            187
+          ],
+          [
+            1047,
+            191
+          ],
+          [
+            1047,
+            221
+          ],
+          [
+            104,
+            217
+          ]
+        ],
+        "transcription": "Collected 7.3 GB of data and 75.9 GB of high-resolution gameplay"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            105,
+            238
+          ],
+          [
+            344,
+            238
+          ],
+          [
+            344,
+            270
+          ],
+          [
+            105,
+            270
+          ]
+        ],
+        "transcription": "video recordings"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            920,
+            265
+          ],
+          [
+            1223,
+            267
+          ],
+          [
+            1222,
+            295
+          ],
+          [
+            920,
+            292
+          ]
+        ],
+        "transcription": "Reaction time of shooting"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            967,
+            302
+          ],
+          [
+            1173,
+            302
+          ],
+          [
+            1173,
+            330
+          ],
+          [
+            967,
+            330
+          ]
+        ],
+        "transcription": "(using sniper rifle)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            109,
+            338
+          ],
+          [
+            397,
+            338
+          ],
+          [
+            397,
+            365
+          ],
+          [
+            109,
+            365
+          ]
+        ],
+        "transcription": "Descriptive statistics"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            123,
+            385
+          ],
+          [
+            669,
+            386
+          ],
+          [
+            669,
+            414
+          ],
+          [
+            122,
+            413
+          ]
+        ],
+        "transcription": "Number of effective shots per minute"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            128,
+            431
+          ],
+          [
+            748,
+            436
+          ],
+          [
+            748,
+            467
+          ],
+          [
+            128,
+            463
+          ]
+        ],
+        "transcription": ": Professional (5.29) > Amateur (4.75) (p<0.03)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            122,
+            482
+          ],
+          [
+            808,
+            486
+          ],
+          [
+            808,
+            516
+          ],
+          [
+            125,
+            513
+          ]
+        ],
+        "transcription": "Reaction time of shooting using sniper rifle (ms)"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 10,
+        "points": [
+          [
+            131,
+            531
+          ],
+          [
+            821,
+            533
+          ],
+          [
+            821,
+            565
+          ],
+          [
+            131,
+            562
+          ]
+        ],
+        "transcription": ": Professional (459.54) < Amateur (504.36) (p<0.02)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            955,
+            585
+          ],
+          [
+            1232,
+            584
+          ],
+          [
+            1232,
+            610
+          ],
+          [
+            955,
+            612
+          ]
+        ],
+        "transcription": "Amateur Professional"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            104,
+            630
+          ],
+          [
+            472,
+            629
+          ],
+          [
+            472,
+            660
+          ],
+          [
+            104,
+            662
+          ]
+        ],
+        "transcription": "6 conjectures are verified"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0268350.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1054,
+            18
+          ],
+          [
+            1243,
+            21
+          ],
+          [
+            1242,
+            58
+          ],
+          [
+            1053,
+            55
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            553,
+            19
+          ],
+          [
+            699,
+            19
+          ],
+          [
+            699,
+            56
+          ],
+          [
+            553,
+            56
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            22,
+            20
+          ],
+          [
+            216,
+            23
+          ],
+          [
+            216,
+            54
+          ],
+          [
+            21,
+            51
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            104,
+            107
+          ],
+          [
+            541,
+            111
+          ],
+          [
+            541,
+            148
+          ],
+          [
+            104,
+            144
+          ]
+        ],
+        "transcription": "Verified Conjectures"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            104,
+            214
+          ],
+          [
+            640,
+            216
+          ],
+          [
+            640,
+            248
+          ],
+          [
+            104,
+            246
+          ]
+        ],
+        "transcription": "\"Most professional players have their"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            104,
+            263
+          ],
+          [
+            327,
+            266
+          ],
+          [
+            326,
+            298
+          ],
+          [
+            104,
+            295
+          ]
+        ],
+        "transcription": "own sensitivity."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            104,
+            361
+          ],
+          [
+            615,
+            365
+          ],
+          [
+            614,
+            397
+          ],
+          [
+            104,
+            393
+          ]
+        ],
+        "transcription": "\"Most professional players use arm"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            108,
+            414
+          ],
+          [
+            571,
+            414
+          ],
+          [
+            571,
+            445
+          ],
+          [
+            108,
+            445
+          ]
+        ],
+        "transcription": "aiming rather than wrist aiming\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            104,
+            508
+          ],
+          [
+            607,
+            511
+          ],
+          [
+            607,
+            543
+          ],
+          [
+            104,
+            540
+          ]
+        ],
+        "transcription": "\"Most professional players use low"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            105,
+            560
+          ],
+          [
+            264,
+            560
+          ],
+          [
+            264,
+            592
+          ],
+          [
+            105,
+            592
+          ]
+        ],
+        "transcription": "sensitivity\""
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0305000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1055,
+            17
+          ],
+          [
+            1243,
+            20
+          ],
+          [
+            1242,
+            57
+          ],
+          [
+            1054,
+            54
+          ]
+        ],
+        "transcription": "User study"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            556,
+            20
+          ],
+          [
+            699,
+            20
+          ],
+          [
+            699,
+            53
+          ],
+          [
+            556,
+            53
+          ]
+        ],
+        "transcription": "Method"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            24,
+            21
+          ],
+          [
+            217,
+            21
+          ],
+          [
+            217,
+            53
+          ],
+          [
+            24,
+            53
+          ]
+        ],
+        "transcription": "Motivation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            104,
+            107
+          ],
+          [
+            1217,
+            107
+          ],
+          [
+            1217,
+            143
+          ],
+          [
+            104,
+            143
+          ]
+        ],
+        "transcription": "So, what is the origin of the Gosu's high performance?"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            99,
+            242
+          ],
+          [
+            1164,
+            245
+          ],
+          [
+            1164,
+            282
+          ],
+          [
+            94,
+            280
+          ]
+        ],
+        "transcription": "Some results are related to the mouse sensitivity or setting"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            111,
+            304
+          ],
+          [
+            655,
+            304
+          ],
+          [
+            655,
+            340
+          ],
+          [
+            111,
+            340
+          ]
+        ],
+        "transcription": "-> Influence of game interface"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            96,
+            426
+          ],
+          [
+            1023,
+            428
+          ],
+          [
+            1023,
+            463
+          ],
+          [
+            96,
+            462
+          ]
+        ],
+        "transcription": "Professional players showed shorter reaction times"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            110,
+            486
+          ],
+          [
+            799,
+            491
+          ],
+          [
+            798,
+            527
+          ],
+          [
+            109,
+            521
+          ]
+        ],
+        "transcription": "-> Influence of innate cognitive ability"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0311000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            103,
+            53
+          ],
+          [
+            465,
+            53
+          ],
+          [
+            465,
+            93
+          ],
+          [
+            103,
+            93
+          ]
+        ],
+        "transcription": "Take-away Notes"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            35,
+            146
+          ],
+          [
+            1112,
+            146
+          ],
+          [
+            1112,
+            187
+          ],
+          [
+            35,
+            187
+          ]
+        ],
+        "transcription": "1) We verified the conjectures what actual gamers want to"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            101,
+            209
+          ],
+          [
+            812,
+            212
+          ],
+          [
+            812,
+            244
+          ],
+          [
+            101,
+            241
+          ]
+        ],
+        "transcription": "know based on the quantitative metrics"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            26,
+            266
+          ],
+          [
+            1199,
+            266
+          ],
+          [
+            1199,
+            313
+          ],
+          [
+            26,
+            313
+          ]
+        ],
+        "transcription": "2) We presented the collected dataset and data-logging code to"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            103,
+            334
+          ],
+          [
+            636,
+            334
+          ],
+          [
+            636,
+            365
+          ],
+          [
+            103,
+            365
+          ]
+        ],
+        "transcription": "the public for future research."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            492,
+            456
+          ],
+          [
+            785,
+            459
+          ],
+          [
+            785,
+            510
+          ],
+          [
+            492,
+            507
+          ]
+        ],
+        "transcription": "Thank you!"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            255,
+            527
+          ],
+          [
+            1024,
+            527
+          ],
+          [
+            1024,
+            572
+          ],
+          [
+            255,
+            572
+          ]
+        ],
+        "transcription": "Any questions or comments?"
+      }
+    ]
+  }
+]

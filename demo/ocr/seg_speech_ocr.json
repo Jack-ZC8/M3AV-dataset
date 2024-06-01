@@ -1,0 +1,114 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0015450.jpg",
+    "ocr_text": "Secrets of Gosu: Understanding Physical Combat\nSkills of Professional Plavers in First-Person Shooters\nEunji Park 1 , Sangyoon Lee 1 , Auejin Ham 1,2\nMinyeop Choi 1 , Sunjun Kim 2 , Byungjoo Lee 3\nKAIST 1 , DGIST 2 , Yonsei University 3\nYONSEI UNIVERSITY\nDGIST\nKAIST",
+    "speech_text": "Hi, my name is Eunji from KAIST. Today I will talk about this topic, Secrets of Gosu, understanding physical combat skills of professional players in first-person shooters.",
+    "start": 0,
+    "end": 15.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0051500.jpg",
+    "ocr_text": "Why First Person Shooters?\nFast reaction,\nAccurate aiming, ...\nCombat skills\n\"Gosu\"\nHow the player performs better?",
+    "speech_text": "The first-person shooter, called FPS, requires very fast reaction time to check the opponent's position, and the user has to aim the opponent accurately using their mouse. Like this, the individual's combat skills has a very huge influence on the win or loss of the game. And as you know, professional players dominate the combat skills of normal players. We call them Gosu, not only professional players, but who has a much high performance. Then how and why the Gosu perform better than the other players?",
+    "start": 15.45,
+    "end": 51.5
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0070000.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\n\"Gamers want to know how to improve their skills.\"\n10 TIPS\nTO IMPROVE\nTips &\nHow To IMPROVE AIM FAST\nGamers",
+    "speech_text": "Many gamers have wanted to play well, and that is why the gamers have been actively discussed in the online communities or YouTube about some tips for high performance. Even though these tips are not scientifically proved, many gamers have believed and followed the",
+    "start": 51.5,
+    "end": 70.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0071000.jpg",
+    "ocr_text": "User study\nMotivation\nMethod\nDifferent Perspectives between Gamers and Researchers\n10 TIPS\nTO IMPROVE\nHow To IMPROVE AIM FAST\nResearchers\nGamers",
+    "speech_text": "tips.",
+    "start": 70.0,
+    "end": 71.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0098000.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nResearch Goals\n10 TIPS\nTO IMPROVE How To IMPROVE AIM FAST\nResearchers\nGamers\nVerify the conjectures from the online communities Analyze what makes the differences in the player's combat skill",
+    "speech_text": "In the research field, many previous studies have analyzed FPS and gamers from diverse perspectives. But many research questions were different from what actual gamers want to know. So in this study, as researchers and passionate gamers, we aimed to verify the conjectures from the online communities and analyze what makes the difference in the player's combat skill.",
+    "start": 71.0,
+    "end": 98.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0127000.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nConjecture Categorization\n10 TIPS\nSelected conjectures from the official blogs of FPS software companies and YouTube videos with least 100,000 to over 2,000,000 views\nTO IMPROVE\nHow To IMPROVE AIM FAST\nSummarized the 13 conjectures into four categories: Aiming, character movement, physical skills. device and settings\nAiming\nCharacter Movement\nPhysical Skills\nDevice and Settings",
+    "speech_text": "We conducted the research in the following order. First, we organized the tips to verify. We selected conjectures from sources such as the official blogs of companies developing FPS-related software and YouTube videos with at least 100,000 to over 2 million views. We organized them into four categories, aiming, character movement, physical skills, and device and",
+    "start": 98.0,
+    "end": 127.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0134000.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nQuantitative Performance Metrics\nConjectures\nMetrics\nAiming\n\"When track aiming, keep the crosshairs on the target at all times.\"[1, 20, 22] \"When flicking(snapping) aim, quickly and accurately hit a moving target before they can react.\" [1,22]\nEnemy-crosshair stickiness\nAngular velocity of the mouse\nAmplitude of the recoil pattern Duration of shooting (tapping vs. spraying) Force inefficiency\n\"Move your mouse in the opposite direction of each weapon's spray or recoil pattern. This compensates for the kicks during shooting.\" [2, 5]\n\"Most professional players have their own sensitivity. [22, 38]\nCharacter Movement\n\"Be unpredictable. Make random moves.\" [5] \"Make your special movement combinations: Sidestep, Strafe shooting, Jumping, Crouching.\" [2, 5] \"Don't reload habitually. Know the right time to reload.\" [11]\nEntropy of pressed keys\nFrequency of movement combinations Reload efficiency\nPhysical Skills\n\"Most professional players use arm aiming.\" [4] \"Let loose of your arm and wrist, especially during aiming.\" [6]\nRotation ratio of elbow and wrist Muscle activity Duration of fixation Number of saccades Composure\n\"Scan all surroundings continuously.\" [6, 35]\nStay calm and have a composure.[6]\nDevice and Settings\n\"Most professional players use low sensitivity.\" [20, 38] \"To minimize the stress of a player's wrist, place a keyboard perpendicular.\" [42]\nUsed area of the mousepad Keyboard perpendicularity",
+    "speech_text": "settings. Then we listed up the 15 performance metrics that can evaluate quantitatively for each tip. For example,",
+    "start": 127.0,
+    "end": 134.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0154400.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nQuantitative Performance Metrics\nConjectures\nMetrics\n\"When flicking(snapping) aim, quickly and accurately hit a moving target before they can react.\"\nAngular velocity of the mouse\n\"Most professional players use arm aiming.\"\nRotation ratio of elbow and wrist",
+    "speech_text": "we measured the angular velocity of mouse to find out how fast players snap their wrist when performing the flicking aim. And we measured the rotation ratio of elbow and wrist to verify the conjecture most professional players use arm aiming rather than wrist aiming.",
+    "start": 134.0,
+    "end": 154.4
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0183000.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nGameplay Logging System\nSix behavioral Sensors + in-game data logger\nBehavioral data - Eight motion capture cameras, an eye tracker EMG sensors, a pulse sensor, an analog Input keyboard, and a dual sensor mouse\nIn-game data - Player data (position of the player, enemy player's skeletal position, player's health, etc) - Game events (player_death, weapon_fire, weapon_reload, player_jump, player_zoom, etc)",
+    "speech_text": "In order to collect data to measure metrics, We developed a gameplay logging system with six types of behavior or sensors, and in game data logger system we used eight motion capture cameras. eye tracker, EMG sensors, pulse sensor, keyboard, and a dual sensor mouse. For the in-game data, we logged two kinds of data, player data such as enemy's skeletal position and game events data such as player death or",
+    "start": 154.4,
+    "end": 183.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0212000.jpg",
+    "ocr_text": "User study\nMotivation\nMethod\nData Collection\nParticipant 16 participants: 8 professional FPS players and 8 normal players\nTask Counter Strike: Global Offensive (CS: GO One-on-one match for 30 minutes (15 minutes for assault rifle such as AK-47 15 minutes for sniper rifle such as AWP) Opponent was selected within the same group\nInstruction Kill the opponent as many times as possible",
+    "speech_text": "weapon fire events. For the user study, we recruited the participants into two groups, eight professional Fps players and eight normal players who had sufficient. FPS experience. We selected the famous FPS game CSGO for the study and used a customized map for the one-on-one match which is smaller than normal maps. Each participant played a one-on-one match for 30",
+    "start": 183.0,
+    "end": 212.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0230000.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nResults\nCollected 7.3 GB of data and 75.9 GB of high-resolution gameplay\nvideo recordings\nReaction time of shooting (using sniper rifle)\nDescriptive statistics\nNumber of effective shots per minute\nReaction time of shooting using sniper rifle (ms) : Professional (459.54) < Amateur (504.36) (p<0.02)\nAmateur Professional\n6 conjectures are verified",
+    "speech_text": "minutes. As a result, we collected about 7 gigabytes of data and high-resolution gameplay video recordings. In the descriptive statistic analysis, professionals showed more effective shots per minute and shorter reaction time. Also, 6 of 13",
+    "start": 212.0,
+    "end": 230.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0268350.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nVerified Conjectures\n\"Most professional players have their own sensitivity.\n\"Most professional players use arm\naiming rather than wrist aiming\"\n\"Most professional players use low\nsensitivity\"",
+    "speech_text": "conjectures are verified. Among them, I picked some interesting points to introduce. Please refer to our paper for other detailed results and information. First, professional players were more familiar with their mouse sensitivity so that they showed less corrective movements just before the shooting. Also, professional players tended to use more elbows than the wrists during aiming, and the rotation ratio was higher than the amateurs. Lastly, professional players' sensitivity was low and they used a larger area of the mousepad.",
+    "start": 230.0,
+    "end": 268.35
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0305000.jpg",
+    "ocr_text": "User study\nMethod\nMotivation\nSo, what is the origin of the Gosu's high performance?\nSome results are related to the mouse sensitivity or setting\n-> Influence of game interface\nProfessional players showed shorter reaction times\n-> Influence of innate cognitive ability",
+    "speech_text": "Through these results, we revealed two interesting points about the origin of the high performance of professional players. First, we inferred that the influence of game interface could affect the combat strategies. This is because professional players' mouse sensitivity was lower, so they had to move the mouse larger to move the same distance as the other player who used the high sensitivity. Second, we deduced that the high performance of professional players may be due to their innate cognitive ability, because professional players showed lower reaction time in our study.",
+    "start": 268.35,
+    "end": 305.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-473DF-0311000.jpg",
+    "ocr_text": "Take-away Notes\n1) We verified the conjectures what actual gamers want to\nknow based on the quantitative metrics\n2) We presented the collected dataset and data-logging code to\nthe public for future research.\nThank you! Any questions or comments?",
+    "speech_text": "So, this is end of our presentations and",
+    "start": 305.0,
+    "end": 311.0
+  }
+]

@@ -1,0 +1,7304 @@
+[
+  {
+    "timestr": "0005730_0013690",
+    "final_spoken": "hi my name is eunji from kaist today i will talk about this topic secrets of gosu understanding physical combat skills of professional players",
+    "final_written": "Hi, my name is Eunji from KAIST. Today I will talk about this topic, Secrets of Gosu, understanding physical combat skills of professional players",
+    "words_spoken": [
+      {
+        "word": "hi",
+        "start": 5.73,
+        "end": 5.99
+      },
+      {
+        "word": "my",
+        "start": 5.99,
+        "end": 6.220000000000001
+      },
+      {
+        "word": "name",
+        "start": 6.220000000000001,
+        "end": 6.41
+      },
+      {
+        "word": "is",
+        "start": 6.41,
+        "end": 6.590000000000001
+      },
+      {
+        "word": "eunji",
+        "start": 6.590000000000001,
+        "end": 6.890000000000001
+      },
+      {
+        "word": "from",
+        "start": 6.890000000000001,
+        "end": 7.16
+      },
+      {
+        "word": "kaist",
+        "start": 7.16,
+        "end": 7.470000000000001
+      },
+      {
+        "word": "today",
+        "start": 7.74,
+        "end": 8.05
+      },
+      {
+        "word": "i",
+        "start": 8.05,
+        "end": 8.13
+      },
+      {
+        "word": "will",
+        "start": 8.13,
+        "end": 8.280000000000001
+      },
+      {
+        "word": "talk",
+        "start": 8.280000000000001,
+        "end": 8.49
+      },
+      {
+        "word": "about",
+        "start": 8.49,
+        "end": 8.76
+      },
+      {
+        "word": "this",
+        "start": 8.76,
+        "end": 8.88
+      },
+      {
+        "word": "topic",
+        "start": 8.88,
+        "end": 9.26
+      },
+      {
+        "word": "secrets",
+        "start": 9.26,
+        "end": 9.84
+      },
+      {
+        "word": "of",
+        "start": 9.84,
+        "end": 10.100000000000001
+      },
+      {
+        "word": "gosu",
+        "start": 10.100000000000001,
+        "end": 10.48
+      },
+      {
+        "word": "understanding",
+        "start": 10.64,
+        "end": 11.190000000000001
+      },
+      {
+        "word": "physical",
+        "start": 11.190000000000001,
+        "end": 11.55
+      },
+      {
+        "word": "combat",
+        "start": 11.55,
+        "end": 11.84
+      },
+      {
+        "word": "skills",
+        "start": 11.84,
+        "end": 12.31
+      },
+      {
+        "word": "of",
+        "start": 12.31,
+        "end": 12.440000000000001
+      },
+      {
+        "word": "professional",
+        "start": 12.440000000000001,
+        "end": 12.940000000000001
+      },
+      {
+        "word": "players",
+        "start": 12.940000000000001,
+        "end": 13.690000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Hi,",
+        "start": 5.73,
+        "end": 5.99
+      },
+      {
+        "word": "my",
+        "start": 5.99,
+        "end": 6.220000000000001
+      },
+      {
+        "word": "name",
+        "start": 6.220000000000001,
+        "end": 6.41
+      },
+      {
+        "word": "is",
+        "start": 6.41,
+        "end": 6.590000000000001
+      },
+      {
+        "word": "Eunji",
+        "start": 6.590000000000001,
+        "end": 6.890000000000001
+      },
+      {
+        "word": "from",
+        "start": 6.890000000000001,
+        "end": 7.16
+      },
+      {
+        "word": "KAIST.",
+        "start": 7.16,
+        "end": 7.470000000000001
+      },
+      {
+        "word": "Today",
+        "start": 7.74,
+        "end": 8.05
+      },
+      {
+        "word": "I",
+        "start": 8.05,
+        "end": 8.13
+      },
+      {
+        "word": "will",
+        "start": 8.13,
+        "end": 8.280000000000001
+      },
+      {
+        "word": "talk",
+        "start": 8.280000000000001,
+        "end": 8.49
+      },
+      {
+        "word": "about",
+        "start": 8.49,
+        "end": 8.76
+      },
+      {
+        "word": "this",
+        "start": 8.76,
+        "end": 8.88
+      },
+      {
+        "word": "topic,",
+        "start": 8.88,
+        "end": 9.26
+      },
+      {
+        "word": "Secrets",
+        "start": 9.26,
+        "end": 9.84
+      },
+      {
+        "word": "of",
+        "start": 9.84,
+        "end": 10.100000000000001
+      },
+      {
+        "word": "Gosu,",
+        "start": 10.100000000000001,
+        "end": 10.48
+      },
+      {
+        "word": "understanding",
+        "start": 10.64,
+        "end": 11.190000000000001
+      },
+      {
+        "word": "physical",
+        "start": 11.190000000000001,
+        "end": 11.55
+      },
+      {
+        "word": "combat",
+        "start": 11.55,
+        "end": 11.84
+      },
+      {
+        "word": "skills",
+        "start": 11.84,
+        "end": 12.31
+      },
+      {
+        "word": "of",
+        "start": 12.31,
+        "end": 12.440000000000001
+      },
+      {
+        "word": "professional",
+        "start": 12.440000000000001,
+        "end": 12.940000000000001
+      },
+      {
+        "word": "players",
+        "start": 12.940000000000001,
+        "end": 13.690000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0013690_0022970",
+    "final_spoken": "in first person shooters the first person shooter called fps requires very fast reaction time to check the opponent's position",
+    "final_written": "in first-person shooters. The first-person shooter, called FPS, requires very fast reaction time to check the opponent's position,",
+    "words_spoken": [
+      {
+        "word": "in",
+        "start": 13.84,
+        "end": 14.049999999999999
+      },
+      {
+        "word": "first",
+        "start": 14.049999999999999,
+        "end": 14.35
+      },
+      {
+        "word": "person",
+        "start": 14.35,
+        "end": 14.61
+      },
+      {
+        "word": "shooters",
+        "start": 14.61,
+        "end": 15.12
+      },
+      {
+        "word": "the",
+        "start": 16.74,
+        "end": 16.85
+      },
+      {
+        "word": "first",
+        "start": 16.85,
+        "end": 17.16
+      },
+      {
+        "word": "person",
+        "start": 17.16,
+        "end": 17.43
+      },
+      {
+        "word": "shooter",
+        "start": 17.43,
+        "end": 17.86
+      },
+      {
+        "word": "called",
+        "start": 18.02,
+        "end": 18.38
+      },
+      {
+        "word": "fps",
+        "start": 18.45,
+        "end": 19.13
+      },
+      {
+        "word": "requires",
+        "start": 19.48,
+        "end": 19.85
+      },
+      {
+        "word": "very",
+        "start": 19.85,
+        "end": 20.05
+      },
+      {
+        "word": "fast",
+        "start": 20.05,
+        "end": 20.369999999999997
+      },
+      {
+        "word": "reaction",
+        "start": 20.369999999999997,
+        "end": 20.71
+      },
+      {
+        "word": "time",
+        "start": 20.71,
+        "end": 21.119999999999997
+      },
+      {
+        "word": "to",
+        "start": 21.119999999999997,
+        "end": 21.25
+      },
+      {
+        "word": "check",
+        "start": 21.25,
+        "end": 21.47
+      },
+      {
+        "word": "the",
+        "start": 21.55,
+        "end": 21.66
+      },
+      {
+        "word": "opponent's",
+        "start": 21.66,
+        "end": 22.04
+      },
+      {
+        "word": "position",
+        "start": 22.04,
+        "end": 22.68
+      }
+    ],
+    "words_written": [
+      {
+        "word": "in",
+        "start": 13.84,
+        "end": 14.049999999999999
+      },
+      {
+        "word": "first-person",
+        "start": 14.049999999999999,
+        "end": 14.61
+      },
+      {
+        "word": "shooters.",
+        "start": 14.61,
+        "end": 15.12
+      },
+      {
+        "word": "The",
+        "start": 16.74,
+        "end": 16.85
+      },
+      {
+        "word": "first-person",
+        "start": 16.85,
+        "end": 17.43
+      },
+      {
+        "word": "shooter,",
+        "start": 17.43,
+        "end": 17.86
+      },
+      {
+        "word": "called",
+        "start": 18.02,
+        "end": 18.38
+      },
+      {
+        "word": "FPS,",
+        "start": 18.45,
+        "end": 19.13
+      },
+      {
+        "word": "requires",
+        "start": 19.48,
+        "end": 19.85
+      },
+      {
+        "word": "very",
+        "start": 19.85,
+        "end": 20.05
+      },
+      {
+        "word": "fast",
+        "start": 20.05,
+        "end": 20.369999999999997
+      },
+      {
+        "word": "reaction",
+        "start": 20.369999999999997,
+        "end": 20.71
+      },
+      {
+        "word": "time",
+        "start": 20.71,
+        "end": 21.119999999999997
+      },
+      {
+        "word": "to",
+        "start": 21.119999999999997,
+        "end": 21.25
+      },
+      {
+        "word": "check",
+        "start": 21.25,
+        "end": 21.47
+      },
+      {
+        "word": "the",
+        "start": 21.55,
+        "end": 21.66
+      },
+      {
+        "word": "opponent's",
+        "start": 21.66,
+        "end": 22.04
+      },
+      {
+        "word": "position,",
+        "start": 22.04,
+        "end": 22.68
+      }
+    ]
+  },
+  {
+    "timestr": "0022970_0027530",
+    "final_spoken": "and the user has to aim the opponent accurately using their mouse",
+    "final_written": "and the user has to aim the opponent accurately using their mouse.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 23.25,
+        "end": 23.419999999999998
+      },
+      {
+        "word": "the",
+        "start": 23.419999999999998,
+        "end": 23.47
+      },
+      {
+        "word": "user",
+        "start": 23.47,
+        "end": 23.91
+      },
+      {
+        "word": "has",
+        "start": 23.91,
+        "end": 24.16
+      },
+      {
+        "word": "to",
+        "start": 24.16,
+        "end": 24.48
+      },
+      {
+        "word": "aim",
+        "start": 24.48,
+        "end": 24.68
+      },
+      {
+        "word": "the",
+        "start": 24.68,
+        "end": 24.73
+      },
+      {
+        "word": "opponent",
+        "start": 24.73,
+        "end": 25.119999999999997
+      },
+      {
+        "word": "accurately",
+        "start": 25.119999999999997,
+        "end": 25.89
+      },
+      {
+        "word": "using",
+        "start": 25.89,
+        "end": 26.27
+      },
+      {
+        "word": "their",
+        "start": 26.27,
+        "end": 26.46
+      },
+      {
+        "word": "mouse",
+        "start": 26.46,
+        "end": 26.86
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 23.25,
+        "end": 23.419999999999998
+      },
+      {
+        "word": "the",
+        "start": 23.419999999999998,
+        "end": 23.47
+      },
+      {
+        "word": "user",
+        "start": 23.47,
+        "end": 23.91
+      },
+      {
+        "word": "has",
+        "start": 23.91,
+        "end": 24.16
+      },
+      {
+        "word": "to",
+        "start": 24.16,
+        "end": 24.48
+      },
+      {
+        "word": "aim",
+        "start": 24.48,
+        "end": 24.68
+      },
+      {
+        "word": "the",
+        "start": 24.68,
+        "end": 24.73
+      },
+      {
+        "word": "opponent",
+        "start": 24.73,
+        "end": 25.119999999999997
+      },
+      {
+        "word": "accurately",
+        "start": 25.119999999999997,
+        "end": 25.89
+      },
+      {
+        "word": "using",
+        "start": 25.89,
+        "end": 26.27
+      },
+      {
+        "word": "their",
+        "start": 26.27,
+        "end": 26.46
+      },
+      {
+        "word": "mouse.",
+        "start": 26.46,
+        "end": 26.86
+      }
+    ]
+  },
+  {
+    "timestr": "0027530_0034280",
+    "final_spoken": "like this the individual's combat skills has a very huge influence on the win or loss of the game",
+    "final_written": "Like this, the individual's combat skills has a very huge influence on the win or loss of the game.",
+    "words_spoken": [
+      {
+        "word": "like",
+        "start": 28.19,
+        "end": 28.42
+      },
+      {
+        "word": "this",
+        "start": 28.42,
+        "end": 28.8
+      },
+      {
+        "word": "the",
+        "start": 28.98,
+        "end": 29.060000000000002
+      },
+      {
+        "word": "individual's",
+        "start": 29.060000000000002,
+        "end": 29.64
+      },
+      {
+        "word": "combat",
+        "start": 29.64,
+        "end": 29.970000000000002
+      },
+      {
+        "word": "skills",
+        "start": 29.970000000000002,
+        "end": 30.44
+      },
+      {
+        "word": "has",
+        "start": 30.44,
+        "end": 30.67
+      },
+      {
+        "word": "a",
+        "start": 30.67,
+        "end": 30.720000000000002
+      },
+      {
+        "word": "very",
+        "start": 30.720000000000002,
+        "end": 30.96
+      },
+      {
+        "word": "huge",
+        "start": 30.96,
+        "end": 31.3
+      },
+      {
+        "word": "influence",
+        "start": 31.3,
+        "end": 32.0
+      },
+      {
+        "word": "on",
+        "start": 32.04,
+        "end": 32.2
+      },
+      {
+        "word": "the",
+        "start": 32.2,
+        "end": 32.260000000000005
+      },
+      {
+        "word": "win",
+        "start": 32.260000000000005,
+        "end": 32.65
+      },
+      {
+        "word": "or",
+        "start": 32.65,
+        "end": 32.99
+      },
+      {
+        "word": "loss",
+        "start": 32.99,
+        "end": 33.3
+      },
+      {
+        "word": "of",
+        "start": 33.3,
+        "end": 33.43
+      },
+      {
+        "word": "the",
+        "start": 33.43,
+        "end": 33.480000000000004
+      },
+      {
+        "word": "game",
+        "start": 33.480000000000004,
+        "end": 33.79
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Like",
+        "start": 28.19,
+        "end": 28.42
+      },
+      {
+        "word": "this,",
+        "start": 28.42,
+        "end": 28.8
+      },
+      {
+        "word": "the",
+        "start": 28.98,
+        "end": 29.060000000000002
+      },
+      {
+        "word": "individual's",
+        "start": 29.060000000000002,
+        "end": 29.64
+      },
+      {
+        "word": "combat",
+        "start": 29.64,
+        "end": 29.970000000000002
+      },
+      {
+        "word": "skills",
+        "start": 29.970000000000002,
+        "end": 30.44
+      },
+      {
+        "word": "has",
+        "start": 30.44,
+        "end": 30.67
+      },
+      {
+        "word": "a",
+        "start": 30.67,
+        "end": 30.720000000000002
+      },
+      {
+        "word": "very",
+        "start": 30.720000000000002,
+        "end": 30.96
+      },
+      {
+        "word": "huge",
+        "start": 30.96,
+        "end": 31.3
+      },
+      {
+        "word": "influence",
+        "start": 31.3,
+        "end": 32.0
+      },
+      {
+        "word": "on",
+        "start": 32.04,
+        "end": 32.2
+      },
+      {
+        "word": "the",
+        "start": 32.2,
+        "end": 32.260000000000005
+      },
+      {
+        "word": "win",
+        "start": 32.260000000000005,
+        "end": 32.65
+      },
+      {
+        "word": "or",
+        "start": 32.65,
+        "end": 32.99
+      },
+      {
+        "word": "loss",
+        "start": 32.99,
+        "end": 33.3
+      },
+      {
+        "word": "of",
+        "start": 33.3,
+        "end": 33.43
+      },
+      {
+        "word": "the",
+        "start": 33.43,
+        "end": 33.480000000000004
+      },
+      {
+        "word": "game.",
+        "start": 33.480000000000004,
+        "end": 33.79
+      }
+    ]
+  },
+  {
+    "timestr": "0034280_0041570",
+    "final_spoken": "and as you know professional players dominate the combat skills of normal players we call them gosu",
+    "final_written": "And as you know, professional players dominate the combat skills of normal players. We call them Gosu,",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 34.63,
+        "end": 34.85
+      },
+      {
+        "word": "as",
+        "start": 34.85,
+        "end": 35.2
+      },
+      {
+        "word": "you",
+        "start": 35.2,
+        "end": 35.31
+      },
+      {
+        "word": "know",
+        "start": 35.31,
+        "end": 35.69
+      },
+      {
+        "word": "professional",
+        "start": 35.72,
+        "end": 36.230000000000004
+      },
+      {
+        "word": "players",
+        "start": 36.230000000000004,
+        "end": 36.93
+      },
+      {
+        "word": "dominate",
+        "start": 36.97,
+        "end": 37.42
+      },
+      {
+        "word": "the",
+        "start": 37.42,
+        "end": 37.480000000000004
+      },
+      {
+        "word": "combat",
+        "start": 37.480000000000004,
+        "end": 37.800000000000004
+      },
+      {
+        "word": "skills",
+        "start": 37.800000000000004,
+        "end": 38.17
+      },
+      {
+        "word": "of",
+        "start": 38.17,
+        "end": 38.34
+      },
+      {
+        "word": "normal",
+        "start": 38.34,
+        "end": 38.56
+      },
+      {
+        "word": "players",
+        "start": 38.56,
+        "end": 39.2
+      },
+      {
+        "word": "we",
+        "start": 40.4,
+        "end": 40.49
+      },
+      {
+        "word": "call",
+        "start": 40.49,
+        "end": 40.79
+      },
+      {
+        "word": "them",
+        "start": 40.79,
+        "end": 40.95
+      },
+      {
+        "word": "gosu",
+        "start": 40.95,
+        "end": 41.39
+      }
+    ],
+    "words_written": [
+      {
+        "word": "And",
+        "start": 34.63,
+        "end": 34.85
+      },
+      {
+        "word": "as",
+        "start": 34.85,
+        "end": 35.2
+      },
+      {
+        "word": "you",
+        "start": 35.2,
+        "end": 35.31
+      },
+      {
+        "word": "know,",
+        "start": 35.31,
+        "end": 35.69
+      },
+      {
+        "word": "professional",
+        "start": 35.72,
+        "end": 36.230000000000004
+      },
+      {
+        "word": "players",
+        "start": 36.230000000000004,
+        "end": 36.93
+      },
+      {
+        "word": "dominate",
+        "start": 36.97,
+        "end": 37.42
+      },
+      {
+        "word": "the",
+        "start": 37.42,
+        "end": 37.480000000000004
+      },
+      {
+        "word": "combat",
+        "start": 37.480000000000004,
+        "end": 37.800000000000004
+      },
+      {
+        "word": "skills",
+        "start": 37.800000000000004,
+        "end": 38.17
+      },
+      {
+        "word": "of",
+        "start": 38.17,
+        "end": 38.34
+      },
+      {
+        "word": "normal",
+        "start": 38.34,
+        "end": 38.56
+      },
+      {
+        "word": "players.",
+        "start": 38.56,
+        "end": 39.2
+      },
+      {
+        "word": "We",
+        "start": 40.4,
+        "end": 40.49
+      },
+      {
+        "word": "call",
+        "start": 40.49,
+        "end": 40.79
+      },
+      {
+        "word": "them",
+        "start": 40.79,
+        "end": 40.95
+      },
+      {
+        "word": "Gosu,",
+        "start": 40.95,
+        "end": 41.39
+      }
+    ]
+  },
+  {
+    "timestr": "0041570_0047230",
+    "final_spoken": "not only professional players but who has a much high performance then",
+    "final_written": "not only professional players, but who has a much high performance. Then",
+    "words_spoken": [
+      {
+        "word": "not",
+        "start": 41.69,
+        "end": 41.87
+      },
+      {
+        "word": "only",
+        "start": 41.87,
+        "end": 42.21
+      },
+      {
+        "word": "professional",
+        "start": 42.21,
+        "end": 42.73
+      },
+      {
+        "word": "players",
+        "start": 42.73,
+        "end": 43.43
+      },
+      {
+        "word": "but",
+        "start": 43.47,
+        "end": 43.76
+      },
+      {
+        "word": "who",
+        "start": 43.76,
+        "end": 44.03
+      },
+      {
+        "word": "has",
+        "start": 44.03,
+        "end": 44.31
+      },
+      {
+        "word": "a",
+        "start": 44.31,
+        "end": 44.45
+      },
+      {
+        "word": "much",
+        "start": 44.45,
+        "end": 44.77
+      },
+      {
+        "word": "high",
+        "start": 44.77,
+        "end": 45.02
+      },
+      {
+        "word": "performance",
+        "start": 45.02,
+        "end": 45.7
+      },
+      {
+        "word": "then",
+        "start": 46.5,
+        "end": 46.85
+      }
+    ],
+    "words_written": [
+      {
+        "word": "not",
+        "start": 41.69,
+        "end": 41.87
+      },
+      {
+        "word": "only",
+        "start": 41.87,
+        "end": 42.21
+      },
+      {
+        "word": "professional",
+        "start": 42.21,
+        "end": 42.73
+      },
+      {
+        "word": "players,",
+        "start": 42.73,
+        "end": 43.43
+      },
+      {
+        "word": "but",
+        "start": 43.47,
+        "end": 43.76
+      },
+      {
+        "word": "who",
+        "start": 43.76,
+        "end": 44.03
+      },
+      {
+        "word": "has",
+        "start": 44.03,
+        "end": 44.31
+      },
+      {
+        "word": "a",
+        "start": 44.31,
+        "end": 44.45
+      },
+      {
+        "word": "much",
+        "start": 44.45,
+        "end": 44.77
+      },
+      {
+        "word": "high",
+        "start": 44.77,
+        "end": 45.02
+      },
+      {
+        "word": "performance.",
+        "start": 45.02,
+        "end": 45.7
+      },
+      {
+        "word": "Then",
+        "start": 46.5,
+        "end": 46.85
+      }
+    ]
+  },
+  {
+    "timestr": "0047230_0052590",
+    "final_spoken": "how and why the gosu perform better than the other players",
+    "final_written": "how and why the Gosu perform better than the other players?",
+    "words_spoken": [
+      {
+        "word": "how",
+        "start": 47.58,
+        "end": 48.059999999999995
+      },
+      {
+        "word": "and",
+        "start": 48.059999999999995,
+        "end": 48.36
+      },
+      {
+        "word": "why",
+        "start": 48.36,
+        "end": 48.629999999999995
+      },
+      {
+        "word": "the",
+        "start": 48.629999999999995,
+        "end": 48.739999999999995
+      },
+      {
+        "word": "gosu",
+        "start": 48.739999999999995,
+        "end": 49.08
+      },
+      {
+        "word": "perform",
+        "start": 49.08,
+        "end": 49.489999999999995
+      },
+      {
+        "word": "better",
+        "start": 49.489999999999995,
+        "end": 49.94
+      },
+      {
+        "word": "than",
+        "start": 50.059999999999995,
+        "end": 50.3
+      },
+      {
+        "word": "the",
+        "start": 50.3,
+        "end": 50.39
+      },
+      {
+        "word": "other",
+        "start": 50.39,
+        "end": 50.629999999999995
+      },
+      {
+        "word": "players",
+        "start": 50.629999999999995,
+        "end": 51.31999999999999
+      }
+    ],
+    "words_written": [
+      {
+        "word": "how",
+        "start": 47.58,
+        "end": 48.059999999999995
+      },
+      {
+        "word": "and",
+        "start": 48.059999999999995,
+        "end": 48.36
+      },
+      {
+        "word": "why",
+        "start": 48.36,
+        "end": 48.629999999999995
+      },
+      {
+        "word": "the",
+        "start": 48.629999999999995,
+        "end": 48.739999999999995
+      },
+      {
+        "word": "Gosu",
+        "start": 48.739999999999995,
+        "end": 49.08
+      },
+      {
+        "word": "perform",
+        "start": 49.08,
+        "end": 49.489999999999995
+      },
+      {
+        "word": "better",
+        "start": 49.489999999999995,
+        "end": 49.94
+      },
+      {
+        "word": "than",
+        "start": 50.059999999999995,
+        "end": 50.3
+      },
+      {
+        "word": "the",
+        "start": 50.3,
+        "end": 50.39
+      },
+      {
+        "word": "other",
+        "start": 50.39,
+        "end": 50.629999999999995
+      },
+      {
+        "word": "players?",
+        "start": 50.629999999999995,
+        "end": 51.31999999999999
+      }
+    ]
+  },
+  {
+    "timestr": "0052590_0060930",
+    "final_spoken": "many gamers have wanted to play well and that is why the gamers have been actively discussed in the online communities or",
+    "final_written": "Many gamers have wanted to play well, and that is why the gamers have been actively discussed in the online communities or",
+    "words_spoken": [
+      {
+        "word": "many",
+        "start": 53.81,
+        "end": 54.03
+      },
+      {
+        "word": "gamers",
+        "start": 54.03,
+        "end": 54.5
+      },
+      {
+        "word": "have",
+        "start": 54.5,
+        "end": 54.7
+      },
+      {
+        "word": "wanted",
+        "start": 54.7,
+        "end": 55.11000000000001
+      },
+      {
+        "word": "to",
+        "start": 55.11000000000001,
+        "end": 55.31
+      },
+      {
+        "word": "play",
+        "start": 55.31,
+        "end": 55.63
+      },
+      {
+        "word": "well",
+        "start": 55.63,
+        "end": 56.13
+      },
+      {
+        "word": "and",
+        "start": 56.190000000000005,
+        "end": 56.43000000000001
+      },
+      {
+        "word": "that",
+        "start": 56.43000000000001,
+        "end": 56.550000000000004
+      },
+      {
+        "word": "is",
+        "start": 56.550000000000004,
+        "end": 56.7
+      },
+      {
+        "word": "why",
+        "start": 56.7,
+        "end": 56.95
+      },
+      {
+        "word": "the",
+        "start": 56.95,
+        "end": 57.160000000000004
+      },
+      {
+        "word": "gamers",
+        "start": 57.160000000000004,
+        "end": 57.74
+      },
+      {
+        "word": "have",
+        "start": 57.74,
+        "end": 57.96
+      },
+      {
+        "word": "been",
+        "start": 57.96,
+        "end": 58.14
+      },
+      {
+        "word": "actively",
+        "start": 58.14,
+        "end": 58.77
+      },
+      {
+        "word": "discussed",
+        "start": 58.77,
+        "end": 59.27
+      },
+      {
+        "word": "in",
+        "start": 59.27,
+        "end": 59.39
+      },
+      {
+        "word": "the",
+        "start": 59.39,
+        "end": 59.45
+      },
+      {
+        "word": "online",
+        "start": 59.45,
+        "end": 59.7
+      },
+      {
+        "word": "communities",
+        "start": 59.7,
+        "end": 60.38
+      },
+      {
+        "word": "or",
+        "start": 60.42,
+        "end": 60.93000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Many",
+        "start": 53.81,
+        "end": 54.03
+      },
+      {
+        "word": "gamers",
+        "start": 54.03,
+        "end": 54.5
+      },
+      {
+        "word": "have",
+        "start": 54.5,
+        "end": 54.7
+      },
+      {
+        "word": "wanted",
+        "start": 54.7,
+        "end": 55.11000000000001
+      },
+      {
+        "word": "to",
+        "start": 55.11000000000001,
+        "end": 55.31
+      },
+      {
+        "word": "play",
+        "start": 55.31,
+        "end": 55.63
+      },
+      {
+        "word": "well,",
+        "start": 55.63,
+        "end": 56.13
+      },
+      {
+        "word": "and",
+        "start": 56.190000000000005,
+        "end": 56.43000000000001
+      },
+      {
+        "word": "that",
+        "start": 56.43000000000001,
+        "end": 56.550000000000004
+      },
+      {
+        "word": "is",
+        "start": 56.550000000000004,
+        "end": 56.7
+      },
+      {
+        "word": "why",
+        "start": 56.7,
+        "end": 56.95
+      },
+      {
+        "word": "the",
+        "start": 56.95,
+        "end": 57.160000000000004
+      },
+      {
+        "word": "gamers",
+        "start": 57.160000000000004,
+        "end": 57.74
+      },
+      {
+        "word": "have",
+        "start": 57.74,
+        "end": 57.96
+      },
+      {
+        "word": "been",
+        "start": 57.96,
+        "end": 58.14
+      },
+      {
+        "word": "actively",
+        "start": 58.14,
+        "end": 58.77
+      },
+      {
+        "word": "discussed",
+        "start": 58.77,
+        "end": 59.27
+      },
+      {
+        "word": "in",
+        "start": 59.27,
+        "end": 59.39
+      },
+      {
+        "word": "the",
+        "start": 59.39,
+        "end": 59.45
+      },
+      {
+        "word": "online",
+        "start": 59.45,
+        "end": 59.7
+      },
+      {
+        "word": "communities",
+        "start": 59.7,
+        "end": 60.38
+      },
+      {
+        "word": "or",
+        "start": 60.42,
+        "end": 60.93000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0060930_0067540",
+    "final_spoken": "youtube about some tips for high performance even though these tips are not scientifically proved",
+    "final_written": "YouTube about some tips for high performance. Even though these tips are not scientifically proved,",
+    "words_spoken": [
+      {
+        "word": "youtube",
+        "start": 61.05,
+        "end": 61.67
+      },
+      {
+        "word": "about",
+        "start": 61.72,
+        "end": 62.01
+      },
+      {
+        "word": "some",
+        "start": 62.01,
+        "end": 62.21
+      },
+      {
+        "word": "tips",
+        "start": 62.21,
+        "end": 62.72
+      },
+      {
+        "word": "for",
+        "start": 62.72,
+        "end": 62.94
+      },
+      {
+        "word": "high",
+        "start": 62.94,
+        "end": 63.21
+      },
+      {
+        "word": "performance",
+        "start": 63.21,
+        "end": 63.93
+      },
+      {
+        "word": "even",
+        "start": 64.65,
+        "end": 64.9
+      },
+      {
+        "word": "though",
+        "start": 64.9,
+        "end": 65.19
+      },
+      {
+        "word": "these",
+        "start": 65.19,
+        "end": 65.46
+      },
+      {
+        "word": "tips",
+        "start": 65.46,
+        "end": 65.79
+      },
+      {
+        "word": "are",
+        "start": 65.79,
+        "end": 65.97
+      },
+      {
+        "word": "not",
+        "start": 65.97,
+        "end": 66.21
+      },
+      {
+        "word": "scientifically",
+        "start": 66.21,
+        "end": 66.86
+      },
+      {
+        "word": "proved",
+        "start": 66.86,
+        "end": 67.41
+      }
+    ],
+    "words_written": [
+      {
+        "word": "YouTube",
+        "start": 61.05,
+        "end": 61.6
+      },
+      {
+        "word": "about",
+        "start": 61.72,
+        "end": 62.01
+      },
+      {
+        "word": "some",
+        "start": 62.01,
+        "end": 62.21
+      },
+      {
+        "word": "tips",
+        "start": 62.21,
+        "end": 62.72
+      },
+      {
+        "word": "for",
+        "start": 62.72,
+        "end": 62.94
+      },
+      {
+        "word": "high",
+        "start": 62.94,
+        "end": 63.21
+      },
+      {
+        "word": "performance.",
+        "start": 63.21,
+        "end": 63.93
+      },
+      {
+        "word": "Even",
+        "start": 64.65,
+        "end": 64.9
+      },
+      {
+        "word": "though",
+        "start": 64.9,
+        "end": 65.19
+      },
+      {
+        "word": "these",
+        "start": 65.19,
+        "end": 65.46
+      },
+      {
+        "word": "tips",
+        "start": 65.46,
+        "end": 65.79
+      },
+      {
+        "word": "are",
+        "start": 65.79,
+        "end": 65.97
+      },
+      {
+        "word": "not",
+        "start": 65.97,
+        "end": 66.21
+      },
+      {
+        "word": "scientifically",
+        "start": 66.21,
+        "end": 66.86
+      },
+      {
+        "word": "proved,",
+        "start": 66.86,
+        "end": 67.41
+      }
+    ]
+  },
+  {
+    "timestr": "0067540_0073240",
+    "final_spoken": "many gamers have believed and followed the tips in the research field",
+    "final_written": "many gamers have believed and followed the tips. In the research field,",
+    "words_spoken": [
+      {
+        "word": "many",
+        "start": 67.7,
+        "end": 67.89
+      },
+      {
+        "word": "gamers",
+        "start": 67.89,
+        "end": 68.53
+      },
+      {
+        "word": "have",
+        "start": 68.53,
+        "end": 68.76
+      },
+      {
+        "word": "believed",
+        "start": 68.76,
+        "end": 69.23
+      },
+      {
+        "word": "and",
+        "start": 69.27000000000001,
+        "end": 69.51
+      },
+      {
+        "word": "followed",
+        "start": 69.51,
+        "end": 69.88000000000001
+      },
+      {
+        "word": "the",
+        "start": 69.88000000000001,
+        "end": 69.95
+      },
+      {
+        "word": "tips",
+        "start": 69.95,
+        "end": 70.47000000000001
+      },
+      {
+        "word": "in",
+        "start": 72.02000000000001,
+        "end": 72.17
+      },
+      {
+        "word": "the",
+        "start": 72.17,
+        "end": 72.26
+      },
+      {
+        "word": "research",
+        "start": 72.26,
+        "end": 72.71000000000001
+      },
+      {
+        "word": "field",
+        "start": 72.71000000000001,
+        "end": 73.11000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "many",
+        "start": 67.7,
+        "end": 67.89
+      },
+      {
+        "word": "gamers",
+        "start": 67.89,
+        "end": 68.53
+      },
+      {
+        "word": "have",
+        "start": 68.53,
+        "end": 68.76
+      },
+      {
+        "word": "believed",
+        "start": 68.76,
+        "end": 69.23
+      },
+      {
+        "word": "and",
+        "start": 69.27000000000001,
+        "end": 69.51
+      },
+      {
+        "word": "followed",
+        "start": 69.51,
+        "end": 69.88000000000001
+      },
+      {
+        "word": "the",
+        "start": 69.88000000000001,
+        "end": 69.95
+      },
+      {
+        "word": "tips.",
+        "start": 69.95,
+        "end": 70.47000000000001
+      },
+      {
+        "word": "In",
+        "start": 72.02000000000001,
+        "end": 72.17
+      },
+      {
+        "word": "the",
+        "start": 72.17,
+        "end": 72.26
+      },
+      {
+        "word": "research",
+        "start": 72.26,
+        "end": 72.71000000000001
+      },
+      {
+        "word": "field,",
+        "start": 72.71000000000001,
+        "end": 73.11000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0073240_0079200",
+    "final_spoken": "many previous studies have analyzed fps and gamers from diverse perspectives",
+    "final_written": "many previous studies have analyzed FPS and gamers from diverse perspectives.",
+    "words_spoken": [
+      {
+        "word": "many",
+        "start": 73.38,
+        "end": 73.57
+      },
+      {
+        "word": "previous",
+        "start": 73.57,
+        "end": 74.07
+      },
+      {
+        "word": "studies",
+        "start": 74.07,
+        "end": 74.58999999999999
+      },
+      {
+        "word": "have",
+        "start": 74.58999999999999,
+        "end": 74.80999999999999
+      },
+      {
+        "word": "analyzed",
+        "start": 74.80999999999999,
+        "end": 75.38
+      },
+      {
+        "word": "fps",
+        "start": 75.38,
+        "end": 75.46
+      },
+      {
+        "word": "and",
+        "start": 75.46,
+        "end": 75.67
+      },
+      {
+        "word": "gamers",
+        "start": 75.67,
+        "end": 76.21
+      },
+      {
+        "word": "from",
+        "start": 76.36,
+        "end": 76.5
+      },
+      {
+        "word": "diverse",
+        "start": 76.5,
+        "end": 77.17999999999999
+      },
+      {
+        "word": "perspectives",
+        "start": 77.25,
+        "end": 79.19999999999999
+      }
+    ],
+    "words_written": [
+      {
+        "word": "many",
+        "start": 73.38,
+        "end": 73.57
+      },
+      {
+        "word": "previous",
+        "start": 73.57,
+        "end": 74.07
+      },
+      {
+        "word": "studies",
+        "start": 74.07,
+        "end": 74.58999999999999
+      },
+      {
+        "word": "have",
+        "start": 74.58999999999999,
+        "end": 74.80999999999999
+      },
+      {
+        "word": "analyzed",
+        "start": 74.80999999999999,
+        "end": 75.38
+      },
+      {
+        "word": "FPS",
+        "start": 75.38,
+        "end": 75.46
+      },
+      {
+        "word": "and",
+        "start": 75.46,
+        "end": 75.67
+      },
+      {
+        "word": "gamers",
+        "start": 75.67,
+        "end": 76.21
+      },
+      {
+        "word": "from",
+        "start": 76.36,
+        "end": 76.5
+      },
+      {
+        "word": "diverse",
+        "start": 76.5,
+        "end": 77.17999999999999
+      },
+      {
+        "word": "perspectives.",
+        "start": 77.25,
+        "end": 79.19999999999999
+      }
+    ]
+  },
+  {
+    "timestr": "0079200_0085220",
+    "final_spoken": "but many research questions were different from what actual gamers want to know",
+    "final_written": "But many research questions were different from what actual gamers want to know.",
+    "words_spoken": [
+      {
+        "word": "but",
+        "start": 79.52,
+        "end": 79.68
+      },
+      {
+        "word": "many",
+        "start": 79.68,
+        "end": 79.98
+      },
+      {
+        "word": "research",
+        "start": 79.98,
+        "end": 80.42
+      },
+      {
+        "word": "questions",
+        "start": 80.42,
+        "end": 81.04
+      },
+      {
+        "word": "were",
+        "start": 81.04,
+        "end": 81.23
+      },
+      {
+        "word": "different",
+        "start": 81.23,
+        "end": 81.65
+      },
+      {
+        "word": "from",
+        "start": 81.65,
+        "end": 82.09
+      },
+      {
+        "word": "what",
+        "start": 82.36,
+        "end": 82.66
+      },
+      {
+        "word": "actual",
+        "start": 82.66,
+        "end": 82.97
+      },
+      {
+        "word": "gamers",
+        "start": 82.97,
+        "end": 83.44
+      },
+      {
+        "word": "want",
+        "start": 83.44,
+        "end": 83.69
+      },
+      {
+        "word": "to",
+        "start": 83.69,
+        "end": 83.83
+      },
+      {
+        "word": "know",
+        "start": 83.83,
+        "end": 84.15
+      }
+    ],
+    "words_written": [
+      {
+        "word": "But",
+        "start": 79.52,
+        "end": 79.68
+      },
+      {
+        "word": "many",
+        "start": 79.68,
+        "end": 79.98
+      },
+      {
+        "word": "research",
+        "start": 79.98,
+        "end": 80.42
+      },
+      {
+        "word": "questions",
+        "start": 80.42,
+        "end": 81.04
+      },
+      {
+        "word": "were",
+        "start": 81.04,
+        "end": 81.23
+      },
+      {
+        "word": "different",
+        "start": 81.23,
+        "end": 81.65
+      },
+      {
+        "word": "from",
+        "start": 81.65,
+        "end": 82.09
+      },
+      {
+        "word": "what",
+        "start": 82.36,
+        "end": 82.66
+      },
+      {
+        "word": "actual",
+        "start": 82.66,
+        "end": 82.97
+      },
+      {
+        "word": "gamers",
+        "start": 82.97,
+        "end": 83.44
+      },
+      {
+        "word": "want",
+        "start": 83.44,
+        "end": 83.69
+      },
+      {
+        "word": "to",
+        "start": 83.69,
+        "end": 83.83
+      },
+      {
+        "word": "know.",
+        "start": 83.83,
+        "end": 84.15
+      }
+    ]
+  },
+  {
+    "timestr": "0085220_0093980",
+    "final_spoken": "so in this study as researchers and passionate gamers we aimed to verify the conjectures from the online communities",
+    "final_written": "So in this study, as researchers and passionate gamers, we aimed to verify the conjectures from the online communities",
+    "words_spoken": [
+      {
+        "word": "so",
+        "start": 86.22,
+        "end": 86.46
+      },
+      {
+        "word": "in",
+        "start": 86.46,
+        "end": 86.6
+      },
+      {
+        "word": "this",
+        "start": 86.6,
+        "end": 86.73
+      },
+      {
+        "word": "study",
+        "start": 86.73,
+        "end": 87.28
+      },
+      {
+        "word": "as",
+        "start": 87.38,
+        "end": 87.66
+      },
+      {
+        "word": "researchers",
+        "start": 87.66,
+        "end": 88.66
+      },
+      {
+        "word": "and",
+        "start": 88.73,
+        "end": 88.96
+      },
+      {
+        "word": "passionate",
+        "start": 88.96,
+        "end": 89.46
+      },
+      {
+        "word": "gamers",
+        "start": 89.46,
+        "end": 90.16
+      },
+      {
+        "word": "we",
+        "start": 90.19,
+        "end": 90.37
+      },
+      {
+        "word": "aimed",
+        "start": 90.4,
+        "end": 90.83
+      },
+      {
+        "word": "to",
+        "start": 90.83,
+        "end": 91.13
+      },
+      {
+        "word": "verify",
+        "start": 91.13,
+        "end": 91.59
+      },
+      {
+        "word": "the",
+        "start": 91.59,
+        "end": 91.69
+      },
+      {
+        "word": "conjectures",
+        "start": 91.69,
+        "end": 92.44
+      },
+      {
+        "word": "from",
+        "start": 92.44,
+        "end": 92.7
+      },
+      {
+        "word": "the",
+        "start": 92.7,
+        "end": 92.77
+      },
+      {
+        "word": "online",
+        "start": 92.77,
+        "end": 93.05
+      },
+      {
+        "word": "communities",
+        "start": 93.05,
+        "end": 93.75999999999999
+      }
+    ],
+    "words_written": [
+      {
+        "word": "So",
+        "start": 86.22,
+        "end": 86.46
+      },
+      {
+        "word": "in",
+        "start": 86.46,
+        "end": 86.6
+      },
+      {
+        "word": "this",
+        "start": 86.6,
+        "end": 86.73
+      },
+      {
+        "word": "study,",
+        "start": 86.73,
+        "end": 87.28
+      },
+      {
+        "word": "as",
+        "start": 87.38,
+        "end": 87.66
+      },
+      {
+        "word": "researchers",
+        "start": 87.66,
+        "end": 88.66
+      },
+      {
+        "word": "and",
+        "start": 88.73,
+        "end": 88.96
+      },
+      {
+        "word": "passionate",
+        "start": 88.96,
+        "end": 89.46
+      },
+      {
+        "word": "gamers,",
+        "start": 89.46,
+        "end": 90.16
+      },
+      {
+        "word": "we",
+        "start": 90.19,
+        "end": 90.37
+      },
+      {
+        "word": "aimed",
+        "start": 90.4,
+        "end": 90.83
+      },
+      {
+        "word": "to",
+        "start": 90.83,
+        "end": 91.13
+      },
+      {
+        "word": "verify",
+        "start": 91.13,
+        "end": 91.59
+      },
+      {
+        "word": "the",
+        "start": 91.59,
+        "end": 91.69
+      },
+      {
+        "word": "conjectures",
+        "start": 91.69,
+        "end": 92.44
+      },
+      {
+        "word": "from",
+        "start": 92.44,
+        "end": 92.7
+      },
+      {
+        "word": "the",
+        "start": 92.7,
+        "end": 92.77
+      },
+      {
+        "word": "online",
+        "start": 92.77,
+        "end": 93.05
+      },
+      {
+        "word": "communities",
+        "start": 93.05,
+        "end": 93.75999999999999
+      }
+    ]
+  },
+  {
+    "timestr": "0093980_0099800",
+    "final_spoken": "and analyze what makes the difference in the player's combat skill",
+    "final_written": "and analyze what makes the difference in the player's combat skill.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 94.18,
+        "end": 94.41000000000001
+      },
+      {
+        "word": "analyze",
+        "start": 94.41000000000001,
+        "end": 95.12
+      },
+      {
+        "word": "what",
+        "start": 95.12,
+        "end": 95.56
+      },
+      {
+        "word": "makes",
+        "start": 95.56,
+        "end": 95.84
+      },
+      {
+        "word": "the",
+        "start": 95.84,
+        "end": 95.92
+      },
+      {
+        "word": "difference",
+        "start": 95.92,
+        "end": 96.51
+      },
+      {
+        "word": "in",
+        "start": 96.51,
+        "end": 96.68
+      },
+      {
+        "word": "the",
+        "start": 96.68,
+        "end": 96.75
+      },
+      {
+        "word": "player's",
+        "start": 96.75,
+        "end": 97.22
+      },
+      {
+        "word": "combat",
+        "start": 97.22,
+        "end": 97.56
+      },
+      {
+        "word": "skill",
+        "start": 97.56,
+        "end": 97.88000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 94.18,
+        "end": 94.41000000000001
+      },
+      {
+        "word": "analyze",
+        "start": 94.41000000000001,
+        "end": 95.12
+      },
+      {
+        "word": "what",
+        "start": 95.12,
+        "end": 95.56
+      },
+      {
+        "word": "makes",
+        "start": 95.56,
+        "end": 95.84
+      },
+      {
+        "word": "the",
+        "start": 95.84,
+        "end": 95.92
+      },
+      {
+        "word": "difference",
+        "start": 95.92,
+        "end": 96.51
+      },
+      {
+        "word": "in",
+        "start": 96.51,
+        "end": 96.68
+      },
+      {
+        "word": "the",
+        "start": 96.68,
+        "end": 96.75
+      },
+      {
+        "word": "player's",
+        "start": 96.75,
+        "end": 97.22
+      },
+      {
+        "word": "combat",
+        "start": 97.22,
+        "end": 97.56
+      },
+      {
+        "word": "skill.",
+        "start": 97.56,
+        "end": 97.88000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0099800_0106960",
+    "final_spoken": "we conducted the research in the following order first we organized the tips to verify",
+    "final_written": "We conducted the research in the following order. First, we organized the tips to verify.",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 101.67,
+        "end": 101.77
+      },
+      {
+        "word": "conducted",
+        "start": 101.77,
+        "end": 102.3
+      },
+      {
+        "word": "the",
+        "start": 102.3,
+        "end": 102.38
+      },
+      {
+        "word": "research",
+        "start": 102.38,
+        "end": 102.86
+      },
+      {
+        "word": "in",
+        "start": 102.86,
+        "end": 102.97
+      },
+      {
+        "word": "the",
+        "start": 102.97,
+        "end": 103.03
+      },
+      {
+        "word": "following",
+        "start": 103.03,
+        "end": 103.44
+      },
+      {
+        "word": "order",
+        "start": 103.44,
+        "end": 103.7
+      },
+      {
+        "word": "first",
+        "start": 104.38,
+        "end": 104.8
+      },
+      {
+        "word": "we",
+        "start": 104.84,
+        "end": 105.0
+      },
+      {
+        "word": "organized",
+        "start": 105.0,
+        "end": 105.50999999999999
+      },
+      {
+        "word": "the",
+        "start": 105.50999999999999,
+        "end": 105.58
+      },
+      {
+        "word": "tips",
+        "start": 105.58,
+        "end": 105.97
+      },
+      {
+        "word": "to",
+        "start": 105.97,
+        "end": 106.1
+      },
+      {
+        "word": "verify",
+        "start": 106.1,
+        "end": 106.62
+      }
+    ],
+    "words_written": [
+      {
+        "word": "We",
+        "start": 101.67,
+        "end": 101.77
+      },
+      {
+        "word": "conducted",
+        "start": 101.77,
+        "end": 102.3
+      },
+      {
+        "word": "the",
+        "start": 102.3,
+        "end": 102.38
+      },
+      {
+        "word": "research",
+        "start": 102.38,
+        "end": 102.86
+      },
+      {
+        "word": "in",
+        "start": 102.86,
+        "end": 102.97
+      },
+      {
+        "word": "the",
+        "start": 102.97,
+        "end": 103.03
+      },
+      {
+        "word": "following",
+        "start": 103.03,
+        "end": 103.44
+      },
+      {
+        "word": "order.",
+        "start": 103.44,
+        "end": 103.69
+      },
+      {
+        "word": "First,",
+        "start": 104.38,
+        "end": 104.8
+      },
+      {
+        "word": "we",
+        "start": 104.84,
+        "end": 105.0
+      },
+      {
+        "word": "organized",
+        "start": 105.0,
+        "end": 105.50999999999999
+      },
+      {
+        "word": "the",
+        "start": 105.50999999999999,
+        "end": 105.58
+      },
+      {
+        "word": "tips",
+        "start": 105.58,
+        "end": 105.97
+      },
+      {
+        "word": "to",
+        "start": 105.97,
+        "end": 106.1
+      },
+      {
+        "word": "verify.",
+        "start": 106.1,
+        "end": 106.62
+      }
+    ]
+  },
+  {
+    "timestr": "0106960_0116520",
+    "final_spoken": "we selected conjectures from sources such as the official blogs of companies developing fps related software and youtube videos with at",
+    "final_written": "We selected conjectures from sources such as the official blogs of companies developing FPS-related software and YouTube videos with at",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 107.28999999999999,
+        "end": 107.41
+      },
+      {
+        "word": "selected",
+        "start": 107.41,
+        "end": 107.96
+      },
+      {
+        "word": "conjectures",
+        "start": 107.96,
+        "end": 108.67999999999999
+      },
+      {
+        "word": "from",
+        "start": 108.67999999999999,
+        "end": 108.94999999999999
+      },
+      {
+        "word": "sources",
+        "start": 108.94999999999999,
+        "end": 109.69
+      },
+      {
+        "word": "such",
+        "start": 109.86999999999999,
+        "end": 110.19
+      },
+      {
+        "word": "as",
+        "start": 110.19,
+        "end": 110.57
+      },
+      {
+        "word": "the",
+        "start": 110.57,
+        "end": 110.74
+      },
+      {
+        "word": "official",
+        "start": 110.77,
+        "end": 111.22
+      },
+      {
+        "word": "blogs",
+        "start": 111.22,
+        "end": 111.74
+      },
+      {
+        "word": "of",
+        "start": 111.74,
+        "end": 112.03999999999999
+      },
+      {
+        "word": "companies",
+        "start": 112.03999999999999,
+        "end": 112.61
+      },
+      {
+        "word": "developing",
+        "start": 112.61,
+        "end": 113.08
+      },
+      {
+        "word": "fps",
+        "start": 113.08,
+        "end": 113.53999999999999
+      },
+      {
+        "word": "related",
+        "start": 113.53999999999999,
+        "end": 113.92999999999999
+      },
+      {
+        "word": "software",
+        "start": 113.92999999999999,
+        "end": 114.53
+      },
+      {
+        "word": "and",
+        "start": 114.94,
+        "end": 115.22
+      },
+      {
+        "word": "youtube",
+        "start": 115.22,
+        "end": 115.57
+      },
+      {
+        "word": "videos",
+        "start": 115.57,
+        "end": 116.19
+      },
+      {
+        "word": "with",
+        "start": 116.19,
+        "end": 116.36999999999999
+      },
+      {
+        "word": "at",
+        "start": 116.36999999999999,
+        "end": 116.52
+      }
+    ],
+    "words_written": [
+      {
+        "word": "We",
+        "start": 107.28999999999999,
+        "end": 107.41
+      },
+      {
+        "word": "selected",
+        "start": 107.41,
+        "end": 107.96
+      },
+      {
+        "word": "conjectures",
+        "start": 107.96,
+        "end": 108.67999999999999
+      },
+      {
+        "word": "from",
+        "start": 108.67999999999999,
+        "end": 108.94999999999999
+      },
+      {
+        "word": "sources",
+        "start": 108.94999999999999,
+        "end": 109.69
+      },
+      {
+        "word": "such",
+        "start": 109.86999999999999,
+        "end": 110.19
+      },
+      {
+        "word": "as",
+        "start": 110.19,
+        "end": 110.57
+      },
+      {
+        "word": "the",
+        "start": 110.57,
+        "end": 110.74
+      },
+      {
+        "word": "official",
+        "start": 110.77,
+        "end": 111.22
+      },
+      {
+        "word": "blogs",
+        "start": 111.22,
+        "end": 111.74
+      },
+      {
+        "word": "of",
+        "start": 111.74,
+        "end": 112.03999999999999
+      },
+      {
+        "word": "companies",
+        "start": 112.03999999999999,
+        "end": 112.61
+      },
+      {
+        "word": "developing",
+        "start": 112.61,
+        "end": 113.08
+      },
+      {
+        "word": "FPS-related",
+        "start": 113.08,
+        "end": 113.92999999999999
+      },
+      {
+        "word": "software",
+        "start": 113.92999999999999,
+        "end": 114.53
+      },
+      {
+        "word": "and",
+        "start": 114.94,
+        "end": 115.22
+      },
+      {
+        "word": "YouTube",
+        "start": 115.22,
+        "end": 115.57
+      },
+      {
+        "word": "videos",
+        "start": 115.57,
+        "end": 116.19
+      },
+      {
+        "word": "with",
+        "start": 116.19,
+        "end": 116.36999999999999
+      },
+      {
+        "word": "at",
+        "start": 116.36999999999999,
+        "end": 116.52
+      }
+    ]
+  },
+  {
+    "timestr": "0116520_0124680",
+    "final_spoken": "least one hundred thousand to over two million views we organized them into four categories aiming character movement",
+    "final_written": "least 100,000 to over 2 million views. We organized them into four categories, aiming, character movement,",
+    "words_spoken": [
+      {
+        "word": "least",
+        "start": 116.64,
+        "end": 116.89999999999999
+      },
+      {
+        "word": "one",
+        "start": 116.89999999999999,
+        "end": 116.99
+      },
+      {
+        "word": "hundred",
+        "start": 116.99,
+        "end": 117.45
+      },
+      {
+        "word": "thousand",
+        "start": 117.45,
+        "end": 117.97999999999999
+      },
+      {
+        "word": "to",
+        "start": 117.97999999999999,
+        "end": 118.14
+      },
+      {
+        "word": "over",
+        "start": 118.14,
+        "end": 118.47
+      },
+      {
+        "word": "two",
+        "start": 118.47,
+        "end": 118.78999999999999
+      },
+      {
+        "word": "million",
+        "start": 118.78999999999999,
+        "end": 119.13
+      },
+      {
+        "word": "views",
+        "start": 119.13,
+        "end": 119.66
+      },
+      {
+        "word": "we",
+        "start": 120.32,
+        "end": 120.49
+      },
+      {
+        "word": "organized",
+        "start": 120.49,
+        "end": 120.97999999999999
+      },
+      {
+        "word": "them",
+        "start": 120.97999999999999,
+        "end": 121.22
+      },
+      {
+        "word": "into",
+        "start": 121.22,
+        "end": 121.38
+      },
+      {
+        "word": "four",
+        "start": 121.38,
+        "end": 121.67
+      },
+      {
+        "word": "categories",
+        "start": 121.67,
+        "end": 122.42
+      },
+      {
+        "word": "aiming",
+        "start": 122.69,
+        "end": 123.24
+      },
+      {
+        "word": "character",
+        "start": 123.5,
+        "end": 123.88
+      },
+      {
+        "word": "movement",
+        "start": 123.88,
+        "end": 124.67999999999999
+      }
+    ],
+    "words_written": [
+      {
+        "word": "least",
+        "start": 116.64,
+        "end": 116.88
+      },
+      {
+        "word": "100,000",
+        "start": 116.88,
+        "end": 117.97
+      },
+      {
+        "word": "to",
+        "start": 117.97,
+        "end": 118.14
+      },
+      {
+        "word": "over",
+        "start": 118.14,
+        "end": 118.47
+      },
+      {
+        "word": "2",
+        "start": 118.47,
+        "end": 118.82
+      },
+      {
+        "word": "million",
+        "start": 118.82,
+        "end": 119.13
+      },
+      {
+        "word": "views.",
+        "start": 119.13,
+        "end": 119.66
+      },
+      {
+        "word": "We",
+        "start": 120.32,
+        "end": 120.49
+      },
+      {
+        "word": "organized",
+        "start": 120.49,
+        "end": 120.97999999999999
+      },
+      {
+        "word": "them",
+        "start": 120.97999999999999,
+        "end": 121.22
+      },
+      {
+        "word": "into",
+        "start": 121.22,
+        "end": 121.38
+      },
+      {
+        "word": "four",
+        "start": 121.38,
+        "end": 121.67
+      },
+      {
+        "word": "categories,",
+        "start": 121.67,
+        "end": 122.42
+      },
+      {
+        "word": "aiming,",
+        "start": 122.69,
+        "end": 123.24
+      },
+      {
+        "word": "character",
+        "start": 123.5,
+        "end": 123.88
+      },
+      {
+        "word": "movement,",
+        "start": 123.88,
+        "end": 124.67999999999999
+      }
+    ]
+  },
+  {
+    "timestr": "0124680_0128360",
+    "final_spoken": "physical skills and device and settings",
+    "final_written": "physical skills, and device and settings.",
+    "words_spoken": [
+      {
+        "word": "physical",
+        "start": 124.81,
+        "end": 125.2
+      },
+      {
+        "word": "skills",
+        "start": 125.2,
+        "end": 125.75
+      },
+      {
+        "word": "and",
+        "start": 126.04,
+        "end": 126.28
+      },
+      {
+        "word": "device",
+        "start": 126.28,
+        "end": 126.7
+      },
+      {
+        "word": "and",
+        "start": 126.7,
+        "end": 126.85000000000001
+      },
+      {
+        "word": "settings",
+        "start": 126.85000000000001,
+        "end": 127.48
+      }
+    ],
+    "words_written": [
+      {
+        "word": "physical",
+        "start": 124.81,
+        "end": 125.2
+      },
+      {
+        "word": "skills,",
+        "start": 125.2,
+        "end": 125.75
+      },
+      {
+        "word": "and",
+        "start": 126.04,
+        "end": 126.28
+      },
+      {
+        "word": "device",
+        "start": 126.28,
+        "end": 126.7
+      },
+      {
+        "word": "and",
+        "start": 126.7,
+        "end": 126.85000000000001
+      },
+      {
+        "word": "settings.",
+        "start": 126.85000000000001,
+        "end": 127.48
+      }
+    ]
+  },
+  {
+    "timestr": "0128360_0136815",
+    "final_spoken": "then we listed up the fifteen performance metrics that can evaluate quantitatively for each tip for example",
+    "final_written": "Then we listed up the 15 performance metrics that can evaluate quantitatively for each tip. For example,",
+    "words_spoken": [
+      {
+        "word": "then",
+        "start": 129.22000000000003,
+        "end": 129.45000000000002
+      },
+      {
+        "word": "we",
+        "start": 129.45000000000002,
+        "end": 129.55
+      },
+      {
+        "word": "listed",
+        "start": 129.55,
+        "end": 130.02
+      },
+      {
+        "word": "up",
+        "start": 130.02,
+        "end": 130.27
+      },
+      {
+        "word": "the",
+        "start": 130.27,
+        "end": 130.34
+      },
+      {
+        "word": "fifteen",
+        "start": 130.34,
+        "end": 130.76000000000002
+      },
+      {
+        "word": "performance",
+        "start": 130.76000000000002,
+        "end": 131.23000000000002
+      },
+      {
+        "word": "metrics",
+        "start": 131.23000000000002,
+        "end": 131.72000000000003
+      },
+      {
+        "word": "that",
+        "start": 131.72000000000003,
+        "end": 131.94000000000003
+      },
+      {
+        "word": "can",
+        "start": 131.94000000000003,
+        "end": 132.13000000000002
+      },
+      {
+        "word": "evaluate",
+        "start": 132.16000000000003,
+        "end": 132.85000000000002
+      },
+      {
+        "word": "quantitatively",
+        "start": 132.85000000000002,
+        "end": 132.88000000000002
+      },
+      {
+        "word": "for",
+        "start": 132.88000000000002,
+        "end": 132.94000000000003
+      },
+      {
+        "word": "each",
+        "start": 132.94000000000003,
+        "end": 133.08
+      },
+      {
+        "word": "tip",
+        "start": 133.08,
+        "end": 133.31
+      },
+      {
+        "word": "for",
+        "start": 133.31,
+        "end": 133.63000000000002
+      },
+      {
+        "word": "example",
+        "start": 133.63000000000002,
+        "end": 134.13000000000002
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Then",
+        "start": 129.22000000000003,
+        "end": 129.45000000000002
+      },
+      {
+        "word": "we",
+        "start": 129.45000000000002,
+        "end": 129.55
+      },
+      {
+        "word": "listed",
+        "start": 129.55,
+        "end": 130.02
+      },
+      {
+        "word": "up",
+        "start": 130.02,
+        "end": 130.27
+      },
+      {
+        "word": "the",
+        "start": 130.27,
+        "end": 130.34
+      },
+      {
+        "word": "15",
+        "start": 130.34,
+        "end": 130.75
+      },
+      {
+        "word": "performance",
+        "start": 130.75,
+        "end": 131.23000000000002
+      },
+      {
+        "word": "metrics",
+        "start": 131.23000000000002,
+        "end": 131.72000000000003
+      },
+      {
+        "word": "that",
+        "start": 131.72000000000003,
+        "end": 131.94000000000003
+      },
+      {
+        "word": "can",
+        "start": 131.94000000000003,
+        "end": 132.13000000000002
+      },
+      {
+        "word": "evaluate",
+        "start": 132.16000000000003,
+        "end": 132.84
+      },
+      {
+        "word": "quantitatively",
+        "start": 132.84,
+        "end": 132.87
+      },
+      {
+        "word": "for",
+        "start": 132.87,
+        "end": 132.94000000000003
+      },
+      {
+        "word": "each",
+        "start": 132.94000000000003,
+        "end": 133.08
+      },
+      {
+        "word": "tip.",
+        "start": 133.08,
+        "end": 133.31
+      },
+      {
+        "word": "For",
+        "start": 133.31,
+        "end": 133.63000000000002
+      },
+      {
+        "word": "example,",
+        "start": 133.63000000000002,
+        "end": 134.14000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0136815_0144950",
+    "final_spoken": "we measured the angular velocity of mouse to find out how fast players snap their wrist when performing the flicking aim",
+    "final_written": "we measured the angular velocity of mouse to find out how fast players snap their wrist when performing the flicking aim.",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 136.905,
+        "end": 137.075
+      },
+      {
+        "word": "measured",
+        "start": 137.075,
+        "end": 137.645
+      },
+      {
+        "word": "the",
+        "start": 137.645,
+        "end": 137.855
+      },
+      {
+        "word": "angular",
+        "start": 137.855,
+        "end": 138.285
+      },
+      {
+        "word": "velocity",
+        "start": 138.285,
+        "end": 138.995
+      },
+      {
+        "word": "of",
+        "start": 138.995,
+        "end": 139.185
+      },
+      {
+        "word": "mouse",
+        "start": 139.185,
+        "end": 139.675
+      },
+      {
+        "word": "to",
+        "start": 139.675,
+        "end": 139.845
+      },
+      {
+        "word": "find",
+        "start": 139.845,
+        "end": 140.225
+      },
+      {
+        "word": "out",
+        "start": 140.225,
+        "end": 140.555
+      },
+      {
+        "word": "how",
+        "start": 140.755,
+        "end": 141.025
+      },
+      {
+        "word": "fast",
+        "start": 141.025,
+        "end": 141.335
+      },
+      {
+        "word": "players",
+        "start": 141.335,
+        "end": 141.815
+      },
+      {
+        "word": "snap",
+        "start": 141.815,
+        "end": 142.135
+      },
+      {
+        "word": "their",
+        "start": 142.135,
+        "end": 142.315
+      },
+      {
+        "word": "wrist",
+        "start": 142.315,
+        "end": 142.785
+      },
+      {
+        "word": "when",
+        "start": 143.045,
+        "end": 143.265
+      },
+      {
+        "word": "performing",
+        "start": 143.265,
+        "end": 143.805
+      },
+      {
+        "word": "the",
+        "start": 143.805,
+        "end": 143.895
+      },
+      {
+        "word": "flicking",
+        "start": 143.895,
+        "end": 144.375
+      },
+      {
+        "word": "aim",
+        "start": 144.375,
+        "end": 144.585
+      }
+    ],
+    "words_written": [
+      {
+        "word": "we",
+        "start": 136.905,
+        "end": 137.075
+      },
+      {
+        "word": "measured",
+        "start": 137.075,
+        "end": 137.645
+      },
+      {
+        "word": "the",
+        "start": 137.645,
+        "end": 137.855
+      },
+      {
+        "word": "angular",
+        "start": 137.855,
+        "end": 138.285
+      },
+      {
+        "word": "velocity",
+        "start": 138.285,
+        "end": 138.995
+      },
+      {
+        "word": "of",
+        "start": 138.995,
+        "end": 139.185
+      },
+      {
+        "word": "mouse",
+        "start": 139.185,
+        "end": 139.675
+      },
+      {
+        "word": "to",
+        "start": 139.675,
+        "end": 139.845
+      },
+      {
+        "word": "find",
+        "start": 139.845,
+        "end": 140.225
+      },
+      {
+        "word": "out",
+        "start": 140.225,
+        "end": 140.555
+      },
+      {
+        "word": "how",
+        "start": 140.755,
+        "end": 141.025
+      },
+      {
+        "word": "fast",
+        "start": 141.025,
+        "end": 141.335
+      },
+      {
+        "word": "players",
+        "start": 141.335,
+        "end": 141.815
+      },
+      {
+        "word": "snap",
+        "start": 141.815,
+        "end": 142.135
+      },
+      {
+        "word": "their",
+        "start": 142.135,
+        "end": 142.315
+      },
+      {
+        "word": "wrist",
+        "start": 142.315,
+        "end": 142.785
+      },
+      {
+        "word": "when",
+        "start": 143.045,
+        "end": 143.265
+      },
+      {
+        "word": "performing",
+        "start": 143.265,
+        "end": 143.805
+      },
+      {
+        "word": "the",
+        "start": 143.805,
+        "end": 143.895
+      },
+      {
+        "word": "flicking",
+        "start": 143.895,
+        "end": 144.375
+      },
+      {
+        "word": "aim.",
+        "start": 144.375,
+        "end": 144.585
+      }
+    ]
+  },
+  {
+    "timestr": "0144950_0150610",
+    "final_spoken": "and we measured the rotation ratio of elbow and wrist to verify the conjecture",
+    "final_written": "And we measured the rotation ratio of elbow and wrist to verify the conjecture",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 145.26,
+        "end": 145.51999999999998
+      },
+      {
+        "word": "we",
+        "start": 145.51999999999998,
+        "end": 145.67
+      },
+      {
+        "word": "measured",
+        "start": 145.67,
+        "end": 146.17999999999998
+      },
+      {
+        "word": "the",
+        "start": 146.17999999999998,
+        "end": 146.29
+      },
+      {
+        "word": "rotation",
+        "start": 146.29,
+        "end": 146.86999999999998
+      },
+      {
+        "word": "ratio",
+        "start": 146.86999999999998,
+        "end": 147.32999999999998
+      },
+      {
+        "word": "of",
+        "start": 147.32999999999998,
+        "end": 147.57
+      },
+      {
+        "word": "elbow",
+        "start": 147.66,
+        "end": 148.23999999999998
+      },
+      {
+        "word": "and",
+        "start": 148.23999999999998,
+        "end": 148.53
+      },
+      {
+        "word": "wrist",
+        "start": 148.53,
+        "end": 148.89
+      },
+      {
+        "word": "to",
+        "start": 149.03,
+        "end": 149.16
+      },
+      {
+        "word": "verify",
+        "start": 149.16,
+        "end": 149.70999999999998
+      },
+      {
+        "word": "the",
+        "start": 149.70999999999998,
+        "end": 149.81
+      },
+      {
+        "word": "conjecture",
+        "start": 149.81,
+        "end": 150.45
+      }
+    ],
+    "words_written": [
+      {
+        "word": "And",
+        "start": 145.26,
+        "end": 145.51999999999998
+      },
+      {
+        "word": "we",
+        "start": 145.51999999999998,
+        "end": 145.67
+      },
+      {
+        "word": "measured",
+        "start": 145.67,
+        "end": 146.17999999999998
+      },
+      {
+        "word": "the",
+        "start": 146.17999999999998,
+        "end": 146.29
+      },
+      {
+        "word": "rotation",
+        "start": 146.29,
+        "end": 146.86999999999998
+      },
+      {
+        "word": "ratio",
+        "start": 146.86999999999998,
+        "end": 147.32999999999998
+      },
+      {
+        "word": "of",
+        "start": 147.32999999999998,
+        "end": 147.57
+      },
+      {
+        "word": "elbow",
+        "start": 147.66,
+        "end": 148.23999999999998
+      },
+      {
+        "word": "and",
+        "start": 148.23999999999998,
+        "end": 148.53
+      },
+      {
+        "word": "wrist",
+        "start": 148.53,
+        "end": 148.89
+      },
+      {
+        "word": "to",
+        "start": 149.03,
+        "end": 149.16
+      },
+      {
+        "word": "verify",
+        "start": 149.16,
+        "end": 149.70999999999998
+      },
+      {
+        "word": "the",
+        "start": 149.70999999999998,
+        "end": 149.81
+      },
+      {
+        "word": "conjecture",
+        "start": 149.81,
+        "end": 150.45
+      }
+    ]
+  },
+  {
+    "timestr": "0150610_0159390",
+    "final_spoken": "most professional players use arm aiming rather than wrist aiming in order to collect data to measure metrics",
+    "final_written": "most professional players use arm aiming rather than wrist aiming. In order to collect data to measure metrics,",
+    "words_spoken": [
+      {
+        "word": "most",
+        "start": 150.72000000000003,
+        "end": 151.05
+      },
+      {
+        "word": "professional",
+        "start": 151.05,
+        "end": 151.56
+      },
+      {
+        "word": "players",
+        "start": 151.56,
+        "end": 152.11
+      },
+      {
+        "word": "use",
+        "start": 152.11,
+        "end": 152.38000000000002
+      },
+      {
+        "word": "arm",
+        "start": 152.48000000000002,
+        "end": 152.87
+      },
+      {
+        "word": "aiming",
+        "start": 152.87,
+        "end": 153.31
+      },
+      {
+        "word": "rather",
+        "start": 153.38000000000002,
+        "end": 153.67000000000002
+      },
+      {
+        "word": "than",
+        "start": 153.67000000000002,
+        "end": 153.93
+      },
+      {
+        "word": "wrist",
+        "start": 153.93,
+        "end": 154.18
+      },
+      {
+        "word": "aiming",
+        "start": 154.18,
+        "end": 154.45000000000002
+      },
+      {
+        "word": "in",
+        "start": 156.65,
+        "end": 156.8
+      },
+      {
+        "word": "order",
+        "start": 156.8,
+        "end": 157.07000000000002
+      },
+      {
+        "word": "to",
+        "start": 157.07000000000002,
+        "end": 157.32000000000002
+      },
+      {
+        "word": "collect",
+        "start": 157.32000000000002,
+        "end": 157.93
+      },
+      {
+        "word": "data",
+        "start": 157.93,
+        "end": 158.33
+      },
+      {
+        "word": "to",
+        "start": 158.33,
+        "end": 158.48000000000002
+      },
+      {
+        "word": "measure",
+        "start": 158.48000000000002,
+        "end": 158.70000000000002
+      },
+      {
+        "word": "metrics",
+        "start": 158.70000000000002,
+        "end": 159.39000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "most",
+        "start": 150.72000000000003,
+        "end": 151.05
+      },
+      {
+        "word": "professional",
+        "start": 151.05,
+        "end": 151.56
+      },
+      {
+        "word": "players",
+        "start": 151.56,
+        "end": 152.11
+      },
+      {
+        "word": "use",
+        "start": 152.11,
+        "end": 152.39000000000001
+      },
+      {
+        "word": "arm",
+        "start": 152.48000000000002,
+        "end": 152.87
+      },
+      {
+        "word": "aiming",
+        "start": 152.87,
+        "end": 153.31
+      },
+      {
+        "word": "rather",
+        "start": 153.38000000000002,
+        "end": 153.67000000000002
+      },
+      {
+        "word": "than",
+        "start": 153.67000000000002,
+        "end": 153.93
+      },
+      {
+        "word": "wrist",
+        "start": 153.93,
+        "end": 154.18
+      },
+      {
+        "word": "aiming.",
+        "start": 154.18,
+        "end": 154.45000000000002
+      },
+      {
+        "word": "In",
+        "start": 156.65,
+        "end": 156.8
+      },
+      {
+        "word": "order",
+        "start": 156.8,
+        "end": 157.07000000000002
+      },
+      {
+        "word": "to",
+        "start": 157.07000000000002,
+        "end": 157.32000000000002
+      },
+      {
+        "word": "collect",
+        "start": 157.32000000000002,
+        "end": 157.93
+      },
+      {
+        "word": "data",
+        "start": 157.93,
+        "end": 158.33
+      },
+      {
+        "word": "to",
+        "start": 158.33,
+        "end": 158.48000000000002
+      },
+      {
+        "word": "measure",
+        "start": 158.48000000000002,
+        "end": 158.70000000000002
+      },
+      {
+        "word": "metrics,",
+        "start": 158.70000000000002,
+        "end": 159.39000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0159390_0168310",
+    "final_spoken": "we developed a gameplay logging system with six types of behavior or sensors and in game data logger system we used eight motion capture cameras",
+    "final_written": "We developed a gameplay logging system with six types of behavior or sensors, and in game data logger system we used eight motion capture cameras.",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 159.52999999999997,
+        "end": 159.63
+      },
+      {
+        "word": "developed",
+        "start": 159.63,
+        "end": 160.2
+      },
+      {
+        "word": "a",
+        "start": 160.23999999999998,
+        "end": 160.35999999999999
+      },
+      {
+        "word": "gameplay",
+        "start": 160.35999999999999,
+        "end": 160.82999999999998
+      },
+      {
+        "word": "logging",
+        "start": 160.82999999999998,
+        "end": 161.1
+      },
+      {
+        "word": "system",
+        "start": 161.1,
+        "end": 161.60999999999999
+      },
+      {
+        "word": "with",
+        "start": 161.60999999999999,
+        "end": 161.76999999999998
+      },
+      {
+        "word": "six",
+        "start": 161.76999999999998,
+        "end": 162.01999999999998
+      },
+      {
+        "word": "types",
+        "start": 162.01999999999998,
+        "end": 162.30999999999997
+      },
+      {
+        "word": "of",
+        "start": 162.30999999999997,
+        "end": 162.39999999999998
+      },
+      {
+        "word": "behavior",
+        "start": 162.39999999999998,
+        "end": 163.05999999999997
+      },
+      {
+        "word": "or",
+        "start": 163.05999999999997,
+        "end": 163.13
+      },
+      {
+        "word": "sensors",
+        "start": 163.13,
+        "end": 163.73
+      },
+      {
+        "word": "and",
+        "start": 163.79,
+        "end": 163.92
+      },
+      {
+        "word": "in",
+        "start": 163.92,
+        "end": 164.13
+      },
+      {
+        "word": "game",
+        "start": 164.13,
+        "end": 164.25
+      },
+      {
+        "word": "data",
+        "start": 164.25,
+        "end": 164.51999999999998
+      },
+      {
+        "word": "logger",
+        "start": 164.51999999999998,
+        "end": 164.77999999999997
+      },
+      {
+        "word": "system",
+        "start": 164.77999999999997,
+        "end": 165.17999999999998
+      },
+      {
+        "word": "we",
+        "start": 166.01999999999998,
+        "end": 166.17
+      },
+      {
+        "word": "used",
+        "start": 166.17,
+        "end": 166.51
+      },
+      {
+        "word": "eight",
+        "start": 166.57999999999998,
+        "end": 166.82999999999998
+      },
+      {
+        "word": "motion",
+        "start": 166.82999999999998,
+        "end": 167.13
+      },
+      {
+        "word": "capture",
+        "start": 167.13,
+        "end": 167.42999999999998
+      },
+      {
+        "word": "cameras",
+        "start": 167.42999999999998,
+        "end": 168.17999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "We",
+        "start": 159.52999999999997,
+        "end": 159.63
+      },
+      {
+        "word": "developed",
+        "start": 159.63,
+        "end": 160.2
+      },
+      {
+        "word": "a",
+        "start": 160.23999999999998,
+        "end": 160.35999999999999
+      },
+      {
+        "word": "gameplay",
+        "start": 160.35999999999999,
+        "end": 160.82999999999998
+      },
+      {
+        "word": "logging",
+        "start": 160.82999999999998,
+        "end": 161.1
+      },
+      {
+        "word": "system",
+        "start": 161.1,
+        "end": 161.60999999999999
+      },
+      {
+        "word": "with",
+        "start": 161.60999999999999,
+        "end": 161.76999999999998
+      },
+      {
+        "word": "six",
+        "start": 161.76999999999998,
+        "end": 162.01999999999998
+      },
+      {
+        "word": "types",
+        "start": 162.01999999999998,
+        "end": 162.30999999999997
+      },
+      {
+        "word": "of",
+        "start": 162.30999999999997,
+        "end": 162.39999999999998
+      },
+      {
+        "word": "behavior",
+        "start": 162.39999999999998,
+        "end": 163.05999999999997
+      },
+      {
+        "word": "or",
+        "start": 163.05999999999997,
+        "end": 163.13
+      },
+      {
+        "word": "sensors,",
+        "start": 163.13,
+        "end": 163.73
+      },
+      {
+        "word": "and",
+        "start": 163.79,
+        "end": 163.92
+      },
+      {
+        "word": "in",
+        "start": 163.92,
+        "end": 164.13
+      },
+      {
+        "word": "game",
+        "start": 164.13,
+        "end": 164.25
+      },
+      {
+        "word": "data",
+        "start": 164.25,
+        "end": 164.51999999999998
+      },
+      {
+        "word": "logger",
+        "start": 164.51999999999998,
+        "end": 164.77999999999997
+      },
+      {
+        "word": "system",
+        "start": 164.77999999999997,
+        "end": 165.17999999999998
+      },
+      {
+        "word": "we",
+        "start": 166.01999999999998,
+        "end": 166.17
+      },
+      {
+        "word": "used",
+        "start": 166.17,
+        "end": 166.51
+      },
+      {
+        "word": "eight",
+        "start": 166.57999999999998,
+        "end": 166.82999999999998
+      },
+      {
+        "word": "motion",
+        "start": 166.82999999999998,
+        "end": 167.13
+      },
+      {
+        "word": "capture",
+        "start": 167.13,
+        "end": 167.42999999999998
+      },
+      {
+        "word": "cameras.",
+        "start": 167.42999999999998,
+        "end": 168.17999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0168310_0176690",
+    "final_spoken": "eye tracker emg sensors pulse sensor keyboard and a dual sensor mouse for the in game data we logged two kinds of data",
+    "final_written": "eye tracker, EMG sensors, pulse sensor, keyboard, and a dual sensor mouse. For the in-game data, we logged two kinds of data,",
+    "words_spoken": [
+      {
+        "word": "eye",
+        "start": 168.41,
+        "end": 168.6
+      },
+      {
+        "word": "tracker",
+        "start": 168.6,
+        "end": 169.01
+      },
+      {
+        "word": "emg",
+        "start": 169.01,
+        "end": 169.55
+      },
+      {
+        "word": "sensors",
+        "start": 169.55,
+        "end": 170.27
+      },
+      {
+        "word": "pulse",
+        "start": 170.37,
+        "end": 170.58
+      },
+      {
+        "word": "sensor",
+        "start": 170.58,
+        "end": 171.11
+      },
+      {
+        "word": "keyboard",
+        "start": 171.26,
+        "end": 171.91
+      },
+      {
+        "word": "and",
+        "start": 172.06,
+        "end": 172.27
+      },
+      {
+        "word": "a",
+        "start": 172.27,
+        "end": 172.34
+      },
+      {
+        "word": "dual",
+        "start": 172.34,
+        "end": 172.6
+      },
+      {
+        "word": "sensor",
+        "start": 172.6,
+        "end": 172.91
+      },
+      {
+        "word": "mouse",
+        "start": 172.91,
+        "end": 173.32
+      },
+      {
+        "word": "for",
+        "start": 173.95,
+        "end": 174.12
+      },
+      {
+        "word": "the",
+        "start": 174.12,
+        "end": 174.17000000000002
+      },
+      {
+        "word": "in",
+        "start": 174.17000000000002,
+        "end": 174.37
+      },
+      {
+        "word": "game",
+        "start": 174.37,
+        "end": 174.56
+      },
+      {
+        "word": "data",
+        "start": 174.56,
+        "end": 175.0
+      },
+      {
+        "word": "we",
+        "start": 175.0,
+        "end": 175.23
+      },
+      {
+        "word": "logged",
+        "start": 175.23,
+        "end": 175.6
+      },
+      {
+        "word": "two",
+        "start": 175.6,
+        "end": 175.74
+      },
+      {
+        "word": "kinds",
+        "start": 175.74,
+        "end": 176.02
+      },
+      {
+        "word": "of",
+        "start": 176.02,
+        "end": 176.15
+      },
+      {
+        "word": "data",
+        "start": 176.15,
+        "end": 176.51
+      }
+    ],
+    "words_written": [
+      {
+        "word": "eye",
+        "start": 168.41,
+        "end": 168.6
+      },
+      {
+        "word": "tracker,",
+        "start": 168.6,
+        "end": 169.01
+      },
+      {
+        "word": "EMG",
+        "start": 169.01,
+        "end": 169.55
+      },
+      {
+        "word": "sensors,",
+        "start": 169.55,
+        "end": 170.27
+      },
+      {
+        "word": "pulse",
+        "start": 170.37,
+        "end": 170.58
+      },
+      {
+        "word": "sensor,",
+        "start": 170.58,
+        "end": 171.11
+      },
+      {
+        "word": "keyboard,",
+        "start": 171.26,
+        "end": 171.91
+      },
+      {
+        "word": "and",
+        "start": 172.06,
+        "end": 172.27
+      },
+      {
+        "word": "a",
+        "start": 172.27,
+        "end": 172.34
+      },
+      {
+        "word": "dual",
+        "start": 172.34,
+        "end": 172.6
+      },
+      {
+        "word": "sensor",
+        "start": 172.6,
+        "end": 172.91
+      },
+      {
+        "word": "mouse.",
+        "start": 172.91,
+        "end": 173.32
+      },
+      {
+        "word": "For",
+        "start": 173.95,
+        "end": 174.12
+      },
+      {
+        "word": "the",
+        "start": 174.12,
+        "end": 174.17000000000002
+      },
+      {
+        "word": "in-game",
+        "start": 174.17000000000002,
+        "end": 174.56
+      },
+      {
+        "word": "data,",
+        "start": 174.56,
+        "end": 175.0
+      },
+      {
+        "word": "we",
+        "start": 175.0,
+        "end": 175.23
+      },
+      {
+        "word": "logged",
+        "start": 175.23,
+        "end": 175.6
+      },
+      {
+        "word": "two",
+        "start": 175.6,
+        "end": 175.74
+      },
+      {
+        "word": "kinds",
+        "start": 175.74,
+        "end": 176.02
+      },
+      {
+        "word": "of",
+        "start": 176.02,
+        "end": 176.15
+      },
+      {
+        "word": "data,",
+        "start": 176.15,
+        "end": 176.51
+      }
+    ]
+  },
+  {
+    "timestr": "0176690_0185545",
+    "final_spoken": "player data such as enemy's skeletal position and game events data such as player death or weapon fire events",
+    "final_written": "player data such as enemy's skeletal position and game events data such as player death or weapon fire events.",
+    "words_spoken": [
+      {
+        "word": "player",
+        "start": 176.87,
+        "end": 177.24
+      },
+      {
+        "word": "data",
+        "start": 177.24,
+        "end": 177.7
+      },
+      {
+        "word": "such",
+        "start": 177.7,
+        "end": 178.03
+      },
+      {
+        "word": "as",
+        "start": 178.03,
+        "end": 178.31
+      },
+      {
+        "word": "enemy's",
+        "start": 178.35,
+        "end": 178.69
+      },
+      {
+        "word": "skeletal",
+        "start": 178.69,
+        "end": 179.22
+      },
+      {
+        "word": "position",
+        "start": 179.22,
+        "end": 179.76
+      },
+      {
+        "word": "and",
+        "start": 180.13,
+        "end": 180.42
+      },
+      {
+        "word": "game",
+        "start": 180.42,
+        "end": 180.66
+      },
+      {
+        "word": "events",
+        "start": 180.66,
+        "end": 181.02
+      },
+      {
+        "word": "data",
+        "start": 181.02,
+        "end": 181.43
+      },
+      {
+        "word": "such",
+        "start": 181.43,
+        "end": 181.74
+      },
+      {
+        "word": "as",
+        "start": 181.74,
+        "end": 181.85999999999999
+      },
+      {
+        "word": "player",
+        "start": 181.85999999999999,
+        "end": 182.22
+      },
+      {
+        "word": "death",
+        "start": 182.22,
+        "end": 182.64
+      },
+      {
+        "word": "or",
+        "start": 182.67,
+        "end": 182.98
+      },
+      {
+        "word": "weapon",
+        "start": 182.98,
+        "end": 183.26
+      },
+      {
+        "word": "fire",
+        "start": 183.26,
+        "end": 183.56
+      },
+      {
+        "word": "events",
+        "start": 183.56,
+        "end": 184.14
+      }
+    ],
+    "words_written": [
+      {
+        "word": "player",
+        "start": 176.87,
+        "end": 177.24
+      },
+      {
+        "word": "data",
+        "start": 177.24,
+        "end": 177.7
+      },
+      {
+        "word": "such",
+        "start": 177.7,
+        "end": 178.03
+      },
+      {
+        "word": "as",
+        "start": 178.03,
+        "end": 178.31
+      },
+      {
+        "word": "enemy's",
+        "start": 178.35,
+        "end": 178.69
+      },
+      {
+        "word": "skeletal",
+        "start": 178.69,
+        "end": 179.22
+      },
+      {
+        "word": "position",
+        "start": 179.22,
+        "end": 179.76
+      },
+      {
+        "word": "and",
+        "start": 180.13,
+        "end": 180.42
+      },
+      {
+        "word": "game",
+        "start": 180.42,
+        "end": 180.66
+      },
+      {
+        "word": "events",
+        "start": 180.66,
+        "end": 181.02
+      },
+      {
+        "word": "data",
+        "start": 181.02,
+        "end": 181.43
+      },
+      {
+        "word": "such",
+        "start": 181.43,
+        "end": 181.74
+      },
+      {
+        "word": "as",
+        "start": 181.74,
+        "end": 181.85999999999999
+      },
+      {
+        "word": "player",
+        "start": 181.85999999999999,
+        "end": 182.22
+      },
+      {
+        "word": "death",
+        "start": 182.22,
+        "end": 182.64
+      },
+      {
+        "word": "or",
+        "start": 182.67,
+        "end": 182.98
+      },
+      {
+        "word": "weapon",
+        "start": 182.98,
+        "end": 183.26
+      },
+      {
+        "word": "fire",
+        "start": 183.26,
+        "end": 183.56
+      },
+      {
+        "word": "events.",
+        "start": 183.56,
+        "end": 184.14
+      }
+    ]
+  },
+  {
+    "timestr": "0185545_0195640",
+    "final_spoken": "for the user study we recruited the participants into two groups eight professional fps players and eight normal players who had sufficient",
+    "final_written": "For the user study, we recruited the participants into two groups, eight professional Fps players and eight normal players who had sufficient.",
+    "words_spoken": [
+      {
+        "word": "for",
+        "start": 186.905,
+        "end": 187.065
+      },
+      {
+        "word": "the",
+        "start": 187.065,
+        "end": 187.165
+      },
+      {
+        "word": "user",
+        "start": 187.165,
+        "end": 187.43499999999997
+      },
+      {
+        "word": "study",
+        "start": 187.43499999999997,
+        "end": 187.975
+      },
+      {
+        "word": "we",
+        "start": 188.265,
+        "end": 188.605
+      },
+      {
+        "word": "recruited",
+        "start": 188.605,
+        "end": 189.105
+      },
+      {
+        "word": "the",
+        "start": 189.105,
+        "end": 189.155
+      },
+      {
+        "word": "participants",
+        "start": 189.155,
+        "end": 189.815
+      },
+      {
+        "word": "into",
+        "start": 189.815,
+        "end": 190.02499999999998
+      },
+      {
+        "word": "two",
+        "start": 190.02499999999998,
+        "end": 190.345
+      },
+      {
+        "word": "groups",
+        "start": 190.345,
+        "end": 190.825
+      },
+      {
+        "word": "eight",
+        "start": 190.915,
+        "end": 191.195
+      },
+      {
+        "word": "professional",
+        "start": 191.195,
+        "end": 191.755
+      },
+      {
+        "word": "fps",
+        "start": 191.755,
+        "end": 191.93499999999997
+      },
+      {
+        "word": "players",
+        "start": 191.93499999999997,
+        "end": 192.255
+      },
+      {
+        "word": "and",
+        "start": 192.36499999999998,
+        "end": 192.42499999999998
+      },
+      {
+        "word": "eight",
+        "start": 192.42499999999998,
+        "end": 192.71499999999997
+      },
+      {
+        "word": "normal",
+        "start": 192.945,
+        "end": 193.17499999999998
+      },
+      {
+        "word": "players",
+        "start": 193.17499999999998,
+        "end": 193.39499999999998
+      },
+      {
+        "word": "who",
+        "start": 193.42499999999998,
+        "end": 193.535
+      },
+      {
+        "word": "had",
+        "start": 193.535,
+        "end": 193.74499999999998
+      },
+      {
+        "word": "sufficient",
+        "start": 193.74499999999998,
+        "end": 195.64
+      }
+    ],
+    "words_written": [
+      {
+        "word": "For",
+        "start": 186.905,
+        "end": 187.065
+      },
+      {
+        "word": "the",
+        "start": 187.065,
+        "end": 187.165
+      },
+      {
+        "word": "user",
+        "start": 187.165,
+        "end": 187.43499999999997
+      },
+      {
+        "word": "study,",
+        "start": 187.43499999999997,
+        "end": 187.975
+      },
+      {
+        "word": "we",
+        "start": 188.265,
+        "end": 188.605
+      },
+      {
+        "word": "recruited",
+        "start": 188.605,
+        "end": 189.105
+      },
+      {
+        "word": "the",
+        "start": 189.105,
+        "end": 189.155
+      },
+      {
+        "word": "participants",
+        "start": 189.155,
+        "end": 189.815
+      },
+      {
+        "word": "into",
+        "start": 189.815,
+        "end": 190.02499999999998
+      },
+      {
+        "word": "two",
+        "start": 190.02499999999998,
+        "end": 190.345
+      },
+      {
+        "word": "groups,",
+        "start": 190.345,
+        "end": 190.825
+      },
+      {
+        "word": "eight",
+        "start": 190.915,
+        "end": 191.195
+      },
+      {
+        "word": "professional",
+        "start": 191.195,
+        "end": 191.755
+      },
+      {
+        "word": "Fps",
+        "start": 191.755,
+        "end": 191.93499999999997
+      },
+      {
+        "word": "players",
+        "start": 191.93499999999997,
+        "end": 192.255
+      },
+      {
+        "word": "and",
+        "start": 192.36499999999998,
+        "end": 192.42499999999998
+      },
+      {
+        "word": "eight",
+        "start": 192.42499999999998,
+        "end": 192.71499999999997
+      },
+      {
+        "word": "normal",
+        "start": 192.945,
+        "end": 193.17499999999998
+      },
+      {
+        "word": "players",
+        "start": 193.17499999999998,
+        "end": 193.39499999999998
+      },
+      {
+        "word": "who",
+        "start": 193.42499999999998,
+        "end": 193.535
+      },
+      {
+        "word": "had",
+        "start": 193.535,
+        "end": 193.74499999999998
+      },
+      {
+        "word": "sufficient.",
+        "start": 193.74499999999998,
+        "end": 195.64
+      }
+    ]
+  },
+  {
+    "timestr": "0195640_0201580",
+    "final_spoken": "fps experience we selected the famous fps game csgo for the study",
+    "final_written": "FPS experience. We selected the famous FPS game CSGO for the study",
+    "words_spoken": [
+      {
+        "word": "fps",
+        "start": 195.75,
+        "end": 196.11999999999998
+      },
+      {
+        "word": "experience",
+        "start": 196.11999999999998,
+        "end": 196.82999999999998
+      },
+      {
+        "word": "we",
+        "start": 197.41,
+        "end": 197.52999999999997
+      },
+      {
+        "word": "selected",
+        "start": 197.52999999999997,
+        "end": 198.1
+      },
+      {
+        "word": "the",
+        "start": 198.1,
+        "end": 198.22
+      },
+      {
+        "word": "famous",
+        "start": 198.22,
+        "end": 198.7
+      },
+      {
+        "word": "fps",
+        "start": 198.7,
+        "end": 199.14999999999998
+      },
+      {
+        "word": "game",
+        "start": 199.29999999999998,
+        "end": 199.72
+      },
+      {
+        "word": "csgo",
+        "start": 199.95,
+        "end": 200.41
+      },
+      {
+        "word": "for",
+        "start": 200.41,
+        "end": 200.64
+      },
+      {
+        "word": "the",
+        "start": 200.64,
+        "end": 200.95999999999998
+      },
+      {
+        "word": "study",
+        "start": 200.95999999999998,
+        "end": 201.38
+      }
+    ],
+    "words_written": [
+      {
+        "word": "FPS",
+        "start": 195.75,
+        "end": 196.11999999999998
+      },
+      {
+        "word": "experience.",
+        "start": 196.11999999999998,
+        "end": 196.82999999999998
+      },
+      {
+        "word": "We",
+        "start": 197.41,
+        "end": 197.52999999999997
+      },
+      {
+        "word": "selected",
+        "start": 197.52999999999997,
+        "end": 198.1
+      },
+      {
+        "word": "the",
+        "start": 198.1,
+        "end": 198.22
+      },
+      {
+        "word": "famous",
+        "start": 198.22,
+        "end": 198.7
+      },
+      {
+        "word": "FPS",
+        "start": 198.7,
+        "end": 199.14999999999998
+      },
+      {
+        "word": "game",
+        "start": 199.29999999999998,
+        "end": 199.72
+      },
+      {
+        "word": "CSGO",
+        "start": 199.95,
+        "end": 200.41
+      },
+      {
+        "word": "for",
+        "start": 200.41,
+        "end": 200.64
+      },
+      {
+        "word": "the",
+        "start": 200.64,
+        "end": 200.95999999999998
+      },
+      {
+        "word": "study",
+        "start": 200.95999999999998,
+        "end": 201.38
+      }
+    ]
+  },
+  {
+    "timestr": "0201580_0209880",
+    "final_spoken": "and used a customized map for the one on one match which is smaller than normal maps each participant played",
+    "final_written": "and used a customized map for the one-on-one match which is smaller than normal maps. Each participant played",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 201.75,
+        "end": 202.21
+      },
+      {
+        "word": "used",
+        "start": 202.21,
+        "end": 202.51000000000002
+      },
+      {
+        "word": "a",
+        "start": 202.51000000000002,
+        "end": 202.65
+      },
+      {
+        "word": "customized",
+        "start": 202.65,
+        "end": 203.28
+      },
+      {
+        "word": "map",
+        "start": 203.28,
+        "end": 203.70000000000002
+      },
+      {
+        "word": "for",
+        "start": 203.77,
+        "end": 204.17000000000002
+      },
+      {
+        "word": "the",
+        "start": 204.17000000000002,
+        "end": 204.54000000000002
+      },
+      {
+        "word": "one",
+        "start": 204.54000000000002,
+        "end": 204.81
+      },
+      {
+        "word": "on",
+        "start": 204.81,
+        "end": 204.96
+      },
+      {
+        "word": "one",
+        "start": 204.96,
+        "end": 205.18
+      },
+      {
+        "word": "match",
+        "start": 205.18,
+        "end": 205.69000000000003
+      },
+      {
+        "word": "which",
+        "start": 206.0,
+        "end": 206.20000000000002
+      },
+      {
+        "word": "is",
+        "start": 206.20000000000002,
+        "end": 206.33
+      },
+      {
+        "word": "smaller",
+        "start": 206.33,
+        "end": 206.74
+      },
+      {
+        "word": "than",
+        "start": 206.74,
+        "end": 206.96
+      },
+      {
+        "word": "normal",
+        "start": 206.96,
+        "end": 207.27
+      },
+      {
+        "word": "maps",
+        "start": 207.27,
+        "end": 207.70000000000002
+      },
+      {
+        "word": "each",
+        "start": 208.3,
+        "end": 208.56
+      },
+      {
+        "word": "participant",
+        "start": 208.56,
+        "end": 209.32000000000002
+      },
+      {
+        "word": "played",
+        "start": 209.32000000000002,
+        "end": 209.88000000000002
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 201.75,
+        "end": 202.21
+      },
+      {
+        "word": "used",
+        "start": 202.21,
+        "end": 202.51000000000002
+      },
+      {
+        "word": "a",
+        "start": 202.51000000000002,
+        "end": 202.65
+      },
+      {
+        "word": "customized",
+        "start": 202.65,
+        "end": 203.28
+      },
+      {
+        "word": "map",
+        "start": 203.28,
+        "end": 203.73000000000002
+      },
+      {
+        "word": "for",
+        "start": 203.77,
+        "end": 204.17000000000002
+      },
+      {
+        "word": "the",
+        "start": 204.17000000000002,
+        "end": 204.54000000000002
+      },
+      {
+        "word": "one-on-one",
+        "start": 204.54000000000002,
+        "end": 205.18
+      },
+      {
+        "word": "match",
+        "start": 205.18,
+        "end": 205.69000000000003
+      },
+      {
+        "word": "which",
+        "start": 206.0,
+        "end": 206.20000000000002
+      },
+      {
+        "word": "is",
+        "start": 206.20000000000002,
+        "end": 206.33
+      },
+      {
+        "word": "smaller",
+        "start": 206.33,
+        "end": 206.74
+      },
+      {
+        "word": "than",
+        "start": 206.74,
+        "end": 206.96
+      },
+      {
+        "word": "normal",
+        "start": 206.96,
+        "end": 207.27
+      },
+      {
+        "word": "maps.",
+        "start": 207.27,
+        "end": 207.70000000000002
+      },
+      {
+        "word": "Each",
+        "start": 208.3,
+        "end": 208.56
+      },
+      {
+        "word": "participant",
+        "start": 208.56,
+        "end": 209.32000000000002
+      },
+      {
+        "word": "played",
+        "start": 209.32000000000002,
+        "end": 209.88000000000002
+      }
+    ]
+  },
+  {
+    "timestr": "0209880_0213475",
+    "final_spoken": "a one on one match for thirty minutes",
+    "final_written": "a one-on-one match for 30 minutes.",
+    "words_spoken": [
+      {
+        "word": "a",
+        "start": 209.88,
+        "end": 210.14
+      },
+      {
+        "word": "one",
+        "start": 210.14,
+        "end": 210.37
+      },
+      {
+        "word": "on",
+        "start": 210.37,
+        "end": 210.51
+      },
+      {
+        "word": "one",
+        "start": 210.51,
+        "end": 210.7
+      },
+      {
+        "word": "match",
+        "start": 210.7,
+        "end": 211.14
+      },
+      {
+        "word": "for",
+        "start": 211.25,
+        "end": 211.64
+      },
+      {
+        "word": "thirty",
+        "start": 211.69,
+        "end": 212.0
+      },
+      {
+        "word": "minutes",
+        "start": 212.0,
+        "end": 212.54
+      }
+    ],
+    "words_written": [
+      {
+        "word": "a",
+        "start": 209.88,
+        "end": 210.14
+      },
+      {
+        "word": "one-on-one",
+        "start": 210.14,
+        "end": 210.7
+      },
+      {
+        "word": "match",
+        "start": 210.7,
+        "end": 211.14
+      },
+      {
+        "word": "for",
+        "start": 211.25,
+        "end": 211.42
+      },
+      {
+        "word": "30",
+        "start": 211.42,
+        "end": 212.01
+      },
+      {
+        "word": "minutes.",
+        "start": 212.01,
+        "end": 212.54
+      }
+    ]
+  },
+  {
+    "timestr": "0213475_0220510",
+    "final_spoken": "as a result we collected about seven gigabytes of data and high resolution gameplay video recordings",
+    "final_written": "As a result, we collected about 7 gigabytes of data and high-resolution gameplay video recordings.",
+    "words_spoken": [
+      {
+        "word": "as",
+        "start": 214.36499999999998,
+        "end": 214.545
+      },
+      {
+        "word": "a",
+        "start": 214.545,
+        "end": 214.635
+      },
+      {
+        "word": "result",
+        "start": 214.635,
+        "end": 215.005
+      },
+      {
+        "word": "we",
+        "start": 215.215,
+        "end": 215.285
+      },
+      {
+        "word": "collected",
+        "start": 215.285,
+        "end": 215.765
+      },
+      {
+        "word": "about",
+        "start": 215.765,
+        "end": 216.065
+      },
+      {
+        "word": "seven",
+        "start": 216.065,
+        "end": 216.475
+      },
+      {
+        "word": "gigabytes",
+        "start": 216.475,
+        "end": 216.945
+      },
+      {
+        "word": "of",
+        "start": 216.945,
+        "end": 217.105
+      },
+      {
+        "word": "data",
+        "start": 217.105,
+        "end": 217.565
+      },
+      {
+        "word": "and",
+        "start": 217.61499999999998,
+        "end": 217.805
+      },
+      {
+        "word": "high",
+        "start": 217.805,
+        "end": 218.045
+      },
+      {
+        "word": "resolution",
+        "start": 218.045,
+        "end": 218.625
+      },
+      {
+        "word": "gameplay",
+        "start": 218.625,
+        "end": 219.125
+      },
+      {
+        "word": "video",
+        "start": 219.125,
+        "end": 219.465
+      },
+      {
+        "word": "recordings",
+        "start": 219.465,
+        "end": 220.155
+      }
+    ],
+    "words_written": [
+      {
+        "word": "As",
+        "start": 214.36499999999998,
+        "end": 214.545
+      },
+      {
+        "word": "a",
+        "start": 214.545,
+        "end": 214.635
+      },
+      {
+        "word": "result,",
+        "start": 214.635,
+        "end": 215.005
+      },
+      {
+        "word": "we",
+        "start": 215.215,
+        "end": 215.285
+      },
+      {
+        "word": "collected",
+        "start": 215.285,
+        "end": 215.765
+      },
+      {
+        "word": "about",
+        "start": 215.765,
+        "end": 216.095
+      },
+      {
+        "word": "7",
+        "start": 216.095,
+        "end": 216.475
+      },
+      {
+        "word": "gigabytes",
+        "start": 216.475,
+        "end": 216.945
+      },
+      {
+        "word": "of",
+        "start": 216.945,
+        "end": 217.105
+      },
+      {
+        "word": "data",
+        "start": 217.105,
+        "end": 217.565
+      },
+      {
+        "word": "and",
+        "start": 217.61499999999998,
+        "end": 217.805
+      },
+      {
+        "word": "high-resolution",
+        "start": 217.805,
+        "end": 218.625
+      },
+      {
+        "word": "gameplay",
+        "start": 218.625,
+        "end": 219.125
+      },
+      {
+        "word": "video",
+        "start": 219.125,
+        "end": 219.465
+      },
+      {
+        "word": "recordings.",
+        "start": 219.465,
+        "end": 220.155
+      }
+    ]
+  },
+  {
+    "timestr": "0220510_0227830",
+    "final_spoken": "in the descriptive statistic analysis professionals showed more effective shots per minute and shorter reaction time",
+    "final_written": "In the descriptive statistic analysis, professionals showed more effective shots per minute and shorter reaction time.",
+    "words_spoken": [
+      {
+        "word": "in",
+        "start": 220.82,
+        "end": 220.91
+      },
+      {
+        "word": "the",
+        "start": 220.91,
+        "end": 220.98999999999998
+      },
+      {
+        "word": "descriptive",
+        "start": 220.98999999999998,
+        "end": 221.62
+      },
+      {
+        "word": "statistic",
+        "start": 221.62,
+        "end": 222.20999999999998
+      },
+      {
+        "word": "analysis",
+        "start": 222.20999999999998,
+        "end": 222.98999999999998
+      },
+      {
+        "word": "professionals",
+        "start": 223.04999999999998,
+        "end": 223.6
+      },
+      {
+        "word": "showed",
+        "start": 223.6,
+        "end": 223.92999999999998
+      },
+      {
+        "word": "more",
+        "start": 223.92999999999998,
+        "end": 224.10999999999999
+      },
+      {
+        "word": "effective",
+        "start": 224.10999999999999,
+        "end": 224.62
+      },
+      {
+        "word": "shots",
+        "start": 224.62,
+        "end": 225.06
+      },
+      {
+        "word": "per",
+        "start": 225.06,
+        "end": 225.25
+      },
+      {
+        "word": "minute",
+        "start": 225.25,
+        "end": 225.56
+      },
+      {
+        "word": "and",
+        "start": 226.07,
+        "end": 226.32
+      },
+      {
+        "word": "shorter",
+        "start": 226.32,
+        "end": 226.63
+      },
+      {
+        "word": "reaction",
+        "start": 226.63,
+        "end": 227.09
+      },
+      {
+        "word": "time",
+        "start": 227.09,
+        "end": 227.42999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "In",
+        "start": 220.82,
+        "end": 220.91
+      },
+      {
+        "word": "the",
+        "start": 220.91,
+        "end": 220.98999999999998
+      },
+      {
+        "word": "descriptive",
+        "start": 220.98999999999998,
+        "end": 221.62
+      },
+      {
+        "word": "statistic",
+        "start": 221.62,
+        "end": 222.20999999999998
+      },
+      {
+        "word": "analysis,",
+        "start": 222.20999999999998,
+        "end": 222.98999999999998
+      },
+      {
+        "word": "professionals",
+        "start": 223.04999999999998,
+        "end": 223.6
+      },
+      {
+        "word": "showed",
+        "start": 223.6,
+        "end": 223.92999999999998
+      },
+      {
+        "word": "more",
+        "start": 223.92999999999998,
+        "end": 224.10999999999999
+      },
+      {
+        "word": "effective",
+        "start": 224.10999999999999,
+        "end": 224.62
+      },
+      {
+        "word": "shots",
+        "start": 224.62,
+        "end": 225.06
+      },
+      {
+        "word": "per",
+        "start": 225.06,
+        "end": 225.25
+      },
+      {
+        "word": "minute",
+        "start": 225.25,
+        "end": 225.56
+      },
+      {
+        "word": "and",
+        "start": 226.07,
+        "end": 226.32
+      },
+      {
+        "word": "shorter",
+        "start": 226.32,
+        "end": 226.63
+      },
+      {
+        "word": "reaction",
+        "start": 226.63,
+        "end": 227.09
+      },
+      {
+        "word": "time.",
+        "start": 227.09,
+        "end": 227.42999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0227830_0236070",
+    "final_spoken": "also six of thirteen conjectures are verified among them i picked some interesting points to introduce",
+    "final_written": "Also, 6 of 13 conjectures are verified. Among them, I picked some interesting points to introduce.",
+    "words_spoken": [
+      {
+        "word": "also",
+        "start": 228.18,
+        "end": 228.62
+      },
+      {
+        "word": "six",
+        "start": 228.62,
+        "end": 228.97
+      },
+      {
+        "word": "of",
+        "start": 228.97,
+        "end": 229.20000000000002
+      },
+      {
+        "word": "thirteen",
+        "start": 229.20000000000002,
+        "end": 229.64000000000001
+      },
+      {
+        "word": "conjectures",
+        "start": 229.64000000000001,
+        "end": 230.38000000000002
+      },
+      {
+        "word": "are",
+        "start": 230.38000000000002,
+        "end": 230.64000000000001
+      },
+      {
+        "word": "verified",
+        "start": 230.64000000000001,
+        "end": 231.23000000000002
+      },
+      {
+        "word": "among",
+        "start": 232.39000000000001,
+        "end": 232.70000000000002
+      },
+      {
+        "word": "them",
+        "start": 232.70000000000002,
+        "end": 233.02
+      },
+      {
+        "word": "i",
+        "start": 233.07000000000002,
+        "end": 233.23000000000002
+      },
+      {
+        "word": "picked",
+        "start": 233.23000000000002,
+        "end": 233.48000000000002
+      },
+      {
+        "word": "some",
+        "start": 233.48000000000002,
+        "end": 233.89000000000001
+      },
+      {
+        "word": "interesting",
+        "start": 234.25,
+        "end": 234.71
+      },
+      {
+        "word": "points",
+        "start": 234.71,
+        "end": 235.14000000000001
+      },
+      {
+        "word": "to",
+        "start": 235.14000000000001,
+        "end": 235.28
+      },
+      {
+        "word": "introduce",
+        "start": 235.28,
+        "end": 235.87
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Also,",
+        "start": 228.18,
+        "end": 228.59
+      },
+      {
+        "word": "6",
+        "start": 228.59,
+        "end": 228.98000000000002
+      },
+      {
+        "word": "of",
+        "start": 228.98000000000002,
+        "end": 229.20000000000002
+      },
+      {
+        "word": "13",
+        "start": 229.20000000000002,
+        "end": 229.63000000000002
+      },
+      {
+        "word": "conjectures",
+        "start": 229.63000000000002,
+        "end": 230.38000000000002
+      },
+      {
+        "word": "are",
+        "start": 230.38000000000002,
+        "end": 230.64000000000001
+      },
+      {
+        "word": "verified.",
+        "start": 230.64000000000001,
+        "end": 231.23000000000002
+      },
+      {
+        "word": "Among",
+        "start": 232.39000000000001,
+        "end": 232.70000000000002
+      },
+      {
+        "word": "them,",
+        "start": 232.70000000000002,
+        "end": 233.02
+      },
+      {
+        "word": "I",
+        "start": 233.07000000000002,
+        "end": 233.23000000000002
+      },
+      {
+        "word": "picked",
+        "start": 233.23000000000002,
+        "end": 233.48000000000002
+      },
+      {
+        "word": "some",
+        "start": 233.48000000000002,
+        "end": 233.89000000000001
+      },
+      {
+        "word": "interesting",
+        "start": 234.25,
+        "end": 234.71
+      },
+      {
+        "word": "points",
+        "start": 234.71,
+        "end": 235.14000000000001
+      },
+      {
+        "word": "to",
+        "start": 235.14000000000001,
+        "end": 235.28
+      },
+      {
+        "word": "introduce.",
+        "start": 235.28,
+        "end": 235.85000000000002
+      }
+    ]
+  },
+  {
+    "timestr": "0236070_0240960",
+    "final_spoken": "please refer to our paper for other detailed results and information",
+    "final_written": "Please refer to our paper for other detailed results and information.",
+    "words_spoken": [
+      {
+        "word": "please",
+        "start": 236.28,
+        "end": 236.54999999999998
+      },
+      {
+        "word": "refer",
+        "start": 236.54999999999998,
+        "end": 236.9
+      },
+      {
+        "word": "to",
+        "start": 236.9,
+        "end": 237.04999999999998
+      },
+      {
+        "word": "our",
+        "start": 237.04999999999998,
+        "end": 237.29999999999998
+      },
+      {
+        "word": "paper",
+        "start": 237.29999999999998,
+        "end": 237.94
+      },
+      {
+        "word": "for",
+        "start": 237.94,
+        "end": 238.32
+      },
+      {
+        "word": "other",
+        "start": 238.37,
+        "end": 238.62
+      },
+      {
+        "word": "detailed",
+        "start": 238.62,
+        "end": 239.06
+      },
+      {
+        "word": "results",
+        "start": 239.06,
+        "end": 239.57
+      },
+      {
+        "word": "and",
+        "start": 239.57,
+        "end": 239.64
+      },
+      {
+        "word": "information",
+        "start": 239.64,
+        "end": 240.5
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Please",
+        "start": 236.28,
+        "end": 236.54999999999998
+      },
+      {
+        "word": "refer",
+        "start": 236.54999999999998,
+        "end": 236.9
+      },
+      {
+        "word": "to",
+        "start": 236.9,
+        "end": 237.04999999999998
+      },
+      {
+        "word": "our",
+        "start": 237.04999999999998,
+        "end": 237.29999999999998
+      },
+      {
+        "word": "paper",
+        "start": 237.29999999999998,
+        "end": 237.94
+      },
+      {
+        "word": "for",
+        "start": 237.94,
+        "end": 238.32
+      },
+      {
+        "word": "other",
+        "start": 238.37,
+        "end": 238.62
+      },
+      {
+        "word": "detailed",
+        "start": 238.62,
+        "end": 239.06
+      },
+      {
+        "word": "results",
+        "start": 239.06,
+        "end": 239.57
+      },
+      {
+        "word": "and",
+        "start": 239.57,
+        "end": 239.64
+      },
+      {
+        "word": "information.",
+        "start": 239.64,
+        "end": 240.5
+      }
+    ]
+  },
+  {
+    "timestr": "0240960_0250530",
+    "final_spoken": "first professional players were more familiar with their mouse sensitivity so that they showed less corrective movements just before the shooting",
+    "final_written": "First, professional players were more familiar with their mouse sensitivity so that they showed less corrective movements just before the shooting.",
+    "words_spoken": [
+      {
+        "word": "first",
+        "start": 240.96,
+        "end": 241.64000000000001
+      },
+      {
+        "word": "professional",
+        "start": 241.64000000000001,
+        "end": 242.14000000000001
+      },
+      {
+        "word": "players",
+        "start": 242.14000000000001,
+        "end": 242.8
+      },
+      {
+        "word": "were",
+        "start": 242.83,
+        "end": 243.16
+      },
+      {
+        "word": "more",
+        "start": 243.16,
+        "end": 243.44
+      },
+      {
+        "word": "familiar",
+        "start": 243.44,
+        "end": 244.17000000000002
+      },
+      {
+        "word": "with",
+        "start": 244.17000000000002,
+        "end": 244.4
+      },
+      {
+        "word": "their",
+        "start": 244.4,
+        "end": 244.58
+      },
+      {
+        "word": "mouse",
+        "start": 244.58,
+        "end": 244.89000000000001
+      },
+      {
+        "word": "sensitivity",
+        "start": 244.89000000000001,
+        "end": 245.62
+      },
+      {
+        "word": "so",
+        "start": 245.86,
+        "end": 246.13
+      },
+      {
+        "word": "that",
+        "start": 246.13,
+        "end": 246.5
+      },
+      {
+        "word": "they",
+        "start": 246.5,
+        "end": 246.63
+      },
+      {
+        "word": "showed",
+        "start": 246.63,
+        "end": 246.92000000000002
+      },
+      {
+        "word": "less",
+        "start": 246.92000000000002,
+        "end": 247.26000000000002
+      },
+      {
+        "word": "corrective",
+        "start": 247.26000000000002,
+        "end": 247.73000000000002
+      },
+      {
+        "word": "movements",
+        "start": 247.73000000000002,
+        "end": 248.55
+      },
+      {
+        "word": "just",
+        "start": 248.55,
+        "end": 248.79000000000002
+      },
+      {
+        "word": "before",
+        "start": 248.79000000000002,
+        "end": 249.21
+      },
+      {
+        "word": "the",
+        "start": 249.21,
+        "end": 249.31
+      },
+      {
+        "word": "shooting",
+        "start": 249.31,
+        "end": 249.66
+      }
+    ],
+    "words_written": [
+      {
+        "word": "First,",
+        "start": 240.96,
+        "end": 241.64000000000001
+      },
+      {
+        "word": "professional",
+        "start": 241.64000000000001,
+        "end": 242.14000000000001
+      },
+      {
+        "word": "players",
+        "start": 242.14000000000001,
+        "end": 242.8
+      },
+      {
+        "word": "were",
+        "start": 242.84,
+        "end": 243.16
+      },
+      {
+        "word": "more",
+        "start": 243.16,
+        "end": 243.44
+      },
+      {
+        "word": "familiar",
+        "start": 243.44,
+        "end": 244.17000000000002
+      },
+      {
+        "word": "with",
+        "start": 244.17000000000002,
+        "end": 244.4
+      },
+      {
+        "word": "their",
+        "start": 244.4,
+        "end": 244.58
+      },
+      {
+        "word": "mouse",
+        "start": 244.58,
+        "end": 244.89000000000001
+      },
+      {
+        "word": "sensitivity",
+        "start": 244.89000000000001,
+        "end": 245.62
+      },
+      {
+        "word": "so",
+        "start": 245.86,
+        "end": 246.13
+      },
+      {
+        "word": "that",
+        "start": 246.13,
+        "end": 246.5
+      },
+      {
+        "word": "they",
+        "start": 246.5,
+        "end": 246.63
+      },
+      {
+        "word": "showed",
+        "start": 246.63,
+        "end": 246.92000000000002
+      },
+      {
+        "word": "less",
+        "start": 246.92000000000002,
+        "end": 247.26000000000002
+      },
+      {
+        "word": "corrective",
+        "start": 247.26000000000002,
+        "end": 247.73000000000002
+      },
+      {
+        "word": "movements",
+        "start": 247.73000000000002,
+        "end": 248.55
+      },
+      {
+        "word": "just",
+        "start": 248.55,
+        "end": 248.79000000000002
+      },
+      {
+        "word": "before",
+        "start": 248.79000000000002,
+        "end": 249.21
+      },
+      {
+        "word": "the",
+        "start": 249.21,
+        "end": 249.31
+      },
+      {
+        "word": "shooting.",
+        "start": 249.31,
+        "end": 249.66
+      }
+    ]
+  },
+  {
+    "timestr": "0250530_0256390",
+    "final_spoken": "also professional players tended to use more elbows than the wrists during aiming",
+    "final_written": "Also, professional players tended to use more elbows than the wrists during aiming,",
+    "words_spoken": [
+      {
+        "word": "also",
+        "start": 251.34,
+        "end": 251.85
+      },
+      {
+        "word": "professional",
+        "start": 251.85,
+        "end": 252.47
+      },
+      {
+        "word": "players",
+        "start": 252.47,
+        "end": 252.87
+      },
+      {
+        "word": "tended",
+        "start": 252.87,
+        "end": 253.32
+      },
+      {
+        "word": "to",
+        "start": 253.32,
+        "end": 253.45
+      },
+      {
+        "word": "use",
+        "start": 253.45,
+        "end": 253.78
+      },
+      {
+        "word": "more",
+        "start": 253.78,
+        "end": 254.13
+      },
+      {
+        "word": "elbows",
+        "start": 254.22,
+        "end": 254.87
+      },
+      {
+        "word": "than",
+        "start": 254.87,
+        "end": 255.1
+      },
+      {
+        "word": "the",
+        "start": 255.1,
+        "end": 255.17
+      },
+      {
+        "word": "wrists",
+        "start": 255.17,
+        "end": 255.57
+      },
+      {
+        "word": "during",
+        "start": 255.57,
+        "end": 255.8
+      },
+      {
+        "word": "aiming",
+        "start": 255.8,
+        "end": 256.39
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Also,",
+        "start": 251.34,
+        "end": 251.85
+      },
+      {
+        "word": "professional",
+        "start": 251.85,
+        "end": 252.47
+      },
+      {
+        "word": "players",
+        "start": 252.47,
+        "end": 252.87
+      },
+      {
+        "word": "tended",
+        "start": 252.87,
+        "end": 253.32
+      },
+      {
+        "word": "to",
+        "start": 253.32,
+        "end": 253.46
+      },
+      {
+        "word": "use",
+        "start": 253.46,
+        "end": 253.78
+      },
+      {
+        "word": "more",
+        "start": 253.78,
+        "end": 254.13
+      },
+      {
+        "word": "elbows",
+        "start": 254.22,
+        "end": 254.87
+      },
+      {
+        "word": "than",
+        "start": 254.87,
+        "end": 255.1
+      },
+      {
+        "word": "the",
+        "start": 255.1,
+        "end": 255.17
+      },
+      {
+        "word": "wrists",
+        "start": 255.17,
+        "end": 255.57
+      },
+      {
+        "word": "during",
+        "start": 255.57,
+        "end": 255.8
+      },
+      {
+        "word": "aiming,",
+        "start": 255.8,
+        "end": 256.39
+      }
+    ]
+  },
+  {
+    "timestr": "0256390_0261130",
+    "final_spoken": "and the rotation ratio was higher than the amateurs",
+    "final_written": "and the rotation ratio was higher than the amateurs.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 256.63,
+        "end": 256.97999999999996
+      },
+      {
+        "word": "the",
+        "start": 256.97999999999996,
+        "end": 257.09999999999997
+      },
+      {
+        "word": "rotation",
+        "start": 257.09999999999997,
+        "end": 257.68
+      },
+      {
+        "word": "ratio",
+        "start": 257.68,
+        "end": 258.2
+      },
+      {
+        "word": "was",
+        "start": 258.2,
+        "end": 258.49
+      },
+      {
+        "word": "higher",
+        "start": 258.49,
+        "end": 259.08
+      },
+      {
+        "word": "than",
+        "start": 259.08,
+        "end": 259.32
+      },
+      {
+        "word": "the",
+        "start": 259.32,
+        "end": 259.43
+      },
+      {
+        "word": "amateurs",
+        "start": 259.43,
+        "end": 260.11
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 256.63,
+        "end": 256.97999999999996
+      },
+      {
+        "word": "the",
+        "start": 256.97999999999996,
+        "end": 257.09999999999997
+      },
+      {
+        "word": "rotation",
+        "start": 257.09999999999997,
+        "end": 257.68
+      },
+      {
+        "word": "ratio",
+        "start": 257.68,
+        "end": 258.2
+      },
+      {
+        "word": "was",
+        "start": 258.2,
+        "end": 258.49
+      },
+      {
+        "word": "higher",
+        "start": 258.49,
+        "end": 259.08
+      },
+      {
+        "word": "than",
+        "start": 259.08,
+        "end": 259.32
+      },
+      {
+        "word": "the",
+        "start": 259.32,
+        "end": 259.43
+      },
+      {
+        "word": "amateurs.",
+        "start": 259.43,
+        "end": 260.11
+      }
+    ]
+  },
+  {
+    "timestr": "0261130_0269130",
+    "final_spoken": "lastly professional players' sensitivity was low and they used a larger area of the mousepad",
+    "final_written": "Lastly, professional players' sensitivity was low and they used a larger area of the mousepad.",
+    "words_spoken": [
+      {
+        "word": "lastly",
+        "start": 262.13,
+        "end": 262.73
+      },
+      {
+        "word": "professional",
+        "start": 262.96999999999997,
+        "end": 263.45
+      },
+      {
+        "word": "players'",
+        "start": 263.45,
+        "end": 263.9
+      },
+      {
+        "word": "sensitivity",
+        "start": 263.9,
+        "end": 264.63
+      },
+      {
+        "word": "was",
+        "start": 264.63,
+        "end": 264.88
+      },
+      {
+        "word": "low",
+        "start": 264.88,
+        "end": 265.33
+      },
+      {
+        "word": "and",
+        "start": 265.33,
+        "end": 265.6
+      },
+      {
+        "word": "they",
+        "start": 265.6,
+        "end": 265.73
+      },
+      {
+        "word": "used",
+        "start": 265.73,
+        "end": 266.15999999999997
+      },
+      {
+        "word": "a",
+        "start": 266.2,
+        "end": 266.39
+      },
+      {
+        "word": "larger",
+        "start": 266.39,
+        "end": 266.77
+      },
+      {
+        "word": "area",
+        "start": 266.77,
+        "end": 267.36
+      },
+      {
+        "word": "of",
+        "start": 267.39,
+        "end": 267.55
+      },
+      {
+        "word": "the",
+        "start": 267.55,
+        "end": 267.62
+      },
+      {
+        "word": "mousepad",
+        "start": 267.62,
+        "end": 267.94
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Lastly,",
+        "start": 262.13,
+        "end": 262.73
+      },
+      {
+        "word": "professional",
+        "start": 262.96999999999997,
+        "end": 263.45
+      },
+      {
+        "word": "players'",
+        "start": 263.45,
+        "end": 263.9
+      },
+      {
+        "word": "sensitivity",
+        "start": 263.9,
+        "end": 264.63
+      },
+      {
+        "word": "was",
+        "start": 264.63,
+        "end": 264.88
+      },
+      {
+        "word": "low",
+        "start": 264.88,
+        "end": 265.33
+      },
+      {
+        "word": "and",
+        "start": 265.33,
+        "end": 265.6
+      },
+      {
+        "word": "they",
+        "start": 265.6,
+        "end": 265.73
+      },
+      {
+        "word": "used",
+        "start": 265.73,
+        "end": 266.15999999999997
+      },
+      {
+        "word": "a",
+        "start": 266.2,
+        "end": 266.39
+      },
+      {
+        "word": "larger",
+        "start": 266.39,
+        "end": 266.77
+      },
+      {
+        "word": "area",
+        "start": 266.77,
+        "end": 267.36
+      },
+      {
+        "word": "of",
+        "start": 267.39,
+        "end": 267.55
+      },
+      {
+        "word": "the",
+        "start": 267.55,
+        "end": 267.62
+      },
+      {
+        "word": "mousepad.",
+        "start": 267.62,
+        "end": 267.94
+      }
+    ]
+  },
+  {
+    "timestr": "0269130_0277390",
+    "final_spoken": "through these results we revealed two interesting points about the origin of the high performance of professional players",
+    "final_written": "Through these results, we revealed two interesting points about the origin of the high performance of professional players.",
+    "words_spoken": [
+      {
+        "word": "through",
+        "start": 269.90999999999997,
+        "end": 270.27
+      },
+      {
+        "word": "these",
+        "start": 270.27,
+        "end": 270.46
+      },
+      {
+        "word": "results",
+        "start": 270.46,
+        "end": 271.11
+      },
+      {
+        "word": "we",
+        "start": 271.19,
+        "end": 271.38
+      },
+      {
+        "word": "revealed",
+        "start": 271.38,
+        "end": 271.8
+      },
+      {
+        "word": "two",
+        "start": 272.24,
+        "end": 272.45
+      },
+      {
+        "word": "interesting",
+        "start": 272.45,
+        "end": 272.96
+      },
+      {
+        "word": "points",
+        "start": 272.96,
+        "end": 273.4
+      },
+      {
+        "word": "about",
+        "start": 273.4,
+        "end": 273.88
+      },
+      {
+        "word": "the",
+        "start": 273.88,
+        "end": 273.99
+      },
+      {
+        "word": "origin",
+        "start": 273.99,
+        "end": 274.44
+      },
+      {
+        "word": "of",
+        "start": 274.44,
+        "end": 274.62
+      },
+      {
+        "word": "the",
+        "start": 274.62,
+        "end": 274.68
+      },
+      {
+        "word": "high",
+        "start": 274.68,
+        "end": 274.93
+      },
+      {
+        "word": "performance",
+        "start": 274.93,
+        "end": 275.6
+      },
+      {
+        "word": "of",
+        "start": 275.6,
+        "end": 275.82
+      },
+      {
+        "word": "professional",
+        "start": 275.82,
+        "end": 276.40999999999997
+      },
+      {
+        "word": "players",
+        "start": 276.40999999999997,
+        "end": 276.96999999999997
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Through",
+        "start": 269.90999999999997,
+        "end": 270.27
+      },
+      {
+        "word": "these",
+        "start": 270.27,
+        "end": 270.46
+      },
+      {
+        "word": "results,",
+        "start": 270.46,
+        "end": 271.11
+      },
+      {
+        "word": "we",
+        "start": 271.19,
+        "end": 271.38
+      },
+      {
+        "word": "revealed",
+        "start": 271.38,
+        "end": 271.8
+      },
+      {
+        "word": "two",
+        "start": 272.24,
+        "end": 272.45
+      },
+      {
+        "word": "interesting",
+        "start": 272.45,
+        "end": 272.96
+      },
+      {
+        "word": "points",
+        "start": 272.96,
+        "end": 273.4
+      },
+      {
+        "word": "about",
+        "start": 273.4,
+        "end": 273.88
+      },
+      {
+        "word": "the",
+        "start": 273.88,
+        "end": 273.99
+      },
+      {
+        "word": "origin",
+        "start": 273.99,
+        "end": 274.44
+      },
+      {
+        "word": "of",
+        "start": 274.44,
+        "end": 274.62
+      },
+      {
+        "word": "the",
+        "start": 274.62,
+        "end": 274.68
+      },
+      {
+        "word": "high",
+        "start": 274.68,
+        "end": 274.93
+      },
+      {
+        "word": "performance",
+        "start": 274.93,
+        "end": 275.6
+      },
+      {
+        "word": "of",
+        "start": 275.6,
+        "end": 275.82
+      },
+      {
+        "word": "professional",
+        "start": 275.82,
+        "end": 276.40999999999997
+      },
+      {
+        "word": "players.",
+        "start": 276.40999999999997,
+        "end": 276.96999999999997
+      }
+    ]
+  },
+  {
+    "timestr": "0277390_0283610",
+    "final_spoken": "first we inferred that the influence of game interface could affect the combat strategies",
+    "final_written": "First, we inferred that the influence of game interface could affect the combat strategies.",
+    "words_spoken": [
+      {
+        "word": "first",
+        "start": 277.77,
+        "end": 278.09
+      },
+      {
+        "word": "we",
+        "start": 278.34,
+        "end": 278.57
+      },
+      {
+        "word": "inferred",
+        "start": 278.57,
+        "end": 278.94
+      },
+      {
+        "word": "that",
+        "start": 278.94,
+        "end": 279.25
+      },
+      {
+        "word": "the",
+        "start": 279.31,
+        "end": 279.46
+      },
+      {
+        "word": "influence",
+        "start": 279.46,
+        "end": 279.93
+      },
+      {
+        "word": "of",
+        "start": 279.93,
+        "end": 280.40999999999997
+      },
+      {
+        "word": "game",
+        "start": 280.40999999999997,
+        "end": 280.62
+      },
+      {
+        "word": "interface",
+        "start": 280.62,
+        "end": 281.4
+      },
+      {
+        "word": "could",
+        "start": 281.45,
+        "end": 281.63
+      },
+      {
+        "word": "affect",
+        "start": 281.63,
+        "end": 282.03
+      },
+      {
+        "word": "the",
+        "start": 282.03,
+        "end": 282.09
+      },
+      {
+        "word": "combat",
+        "start": 282.09,
+        "end": 282.45
+      },
+      {
+        "word": "strategies",
+        "start": 282.45,
+        "end": 283.26
+      }
+    ],
+    "words_written": [
+      {
+        "word": "First,",
+        "start": 277.77,
+        "end": 278.09
+      },
+      {
+        "word": "we",
+        "start": 278.34,
+        "end": 278.57
+      },
+      {
+        "word": "inferred",
+        "start": 278.57,
+        "end": 278.94
+      },
+      {
+        "word": "that",
+        "start": 278.94,
+        "end": 279.24
+      },
+      {
+        "word": "the",
+        "start": 279.31,
+        "end": 279.46
+      },
+      {
+        "word": "influence",
+        "start": 279.46,
+        "end": 279.93
+      },
+      {
+        "word": "of",
+        "start": 279.93,
+        "end": 280.40999999999997
+      },
+      {
+        "word": "game",
+        "start": 280.40999999999997,
+        "end": 280.62
+      },
+      {
+        "word": "interface",
+        "start": 280.62,
+        "end": 281.4
+      },
+      {
+        "word": "could",
+        "start": 281.45,
+        "end": 281.63
+      },
+      {
+        "word": "affect",
+        "start": 281.63,
+        "end": 282.03
+      },
+      {
+        "word": "the",
+        "start": 282.03,
+        "end": 282.09
+      },
+      {
+        "word": "combat",
+        "start": 282.09,
+        "end": 282.45
+      },
+      {
+        "word": "strategies.",
+        "start": 282.45,
+        "end": 283.26
+      }
+    ]
+  },
+  {
+    "timestr": "0283610_0291030",
+    "final_spoken": "this is because professional players' mouse sensitivity was lower so they had to move the mouse larger to move the same distance",
+    "final_written": "This is because professional players' mouse sensitivity was lower, so they had to move the mouse larger to move the same distance",
+    "words_spoken": [
+      {
+        "word": "this",
+        "start": 283.61,
+        "end": 284.14
+      },
+      {
+        "word": "is",
+        "start": 284.14,
+        "end": 284.29
+      },
+      {
+        "word": "because",
+        "start": 284.29,
+        "end": 284.83000000000004
+      },
+      {
+        "word": "professional",
+        "start": 284.95,
+        "end": 285.42
+      },
+      {
+        "word": "players'",
+        "start": 285.42,
+        "end": 285.87
+      },
+      {
+        "word": "mouse",
+        "start": 285.87,
+        "end": 286.15000000000003
+      },
+      {
+        "word": "sensitivity",
+        "start": 286.15000000000003,
+        "end": 286.66
+      },
+      {
+        "word": "was",
+        "start": 286.66,
+        "end": 286.91
+      },
+      {
+        "word": "lower",
+        "start": 286.91,
+        "end": 287.28000000000003
+      },
+      {
+        "word": "so",
+        "start": 287.43,
+        "end": 287.66
+      },
+      {
+        "word": "they",
+        "start": 287.66,
+        "end": 287.86
+      },
+      {
+        "word": "had",
+        "start": 287.86,
+        "end": 288.12
+      },
+      {
+        "word": "to",
+        "start": 288.12,
+        "end": 288.23
+      },
+      {
+        "word": "move",
+        "start": 288.23,
+        "end": 288.58000000000004
+      },
+      {
+        "word": "the",
+        "start": 288.58000000000004,
+        "end": 288.67
+      },
+      {
+        "word": "mouse",
+        "start": 288.67,
+        "end": 288.99
+      },
+      {
+        "word": "larger",
+        "start": 288.99,
+        "end": 289.46000000000004
+      },
+      {
+        "word": "to",
+        "start": 289.46000000000004,
+        "end": 289.69
+      },
+      {
+        "word": "move",
+        "start": 289.69,
+        "end": 289.94
+      },
+      {
+        "word": "the",
+        "start": 289.94,
+        "end": 290.0
+      },
+      {
+        "word": "same",
+        "start": 290.0,
+        "end": 290.32
+      },
+      {
+        "word": "distance",
+        "start": 290.32,
+        "end": 291.03000000000003
+      }
+    ],
+    "words_written": [
+      {
+        "word": "This",
+        "start": 283.61,
+        "end": 284.14
+      },
+      {
+        "word": "is",
+        "start": 284.14,
+        "end": 284.29
+      },
+      {
+        "word": "because",
+        "start": 284.29,
+        "end": 284.83000000000004
+      },
+      {
+        "word": "professional",
+        "start": 284.95,
+        "end": 285.42
+      },
+      {
+        "word": "players'",
+        "start": 285.42,
+        "end": 285.87
+      },
+      {
+        "word": "mouse",
+        "start": 285.87,
+        "end": 286.15000000000003
+      },
+      {
+        "word": "sensitivity",
+        "start": 286.15000000000003,
+        "end": 286.66
+      },
+      {
+        "word": "was",
+        "start": 286.66,
+        "end": 286.91
+      },
+      {
+        "word": "lower,",
+        "start": 286.91,
+        "end": 287.28000000000003
+      },
+      {
+        "word": "so",
+        "start": 287.43,
+        "end": 287.66
+      },
+      {
+        "word": "they",
+        "start": 287.66,
+        "end": 287.86
+      },
+      {
+        "word": "had",
+        "start": 287.86,
+        "end": 288.12
+      },
+      {
+        "word": "to",
+        "start": 288.12,
+        "end": 288.23
+      },
+      {
+        "word": "move",
+        "start": 288.23,
+        "end": 288.58000000000004
+      },
+      {
+        "word": "the",
+        "start": 288.58000000000004,
+        "end": 288.67
+      },
+      {
+        "word": "mouse",
+        "start": 288.67,
+        "end": 288.99
+      },
+      {
+        "word": "larger",
+        "start": 288.99,
+        "end": 289.46000000000004
+      },
+      {
+        "word": "to",
+        "start": 289.46000000000004,
+        "end": 289.69
+      },
+      {
+        "word": "move",
+        "start": 289.69,
+        "end": 289.94
+      },
+      {
+        "word": "the",
+        "start": 289.94,
+        "end": 290.0
+      },
+      {
+        "word": "same",
+        "start": 290.0,
+        "end": 290.32
+      },
+      {
+        "word": "distance",
+        "start": 290.32,
+        "end": 291.03000000000003
+      }
+    ]
+  },
+  {
+    "timestr": "0291030_0294070",
+    "final_spoken": "as the other player who used the high sensitivity",
+    "final_written": "as the other player who used the high sensitivity.",
+    "words_spoken": [
+      {
+        "word": "as",
+        "start": 291.21,
+        "end": 291.41999999999996
+      },
+      {
+        "word": "the",
+        "start": 291.41999999999996,
+        "end": 291.52
+      },
+      {
+        "word": "other",
+        "start": 291.55999999999995,
+        "end": 291.80999999999995
+      },
+      {
+        "word": "player",
+        "start": 291.80999999999995,
+        "end": 292.16999999999996
+      },
+      {
+        "word": "who",
+        "start": 292.16999999999996,
+        "end": 292.40999999999997
+      },
+      {
+        "word": "used",
+        "start": 292.40999999999997,
+        "end": 292.65
+      },
+      {
+        "word": "the",
+        "start": 292.65,
+        "end": 292.72999999999996
+      },
+      {
+        "word": "high",
+        "start": 292.72999999999996,
+        "end": 292.92999999999995
+      },
+      {
+        "word": "sensitivity",
+        "start": 292.92999999999995,
+        "end": 293.64
+      }
+    ],
+    "words_written": [
+      {
+        "word": "as",
+        "start": 291.21,
+        "end": 291.41999999999996
+      },
+      {
+        "word": "the",
+        "start": 291.41999999999996,
+        "end": 291.52
+      },
+      {
+        "word": "other",
+        "start": 291.55999999999995,
+        "end": 291.80999999999995
+      },
+      {
+        "word": "player",
+        "start": 291.80999999999995,
+        "end": 292.16999999999996
+      },
+      {
+        "word": "who",
+        "start": 292.16999999999996,
+        "end": 292.40999999999997
+      },
+      {
+        "word": "used",
+        "start": 292.40999999999997,
+        "end": 292.65
+      },
+      {
+        "word": "the",
+        "start": 292.65,
+        "end": 292.72999999999996
+      },
+      {
+        "word": "high",
+        "start": 292.72999999999996,
+        "end": 292.92999999999995
+      },
+      {
+        "word": "sensitivity.",
+        "start": 292.92999999999995,
+        "end": 293.64
+      }
+    ]
+  },
+  {
+    "timestr": "0294070_0301390",
+    "final_spoken": "second we deduced that the high performance of professional players may be due to their innate cognitive ability",
+    "final_written": "Second, we deduced that the high performance of professional players may be due to their innate cognitive ability,",
+    "words_spoken": [
+      {
+        "word": "second",
+        "start": 294.36,
+        "end": 294.86
+      },
+      {
+        "word": "we",
+        "start": 294.90999999999997,
+        "end": 295.05
+      },
+      {
+        "word": "deduced",
+        "start": 295.05,
+        "end": 295.49
+      },
+      {
+        "word": "that",
+        "start": 295.49,
+        "end": 295.9
+      },
+      {
+        "word": "the",
+        "start": 295.9,
+        "end": 295.98
+      },
+      {
+        "word": "high",
+        "start": 295.98,
+        "end": 296.38
+      },
+      {
+        "word": "performance",
+        "start": 296.38,
+        "end": 296.92
+      },
+      {
+        "word": "of",
+        "start": 296.92,
+        "end": 297.11
+      },
+      {
+        "word": "professional",
+        "start": 297.11,
+        "end": 297.59
+      },
+      {
+        "word": "players",
+        "start": 297.59,
+        "end": 298.23
+      },
+      {
+        "word": "may",
+        "start": 298.23,
+        "end": 298.43
+      },
+      {
+        "word": "be",
+        "start": 298.43,
+        "end": 298.59
+      },
+      {
+        "word": "due",
+        "start": 298.59,
+        "end": 298.86
+      },
+      {
+        "word": "to",
+        "start": 298.86,
+        "end": 299.11
+      },
+      {
+        "word": "their",
+        "start": 299.11,
+        "end": 299.46999999999997
+      },
+      {
+        "word": "innate",
+        "start": 299.5,
+        "end": 300.06
+      },
+      {
+        "word": "cognitive",
+        "start": 300.06,
+        "end": 300.56
+      },
+      {
+        "word": "ability",
+        "start": 300.56,
+        "end": 301.39
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Second,",
+        "start": 294.36,
+        "end": 294.86
+      },
+      {
+        "word": "we",
+        "start": 294.90999999999997,
+        "end": 295.05
+      },
+      {
+        "word": "deduced",
+        "start": 295.05,
+        "end": 295.49
+      },
+      {
+        "word": "that",
+        "start": 295.49,
+        "end": 295.9
+      },
+      {
+        "word": "the",
+        "start": 295.9,
+        "end": 295.98
+      },
+      {
+        "word": "high",
+        "start": 295.98,
+        "end": 296.38
+      },
+      {
+        "word": "performance",
+        "start": 296.38,
+        "end": 296.92
+      },
+      {
+        "word": "of",
+        "start": 296.92,
+        "end": 297.11
+      },
+      {
+        "word": "professional",
+        "start": 297.11,
+        "end": 297.59
+      },
+      {
+        "word": "players",
+        "start": 297.59,
+        "end": 298.23
+      },
+      {
+        "word": "may",
+        "start": 298.23,
+        "end": 298.43
+      },
+      {
+        "word": "be",
+        "start": 298.43,
+        "end": 298.59
+      },
+      {
+        "word": "due",
+        "start": 298.59,
+        "end": 298.86
+      },
+      {
+        "word": "to",
+        "start": 298.86,
+        "end": 299.11
+      },
+      {
+        "word": "their",
+        "start": 299.11,
+        "end": 299.46999999999997
+      },
+      {
+        "word": "innate",
+        "start": 299.5,
+        "end": 300.06
+      },
+      {
+        "word": "cognitive",
+        "start": 300.06,
+        "end": 300.56
+      },
+      {
+        "word": "ability,",
+        "start": 300.56,
+        "end": 301.39
+      }
+    ]
+  },
+  {
+    "timestr": "0301390_0311870",
+    "final_spoken": "because professional players showed lower reaction time in our study so this is end of our presentations and thank you for listening",
+    "final_written": "because professional players showed lower reaction time in our study. So, this is end of our presentations and thank you for listening.",
+    "words_spoken": [
+      {
+        "word": "because",
+        "start": 301.56,
+        "end": 301.94
+      },
+      {
+        "word": "professional",
+        "start": 301.94,
+        "end": 302.46
+      },
+      {
+        "word": "players",
+        "start": 302.46,
+        "end": 302.86
+      },
+      {
+        "word": "showed",
+        "start": 302.86,
+        "end": 303.21
+      },
+      {
+        "word": "lower",
+        "start": 303.21,
+        "end": 303.58
+      },
+      {
+        "word": "reaction",
+        "start": 303.58,
+        "end": 303.99
+      },
+      {
+        "word": "time",
+        "start": 303.99,
+        "end": 304.34
+      },
+      {
+        "word": "in",
+        "start": 304.34,
+        "end": 304.46
+      },
+      {
+        "word": "our",
+        "start": 304.46,
+        "end": 304.69
+      },
+      {
+        "word": "study",
+        "start": 304.69,
+        "end": 305.09999999999997
+      },
+      {
+        "word": "so",
+        "start": 307.62,
+        "end": 308.21
+      },
+      {
+        "word": "this",
+        "start": 308.26,
+        "end": 308.44
+      },
+      {
+        "word": "is",
+        "start": 308.44,
+        "end": 308.81
+      },
+      {
+        "word": "end",
+        "start": 308.84,
+        "end": 309.06
+      },
+      {
+        "word": "of",
+        "start": 309.06,
+        "end": 309.21999999999997
+      },
+      {
+        "word": "our",
+        "start": 309.21999999999997,
+        "end": 309.65
+      },
+      {
+        "word": "presentations",
+        "start": 309.65,
+        "end": 310.53
+      },
+      {
+        "word": "and",
+        "start": 310.56,
+        "end": 310.96
+      },
+      {
+        "word": "thank",
+        "start": 310.96,
+        "end": 311.13
+      },
+      {
+        "word": "you",
+        "start": 311.13,
+        "end": 311.19
+      },
+      {
+        "word": "for",
+        "start": 311.19,
+        "end": 311.37
+      },
+      {
+        "word": "listening",
+        "start": 311.37,
+        "end": 311.87
+      }
+    ],
+    "words_written": [
+      {
+        "word": "because",
+        "start": 301.56,
+        "end": 301.94
+      },
+      {
+        "word": "professional",
+        "start": 301.94,
+        "end": 302.46
+      },
+      {
+        "word": "players",
+        "start": 302.46,
+        "end": 302.86
+      },
+      {
+        "word": "showed",
+        "start": 302.86,
+        "end": 303.21
+      },
+      {
+        "word": "lower",
+        "start": 303.21,
+        "end": 303.58
+      },
+      {
+        "word": "reaction",
+        "start": 303.58,
+        "end": 303.99
+      },
+      {
+        "word": "time",
+        "start": 303.99,
+        "end": 304.33
+      },
+      {
+        "word": "in",
+        "start": 304.33,
+        "end": 304.46
+      },
+      {
+        "word": "our",
+        "start": 304.46,
+        "end": 304.69
+      },
+      {
+        "word": "study.",
+        "start": 304.69,
+        "end": 305.09999999999997
+      },
+      {
+        "word": "So,",
+        "start": 307.62,
+        "end": 308.21
+      },
+      {
+        "word": "this",
+        "start": 308.26,
+        "end": 308.44
+      },
+      {
+        "word": "is",
+        "start": 308.44,
+        "end": 308.81
+      },
+      {
+        "word": "end",
+        "start": 308.84,
+        "end": 309.06
+      },
+      {
+        "word": "of",
+        "start": 309.06,
+        "end": 309.21999999999997
+      },
+      {
+        "word": "our",
+        "start": 309.21999999999997,
+        "end": 309.65
+      },
+      {
+        "word": "presentations",
+        "start": 309.65,
+        "end": 310.53
+      },
+      {
+        "word": "and",
+        "start": 310.56,
+        "end": 310.96
+      },
+      {
+        "word": "thank",
+        "start": 310.96,
+        "end": 311.13
+      },
+      {
+        "word": "you",
+        "start": 311.13,
+        "end": 311.19
+      },
+      {
+        "word": "for",
+        "start": 311.19,
+        "end": 311.37
+      },
+      {
+        "word": "listening.",
+        "start": 311.37,
+        "end": 311.87
+      }
+    ]
+  }
+]
