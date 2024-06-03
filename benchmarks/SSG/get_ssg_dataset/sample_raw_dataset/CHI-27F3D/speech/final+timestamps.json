@@ -1,0 +1,7952 @@
+[
+  {
+    "timestr": "0005120_0011900",
+    "final_spoken": "hi i'm xianghua ding from fudan university i'm going to present a paper called data engagement reconsidered",
+    "final_written": "Hi, I'm Xianghua Ding from Fudan University. I'm going to present a paper called Data Engagement Reconsidered.",
+    "words_spoken": [
+      {
+        "word": "hi",
+        "start": 5.12,
+        "end": 5.28
+      },
+      {
+        "word": "i'm",
+        "start": 5.28,
+        "end": 5.6
+      },
+      {
+        "word": "xianghua",
+        "start": 5.6,
+        "end": 6.08
+      },
+      {
+        "word": "ding",
+        "start": 6.08,
+        "end": 6.29
+      },
+      {
+        "word": "from",
+        "start": 6.29,
+        "end": 6.5
+      },
+      {
+        "word": "fudan",
+        "start": 6.5,
+        "end": 6.8
+      },
+      {
+        "word": "university",
+        "start": 6.8,
+        "end": 7.48
+      },
+      {
+        "word": "i'm",
+        "start": 7.54,
+        "end": 7.76
+      },
+      {
+        "word": "going",
+        "start": 7.76,
+        "end": 7.96
+      },
+      {
+        "word": "to",
+        "start": 7.96,
+        "end": 8.120000000000001
+      },
+      {
+        "word": "present",
+        "start": 8.120000000000001,
+        "end": 8.7
+      },
+      {
+        "word": "a",
+        "start": 8.7,
+        "end": 8.83
+      },
+      {
+        "word": "paper",
+        "start": 8.83,
+        "end": 9.26
+      },
+      {
+        "word": "called",
+        "start": 9.26,
+        "end": 9.59
+      },
+      {
+        "word": "data",
+        "start": 9.59,
+        "end": 9.81
+      },
+      {
+        "word": "engagement",
+        "start": 9.81,
+        "end": 10.7
+      },
+      {
+        "word": "reconsidered",
+        "start": 10.7,
+        "end": 11.46
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Hi,",
+        "start": 5.12,
+        "end": 5.28
+      },
+      {
+        "word": "I'm",
+        "start": 5.28,
+        "end": 5.6
+      },
+      {
+        "word": "Xianghua",
+        "start": 5.6,
+        "end": 6.08
+      },
+      {
+        "word": "Ding",
+        "start": 6.08,
+        "end": 6.29
+      },
+      {
+        "word": "from",
+        "start": 6.29,
+        "end": 6.5
+      },
+      {
+        "word": "Fudan",
+        "start": 6.5,
+        "end": 6.8
+      },
+      {
+        "word": "University.",
+        "start": 6.8,
+        "end": 7.48
+      },
+      {
+        "word": "I'm",
+        "start": 7.54,
+        "end": 7.76
+      },
+      {
+        "word": "going",
+        "start": 7.76,
+        "end": 7.96
+      },
+      {
+        "word": "to",
+        "start": 7.96,
+        "end": 8.120000000000001
+      },
+      {
+        "word": "present",
+        "start": 8.120000000000001,
+        "end": 8.7
+      },
+      {
+        "word": "a",
+        "start": 8.7,
+        "end": 8.83
+      },
+      {
+        "word": "paper",
+        "start": 8.83,
+        "end": 9.26
+      },
+      {
+        "word": "called",
+        "start": 9.26,
+        "end": 9.59
+      },
+      {
+        "word": "Data",
+        "start": 9.59,
+        "end": 9.81
+      },
+      {
+        "word": "Engagement",
+        "start": 9.81,
+        "end": 10.7
+      },
+      {
+        "word": "Reconsidered.",
+        "start": 10.7,
+        "end": 11.46
+      }
+    ]
+  },
+  {
+    "timestr": "0011900_0021220",
+    "final_spoken": "a study of automatic stress tracking technology in use in today's very fast paced and busy world stress has become a growing health concern",
+    "final_written": "a study of automatic stress-tracking technology in use. In today's very fast-paced and busy world, stress has become a growing health concern.",
+    "words_spoken": [
+      {
+        "word": "a",
+        "start": 12.08,
+        "end": 12.14
+      },
+      {
+        "word": "study",
+        "start": 12.14,
+        "end": 12.55
+      },
+      {
+        "word": "of",
+        "start": 12.55,
+        "end": 12.67
+      },
+      {
+        "word": "automatic",
+        "start": 12.67,
+        "end": 13.370000000000001
+      },
+      {
+        "word": "stress",
+        "start": 13.370000000000001,
+        "end": 13.74
+      },
+      {
+        "word": "tracking",
+        "start": 13.74,
+        "end": 14.09
+      },
+      {
+        "word": "technology",
+        "start": 14.09,
+        "end": 15.030000000000001
+      },
+      {
+        "word": "in",
+        "start": 15.93,
+        "end": 16.21
+      },
+      {
+        "word": "use",
+        "start": 16.21,
+        "end": 16.43
+      },
+      {
+        "word": "in",
+        "start": 16.43,
+        "end": 16.5
+      },
+      {
+        "word": "today's",
+        "start": 16.5,
+        "end": 16.76
+      },
+      {
+        "word": "very",
+        "start": 17.08,
+        "end": 17.23
+      },
+      {
+        "word": "fast",
+        "start": 17.23,
+        "end": 17.380000000000003
+      },
+      {
+        "word": "paced",
+        "start": 17.380000000000003,
+        "end": 17.72
+      },
+      {
+        "word": "and",
+        "start": 17.72,
+        "end": 17.98
+      },
+      {
+        "word": "busy",
+        "start": 17.98,
+        "end": 18.27
+      },
+      {
+        "word": "world",
+        "start": 18.27,
+        "end": 18.66
+      },
+      {
+        "word": "stress",
+        "start": 18.66,
+        "end": 19.0
+      },
+      {
+        "word": "has",
+        "start": 19.0,
+        "end": 19.27
+      },
+      {
+        "word": "become",
+        "start": 19.27,
+        "end": 19.64
+      },
+      {
+        "word": "a",
+        "start": 19.64,
+        "end": 19.71
+      },
+      {
+        "word": "growing",
+        "start": 19.71,
+        "end": 20.11
+      },
+      {
+        "word": "health",
+        "start": 20.11,
+        "end": 20.34
+      },
+      {
+        "word": "concern",
+        "start": 20.43,
+        "end": 21.04
+      }
+    ],
+    "words_written": [
+      {
+        "word": "a",
+        "start": 12.08,
+        "end": 12.14
+      },
+      {
+        "word": "study",
+        "start": 12.14,
+        "end": 12.55
+      },
+      {
+        "word": "of",
+        "start": 12.55,
+        "end": 12.67
+      },
+      {
+        "word": "automatic",
+        "start": 12.67,
+        "end": 13.370000000000001
+      },
+      {
+        "word": "stress-tracking",
+        "start": 13.370000000000001,
+        "end": 14.09
+      },
+      {
+        "word": "technology",
+        "start": 14.09,
+        "end": 15.030000000000001
+      },
+      {
+        "word": "in",
+        "start": 15.93,
+        "end": 16.21
+      },
+      {
+        "word": "use.",
+        "start": 16.21,
+        "end": 16.43
+      },
+      {
+        "word": "In",
+        "start": 16.43,
+        "end": 16.5
+      },
+      {
+        "word": "today's",
+        "start": 16.5,
+        "end": 16.76
+      },
+      {
+        "word": "very",
+        "start": 17.08,
+        "end": 17.23
+      },
+      {
+        "word": "fast-paced",
+        "start": 17.23,
+        "end": 17.72
+      },
+      {
+        "word": "and",
+        "start": 17.72,
+        "end": 17.98
+      },
+      {
+        "word": "busy",
+        "start": 17.98,
+        "end": 18.27
+      },
+      {
+        "word": "world,",
+        "start": 18.27,
+        "end": 18.66
+      },
+      {
+        "word": "stress",
+        "start": 18.66,
+        "end": 19.0
+      },
+      {
+        "word": "has",
+        "start": 19.0,
+        "end": 19.27
+      },
+      {
+        "word": "become",
+        "start": 19.27,
+        "end": 19.64
+      },
+      {
+        "word": "a",
+        "start": 19.64,
+        "end": 19.71
+      },
+      {
+        "word": "growing",
+        "start": 19.71,
+        "end": 20.08
+      },
+      {
+        "word": "health",
+        "start": 20.08,
+        "end": 20.34
+      },
+      {
+        "word": "concern.",
+        "start": 20.43,
+        "end": 21.04
+      }
+    ]
+  },
+  {
+    "timestr": "0021220_0029835",
+    "final_spoken": "and also we calmly talk about stress every day the notion of stress is very complex there's no unified definition of stress yet",
+    "final_written": "And also we calmly talk about stress every day. The notion of stress is very complex. There's no unified definition of stress yet.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 21.439999999999998,
+        "end": 21.65
+      },
+      {
+        "word": "also",
+        "start": 21.65,
+        "end": 22.0
+      },
+      {
+        "word": "we",
+        "start": 22.0,
+        "end": 22.119999999999997
+      },
+      {
+        "word": "calmly",
+        "start": 22.119999999999997,
+        "end": 22.509999999999998
+      },
+      {
+        "word": "talk",
+        "start": 22.509999999999998,
+        "end": 22.799999999999997
+      },
+      {
+        "word": "about",
+        "start": 22.799999999999997,
+        "end": 23.08
+      },
+      {
+        "word": "stress",
+        "start": 23.08,
+        "end": 23.57
+      },
+      {
+        "word": "every",
+        "start": 23.68,
+        "end": 23.96
+      },
+      {
+        "word": "day",
+        "start": 23.96,
+        "end": 24.299999999999997
+      },
+      {
+        "word": "the",
+        "start": 24.549999999999997,
+        "end": 24.61
+      },
+      {
+        "word": "notion",
+        "start": 24.61,
+        "end": 24.99
+      },
+      {
+        "word": "of",
+        "start": 24.99,
+        "end": 25.02
+      },
+      {
+        "word": "stress",
+        "start": 25.02,
+        "end": 25.38
+      },
+      {
+        "word": "is",
+        "start": 25.38,
+        "end": 25.56
+      },
+      {
+        "word": "very",
+        "start": 25.56,
+        "end": 25.799999999999997
+      },
+      {
+        "word": "complex",
+        "start": 25.799999999999997,
+        "end": 26.599999999999998
+      },
+      {
+        "word": "there's",
+        "start": 26.91,
+        "end": 27.08
+      },
+      {
+        "word": "no",
+        "start": 27.08,
+        "end": 27.29
+      },
+      {
+        "word": "unified",
+        "start": 27.29,
+        "end": 28.0
+      },
+      {
+        "word": "definition",
+        "start": 28.0,
+        "end": 28.689999999999998
+      },
+      {
+        "word": "of",
+        "start": 28.689999999999998,
+        "end": 28.759999999999998
+      },
+      {
+        "word": "stress",
+        "start": 28.759999999999998,
+        "end": 29.13
+      },
+      {
+        "word": "yet",
+        "start": 29.13,
+        "end": 29.409999999999997
+      }
+    ],
+    "words_written": [
+      {
+        "word": "And",
+        "start": 21.439999999999998,
+        "end": 21.65
+      },
+      {
+        "word": "also",
+        "start": 21.65,
+        "end": 22.0
+      },
+      {
+        "word": "we",
+        "start": 22.0,
+        "end": 22.119999999999997
+      },
+      {
+        "word": "calmly",
+        "start": 22.119999999999997,
+        "end": 22.509999999999998
+      },
+      {
+        "word": "talk",
+        "start": 22.509999999999998,
+        "end": 22.799999999999997
+      },
+      {
+        "word": "about",
+        "start": 22.799999999999997,
+        "end": 23.08
+      },
+      {
+        "word": "stress",
+        "start": 23.08,
+        "end": 23.57
+      },
+      {
+        "word": "every",
+        "start": 23.68,
+        "end": 23.96
+      },
+      {
+        "word": "day.",
+        "start": 23.96,
+        "end": 24.29
+      },
+      {
+        "word": "The",
+        "start": 24.549999999999997,
+        "end": 24.61
+      },
+      {
+        "word": "notion",
+        "start": 24.61,
+        "end": 24.99
+      },
+      {
+        "word": "of",
+        "start": 24.99,
+        "end": 25.02
+      },
+      {
+        "word": "stress",
+        "start": 25.02,
+        "end": 25.38
+      },
+      {
+        "word": "is",
+        "start": 25.38,
+        "end": 25.56
+      },
+      {
+        "word": "very",
+        "start": 25.56,
+        "end": 25.799999999999997
+      },
+      {
+        "word": "complex.",
+        "start": 25.799999999999997,
+        "end": 26.599999999999998
+      },
+      {
+        "word": "There's",
+        "start": 26.91,
+        "end": 27.08
+      },
+      {
+        "word": "no",
+        "start": 27.08,
+        "end": 27.29
+      },
+      {
+        "word": "unified",
+        "start": 27.29,
+        "end": 28.0
+      },
+      {
+        "word": "definition",
+        "start": 28.0,
+        "end": 28.689999999999998
+      },
+      {
+        "word": "of",
+        "start": 28.689999999999998,
+        "end": 28.759999999999998
+      },
+      {
+        "word": "stress",
+        "start": 28.759999999999998,
+        "end": 29.13
+      },
+      {
+        "word": "yet.",
+        "start": 29.13,
+        "end": 29.409999999999997
+      }
+    ]
+  },
+  {
+    "timestr": "0029835_0038150",
+    "final_spoken": "usually when we talk about stress we mean psychological stress which means our subjective feelings and perception of pressure",
+    "final_written": "Usually, when we talk about stress, we mean psychological stress, which means our subjective feelings and perception of pressure.",
+    "words_spoken": [
+      {
+        "word": "usually",
+        "start": 30.125,
+        "end": 30.485
+      },
+      {
+        "word": "when",
+        "start": 30.485,
+        "end": 30.685000000000002
+      },
+      {
+        "word": "we",
+        "start": 30.685000000000002,
+        "end": 30.765
+      },
+      {
+        "word": "talk",
+        "start": 30.765,
+        "end": 31.015
+      },
+      {
+        "word": "about",
+        "start": 31.015,
+        "end": 31.255000000000003
+      },
+      {
+        "word": "stress",
+        "start": 31.255000000000003,
+        "end": 31.655
+      },
+      {
+        "word": "we",
+        "start": 31.655,
+        "end": 31.835
+      },
+      {
+        "word": "mean",
+        "start": 31.835,
+        "end": 32.035000000000004
+      },
+      {
+        "word": "psychological",
+        "start": 32.035000000000004,
+        "end": 32.885
+      },
+      {
+        "word": "stress",
+        "start": 32.885,
+        "end": 33.365
+      },
+      {
+        "word": "which",
+        "start": 33.395,
+        "end": 33.595
+      },
+      {
+        "word": "means",
+        "start": 33.595,
+        "end": 34.005
+      },
+      {
+        "word": "our",
+        "start": 34.065,
+        "end": 34.335
+      },
+      {
+        "word": "subjective",
+        "start": 34.555,
+        "end": 35.205
+      },
+      {
+        "word": "feelings",
+        "start": 35.205,
+        "end": 35.675
+      },
+      {
+        "word": "and",
+        "start": 35.675,
+        "end": 35.865
+      },
+      {
+        "word": "perception",
+        "start": 35.865,
+        "end": 36.665
+      },
+      {
+        "word": "of",
+        "start": 36.945,
+        "end": 37.285000000000004
+      },
+      {
+        "word": "pressure",
+        "start": 37.285000000000004,
+        "end": 37.505
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Usually,",
+        "start": 30.125,
+        "end": 30.485
+      },
+      {
+        "word": "when",
+        "start": 30.485,
+        "end": 30.685000000000002
+      },
+      {
+        "word": "we",
+        "start": 30.685000000000002,
+        "end": 30.765
+      },
+      {
+        "word": "talk",
+        "start": 30.765,
+        "end": 31.015
+      },
+      {
+        "word": "about",
+        "start": 31.015,
+        "end": 31.255000000000003
+      },
+      {
+        "word": "stress,",
+        "start": 31.255000000000003,
+        "end": 31.655
+      },
+      {
+        "word": "we",
+        "start": 31.655,
+        "end": 31.835
+      },
+      {
+        "word": "mean",
+        "start": 31.835,
+        "end": 32.035000000000004
+      },
+      {
+        "word": "psychological",
+        "start": 32.035000000000004,
+        "end": 32.885
+      },
+      {
+        "word": "stress,",
+        "start": 32.885,
+        "end": 33.365
+      },
+      {
+        "word": "which",
+        "start": 33.395,
+        "end": 33.595
+      },
+      {
+        "word": "means",
+        "start": 33.595,
+        "end": 34.005
+      },
+      {
+        "word": "our",
+        "start": 34.065,
+        "end": 34.335
+      },
+      {
+        "word": "subjective",
+        "start": 34.555,
+        "end": 35.205
+      },
+      {
+        "word": "feelings",
+        "start": 35.205,
+        "end": 35.675
+      },
+      {
+        "word": "and",
+        "start": 35.675,
+        "end": 35.865
+      },
+      {
+        "word": "perception",
+        "start": 35.865,
+        "end": 36.665
+      },
+      {
+        "word": "of",
+        "start": 36.945,
+        "end": 37.285000000000004
+      },
+      {
+        "word": "pressure.",
+        "start": 37.285000000000004,
+        "end": 37.505
+      }
+    ]
+  },
+  {
+    "timestr": "0038150_0045270",
+    "final_spoken": "but there's also a physiological definition of stress which means our bodily reaction to demands or changes",
+    "final_written": "But there's also a physiological definition of stress, which means our bodily reaction to demands or changes.",
+    "words_spoken": [
+      {
+        "word": "but",
+        "start": 38.28,
+        "end": 38.4
+      },
+      {
+        "word": "there's",
+        "start": 38.4,
+        "end": 38.589999999999996
+      },
+      {
+        "word": "also",
+        "start": 38.589999999999996,
+        "end": 39.07
+      },
+      {
+        "word": "a",
+        "start": 39.07,
+        "end": 39.11
+      },
+      {
+        "word": "physiological",
+        "start": 39.11,
+        "end": 40.08
+      },
+      {
+        "word": "definition",
+        "start": 40.08,
+        "end": 40.68
+      },
+      {
+        "word": "of",
+        "start": 40.68,
+        "end": 40.76
+      },
+      {
+        "word": "stress",
+        "start": 40.76,
+        "end": 41.25
+      },
+      {
+        "word": "which",
+        "start": 41.25,
+        "end": 41.48
+      },
+      {
+        "word": "means",
+        "start": 41.48,
+        "end": 41.81
+      },
+      {
+        "word": "our",
+        "start": 41.81,
+        "end": 42.03
+      },
+      {
+        "word": "bodily",
+        "start": 42.1,
+        "end": 42.519999999999996
+      },
+      {
+        "word": "reaction",
+        "start": 42.519999999999996,
+        "end": 43.29
+      },
+      {
+        "word": "to",
+        "start": 43.53,
+        "end": 43.64
+      },
+      {
+        "word": "demands",
+        "start": 43.64,
+        "end": 44.07
+      },
+      {
+        "word": "or",
+        "start": 44.07,
+        "end": 44.199999999999996
+      },
+      {
+        "word": "changes",
+        "start": 44.199999999999996,
+        "end": 44.83
+      }
+    ],
+    "words_written": [
+      {
+        "word": "But",
+        "start": 38.28,
+        "end": 38.4
+      },
+      {
+        "word": "there's",
+        "start": 38.4,
+        "end": 38.589999999999996
+      },
+      {
+        "word": "also",
+        "start": 38.589999999999996,
+        "end": 39.07
+      },
+      {
+        "word": "a",
+        "start": 39.07,
+        "end": 39.11
+      },
+      {
+        "word": "physiological",
+        "start": 39.11,
+        "end": 40.08
+      },
+      {
+        "word": "definition",
+        "start": 40.08,
+        "end": 40.68
+      },
+      {
+        "word": "of",
+        "start": 40.68,
+        "end": 40.76
+      },
+      {
+        "word": "stress,",
+        "start": 40.76,
+        "end": 41.25
+      },
+      {
+        "word": "which",
+        "start": 41.25,
+        "end": 41.48
+      },
+      {
+        "word": "means",
+        "start": 41.48,
+        "end": 41.81
+      },
+      {
+        "word": "our",
+        "start": 41.81,
+        "end": 42.04
+      },
+      {
+        "word": "bodily",
+        "start": 42.1,
+        "end": 42.51
+      },
+      {
+        "word": "reaction",
+        "start": 42.51,
+        "end": 43.29
+      },
+      {
+        "word": "to",
+        "start": 43.53,
+        "end": 43.64
+      },
+      {
+        "word": "demands",
+        "start": 43.64,
+        "end": 44.07
+      },
+      {
+        "word": "or",
+        "start": 44.07,
+        "end": 44.199999999999996
+      },
+      {
+        "word": "changes.",
+        "start": 44.199999999999996,
+        "end": 44.83
+      }
+    ]
+  },
+  {
+    "timestr": "0045270_0050890",
+    "final_spoken": "no matter whether it's psychological or physiological stress it's all very important for us to",
+    "final_written": "No matter whether it's psychological or physiological stress, it's all very important for us to",
+    "words_spoken": [
+      {
+        "word": "no",
+        "start": 45.7,
+        "end": 45.800000000000004
+      },
+      {
+        "word": "matter",
+        "start": 45.800000000000004,
+        "end": 46.14
+      },
+      {
+        "word": "whether",
+        "start": 46.14,
+        "end": 46.52
+      },
+      {
+        "word": "it's",
+        "start": 46.52,
+        "end": 46.75
+      },
+      {
+        "word": "psychological",
+        "start": 46.75,
+        "end": 47.45
+      },
+      {
+        "word": "or",
+        "start": 47.45,
+        "end": 47.6
+      },
+      {
+        "word": "physiological",
+        "start": 47.6,
+        "end": 48.32
+      },
+      {
+        "word": "stress",
+        "start": 48.32,
+        "end": 48.75
+      },
+      {
+        "word": "it's",
+        "start": 48.75,
+        "end": 48.95
+      },
+      {
+        "word": "all",
+        "start": 48.95,
+        "end": 49.1
+      },
+      {
+        "word": "very",
+        "start": 49.1,
+        "end": 49.34
+      },
+      {
+        "word": "important",
+        "start": 49.34,
+        "end": 50.03
+      },
+      {
+        "word": "for",
+        "start": 50.03,
+        "end": 50.17
+      },
+      {
+        "word": "us",
+        "start": 50.17,
+        "end": 50.510000000000005
+      },
+      {
+        "word": "to",
+        "start": 50.540000000000006,
+        "end": 50.800000000000004
+      }
+    ],
+    "words_written": [
+      {
+        "word": "No",
+        "start": 45.7,
+        "end": 45.800000000000004
+      },
+      {
+        "word": "matter",
+        "start": 45.800000000000004,
+        "end": 46.14
+      },
+      {
+        "word": "whether",
+        "start": 46.14,
+        "end": 46.52
+      },
+      {
+        "word": "it's",
+        "start": 46.52,
+        "end": 46.75
+      },
+      {
+        "word": "psychological",
+        "start": 46.75,
+        "end": 47.45
+      },
+      {
+        "word": "or",
+        "start": 47.45,
+        "end": 47.6
+      },
+      {
+        "word": "physiological",
+        "start": 47.6,
+        "end": 48.32
+      },
+      {
+        "word": "stress,",
+        "start": 48.32,
+        "end": 48.75
+      },
+      {
+        "word": "it's",
+        "start": 48.75,
+        "end": 48.95
+      },
+      {
+        "word": "all",
+        "start": 48.95,
+        "end": 49.1
+      },
+      {
+        "word": "very",
+        "start": 49.1,
+        "end": 49.34
+      },
+      {
+        "word": "important",
+        "start": 49.34,
+        "end": 50.03
+      },
+      {
+        "word": "for",
+        "start": 50.03,
+        "end": 50.17
+      },
+      {
+        "word": "us",
+        "start": 50.17,
+        "end": 50.5
+      },
+      {
+        "word": "to",
+        "start": 50.540000000000006,
+        "end": 50.800000000000004
+      }
+    ]
+  },
+  {
+    "timestr": "0050890_0055345",
+    "final_spoken": "be aware and effectively manage our stress on a daily basis",
+    "final_written": "be aware and effectively manage our stress on a daily basis.",
+    "words_spoken": [
+      {
+        "word": "be",
+        "start": 51.08,
+        "end": 51.2
+      },
+      {
+        "word": "aware",
+        "start": 51.2,
+        "end": 51.62
+      },
+      {
+        "word": "and",
+        "start": 51.62,
+        "end": 51.89
+      },
+      {
+        "word": "effectively",
+        "start": 51.89,
+        "end": 52.63
+      },
+      {
+        "word": "manage",
+        "start": 52.63,
+        "end": 53.08
+      },
+      {
+        "word": "our",
+        "start": 53.08,
+        "end": 53.19
+      },
+      {
+        "word": "stress",
+        "start": 53.19,
+        "end": 53.67
+      },
+      {
+        "word": "on",
+        "start": 53.67,
+        "end": 53.980000000000004
+      },
+      {
+        "word": "a",
+        "start": 54.09,
+        "end": 54.19
+      },
+      {
+        "word": "daily",
+        "start": 54.19,
+        "end": 54.46
+      },
+      {
+        "word": "basis",
+        "start": 54.46,
+        "end": 55.06
+      }
+    ],
+    "words_written": [
+      {
+        "word": "be",
+        "start": 51.08,
+        "end": 51.2
+      },
+      {
+        "word": "aware",
+        "start": 51.2,
+        "end": 51.62
+      },
+      {
+        "word": "and",
+        "start": 51.62,
+        "end": 51.89
+      },
+      {
+        "word": "effectively",
+        "start": 51.89,
+        "end": 52.63
+      },
+      {
+        "word": "manage",
+        "start": 52.63,
+        "end": 53.08
+      },
+      {
+        "word": "our",
+        "start": 53.08,
+        "end": 53.19
+      },
+      {
+        "word": "stress",
+        "start": 53.19,
+        "end": 53.67
+      },
+      {
+        "word": "on",
+        "start": 53.67,
+        "end": 53.980000000000004
+      },
+      {
+        "word": "a",
+        "start": 54.1,
+        "end": 54.19
+      },
+      {
+        "word": "daily",
+        "start": 54.19,
+        "end": 54.46
+      },
+      {
+        "word": "basis.",
+        "start": 54.46,
+        "end": 55.06
+      }
+    ]
+  },
+  {
+    "timestr": "0055345_0062860",
+    "final_spoken": "today in the market we have more and more wearable products that have automatic stress tracking technologies embedded in them",
+    "final_written": "Today in the market, we have more and more wearable products that have automatic stress-tracking technologies embedded in them.",
+    "words_spoken": [
+      {
+        "word": "today",
+        "start": 55.525,
+        "end": 55.805
+      },
+      {
+        "word": "in",
+        "start": 55.805,
+        "end": 55.985
+      },
+      {
+        "word": "the",
+        "start": 55.985,
+        "end": 56.035
+      },
+      {
+        "word": "market",
+        "start": 56.035,
+        "end": 56.585
+      },
+      {
+        "word": "we",
+        "start": 56.585,
+        "end": 56.675
+      },
+      {
+        "word": "have",
+        "start": 56.675,
+        "end": 56.935
+      },
+      {
+        "word": "more",
+        "start": 56.935,
+        "end": 57.144999999999996
+      },
+      {
+        "word": "and",
+        "start": 57.144999999999996,
+        "end": 57.345
+      },
+      {
+        "word": "more",
+        "start": 57.345,
+        "end": 57.545
+      },
+      {
+        "word": "wearable",
+        "start": 57.545,
+        "end": 57.925
+      },
+      {
+        "word": "products",
+        "start": 57.925,
+        "end": 58.495
+      },
+      {
+        "word": "that",
+        "start": 58.545,
+        "end": 58.644999999999996
+      },
+      {
+        "word": "have",
+        "start": 58.644999999999996,
+        "end": 58.935
+      },
+      {
+        "word": "automatic",
+        "start": 59.004999999999995,
+        "end": 59.545
+      },
+      {
+        "word": "stress",
+        "start": 59.725,
+        "end": 60.245
+      },
+      {
+        "word": "tracking",
+        "start": 60.245,
+        "end": 60.625
+      },
+      {
+        "word": "technologies",
+        "start": 60.625,
+        "end": 61.464999999999996
+      },
+      {
+        "word": "embedded",
+        "start": 61.464999999999996,
+        "end": 62.004999999999995
+      },
+      {
+        "word": "in",
+        "start": 62.225,
+        "end": 62.445
+      },
+      {
+        "word": "them",
+        "start": 62.445,
+        "end": 62.675
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Today",
+        "start": 55.525,
+        "end": 55.805
+      },
+      {
+        "word": "in",
+        "start": 55.805,
+        "end": 55.985
+      },
+      {
+        "word": "the",
+        "start": 55.985,
+        "end": 56.035
+      },
+      {
+        "word": "market,",
+        "start": 56.035,
+        "end": 56.585
+      },
+      {
+        "word": "we",
+        "start": 56.585,
+        "end": 56.675
+      },
+      {
+        "word": "have",
+        "start": 56.675,
+        "end": 56.935
+      },
+      {
+        "word": "more",
+        "start": 56.935,
+        "end": 57.144999999999996
+      },
+      {
+        "word": "and",
+        "start": 57.144999999999996,
+        "end": 57.345
+      },
+      {
+        "word": "more",
+        "start": 57.345,
+        "end": 57.545
+      },
+      {
+        "word": "wearable",
+        "start": 57.545,
+        "end": 57.925
+      },
+      {
+        "word": "products",
+        "start": 57.925,
+        "end": 58.495
+      },
+      {
+        "word": "that",
+        "start": 58.545,
+        "end": 58.644999999999996
+      },
+      {
+        "word": "have",
+        "start": 58.644999999999996,
+        "end": 58.935
+      },
+      {
+        "word": "automatic",
+        "start": 59.004999999999995,
+        "end": 59.545
+      },
+      {
+        "word": "stress-tracking",
+        "start": 59.725,
+        "end": 60.625
+      },
+      {
+        "word": "technologies",
+        "start": 60.625,
+        "end": 61.464999999999996
+      },
+      {
+        "word": "embedded",
+        "start": 61.464999999999996,
+        "end": 62.004999999999995
+      },
+      {
+        "word": "in",
+        "start": 62.214999999999996,
+        "end": 62.445
+      },
+      {
+        "word": "them.",
+        "start": 62.445,
+        "end": 62.675
+      }
+    ]
+  },
+  {
+    "timestr": "0062860_0069340",
+    "final_spoken": "for example huawei garmin samsung they all have related products that have automatic stress tracking features",
+    "final_written": "For example, Huawei, Garmin, Samsung, they all have related products that have automatic stress-tracking features.",
+    "words_spoken": [
+      {
+        "word": "for",
+        "start": 63.07,
+        "end": 63.14
+      },
+      {
+        "word": "example",
+        "start": 63.14,
+        "end": 63.66
+      },
+      {
+        "word": "huawei",
+        "start": 63.69,
+        "end": 64.08
+      },
+      {
+        "word": "garmin",
+        "start": 64.08,
+        "end": 64.55
+      },
+      {
+        "word": "samsung",
+        "start": 64.55,
+        "end": 65.04
+      },
+      {
+        "word": "they",
+        "start": 65.04,
+        "end": 65.14
+      },
+      {
+        "word": "all",
+        "start": 65.14,
+        "end": 65.33
+      },
+      {
+        "word": "have",
+        "start": 65.33,
+        "end": 65.67999999999999
+      },
+      {
+        "word": "related",
+        "start": 65.67999999999999,
+        "end": 66.16
+      },
+      {
+        "word": "products",
+        "start": 66.16,
+        "end": 66.69
+      },
+      {
+        "word": "that",
+        "start": 66.72,
+        "end": 66.84
+      },
+      {
+        "word": "have",
+        "start": 66.84,
+        "end": 67.11
+      },
+      {
+        "word": "automatic",
+        "start": 67.2,
+        "end": 67.75
+      },
+      {
+        "word": "stress",
+        "start": 67.75,
+        "end": 68.08
+      },
+      {
+        "word": "tracking",
+        "start": 68.08,
+        "end": 68.44
+      },
+      {
+        "word": "features",
+        "start": 68.44,
+        "end": 69.05
+      }
+    ],
+    "words_written": [
+      {
+        "word": "For",
+        "start": 63.07,
+        "end": 63.14
+      },
+      {
+        "word": "example,",
+        "start": 63.14,
+        "end": 63.66
+      },
+      {
+        "word": "Huawei,",
+        "start": 63.69,
+        "end": 64.08
+      },
+      {
+        "word": "Garmin,",
+        "start": 64.08,
+        "end": 64.55
+      },
+      {
+        "word": "Samsung,",
+        "start": 64.55,
+        "end": 65.04
+      },
+      {
+        "word": "they",
+        "start": 65.04,
+        "end": 65.14
+      },
+      {
+        "word": "all",
+        "start": 65.14,
+        "end": 65.33
+      },
+      {
+        "word": "have",
+        "start": 65.33,
+        "end": 65.67999999999999
+      },
+      {
+        "word": "related",
+        "start": 65.67999999999999,
+        "end": 66.16
+      },
+      {
+        "word": "products",
+        "start": 66.16,
+        "end": 66.69
+      },
+      {
+        "word": "that",
+        "start": 66.72,
+        "end": 66.84
+      },
+      {
+        "word": "have",
+        "start": 66.84,
+        "end": 67.11
+      },
+      {
+        "word": "automatic",
+        "start": 67.21,
+        "end": 67.75
+      },
+      {
+        "word": "stress-tracking",
+        "start": 67.75,
+        "end": 68.44
+      },
+      {
+        "word": "features.",
+        "start": 68.44,
+        "end": 69.05
+      }
+    ]
+  },
+  {
+    "timestr": "0069340_0076000",
+    "final_spoken": "most of these products they track our stress based on analysis of a heart rate variability or hrv",
+    "final_written": "Most of these products, they track our stress based on analysis of a heart rate variability, or Hrv.",
+    "words_spoken": [
+      {
+        "word": "most",
+        "start": 69.65,
+        "end": 69.9
+      },
+      {
+        "word": "of",
+        "start": 69.9,
+        "end": 70.04
+      },
+      {
+        "word": "these",
+        "start": 70.04,
+        "end": 70.22
+      },
+      {
+        "word": "products",
+        "start": 70.3,
+        "end": 70.87
+      },
+      {
+        "word": "they",
+        "start": 70.9,
+        "end": 71.11
+      },
+      {
+        "word": "track",
+        "start": 71.11,
+        "end": 71.45
+      },
+      {
+        "word": "our",
+        "start": 71.45,
+        "end": 71.56
+      },
+      {
+        "word": "stress",
+        "start": 71.56,
+        "end": 71.93
+      },
+      {
+        "word": "based",
+        "start": 71.93,
+        "end": 72.22
+      },
+      {
+        "word": "on",
+        "start": 72.22,
+        "end": 72.47
+      },
+      {
+        "word": "analysis",
+        "start": 72.47,
+        "end": 73.13000000000001
+      },
+      {
+        "word": "of",
+        "start": 73.13000000000001,
+        "end": 73.22
+      },
+      {
+        "word": "a",
+        "start": 73.25,
+        "end": 73.39
+      },
+      {
+        "word": "heart",
+        "start": 73.42,
+        "end": 73.74000000000001
+      },
+      {
+        "word": "rate",
+        "start": 73.79,
+        "end": 74.07000000000001
+      },
+      {
+        "word": "variability",
+        "start": 74.16,
+        "end": 74.91
+      },
+      {
+        "word": "or",
+        "start": 74.91,
+        "end": 75.09
+      },
+      {
+        "word": "hrv",
+        "start": 75.15,
+        "end": 75.79
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Most",
+        "start": 69.65,
+        "end": 69.9
+      },
+      {
+        "word": "of",
+        "start": 69.9,
+        "end": 70.04
+      },
+      {
+        "word": "these",
+        "start": 70.04,
+        "end": 70.23
+      },
+      {
+        "word": "products,",
+        "start": 70.3,
+        "end": 70.87
+      },
+      {
+        "word": "they",
+        "start": 70.9,
+        "end": 71.11
+      },
+      {
+        "word": "track",
+        "start": 71.11,
+        "end": 71.45
+      },
+      {
+        "word": "our",
+        "start": 71.45,
+        "end": 71.56
+      },
+      {
+        "word": "stress",
+        "start": 71.56,
+        "end": 71.93
+      },
+      {
+        "word": "based",
+        "start": 71.93,
+        "end": 72.22
+      },
+      {
+        "word": "on",
+        "start": 72.22,
+        "end": 72.47
+      },
+      {
+        "word": "analysis",
+        "start": 72.47,
+        "end": 73.13000000000001
+      },
+      {
+        "word": "of",
+        "start": 73.13000000000001,
+        "end": 73.22
+      },
+      {
+        "word": "a",
+        "start": 73.25,
+        "end": 73.39
+      },
+      {
+        "word": "heart",
+        "start": 73.42,
+        "end": 73.74000000000001
+      },
+      {
+        "word": "rate",
+        "start": 73.79,
+        "end": 74.07000000000001
+      },
+      {
+        "word": "variability,",
+        "start": 74.16,
+        "end": 74.91
+      },
+      {
+        "word": "or",
+        "start": 74.91,
+        "end": 75.10000000000001
+      },
+      {
+        "word": "Hrv.",
+        "start": 75.10000000000001,
+        "end": 75.79
+      }
+    ]
+  },
+  {
+    "timestr": "0076000_0081220",
+    "final_spoken": "which is proved to be a reliable indicator of one's physiological stress level",
+    "final_written": "which is proved to be a reliable indicator of one's physiological stress level.",
+    "words_spoken": [
+      {
+        "word": "which",
+        "start": 76.21,
+        "end": 76.41
+      },
+      {
+        "word": "is",
+        "start": 76.41,
+        "end": 76.68
+      },
+      {
+        "word": "proved",
+        "start": 76.91,
+        "end": 77.18
+      },
+      {
+        "word": "to",
+        "start": 77.18,
+        "end": 77.33
+      },
+      {
+        "word": "be",
+        "start": 77.33,
+        "end": 77.48
+      },
+      {
+        "word": "a",
+        "start": 77.48,
+        "end": 77.61
+      },
+      {
+        "word": "reliable",
+        "start": 77.61,
+        "end": 78.14
+      },
+      {
+        "word": "indicator",
+        "start": 78.14,
+        "end": 78.74
+      },
+      {
+        "word": "of",
+        "start": 78.74,
+        "end": 79.02
+      },
+      {
+        "word": "one's",
+        "start": 79.02,
+        "end": 79.34
+      },
+      {
+        "word": "physiological",
+        "start": 79.34,
+        "end": 80.06
+      },
+      {
+        "word": "stress",
+        "start": 80.06,
+        "end": 80.49
+      },
+      {
+        "word": "level",
+        "start": 80.49,
+        "end": 80.69
+      }
+    ],
+    "words_written": [
+      {
+        "word": "which",
+        "start": 76.21,
+        "end": 76.41
+      },
+      {
+        "word": "is",
+        "start": 76.41,
+        "end": 76.68
+      },
+      {
+        "word": "proved",
+        "start": 76.91,
+        "end": 77.18
+      },
+      {
+        "word": "to",
+        "start": 77.18,
+        "end": 77.33
+      },
+      {
+        "word": "be",
+        "start": 77.33,
+        "end": 77.48
+      },
+      {
+        "word": "a",
+        "start": 77.48,
+        "end": 77.61
+      },
+      {
+        "word": "reliable",
+        "start": 77.61,
+        "end": 78.14
+      },
+      {
+        "word": "indicator",
+        "start": 78.14,
+        "end": 78.74
+      },
+      {
+        "word": "of",
+        "start": 78.74,
+        "end": 79.02
+      },
+      {
+        "word": "one's",
+        "start": 79.02,
+        "end": 79.34
+      },
+      {
+        "word": "physiological",
+        "start": 79.34,
+        "end": 80.06
+      },
+      {
+        "word": "stress",
+        "start": 80.06,
+        "end": 80.48
+      },
+      {
+        "word": "level.",
+        "start": 80.48,
+        "end": 80.82
+      }
+    ]
+  },
+  {
+    "timestr": "0081220_0089460",
+    "final_spoken": "what is not so clear is how these automatic stress tracking technologies actually work for people to manage their stress on a daily basis",
+    "final_written": "What is not so clear is how these automatic stress-tracking technologies actually work for people to manage their stress on a daily basis.",
+    "words_spoken": [
+      {
+        "word": "what",
+        "start": 81.51,
+        "end": 81.67
+      },
+      {
+        "word": "is",
+        "start": 81.67,
+        "end": 81.94
+      },
+      {
+        "word": "not",
+        "start": 81.94,
+        "end": 82.17
+      },
+      {
+        "word": "so",
+        "start": 82.17,
+        "end": 82.28999999999999
+      },
+      {
+        "word": "clear",
+        "start": 82.28999999999999,
+        "end": 82.73
+      },
+      {
+        "word": "is",
+        "start": 82.73,
+        "end": 82.87
+      },
+      {
+        "word": "how",
+        "start": 82.87,
+        "end": 83.17
+      },
+      {
+        "word": "these",
+        "start": 83.17,
+        "end": 83.42
+      },
+      {
+        "word": "automatic",
+        "start": 83.42,
+        "end": 84.11
+      },
+      {
+        "word": "stress",
+        "start": 84.11,
+        "end": 84.46
+      },
+      {
+        "word": "tracking",
+        "start": 84.46,
+        "end": 84.78
+      },
+      {
+        "word": "technologies",
+        "start": 84.78,
+        "end": 85.5
+      },
+      {
+        "word": "actually",
+        "start": 85.58,
+        "end": 85.87
+      },
+      {
+        "word": "work",
+        "start": 85.87,
+        "end": 86.21
+      },
+      {
+        "word": "for",
+        "start": 86.21,
+        "end": 86.37
+      },
+      {
+        "word": "people",
+        "start": 86.37,
+        "end": 86.72
+      },
+      {
+        "word": "to",
+        "start": 86.72,
+        "end": 86.86
+      },
+      {
+        "word": "manage",
+        "start": 86.86,
+        "end": 87.32
+      },
+      {
+        "word": "their",
+        "start": 87.37,
+        "end": 87.46
+      },
+      {
+        "word": "stress",
+        "start": 87.46,
+        "end": 87.92999999999999
+      },
+      {
+        "word": "on",
+        "start": 87.92999999999999,
+        "end": 88.01
+      },
+      {
+        "word": "a",
+        "start": 88.01,
+        "end": 88.03999999999999
+      },
+      {
+        "word": "daily",
+        "start": 88.03999999999999,
+        "end": 88.36
+      },
+      {
+        "word": "basis",
+        "start": 88.4,
+        "end": 88.94
+      }
+    ],
+    "words_written": [
+      {
+        "word": "What",
+        "start": 81.51,
+        "end": 81.67
+      },
+      {
+        "word": "is",
+        "start": 81.67,
+        "end": 81.94
+      },
+      {
+        "word": "not",
+        "start": 81.94,
+        "end": 82.17
+      },
+      {
+        "word": "so",
+        "start": 82.17,
+        "end": 82.28999999999999
+      },
+      {
+        "word": "clear",
+        "start": 82.28999999999999,
+        "end": 82.73
+      },
+      {
+        "word": "is",
+        "start": 82.73,
+        "end": 82.87
+      },
+      {
+        "word": "how",
+        "start": 82.87,
+        "end": 83.17
+      },
+      {
+        "word": "these",
+        "start": 83.17,
+        "end": 83.42
+      },
+      {
+        "word": "automatic",
+        "start": 83.42,
+        "end": 84.11
+      },
+      {
+        "word": "stress-tracking",
+        "start": 84.11,
+        "end": 84.78
+      },
+      {
+        "word": "technologies",
+        "start": 84.78,
+        "end": 85.5
+      },
+      {
+        "word": "actually",
+        "start": 85.57,
+        "end": 85.87
+      },
+      {
+        "word": "work",
+        "start": 85.87,
+        "end": 86.21
+      },
+      {
+        "word": "for",
+        "start": 86.21,
+        "end": 86.37
+      },
+      {
+        "word": "people",
+        "start": 86.37,
+        "end": 86.72
+      },
+      {
+        "word": "to",
+        "start": 86.72,
+        "end": 86.86
+      },
+      {
+        "word": "manage",
+        "start": 86.86,
+        "end": 87.32
+      },
+      {
+        "word": "their",
+        "start": 87.37,
+        "end": 87.46
+      },
+      {
+        "word": "stress",
+        "start": 87.46,
+        "end": 87.92999999999999
+      },
+      {
+        "word": "on",
+        "start": 87.92999999999999,
+        "end": 88.01
+      },
+      {
+        "word": "a",
+        "start": 88.01,
+        "end": 88.03999999999999
+      },
+      {
+        "word": "daily",
+        "start": 88.03999999999999,
+        "end": 88.33
+      },
+      {
+        "word": "basis.",
+        "start": 88.33,
+        "end": 88.92
+      }
+    ]
+  },
+  {
+    "timestr": "0089460_0096220",
+    "final_spoken": "to address this issue we conducted some structural interviews with seventeen participants who had",
+    "final_written": "To address this issue, we conducted some structural interviews with 17 participants who had",
+    "words_spoken": [
+      {
+        "word": "to",
+        "start": 89.99,
+        "end": 90.11
+      },
+      {
+        "word": "address",
+        "start": 90.11,
+        "end": 90.44999999999999
+      },
+      {
+        "word": "this",
+        "start": 90.52,
+        "end": 90.8
+      },
+      {
+        "word": "issue",
+        "start": 90.83999999999999,
+        "end": 91.30999999999999
+      },
+      {
+        "word": "we",
+        "start": 91.30999999999999,
+        "end": 91.55999999999999
+      },
+      {
+        "word": "conducted",
+        "start": 91.55999999999999,
+        "end": 92.66
+      },
+      {
+        "word": "some",
+        "start": 92.66,
+        "end": 92.92999999999999
+      },
+      {
+        "word": "structural",
+        "start": 92.92999999999999,
+        "end": 93.44
+      },
+      {
+        "word": "interviews",
+        "start": 93.47,
+        "end": 93.99
+      },
+      {
+        "word": "with",
+        "start": 93.99,
+        "end": 94.22
+      },
+      {
+        "word": "seventeen",
+        "start": 94.22,
+        "end": 94.66
+      },
+      {
+        "word": "participants",
+        "start": 94.66,
+        "end": 95.38
+      },
+      {
+        "word": "who",
+        "start": 95.44,
+        "end": 95.6
+      },
+      {
+        "word": "had",
+        "start": 95.6,
+        "end": 95.97
+      }
+    ],
+    "words_written": [
+      {
+        "word": "To",
+        "start": 89.99,
+        "end": 90.11
+      },
+      {
+        "word": "address",
+        "start": 90.11,
+        "end": 90.44999999999999
+      },
+      {
+        "word": "this",
+        "start": 90.52,
+        "end": 90.8
+      },
+      {
+        "word": "issue,",
+        "start": 90.83999999999999,
+        "end": 91.32
+      },
+      {
+        "word": "we",
+        "start": 91.32,
+        "end": 91.55999999999999
+      },
+      {
+        "word": "conducted",
+        "start": 91.55999999999999,
+        "end": 92.66
+      },
+      {
+        "word": "some",
+        "start": 92.66,
+        "end": 92.92999999999999
+      },
+      {
+        "word": "structural",
+        "start": 92.92999999999999,
+        "end": 93.44
+      },
+      {
+        "word": "interviews",
+        "start": 93.47,
+        "end": 93.99
+      },
+      {
+        "word": "with",
+        "start": 93.99,
+        "end": 94.24
+      },
+      {
+        "word": "17",
+        "start": 94.24,
+        "end": 94.66
+      },
+      {
+        "word": "participants",
+        "start": 94.66,
+        "end": 95.38
+      },
+      {
+        "word": "who",
+        "start": 95.47999999999999,
+        "end": 95.6
+      },
+      {
+        "word": "had",
+        "start": 95.6,
+        "end": 95.97
+      }
+    ]
+  },
+  {
+    "timestr": "0096220_0104510",
+    "final_spoken": "had adopted some of these products and had some experience with automatic self stress tracking technologies",
+    "final_written": "Had adopted some of these products and had some experience with automatic self stress tracking technologies.",
+    "words_spoken": [
+      {
+        "word": "had",
+        "start": 96.44,
+        "end": 96.72
+      },
+      {
+        "word": "adopted",
+        "start": 96.76,
+        "end": 97.35
+      },
+      {
+        "word": "some",
+        "start": 97.35,
+        "end": 97.57
+      },
+      {
+        "word": "of",
+        "start": 97.57,
+        "end": 97.69
+      },
+      {
+        "word": "these",
+        "start": 97.69,
+        "end": 97.87
+      },
+      {
+        "word": "products",
+        "start": 97.94,
+        "end": 98.47
+      },
+      {
+        "word": "and",
+        "start": 98.47,
+        "end": 98.65
+      },
+      {
+        "word": "had",
+        "start": 98.65,
+        "end": 98.92999999999999
+      },
+      {
+        "word": "some",
+        "start": 98.92999999999999,
+        "end": 99.22
+      },
+      {
+        "word": "experience",
+        "start": 99.22,
+        "end": 99.87
+      },
+      {
+        "word": "with",
+        "start": 99.87,
+        "end": 99.99
+      },
+      {
+        "word": "automatic",
+        "start": 100.38,
+        "end": 101.52
+      },
+      {
+        "word": "self",
+        "start": 101.52,
+        "end": 101.84
+      },
+      {
+        "word": "stress",
+        "start": 101.84,
+        "end": 102.11
+      },
+      {
+        "word": "tracking",
+        "start": 102.23,
+        "end": 102.52
+      },
+      {
+        "word": "technologies",
+        "start": 102.52,
+        "end": 104.09
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Had",
+        "start": 96.44,
+        "end": 96.72
+      },
+      {
+        "word": "adopted",
+        "start": 96.76,
+        "end": 97.35
+      },
+      {
+        "word": "some",
+        "start": 97.35,
+        "end": 97.57
+      },
+      {
+        "word": "of",
+        "start": 97.57,
+        "end": 97.69
+      },
+      {
+        "word": "these",
+        "start": 97.69,
+        "end": 97.87
+      },
+      {
+        "word": "products",
+        "start": 97.95,
+        "end": 98.47
+      },
+      {
+        "word": "and",
+        "start": 98.47,
+        "end": 98.65
+      },
+      {
+        "word": "had",
+        "start": 98.65,
+        "end": 98.92999999999999
+      },
+      {
+        "word": "some",
+        "start": 98.92999999999999,
+        "end": 99.22
+      },
+      {
+        "word": "experience",
+        "start": 99.22,
+        "end": 99.87
+      },
+      {
+        "word": "with",
+        "start": 99.87,
+        "end": 99.99
+      },
+      {
+        "word": "automatic",
+        "start": 100.38,
+        "end": 101.52
+      },
+      {
+        "word": "self",
+        "start": 101.52,
+        "end": 101.84
+      },
+      {
+        "word": "stress",
+        "start": 101.84,
+        "end": 102.11
+      },
+      {
+        "word": "tracking",
+        "start": 102.23,
+        "end": 102.52
+      },
+      {
+        "word": "technologies.",
+        "start": 102.52,
+        "end": 104.09
+      }
+    ]
+  },
+  {
+    "timestr": "0104510_0112120",
+    "final_spoken": "from the study we found that most of them adopted the wearable products not for the purpose of stress tracking",
+    "final_written": "From the study, we found that most of them adopted the wearable products not for the purpose of stress-tracking,",
+    "words_spoken": [
+      {
+        "word": "from",
+        "start": 104.87,
+        "end": 105.10000000000001
+      },
+      {
+        "word": "the",
+        "start": 105.10000000000001,
+        "end": 105.17
+      },
+      {
+        "word": "study",
+        "start": 105.17,
+        "end": 105.55000000000001
+      },
+      {
+        "word": "we",
+        "start": 105.55000000000001,
+        "end": 105.66000000000001
+      },
+      {
+        "word": "found",
+        "start": 105.66000000000001,
+        "end": 105.98
+      },
+      {
+        "word": "that",
+        "start": 105.98,
+        "end": 106.13000000000001
+      },
+      {
+        "word": "most",
+        "start": 106.13000000000001,
+        "end": 106.47
+      },
+      {
+        "word": "of",
+        "start": 106.47,
+        "end": 106.64
+      },
+      {
+        "word": "them",
+        "start": 106.64,
+        "end": 106.80000000000001
+      },
+      {
+        "word": "adopted",
+        "start": 106.80000000000001,
+        "end": 107.53
+      },
+      {
+        "word": "the",
+        "start": 107.60000000000001,
+        "end": 107.92
+      },
+      {
+        "word": "wearable",
+        "start": 108.17,
+        "end": 108.74000000000001
+      },
+      {
+        "word": "products",
+        "start": 108.74000000000001,
+        "end": 109.22
+      },
+      {
+        "word": "not",
+        "start": 109.22,
+        "end": 109.60000000000001
+      },
+      {
+        "word": "for",
+        "start": 109.60000000000001,
+        "end": 109.71000000000001
+      },
+      {
+        "word": "the",
+        "start": 109.71000000000001,
+        "end": 109.91000000000001
+      },
+      {
+        "word": "purpose",
+        "start": 109.97,
+        "end": 110.57000000000001
+      },
+      {
+        "word": "of",
+        "start": 110.57000000000001,
+        "end": 110.68
+      },
+      {
+        "word": "stress",
+        "start": 110.68,
+        "end": 110.89
+      },
+      {
+        "word": "tracking",
+        "start": 110.92,
+        "end": 111.41000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "From",
+        "start": 104.87,
+        "end": 105.10000000000001
+      },
+      {
+        "word": "the",
+        "start": 105.10000000000001,
+        "end": 105.17
+      },
+      {
+        "word": "study,",
+        "start": 105.17,
+        "end": 105.55000000000001
+      },
+      {
+        "word": "we",
+        "start": 105.55000000000001,
+        "end": 105.66000000000001
+      },
+      {
+        "word": "found",
+        "start": 105.66000000000001,
+        "end": 105.98
+      },
+      {
+        "word": "that",
+        "start": 105.98,
+        "end": 106.13000000000001
+      },
+      {
+        "word": "most",
+        "start": 106.13000000000001,
+        "end": 106.47
+      },
+      {
+        "word": "of",
+        "start": 106.47,
+        "end": 106.64
+      },
+      {
+        "word": "them",
+        "start": 106.64,
+        "end": 106.80000000000001
+      },
+      {
+        "word": "adopted",
+        "start": 106.80000000000001,
+        "end": 107.53
+      },
+      {
+        "word": "the",
+        "start": 107.60000000000001,
+        "end": 107.92
+      },
+      {
+        "word": "wearable",
+        "start": 108.17,
+        "end": 108.74000000000001
+      },
+      {
+        "word": "products",
+        "start": 108.74000000000001,
+        "end": 109.22
+      },
+      {
+        "word": "not",
+        "start": 109.22,
+        "end": 109.60000000000001
+      },
+      {
+        "word": "for",
+        "start": 109.60000000000001,
+        "end": 109.71000000000001
+      },
+      {
+        "word": "the",
+        "start": 109.71000000000001,
+        "end": 109.91000000000001
+      },
+      {
+        "word": "purpose",
+        "start": 109.97,
+        "end": 110.57000000000001
+      },
+      {
+        "word": "of",
+        "start": 110.57000000000001,
+        "end": 110.68
+      },
+      {
+        "word": "stress-tracking,",
+        "start": 110.68,
+        "end": 111.41000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0112120_0119440",
+    "final_spoken": "but for other reasons such as not missing phone calls and they only discovered the stress tracking technology later on",
+    "final_written": "but for other reasons such as not missing phone calls, and they only discovered the stress-tracking technology later on.",
+    "words_spoken": [
+      {
+        "word": "but",
+        "start": 112.26,
+        "end": 112.34
+      },
+      {
+        "word": "for",
+        "start": 112.34,
+        "end": 112.49000000000001
+      },
+      {
+        "word": "other",
+        "start": 112.49000000000001,
+        "end": 112.82000000000001
+      },
+      {
+        "word": "reasons",
+        "start": 112.82000000000001,
+        "end": 113.29
+      },
+      {
+        "word": "such",
+        "start": 113.29,
+        "end": 113.53
+      },
+      {
+        "word": "as",
+        "start": 113.53,
+        "end": 113.77000000000001
+      },
+      {
+        "word": "not",
+        "start": 113.77000000000001,
+        "end": 114.04
+      },
+      {
+        "word": "missing",
+        "start": 114.04,
+        "end": 114.37
+      },
+      {
+        "word": "phone",
+        "start": 114.4,
+        "end": 114.59
+      },
+      {
+        "word": "calls",
+        "start": 114.59,
+        "end": 114.99000000000001
+      },
+      {
+        "word": "and",
+        "start": 114.99000000000001,
+        "end": 115.27000000000001
+      },
+      {
+        "word": "they",
+        "start": 115.27000000000001,
+        "end": 115.54
+      },
+      {
+        "word": "only",
+        "start": 115.60000000000001,
+        "end": 115.9
+      },
+      {
+        "word": "discovered",
+        "start": 115.9,
+        "end": 116.88000000000001
+      },
+      {
+        "word": "the",
+        "start": 116.92,
+        "end": 117.14
+      },
+      {
+        "word": "stress",
+        "start": 117.27000000000001,
+        "end": 117.65
+      },
+      {
+        "word": "tracking",
+        "start": 117.65,
+        "end": 118.03
+      },
+      {
+        "word": "technology",
+        "start": 118.03,
+        "end": 118.64
+      },
+      {
+        "word": "later",
+        "start": 118.64,
+        "end": 118.88000000000001
+      },
+      {
+        "word": "on",
+        "start": 118.88000000000001,
+        "end": 119.19
+      }
+    ],
+    "words_written": [
+      {
+        "word": "but",
+        "start": 112.26,
+        "end": 112.34
+      },
+      {
+        "word": "for",
+        "start": 112.34,
+        "end": 112.49000000000001
+      },
+      {
+        "word": "other",
+        "start": 112.49000000000001,
+        "end": 112.82000000000001
+      },
+      {
+        "word": "reasons",
+        "start": 112.82000000000001,
+        "end": 113.29
+      },
+      {
+        "word": "such",
+        "start": 113.29,
+        "end": 113.53
+      },
+      {
+        "word": "as",
+        "start": 113.53,
+        "end": 113.77000000000001
+      },
+      {
+        "word": "not",
+        "start": 113.77000000000001,
+        "end": 114.04
+      },
+      {
+        "word": "missing",
+        "start": 114.04,
+        "end": 114.37
+      },
+      {
+        "word": "phone",
+        "start": 114.4,
+        "end": 114.59
+      },
+      {
+        "word": "calls,",
+        "start": 114.59,
+        "end": 115.01
+      },
+      {
+        "word": "and",
+        "start": 115.07000000000001,
+        "end": 115.27000000000001
+      },
+      {
+        "word": "they",
+        "start": 115.27000000000001,
+        "end": 115.54
+      },
+      {
+        "word": "only",
+        "start": 115.60000000000001,
+        "end": 115.9
+      },
+      {
+        "word": "discovered",
+        "start": 115.9,
+        "end": 116.88000000000001
+      },
+      {
+        "word": "the",
+        "start": 116.92,
+        "end": 117.14
+      },
+      {
+        "word": "stress-tracking",
+        "start": 117.27000000000001,
+        "end": 118.03
+      },
+      {
+        "word": "technology",
+        "start": 118.03,
+        "end": 118.64
+      },
+      {
+        "word": "later",
+        "start": 118.64,
+        "end": 118.88000000000001
+      },
+      {
+        "word": "on.",
+        "start": 118.88000000000001,
+        "end": 119.19
+      }
+    ]
+  },
+  {
+    "timestr": "0119440_0129120",
+    "final_spoken": "and we found only very few of them could meaningfully engage with the stress data and most of them were very confused and could not make could not make effective use of the stress data",
+    "final_written": "And we found only very few of them could meaningfully engage with the stress data, And most of them were very confused and could not make, could not make effective use of the stress data.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 119.69,
+        "end": 119.81
+      },
+      {
+        "word": "we",
+        "start": 119.81,
+        "end": 119.89999999999999
+      },
+      {
+        "word": "found",
+        "start": 119.89999999999999,
+        "end": 120.14
+      },
+      {
+        "word": "only",
+        "start": 120.17,
+        "end": 120.39
+      },
+      {
+        "word": "very",
+        "start": 120.39,
+        "end": 120.61
+      },
+      {
+        "word": "few",
+        "start": 120.61,
+        "end": 120.88
+      },
+      {
+        "word": "of",
+        "start": 120.88,
+        "end": 121.02
+      },
+      {
+        "word": "them",
+        "start": 121.02,
+        "end": 121.22
+      },
+      {
+        "word": "could",
+        "start": 121.22,
+        "end": 121.39
+      },
+      {
+        "word": "meaningfully",
+        "start": 121.39,
+        "end": 121.50999999999999
+      },
+      {
+        "word": "engage",
+        "start": 121.50999999999999,
+        "end": 121.77
+      },
+      {
+        "word": "with",
+        "start": 121.84,
+        "end": 122.39
+      },
+      {
+        "word": "the",
+        "start": 122.39,
+        "end": 122.52
+      },
+      {
+        "word": "stress",
+        "start": 122.67999999999999,
+        "end": 123.06
+      },
+      {
+        "word": "data",
+        "start": 123.06,
+        "end": 123.25999999999999
+      },
+      {
+        "word": "and",
+        "start": 123.25999999999999,
+        "end": 123.6
+      },
+      {
+        "word": "most",
+        "start": 123.6,
+        "end": 123.86
+      },
+      {
+        "word": "of",
+        "start": 123.86,
+        "end": 124.03999999999999
+      },
+      {
+        "word": "them",
+        "start": 124.03999999999999,
+        "end": 124.21
+      },
+      {
+        "word": "were",
+        "start": 124.21,
+        "end": 124.32
+      },
+      {
+        "word": "very",
+        "start": 124.32,
+        "end": 124.56
+      },
+      {
+        "word": "confused",
+        "start": 124.59,
+        "end": 125.14
+      },
+      {
+        "word": "and",
+        "start": 125.14,
+        "end": 125.31
+      },
+      {
+        "word": "could",
+        "start": 125.31,
+        "end": 125.46
+      },
+      {
+        "word": "not",
+        "start": 125.46,
+        "end": 125.7
+      },
+      {
+        "word": "make",
+        "start": 125.7,
+        "end": 126.0
+      },
+      {
+        "word": "could",
+        "start": 126.57,
+        "end": 126.67999999999999
+      },
+      {
+        "word": "not",
+        "start": 126.67999999999999,
+        "end": 126.86
+      },
+      {
+        "word": "make",
+        "start": 126.86,
+        "end": 127.03
+      },
+      {
+        "word": "effective",
+        "start": 127.03,
+        "end": 127.58
+      },
+      {
+        "word": "use",
+        "start": 127.63,
+        "end": 127.9
+      },
+      {
+        "word": "of",
+        "start": 127.9,
+        "end": 128.06
+      },
+      {
+        "word": "the",
+        "start": 128.06,
+        "end": 128.13
+      },
+      {
+        "word": "stress",
+        "start": 128.13,
+        "end": 128.47
+      },
+      {
+        "word": "data",
+        "start": 128.5,
+        "end": 128.73
+      }
+    ],
+    "words_written": [
+      {
+        "word": "And",
+        "start": 119.69,
+        "end": 119.81
+      },
+      {
+        "word": "we",
+        "start": 119.81,
+        "end": 119.89999999999999
+      },
+      {
+        "word": "found",
+        "start": 119.89999999999999,
+        "end": 120.14
+      },
+      {
+        "word": "only",
+        "start": 120.17,
+        "end": 120.39
+      },
+      {
+        "word": "very",
+        "start": 120.39,
+        "end": 120.61
+      },
+      {
+        "word": "few",
+        "start": 120.61,
+        "end": 120.88
+      },
+      {
+        "word": "of",
+        "start": 120.88,
+        "end": 121.02
+      },
+      {
+        "word": "them",
+        "start": 121.02,
+        "end": 121.22
+      },
+      {
+        "word": "could",
+        "start": 121.22,
+        "end": 121.39
+      },
+      {
+        "word": "meaningfully",
+        "start": 121.39,
+        "end": 121.50999999999999
+      },
+      {
+        "word": "engage",
+        "start": 121.50999999999999,
+        "end": 121.77
+      },
+      {
+        "word": "with",
+        "start": 121.84,
+        "end": 122.39999999999999
+      },
+      {
+        "word": "the",
+        "start": 122.61,
+        "end": 122.69
+      },
+      {
+        "word": "stress",
+        "start": 122.69,
+        "end": 123.06
+      },
+      {
+        "word": "data,",
+        "start": 123.06,
+        "end": 123.25999999999999
+      },
+      {
+        "word": "And",
+        "start": 123.25999999999999,
+        "end": 123.6
+      },
+      {
+        "word": "most",
+        "start": 123.6,
+        "end": 123.86
+      },
+      {
+        "word": "of",
+        "start": 123.86,
+        "end": 124.03999999999999
+      },
+      {
+        "word": "them",
+        "start": 124.03999999999999,
+        "end": 124.21
+      },
+      {
+        "word": "were",
+        "start": 124.21,
+        "end": 124.32
+      },
+      {
+        "word": "very",
+        "start": 124.32,
+        "end": 124.56
+      },
+      {
+        "word": "confused",
+        "start": 124.59,
+        "end": 125.14
+      },
+      {
+        "word": "and",
+        "start": 125.14,
+        "end": 125.31
+      },
+      {
+        "word": "could",
+        "start": 125.31,
+        "end": 125.46
+      },
+      {
+        "word": "not",
+        "start": 125.46,
+        "end": 125.7
+      },
+      {
+        "word": "make,",
+        "start": 125.7,
+        "end": 126.0
+      },
+      {
+        "word": "could",
+        "start": 126.57,
+        "end": 126.67999999999999
+      },
+      {
+        "word": "not",
+        "start": 126.67999999999999,
+        "end": 126.86
+      },
+      {
+        "word": "make",
+        "start": 126.86,
+        "end": 127.03
+      },
+      {
+        "word": "effective",
+        "start": 127.03,
+        "end": 127.58
+      },
+      {
+        "word": "use",
+        "start": 127.63,
+        "end": 127.9
+      },
+      {
+        "word": "of",
+        "start": 127.9,
+        "end": 128.06
+      },
+      {
+        "word": "the",
+        "start": 128.06,
+        "end": 128.13
+      },
+      {
+        "word": "stress",
+        "start": 128.13,
+        "end": 128.47
+      },
+      {
+        "word": "data.",
+        "start": 128.5,
+        "end": 128.73
+      }
+    ]
+  },
+  {
+    "timestr": "0129120_0138110",
+    "final_spoken": "through the study we also identified a number of challenges for people to engage with the stress data the first challenge is the lack of immediate awareness",
+    "final_written": "Through the study, we also identified a number of challenges for people to engage with the stress data. The first challenge is the lack of immediate awareness.",
+    "words_spoken": [
+      {
+        "word": "through",
+        "start": 129.5,
+        "end": 129.69
+      },
+      {
+        "word": "the",
+        "start": 129.69,
+        "end": 129.79
+      },
+      {
+        "word": "study",
+        "start": 129.79,
+        "end": 130.20000000000002
+      },
+      {
+        "word": "we",
+        "start": 130.20000000000002,
+        "end": 130.32
+      },
+      {
+        "word": "also",
+        "start": 130.32,
+        "end": 130.63
+      },
+      {
+        "word": "identified",
+        "start": 130.63,
+        "end": 131.49
+      },
+      {
+        "word": "a",
+        "start": 131.55,
+        "end": 131.62
+      },
+      {
+        "word": "number",
+        "start": 131.62,
+        "end": 131.9
+      },
+      {
+        "word": "of",
+        "start": 131.9,
+        "end": 131.94
+      },
+      {
+        "word": "challenges",
+        "start": 131.94,
+        "end": 132.56
+      },
+      {
+        "word": "for",
+        "start": 132.56,
+        "end": 132.74
+      },
+      {
+        "word": "people",
+        "start": 132.74,
+        "end": 133.15
+      },
+      {
+        "word": "to",
+        "start": 133.15,
+        "end": 133.26
+      },
+      {
+        "word": "engage",
+        "start": 133.26,
+        "end": 133.68
+      },
+      {
+        "word": "with",
+        "start": 133.68,
+        "end": 133.83
+      },
+      {
+        "word": "the",
+        "start": 133.83,
+        "end": 133.91
+      },
+      {
+        "word": "stress",
+        "start": 133.91,
+        "end": 134.27
+      },
+      {
+        "word": "data",
+        "start": 134.27,
+        "end": 134.57
+      },
+      {
+        "word": "the",
+        "start": 135.19,
+        "end": 135.26
+      },
+      {
+        "word": "first",
+        "start": 135.26,
+        "end": 135.6
+      },
+      {
+        "word": "challenge",
+        "start": 135.6,
+        "end": 136.02
+      },
+      {
+        "word": "is",
+        "start": 136.02,
+        "end": 136.26
+      },
+      {
+        "word": "the",
+        "start": 136.26,
+        "end": 136.34
+      },
+      {
+        "word": "lack",
+        "start": 136.34,
+        "end": 136.65
+      },
+      {
+        "word": "of",
+        "start": 136.65,
+        "end": 136.75
+      },
+      {
+        "word": "immediate",
+        "start": 136.75,
+        "end": 137.25
+      },
+      {
+        "word": "awareness",
+        "start": 137.37,
+        "end": 138.02
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Through",
+        "start": 129.5,
+        "end": 129.69
+      },
+      {
+        "word": "the",
+        "start": 129.69,
+        "end": 129.79
+      },
+      {
+        "word": "study,",
+        "start": 129.79,
+        "end": 130.20000000000002
+      },
+      {
+        "word": "we",
+        "start": 130.20000000000002,
+        "end": 130.32
+      },
+      {
+        "word": "also",
+        "start": 130.32,
+        "end": 130.63
+      },
+      {
+        "word": "identified",
+        "start": 130.63,
+        "end": 131.49
+      },
+      {
+        "word": "a",
+        "start": 131.55,
+        "end": 131.62
+      },
+      {
+        "word": "number",
+        "start": 131.62,
+        "end": 131.9
+      },
+      {
+        "word": "of",
+        "start": 131.9,
+        "end": 131.94
+      },
+      {
+        "word": "challenges",
+        "start": 131.94,
+        "end": 132.56
+      },
+      {
+        "word": "for",
+        "start": 132.56,
+        "end": 132.74
+      },
+      {
+        "word": "people",
+        "start": 132.74,
+        "end": 133.15
+      },
+      {
+        "word": "to",
+        "start": 133.15,
+        "end": 133.26
+      },
+      {
+        "word": "engage",
+        "start": 133.26,
+        "end": 133.68
+      },
+      {
+        "word": "with",
+        "start": 133.68,
+        "end": 133.83
+      },
+      {
+        "word": "the",
+        "start": 133.83,
+        "end": 133.91
+      },
+      {
+        "word": "stress",
+        "start": 133.91,
+        "end": 134.27
+      },
+      {
+        "word": "data.",
+        "start": 134.27,
+        "end": 134.57
+      },
+      {
+        "word": "The",
+        "start": 135.19,
+        "end": 135.26
+      },
+      {
+        "word": "first",
+        "start": 135.26,
+        "end": 135.6
+      },
+      {
+        "word": "challenge",
+        "start": 135.6,
+        "end": 136.02
+      },
+      {
+        "word": "is",
+        "start": 136.02,
+        "end": 136.26
+      },
+      {
+        "word": "the",
+        "start": 136.26,
+        "end": 136.34
+      },
+      {
+        "word": "lack",
+        "start": 136.34,
+        "end": 136.65
+      },
+      {
+        "word": "of",
+        "start": 136.65,
+        "end": 136.75
+      },
+      {
+        "word": "immediate",
+        "start": 136.75,
+        "end": 137.25
+      },
+      {
+        "word": "awareness.",
+        "start": 137.37,
+        "end": 138.02
+      }
+    ]
+  },
+  {
+    "timestr": "0138110_0147230",
+    "final_spoken": "previous research shows that in the moment data engagement is very important for reflection but in our case due to some technical issues or for",
+    "final_written": "Previous research shows that in the moment data engagement is very important for reflection. But in our case, due to some technical issues or for",
+    "words_spoken": [
+      {
+        "word": "previous",
+        "start": 138.14000000000001,
+        "end": 138.56
+      },
+      {
+        "word": "research",
+        "start": 138.56,
+        "end": 139.03
+      },
+      {
+        "word": "shows",
+        "start": 139.03,
+        "end": 139.37
+      },
+      {
+        "word": "that",
+        "start": 139.37,
+        "end": 139.64000000000001
+      },
+      {
+        "word": "in",
+        "start": 139.64000000000001,
+        "end": 139.70000000000002
+      },
+      {
+        "word": "the",
+        "start": 139.70000000000002,
+        "end": 139.96
+      },
+      {
+        "word": "moment",
+        "start": 140.11,
+        "end": 140.8
+      },
+      {
+        "word": "data",
+        "start": 140.8,
+        "end": 140.96
+      },
+      {
+        "word": "engagement",
+        "start": 140.96,
+        "end": 141.82000000000002
+      },
+      {
+        "word": "is",
+        "start": 141.82000000000002,
+        "end": 142.12
+      },
+      {
+        "word": "very",
+        "start": 142.19000000000003,
+        "end": 142.37
+      },
+      {
+        "word": "important",
+        "start": 142.37,
+        "end": 142.97000000000003
+      },
+      {
+        "word": "for",
+        "start": 143.10000000000002,
+        "end": 143.19000000000003
+      },
+      {
+        "word": "reflection",
+        "start": 143.19000000000003,
+        "end": 144.06
+      },
+      {
+        "word": "but",
+        "start": 144.5,
+        "end": 144.56
+      },
+      {
+        "word": "in",
+        "start": 144.56,
+        "end": 144.77
+      },
+      {
+        "word": "our",
+        "start": 144.77,
+        "end": 144.87
+      },
+      {
+        "word": "case",
+        "start": 144.87,
+        "end": 145.17000000000002
+      },
+      {
+        "word": "due",
+        "start": 145.17000000000002,
+        "end": 145.27
+      },
+      {
+        "word": "to",
+        "start": 145.27,
+        "end": 145.39000000000001
+      },
+      {
+        "word": "some",
+        "start": 145.39000000000001,
+        "end": 145.66000000000003
+      },
+      {
+        "word": "technical",
+        "start": 145.66000000000003,
+        "end": 146.19000000000003
+      },
+      {
+        "word": "issues",
+        "start": 146.19000000000003,
+        "end": 146.63000000000002
+      },
+      {
+        "word": "or",
+        "start": 146.63000000000002,
+        "end": 146.77
+      },
+      {
+        "word": "for",
+        "start": 146.77,
+        "end": 147.23000000000002
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Previous",
+        "start": 138.14000000000001,
+        "end": 138.56
+      },
+      {
+        "word": "research",
+        "start": 138.56,
+        "end": 139.03
+      },
+      {
+        "word": "shows",
+        "start": 139.03,
+        "end": 139.37
+      },
+      {
+        "word": "that",
+        "start": 139.37,
+        "end": 139.64000000000001
+      },
+      {
+        "word": "in",
+        "start": 139.64000000000001,
+        "end": 139.71
+      },
+      {
+        "word": "the",
+        "start": 139.71,
+        "end": 139.96
+      },
+      {
+        "word": "moment",
+        "start": 140.11,
+        "end": 140.8
+      },
+      {
+        "word": "data",
+        "start": 140.8,
+        "end": 140.96
+      },
+      {
+        "word": "engagement",
+        "start": 140.96,
+        "end": 141.82000000000002
+      },
+      {
+        "word": "is",
+        "start": 141.82000000000002,
+        "end": 142.12
+      },
+      {
+        "word": "very",
+        "start": 142.19000000000003,
+        "end": 142.37
+      },
+      {
+        "word": "important",
+        "start": 142.37,
+        "end": 142.97000000000003
+      },
+      {
+        "word": "for",
+        "start": 143.10000000000002,
+        "end": 143.16000000000003
+      },
+      {
+        "word": "reflection.",
+        "start": 143.16000000000003,
+        "end": 144.07000000000002
+      },
+      {
+        "word": "But",
+        "start": 144.5,
+        "end": 144.56
+      },
+      {
+        "word": "in",
+        "start": 144.56,
+        "end": 144.77
+      },
+      {
+        "word": "our",
+        "start": 144.77,
+        "end": 144.87
+      },
+      {
+        "word": "case,",
+        "start": 144.87,
+        "end": 145.17000000000002
+      },
+      {
+        "word": "due",
+        "start": 145.17000000000002,
+        "end": 145.27
+      },
+      {
+        "word": "to",
+        "start": 145.27,
+        "end": 145.39000000000001
+      },
+      {
+        "word": "some",
+        "start": 145.39000000000001,
+        "end": 145.66000000000003
+      },
+      {
+        "word": "technical",
+        "start": 145.66000000000003,
+        "end": 146.19000000000003
+      },
+      {
+        "word": "issues",
+        "start": 146.19000000000003,
+        "end": 146.63000000000002
+      },
+      {
+        "word": "or",
+        "start": 146.63000000000002,
+        "end": 146.77
+      },
+      {
+        "word": "for",
+        "start": 146.77,
+        "end": 147.23000000000002
+      }
+    ]
+  },
+  {
+    "timestr": "0147230_0155580",
+    "final_spoken": "for reasons of stress the nature of stress itself it's not very common for them to engage with the stress data in the moment of stress for example",
+    "final_written": "For reasons of stress, the nature of stress itself, it's not very common for them to engage with the stress data in the moment of stress, e.g.",
+    "words_spoken": [
+      {
+        "word": "for",
+        "start": 147.34,
+        "end": 147.47
+      },
+      {
+        "word": "reasons",
+        "start": 147.47,
+        "end": 147.92999999999998
+      },
+      {
+        "word": "of",
+        "start": 147.92999999999998,
+        "end": 148.03
+      },
+      {
+        "word": "stress",
+        "start": 148.03,
+        "end": 148.57999999999998
+      },
+      {
+        "word": "the",
+        "start": 148.64,
+        "end": 148.82
+      },
+      {
+        "word": "nature",
+        "start": 148.86999999999998,
+        "end": 149.23
+      },
+      {
+        "word": "of",
+        "start": 149.23,
+        "end": 149.26999999999998
+      },
+      {
+        "word": "stress",
+        "start": 149.26999999999998,
+        "end": 149.56
+      },
+      {
+        "word": "itself",
+        "start": 149.56,
+        "end": 150.04
+      },
+      {
+        "word": "it's",
+        "start": 150.54999999999998,
+        "end": 150.7
+      },
+      {
+        "word": "not",
+        "start": 150.7,
+        "end": 150.98
+      },
+      {
+        "word": "very",
+        "start": 150.98,
+        "end": 151.17999999999998
+      },
+      {
+        "word": "common",
+        "start": 151.17999999999998,
+        "end": 151.56
+      },
+      {
+        "word": "for",
+        "start": 151.56,
+        "end": 151.67999999999998
+      },
+      {
+        "word": "them",
+        "start": 151.67999999999998,
+        "end": 151.85999999999999
+      },
+      {
+        "word": "to",
+        "start": 151.85999999999999,
+        "end": 151.98
+      },
+      {
+        "word": "engage",
+        "start": 151.98,
+        "end": 152.42
+      },
+      {
+        "word": "with",
+        "start": 152.42,
+        "end": 152.57
+      },
+      {
+        "word": "the",
+        "start": 152.57,
+        "end": 152.66
+      },
+      {
+        "word": "stress",
+        "start": 152.66,
+        "end": 153.04999999999998
+      },
+      {
+        "word": "data",
+        "start": 153.04999999999998,
+        "end": 153.42
+      },
+      {
+        "word": "in",
+        "start": 153.42,
+        "end": 153.60999999999999
+      },
+      {
+        "word": "the",
+        "start": 153.60999999999999,
+        "end": 153.67999999999998
+      },
+      {
+        "word": "moment",
+        "start": 153.67999999999998,
+        "end": 154.07999999999998
+      },
+      {
+        "word": "of",
+        "start": 154.07999999999998,
+        "end": 154.2
+      },
+      {
+        "word": "stress",
+        "start": 154.2,
+        "end": 154.60999999999999
+      },
+      {
+        "word": "for",
+        "start": 154.73,
+        "end": 154.79
+      },
+      {
+        "word": "example",
+        "start": 154.79,
+        "end": 155.41
+      }
+    ],
+    "words_written": [
+      {
+        "word": "For",
+        "start": 147.34,
+        "end": 147.47
+      },
+      {
+        "word": "reasons",
+        "start": 147.47,
+        "end": 147.92999999999998
+      },
+      {
+        "word": "of",
+        "start": 147.92999999999998,
+        "end": 148.03
+      },
+      {
+        "word": "stress,",
+        "start": 148.03,
+        "end": 148.57999999999998
+      },
+      {
+        "word": "the",
+        "start": 148.85,
+        "end": 148.92999999999998
+      },
+      {
+        "word": "nature",
+        "start": 148.92999999999998,
+        "end": 149.23
+      },
+      {
+        "word": "of",
+        "start": 149.23,
+        "end": 149.26999999999998
+      },
+      {
+        "word": "stress",
+        "start": 149.26999999999998,
+        "end": 149.56
+      },
+      {
+        "word": "itself,",
+        "start": 149.56,
+        "end": 150.04
+      },
+      {
+        "word": "it's",
+        "start": 150.54999999999998,
+        "end": 150.7
+      },
+      {
+        "word": "not",
+        "start": 150.7,
+        "end": 150.98
+      },
+      {
+        "word": "very",
+        "start": 150.98,
+        "end": 151.17999999999998
+      },
+      {
+        "word": "common",
+        "start": 151.17999999999998,
+        "end": 151.56
+      },
+      {
+        "word": "for",
+        "start": 151.56,
+        "end": 151.67999999999998
+      },
+      {
+        "word": "them",
+        "start": 151.67999999999998,
+        "end": 151.85999999999999
+      },
+      {
+        "word": "to",
+        "start": 151.85999999999999,
+        "end": 151.98
+      },
+      {
+        "word": "engage",
+        "start": 151.98,
+        "end": 152.42
+      },
+      {
+        "word": "with",
+        "start": 152.42,
+        "end": 152.57
+      },
+      {
+        "word": "the",
+        "start": 152.57,
+        "end": 152.66
+      },
+      {
+        "word": "stress",
+        "start": 152.66,
+        "end": 153.04999999999998
+      },
+      {
+        "word": "data",
+        "start": 153.04999999999998,
+        "end": 153.42
+      },
+      {
+        "word": "in",
+        "start": 153.42,
+        "end": 153.60999999999999
+      },
+      {
+        "word": "the",
+        "start": 153.60999999999999,
+        "end": 153.67999999999998
+      },
+      {
+        "word": "moment",
+        "start": 153.67999999999998,
+        "end": 154.07999999999998
+      },
+      {
+        "word": "of",
+        "start": 154.07999999999998,
+        "end": 154.2
+      },
+      {
+        "word": "stress,",
+        "start": 154.2,
+        "end": 154.60999999999999
+      },
+      {
+        "word": "e.g.",
+        "start": 154.78,
+        "end": 154.89999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0155580_0160200",
+    "final_spoken": "huawei's stress tracking technology could only update half an hour and it",
+    "final_written": "Huawei's stress tracking technology could only update half an hour and it.",
+    "words_spoken": [
+      {
+        "word": "huawei's",
+        "start": 155.85000000000002,
+        "end": 156.27
+      },
+      {
+        "word": "stress",
+        "start": 156.27,
+        "end": 156.48000000000002
+      },
+      {
+        "word": "tracking",
+        "start": 156.48000000000002,
+        "end": 156.83
+      },
+      {
+        "word": "technology",
+        "start": 156.83,
+        "end": 157.33
+      },
+      {
+        "word": "could",
+        "start": 157.33,
+        "end": 157.52
+      },
+      {
+        "word": "only",
+        "start": 157.52,
+        "end": 157.77
+      },
+      {
+        "word": "update",
+        "start": 157.81,
+        "end": 158.31
+      },
+      {
+        "word": "half",
+        "start": 158.31,
+        "end": 158.56
+      },
+      {
+        "word": "an",
+        "start": 158.60000000000002,
+        "end": 158.83
+      },
+      {
+        "word": "hour",
+        "start": 158.83,
+        "end": 159.17000000000002
+      },
+      {
+        "word": "and",
+        "start": 159.54000000000002,
+        "end": 159.94000000000003
+      },
+      {
+        "word": "it",
+        "start": 159.94000000000003,
+        "end": 160.20000000000002
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Huawei's",
+        "start": 155.85000000000002,
+        "end": 156.27
+      },
+      {
+        "word": "stress",
+        "start": 156.27,
+        "end": 156.48000000000002
+      },
+      {
+        "word": "tracking",
+        "start": 156.48000000000002,
+        "end": 156.83
+      },
+      {
+        "word": "technology",
+        "start": 156.83,
+        "end": 157.33
+      },
+      {
+        "word": "could",
+        "start": 157.33,
+        "end": 157.52
+      },
+      {
+        "word": "only",
+        "start": 157.52,
+        "end": 157.77
+      },
+      {
+        "word": "update",
+        "start": 157.81,
+        "end": 158.31
+      },
+      {
+        "word": "half",
+        "start": 158.31,
+        "end": 158.56
+      },
+      {
+        "word": "an",
+        "start": 158.60000000000002,
+        "end": 158.83
+      },
+      {
+        "word": "hour",
+        "start": 158.83,
+        "end": 159.17000000000002
+      },
+      {
+        "word": "and",
+        "start": 159.54000000000002,
+        "end": 159.94000000000003
+      },
+      {
+        "word": "it.",
+        "start": 159.94000000000003,
+        "end": 160.20000000000002
+      }
+    ]
+  },
+  {
+    "timestr": "0160200_0168200",
+    "final_spoken": "it was commonly reported when people felt stressed they were too busy or too occupied that they would not look at the stress data at all",
+    "final_written": "It was commonly reported when people felt stressed they were too busy or too occupied that they would not look at the stress data at all.",
+    "words_spoken": [
+      {
+        "word": "it",
+        "start": 160.45,
+        "end": 160.51999999999998
+      },
+      {
+        "word": "was",
+        "start": 160.51999999999998,
+        "end": 160.73999999999998
+      },
+      {
+        "word": "commonly",
+        "start": 160.73999999999998,
+        "end": 161.13
+      },
+      {
+        "word": "reported",
+        "start": 161.13,
+        "end": 161.88
+      },
+      {
+        "word": "when",
+        "start": 161.92999999999998,
+        "end": 162.13
+      },
+      {
+        "word": "people",
+        "start": 162.13,
+        "end": 162.39
+      },
+      {
+        "word": "felt",
+        "start": 162.39,
+        "end": 162.64
+      },
+      {
+        "word": "stressed",
+        "start": 162.64,
+        "end": 163.07
+      },
+      {
+        "word": "they",
+        "start": 163.10999999999999,
+        "end": 163.19
+      },
+      {
+        "word": "were",
+        "start": 163.19,
+        "end": 163.33999999999997
+      },
+      {
+        "word": "too",
+        "start": 163.33999999999997,
+        "end": 163.63
+      },
+      {
+        "word": "busy",
+        "start": 163.63,
+        "end": 164.03
+      },
+      {
+        "word": "or",
+        "start": 164.03,
+        "end": 164.28
+      },
+      {
+        "word": "too",
+        "start": 164.28,
+        "end": 164.45
+      },
+      {
+        "word": "occupied",
+        "start": 164.45,
+        "end": 165.19
+      },
+      {
+        "word": "that",
+        "start": 165.32999999999998,
+        "end": 165.51999999999998
+      },
+      {
+        "word": "they",
+        "start": 165.51999999999998,
+        "end": 165.61999999999998
+      },
+      {
+        "word": "would",
+        "start": 165.61999999999998,
+        "end": 165.73999999999998
+      },
+      {
+        "word": "not",
+        "start": 165.73999999999998,
+        "end": 165.98999999999998
+      },
+      {
+        "word": "look",
+        "start": 165.98999999999998,
+        "end": 166.2
+      },
+      {
+        "word": "at",
+        "start": 166.2,
+        "end": 166.35
+      },
+      {
+        "word": "the",
+        "start": 166.35,
+        "end": 166.41
+      },
+      {
+        "word": "stress",
+        "start": 166.41,
+        "end": 166.86999999999998
+      },
+      {
+        "word": "data",
+        "start": 166.86999999999998,
+        "end": 167.06
+      },
+      {
+        "word": "at",
+        "start": 167.06,
+        "end": 167.26999999999998
+      },
+      {
+        "word": "all",
+        "start": 167.26999999999998,
+        "end": 167.64
+      }
+    ],
+    "words_written": [
+      {
+        "word": "It",
+        "start": 160.45,
+        "end": 160.51999999999998
+      },
+      {
+        "word": "was",
+        "start": 160.51999999999998,
+        "end": 160.73999999999998
+      },
+      {
+        "word": "commonly",
+        "start": 160.73999999999998,
+        "end": 161.13
+      },
+      {
+        "word": "reported",
+        "start": 161.13,
+        "end": 161.88
+      },
+      {
+        "word": "when",
+        "start": 161.92999999999998,
+        "end": 162.13
+      },
+      {
+        "word": "people",
+        "start": 162.13,
+        "end": 162.39
+      },
+      {
+        "word": "felt",
+        "start": 162.39,
+        "end": 162.64
+      },
+      {
+        "word": "stressed",
+        "start": 162.64,
+        "end": 163.07
+      },
+      {
+        "word": "they",
+        "start": 163.10999999999999,
+        "end": 163.19
+      },
+      {
+        "word": "were",
+        "start": 163.19,
+        "end": 163.33999999999997
+      },
+      {
+        "word": "too",
+        "start": 163.33999999999997,
+        "end": 163.63
+      },
+      {
+        "word": "busy",
+        "start": 163.63,
+        "end": 164.03
+      },
+      {
+        "word": "or",
+        "start": 164.03,
+        "end": 164.28
+      },
+      {
+        "word": "too",
+        "start": 164.28,
+        "end": 164.45
+      },
+      {
+        "word": "occupied",
+        "start": 164.45,
+        "end": 165.19
+      },
+      {
+        "word": "that",
+        "start": 165.32999999999998,
+        "end": 165.51999999999998
+      },
+      {
+        "word": "they",
+        "start": 165.51999999999998,
+        "end": 165.61999999999998
+      },
+      {
+        "word": "would",
+        "start": 165.61999999999998,
+        "end": 165.73999999999998
+      },
+      {
+        "word": "not",
+        "start": 165.73999999999998,
+        "end": 165.98999999999998
+      },
+      {
+        "word": "look",
+        "start": 165.98999999999998,
+        "end": 166.2
+      },
+      {
+        "word": "at",
+        "start": 166.2,
+        "end": 166.35
+      },
+      {
+        "word": "the",
+        "start": 166.35,
+        "end": 166.41
+      },
+      {
+        "word": "stress",
+        "start": 166.41,
+        "end": 166.86999999999998
+      },
+      {
+        "word": "data",
+        "start": 166.86999999999998,
+        "end": 167.06
+      },
+      {
+        "word": "at",
+        "start": 167.06,
+        "end": 167.26999999999998
+      },
+      {
+        "word": "all.",
+        "start": 167.26999999999998,
+        "end": 167.64
+      }
+    ]
+  },
+  {
+    "timestr": "0168200_0176280",
+    "final_spoken": "the second challenge comes with a lack of pre required knowledge as noted before the notion of stress is pretty complex",
+    "final_written": "The second challenge comes with a lack of pre-required knowledge. As noted before, the notion of stress is pretty complex,",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 168.79999999999998,
+        "end": 168.89
+      },
+      {
+        "word": "second",
+        "start": 168.89,
+        "end": 169.25
+      },
+      {
+        "word": "challenge",
+        "start": 169.25,
+        "end": 169.85999999999999
+      },
+      {
+        "word": "comes",
+        "start": 169.85999999999999,
+        "end": 170.47
+      },
+      {
+        "word": "with",
+        "start": 170.81,
+        "end": 171.0
+      },
+      {
+        "word": "a",
+        "start": 171.0,
+        "end": 171.1
+      },
+      {
+        "word": "lack",
+        "start": 171.1,
+        "end": 171.42
+      },
+      {
+        "word": "of",
+        "start": 171.42,
+        "end": 171.6
+      },
+      {
+        "word": "pre",
+        "start": 171.6,
+        "end": 171.81
+      },
+      {
+        "word": "required",
+        "start": 171.81,
+        "end": 172.33999999999997
+      },
+      {
+        "word": "knowledge",
+        "start": 172.33999999999997,
+        "end": 172.85999999999999
+      },
+      {
+        "word": "as",
+        "start": 173.26,
+        "end": 173.42
+      },
+      {
+        "word": "noted",
+        "start": 173.42,
+        "end": 173.89999999999998
+      },
+      {
+        "word": "before",
+        "start": 173.92999999999998,
+        "end": 174.36999999999998
+      },
+      {
+        "word": "the",
+        "start": 174.36999999999998,
+        "end": 174.51
+      },
+      {
+        "word": "notion",
+        "start": 174.51,
+        "end": 174.86999999999998
+      },
+      {
+        "word": "of",
+        "start": 174.86999999999998,
+        "end": 174.91
+      },
+      {
+        "word": "stress",
+        "start": 174.91,
+        "end": 175.28
+      },
+      {
+        "word": "is",
+        "start": 175.28,
+        "end": 175.5
+      },
+      {
+        "word": "pretty",
+        "start": 175.57,
+        "end": 175.89999999999998
+      },
+      {
+        "word": "complex",
+        "start": 175.89999999999998,
+        "end": 176.28
+      }
+    ],
+    "words_written": [
+      {
+        "word": "The",
+        "start": 168.79999999999998,
+        "end": 168.89
+      },
+      {
+        "word": "second",
+        "start": 168.89,
+        "end": 169.25
+      },
+      {
+        "word": "challenge",
+        "start": 169.25,
+        "end": 169.85999999999999
+      },
+      {
+        "word": "comes",
+        "start": 169.85999999999999,
+        "end": 170.47
+      },
+      {
+        "word": "with",
+        "start": 170.81,
+        "end": 171.0
+      },
+      {
+        "word": "a",
+        "start": 171.0,
+        "end": 171.1
+      },
+      {
+        "word": "lack",
+        "start": 171.1,
+        "end": 171.42
+      },
+      {
+        "word": "of",
+        "start": 171.42,
+        "end": 171.6
+      },
+      {
+        "word": "pre-required",
+        "start": 171.6,
+        "end": 172.33999999999997
+      },
+      {
+        "word": "knowledge.",
+        "start": 172.33999999999997,
+        "end": 172.85999999999999
+      },
+      {
+        "word": "As",
+        "start": 173.26,
+        "end": 173.42
+      },
+      {
+        "word": "noted",
+        "start": 173.42,
+        "end": 173.89999999999998
+      },
+      {
+        "word": "before,",
+        "start": 173.92999999999998,
+        "end": 174.36999999999998
+      },
+      {
+        "word": "the",
+        "start": 174.36999999999998,
+        "end": 174.51
+      },
+      {
+        "word": "notion",
+        "start": 174.51,
+        "end": 174.86999999999998
+      },
+      {
+        "word": "of",
+        "start": 174.86999999999998,
+        "end": 174.91
+      },
+      {
+        "word": "stress",
+        "start": 174.91,
+        "end": 175.28
+      },
+      {
+        "word": "is",
+        "start": 175.28,
+        "end": 175.5
+      },
+      {
+        "word": "pretty",
+        "start": 175.57,
+        "end": 175.89999999999998
+      },
+      {
+        "word": "complex,",
+        "start": 175.89999999999998,
+        "end": 176.28
+      }
+    ]
+  },
+  {
+    "timestr": "0176280_0182020",
+    "final_spoken": "complex and we found during the study many times users were confused with the",
+    "final_written": "Complex and we found during the study many times users were confused with the.",
+    "words_spoken": [
+      {
+        "word": "complex",
+        "start": 176.41,
+        "end": 176.86
+      },
+      {
+        "word": "and",
+        "start": 176.91,
+        "end": 177.15
+      },
+      {
+        "word": "we",
+        "start": 177.73,
+        "end": 177.82
+      },
+      {
+        "word": "found",
+        "start": 177.82,
+        "end": 178.09
+      },
+      {
+        "word": "during",
+        "start": 178.09,
+        "end": 178.36
+      },
+      {
+        "word": "the",
+        "start": 178.36,
+        "end": 178.42
+      },
+      {
+        "word": "study",
+        "start": 178.42,
+        "end": 178.85
+      },
+      {
+        "word": "many",
+        "start": 178.85,
+        "end": 179.37
+      },
+      {
+        "word": "times",
+        "start": 179.37,
+        "end": 179.81
+      },
+      {
+        "word": "users",
+        "start": 180.25,
+        "end": 180.68
+      },
+      {
+        "word": "were",
+        "start": 180.68,
+        "end": 180.82
+      },
+      {
+        "word": "confused",
+        "start": 180.82,
+        "end": 181.48
+      },
+      {
+        "word": "with",
+        "start": 181.48,
+        "end": 181.76
+      },
+      {
+        "word": "the",
+        "start": 181.76,
+        "end": 181.92
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Complex",
+        "start": 176.4,
+        "end": 176.86
+      },
+      {
+        "word": "and",
+        "start": 176.91,
+        "end": 177.15
+      },
+      {
+        "word": "we",
+        "start": 177.73,
+        "end": 177.82
+      },
+      {
+        "word": "found",
+        "start": 177.82,
+        "end": 178.09
+      },
+      {
+        "word": "during",
+        "start": 178.09,
+        "end": 178.36
+      },
+      {
+        "word": "the",
+        "start": 178.36,
+        "end": 178.42
+      },
+      {
+        "word": "study",
+        "start": 178.42,
+        "end": 178.85
+      },
+      {
+        "word": "many",
+        "start": 178.85,
+        "end": 179.37
+      },
+      {
+        "word": "times",
+        "start": 179.37,
+        "end": 179.81
+      },
+      {
+        "word": "users",
+        "start": 180.25,
+        "end": 180.68
+      },
+      {
+        "word": "were",
+        "start": 180.68,
+        "end": 180.82
+      },
+      {
+        "word": "confused",
+        "start": 180.82,
+        "end": 181.48
+      },
+      {
+        "word": "with",
+        "start": 181.48,
+        "end": 181.76
+      },
+      {
+        "word": "the.",
+        "start": 181.76,
+        "end": 181.92
+      }
+    ]
+  },
+  {
+    "timestr": "0182020_0189260",
+    "final_spoken": "high level of physiological stress data when they did not feel psychologically stressed and the underlying",
+    "final_written": "high level of physiological stress data when they did not feel psychologically stressed. And the underlying",
+    "words_spoken": [
+      {
+        "word": "high",
+        "start": 182.17000000000002,
+        "end": 182.38000000000002
+      },
+      {
+        "word": "level",
+        "start": 182.38000000000002,
+        "end": 182.74
+      },
+      {
+        "word": "of",
+        "start": 182.74,
+        "end": 182.92000000000002
+      },
+      {
+        "word": "physiological",
+        "start": 182.92000000000002,
+        "end": 183.68
+      },
+      {
+        "word": "stress",
+        "start": 183.68,
+        "end": 184.02
+      },
+      {
+        "word": "data",
+        "start": 184.02,
+        "end": 184.3
+      },
+      {
+        "word": "when",
+        "start": 184.3,
+        "end": 184.72
+      },
+      {
+        "word": "they",
+        "start": 184.72,
+        "end": 184.89000000000001
+      },
+      {
+        "word": "did",
+        "start": 184.92000000000002,
+        "end": 185.02
+      },
+      {
+        "word": "not",
+        "start": 185.02,
+        "end": 185.26000000000002
+      },
+      {
+        "word": "feel",
+        "start": 185.26000000000002,
+        "end": 185.48000000000002
+      },
+      {
+        "word": "psychologically",
+        "start": 185.48000000000002,
+        "end": 186.48000000000002
+      },
+      {
+        "word": "stressed",
+        "start": 186.48000000000002,
+        "end": 187.10000000000002
+      },
+      {
+        "word": "and",
+        "start": 187.69,
+        "end": 188.07000000000002
+      },
+      {
+        "word": "the",
+        "start": 188.07000000000002,
+        "end": 188.17000000000002
+      },
+      {
+        "word": "underlying",
+        "start": 188.17000000000002,
+        "end": 189.06
+      }
+    ],
+    "words_written": [
+      {
+        "word": "high",
+        "start": 182.17000000000002,
+        "end": 182.38000000000002
+      },
+      {
+        "word": "level",
+        "start": 182.38000000000002,
+        "end": 182.74
+      },
+      {
+        "word": "of",
+        "start": 182.74,
+        "end": 182.92000000000002
+      },
+      {
+        "word": "physiological",
+        "start": 182.92000000000002,
+        "end": 183.68
+      },
+      {
+        "word": "stress",
+        "start": 183.68,
+        "end": 184.02
+      },
+      {
+        "word": "data",
+        "start": 184.02,
+        "end": 184.3
+      },
+      {
+        "word": "when",
+        "start": 184.3,
+        "end": 184.72
+      },
+      {
+        "word": "they",
+        "start": 184.72,
+        "end": 184.89000000000001
+      },
+      {
+        "word": "did",
+        "start": 184.92000000000002,
+        "end": 185.02
+      },
+      {
+        "word": "not",
+        "start": 185.02,
+        "end": 185.26000000000002
+      },
+      {
+        "word": "feel",
+        "start": 185.26000000000002,
+        "end": 185.48000000000002
+      },
+      {
+        "word": "psychologically",
+        "start": 185.48000000000002,
+        "end": 186.48000000000002
+      },
+      {
+        "word": "stressed.",
+        "start": 186.48000000000002,
+        "end": 187.10000000000002
+      },
+      {
+        "word": "And",
+        "start": 187.68,
+        "end": 188.07000000000002
+      },
+      {
+        "word": "the",
+        "start": 188.07000000000002,
+        "end": 188.17000000000002
+      },
+      {
+        "word": "underlying",
+        "start": 188.17000000000002,
+        "end": 189.06
+      }
+    ]
+  },
+  {
+    "timestr": "0189260_0197030",
+    "final_spoken": "technical mechanism of stress tracking was not so straightforward so many people had some misunderstanding of how it worked",
+    "final_written": "technical mechanism of stress-tracking was not so straightforward, so many people had some misunderstanding of how it worked.",
+    "words_spoken": [
+      {
+        "word": "technical",
+        "start": 189.51,
+        "end": 189.92999999999998
+      },
+      {
+        "word": "mechanism",
+        "start": 189.92999999999998,
+        "end": 190.91
+      },
+      {
+        "word": "of",
+        "start": 190.91,
+        "end": 191.06
+      },
+      {
+        "word": "stress",
+        "start": 191.06,
+        "end": 191.35
+      },
+      {
+        "word": "tracking",
+        "start": 191.35,
+        "end": 191.76
+      },
+      {
+        "word": "was",
+        "start": 191.76,
+        "end": 191.92999999999998
+      },
+      {
+        "word": "not",
+        "start": 191.92999999999998,
+        "end": 192.14999999999998
+      },
+      {
+        "word": "so",
+        "start": 192.14999999999998,
+        "end": 192.32
+      },
+      {
+        "word": "straightforward",
+        "start": 192.32,
+        "end": 193.09
+      },
+      {
+        "word": "so",
+        "start": 193.09,
+        "end": 193.25
+      },
+      {
+        "word": "many",
+        "start": 193.25,
+        "end": 193.51999999999998
+      },
+      {
+        "word": "people",
+        "start": 193.51999999999998,
+        "end": 193.85
+      },
+      {
+        "word": "had",
+        "start": 193.85,
+        "end": 194.1
+      },
+      {
+        "word": "some",
+        "start": 194.1,
+        "end": 194.28
+      },
+      {
+        "word": "misunderstanding",
+        "start": 194.28,
+        "end": 195.31
+      },
+      {
+        "word": "of",
+        "start": 195.31,
+        "end": 195.51
+      },
+      {
+        "word": "how",
+        "start": 195.54,
+        "end": 195.64999999999998
+      },
+      {
+        "word": "it",
+        "start": 195.64999999999998,
+        "end": 195.88
+      },
+      {
+        "word": "worked",
+        "start": 195.88,
+        "end": 196.23
+      }
+    ],
+    "words_written": [
+      {
+        "word": "technical",
+        "start": 189.51,
+        "end": 189.92999999999998
+      },
+      {
+        "word": "mechanism",
+        "start": 189.92999999999998,
+        "end": 190.91
+      },
+      {
+        "word": "of",
+        "start": 190.91,
+        "end": 191.06
+      },
+      {
+        "word": "stress-tracking",
+        "start": 191.06,
+        "end": 191.76
+      },
+      {
+        "word": "was",
+        "start": 191.76,
+        "end": 191.92999999999998
+      },
+      {
+        "word": "not",
+        "start": 191.92999999999998,
+        "end": 192.14999999999998
+      },
+      {
+        "word": "so",
+        "start": 192.14999999999998,
+        "end": 192.32
+      },
+      {
+        "word": "straightforward,",
+        "start": 192.32,
+        "end": 193.09
+      },
+      {
+        "word": "so",
+        "start": 193.09,
+        "end": 193.25
+      },
+      {
+        "word": "many",
+        "start": 193.25,
+        "end": 193.51999999999998
+      },
+      {
+        "word": "people",
+        "start": 193.51999999999998,
+        "end": 193.85
+      },
+      {
+        "word": "had",
+        "start": 193.85,
+        "end": 194.1
+      },
+      {
+        "word": "some",
+        "start": 194.1,
+        "end": 194.28
+      },
+      {
+        "word": "misunderstanding",
+        "start": 194.28,
+        "end": 195.31
+      },
+      {
+        "word": "of",
+        "start": 195.31,
+        "end": 195.51
+      },
+      {
+        "word": "how",
+        "start": 195.54,
+        "end": 195.64999999999998
+      },
+      {
+        "word": "it",
+        "start": 195.64999999999998,
+        "end": 195.89
+      },
+      {
+        "word": "worked.",
+        "start": 195.89,
+        "end": 196.23
+      }
+    ]
+  },
+  {
+    "timestr": "0197030_0206160",
+    "final_spoken": "the third challenge is the lack of communal support unlike other self tracking technologies such as sports related self tracking",
+    "final_written": "The third challenge is the lack of communal support. Unlike other self-tracking technologies, such as sports-related self-tracking,",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 197.21,
+        "end": 197.45
+      },
+      {
+        "word": "third",
+        "start": 197.45,
+        "end": 197.6
+      },
+      {
+        "word": "challenge",
+        "start": 197.84,
+        "end": 198.05
+      },
+      {
+        "word": "is",
+        "start": 198.05,
+        "end": 198.14000000000001
+      },
+      {
+        "word": "the",
+        "start": 198.14000000000001,
+        "end": 198.31
+      },
+      {
+        "word": "lack",
+        "start": 198.4,
+        "end": 198.73
+      },
+      {
+        "word": "of",
+        "start": 198.73,
+        "end": 199.3
+      },
+      {
+        "word": "communal",
+        "start": 199.3,
+        "end": 200.02
+      },
+      {
+        "word": "support",
+        "start": 200.02,
+        "end": 200.6
+      },
+      {
+        "word": "unlike",
+        "start": 201.07,
+        "end": 201.63
+      },
+      {
+        "word": "other",
+        "start": 201.63,
+        "end": 202.05
+      },
+      {
+        "word": "self",
+        "start": 202.05,
+        "end": 202.32
+      },
+      {
+        "word": "tracking",
+        "start": 202.32,
+        "end": 202.7
+      },
+      {
+        "word": "technologies",
+        "start": 202.7,
+        "end": 203.48
+      },
+      {
+        "word": "such",
+        "start": 203.48,
+        "end": 203.7
+      },
+      {
+        "word": "as",
+        "start": 203.7,
+        "end": 203.95
+      },
+      {
+        "word": "sports",
+        "start": 204.03,
+        "end": 204.51
+      },
+      {
+        "word": "related",
+        "start": 204.51,
+        "end": 205.21
+      },
+      {
+        "word": "self",
+        "start": 205.21,
+        "end": 205.51
+      },
+      {
+        "word": "tracking",
+        "start": 205.51,
+        "end": 206.03
+      }
+    ],
+    "words_written": [
+      {
+        "word": "The",
+        "start": 197.21,
+        "end": 197.45
+      },
+      {
+        "word": "third",
+        "start": 197.45,
+        "end": 197.61
+      },
+      {
+        "word": "challenge",
+        "start": 197.84,
+        "end": 198.05
+      },
+      {
+        "word": "is",
+        "start": 198.05,
+        "end": 198.14000000000001
+      },
+      {
+        "word": "the",
+        "start": 198.14000000000001,
+        "end": 198.31
+      },
+      {
+        "word": "lack",
+        "start": 198.4,
+        "end": 198.73
+      },
+      {
+        "word": "of",
+        "start": 198.73,
+        "end": 199.3
+      },
+      {
+        "word": "communal",
+        "start": 199.3,
+        "end": 200.02
+      },
+      {
+        "word": "support.",
+        "start": 200.02,
+        "end": 200.6
+      },
+      {
+        "word": "Unlike",
+        "start": 201.07,
+        "end": 201.63
+      },
+      {
+        "word": "other",
+        "start": 201.63,
+        "end": 202.05
+      },
+      {
+        "word": "self-tracking",
+        "start": 202.05,
+        "end": 202.7
+      },
+      {
+        "word": "technologies,",
+        "start": 202.7,
+        "end": 203.48
+      },
+      {
+        "word": "such",
+        "start": 203.48,
+        "end": 203.7
+      },
+      {
+        "word": "as",
+        "start": 203.7,
+        "end": 203.95
+      },
+      {
+        "word": "sports-related",
+        "start": 204.03,
+        "end": 205.21
+      },
+      {
+        "word": "self-tracking,",
+        "start": 205.21,
+        "end": 206.03
+      }
+    ]
+  },
+  {
+    "timestr": "0206160_0213480",
+    "final_spoken": "usually there there are communities formed around these technologies and they can share",
+    "final_written": "Usually there, there are communities formed around these technologies and they can share.",
+    "words_spoken": [
+      {
+        "word": "usually",
+        "start": 206.29999999999998,
+        "end": 206.77
+      },
+      {
+        "word": "there",
+        "start": 206.77,
+        "end": 207.14
+      },
+      {
+        "word": "there",
+        "start": 207.14,
+        "end": 207.23
+      },
+      {
+        "word": "are",
+        "start": 207.44,
+        "end": 208.46
+      },
+      {
+        "word": "communities",
+        "start": 208.77,
+        "end": 209.54
+      },
+      {
+        "word": "formed",
+        "start": 209.54,
+        "end": 209.99
+      },
+      {
+        "word": "around",
+        "start": 209.99,
+        "end": 210.53
+      },
+      {
+        "word": "these",
+        "start": 210.53,
+        "end": 210.82
+      },
+      {
+        "word": "technologies",
+        "start": 210.82,
+        "end": 212.04
+      },
+      {
+        "word": "and",
+        "start": 212.04,
+        "end": 212.32999999999998
+      },
+      {
+        "word": "they",
+        "start": 212.35999999999999,
+        "end": 212.46
+      },
+      {
+        "word": "can",
+        "start": 212.46,
+        "end": 212.7
+      },
+      {
+        "word": "share",
+        "start": 212.7,
+        "end": 213.38
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Usually",
+        "start": 206.29999999999998,
+        "end": 206.77
+      },
+      {
+        "word": "there,",
+        "start": 206.77,
+        "end": 207.14
+      },
+      {
+        "word": "there",
+        "start": 207.14,
+        "end": 207.21
+      },
+      {
+        "word": "are",
+        "start": 207.44,
+        "end": 208.46
+      },
+      {
+        "word": "communities",
+        "start": 208.77,
+        "end": 209.54
+      },
+      {
+        "word": "formed",
+        "start": 209.54,
+        "end": 209.99
+      },
+      {
+        "word": "around",
+        "start": 209.99,
+        "end": 210.53
+      },
+      {
+        "word": "these",
+        "start": 210.53,
+        "end": 210.82
+      },
+      {
+        "word": "technologies",
+        "start": 210.82,
+        "end": 212.04
+      },
+      {
+        "word": "and",
+        "start": 212.04,
+        "end": 212.32999999999998
+      },
+      {
+        "word": "they",
+        "start": 212.35999999999999,
+        "end": 212.46
+      },
+      {
+        "word": "can",
+        "start": 212.46,
+        "end": 212.7
+      },
+      {
+        "word": "share.",
+        "start": 212.7,
+        "end": 213.38
+      }
+    ]
+  },
+  {
+    "timestr": "0213480_0222160",
+    "final_spoken": "related experience and knowledge for them to interpret the data together but for stress there's a no corresponding communities there yet",
+    "final_written": "Related experience and knowledge for them to interpret the data together. but for stress there's a no corresponding communities there yet.",
+    "words_spoken": [
+      {
+        "word": "related",
+        "start": 213.64,
+        "end": 214.09
+      },
+      {
+        "word": "experience",
+        "start": 214.09,
+        "end": 214.73999999999998
+      },
+      {
+        "word": "and",
+        "start": 214.73999999999998,
+        "end": 214.89999999999998
+      },
+      {
+        "word": "knowledge",
+        "start": 214.89999999999998,
+        "end": 215.35999999999999
+      },
+      {
+        "word": "for",
+        "start": 215.35999999999999,
+        "end": 215.5
+      },
+      {
+        "word": "them",
+        "start": 215.5,
+        "end": 215.67
+      },
+      {
+        "word": "to",
+        "start": 215.67,
+        "end": 215.79
+      },
+      {
+        "word": "interpret",
+        "start": 215.79,
+        "end": 216.45
+      },
+      {
+        "word": "the",
+        "start": 216.48999999999998,
+        "end": 216.64
+      },
+      {
+        "word": "data",
+        "start": 216.67,
+        "end": 216.94
+      },
+      {
+        "word": "together",
+        "start": 216.94,
+        "end": 217.48999999999998
+      },
+      {
+        "word": "but",
+        "start": 217.86999999999998,
+        "end": 217.98
+      },
+      {
+        "word": "for",
+        "start": 217.98,
+        "end": 218.1
+      },
+      {
+        "word": "stress",
+        "start": 218.1,
+        "end": 218.64
+      },
+      {
+        "word": "there's",
+        "start": 218.64,
+        "end": 218.88
+      },
+      {
+        "word": "a",
+        "start": 218.88,
+        "end": 219.06
+      },
+      {
+        "word": "no",
+        "start": 219.47,
+        "end": 219.69
+      },
+      {
+        "word": "corresponding",
+        "start": 219.69,
+        "end": 220.45
+      },
+      {
+        "word": "communities",
+        "start": 220.45,
+        "end": 221.31
+      },
+      {
+        "word": "there",
+        "start": 221.31,
+        "end": 221.51999999999998
+      },
+      {
+        "word": "yet",
+        "start": 221.51999999999998,
+        "end": 221.98999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Related",
+        "start": 213.64,
+        "end": 214.09
+      },
+      {
+        "word": "experience",
+        "start": 214.09,
+        "end": 214.73999999999998
+      },
+      {
+        "word": "and",
+        "start": 214.73999999999998,
+        "end": 214.89999999999998
+      },
+      {
+        "word": "knowledge",
+        "start": 214.89999999999998,
+        "end": 215.35999999999999
+      },
+      {
+        "word": "for",
+        "start": 215.35999999999999,
+        "end": 215.5
+      },
+      {
+        "word": "them",
+        "start": 215.5,
+        "end": 215.67
+      },
+      {
+        "word": "to",
+        "start": 215.67,
+        "end": 215.84
+      },
+      {
+        "word": "interpret",
+        "start": 215.89,
+        "end": 216.45
+      },
+      {
+        "word": "the",
+        "start": 216.48999999999998,
+        "end": 216.64
+      },
+      {
+        "word": "data",
+        "start": 216.67,
+        "end": 216.94
+      },
+      {
+        "word": "together.",
+        "start": 216.94,
+        "end": 217.48
+      },
+      {
+        "word": "but",
+        "start": 217.86999999999998,
+        "end": 217.98
+      },
+      {
+        "word": "for",
+        "start": 217.98,
+        "end": 218.1
+      },
+      {
+        "word": "stress",
+        "start": 218.1,
+        "end": 218.64
+      },
+      {
+        "word": "there's",
+        "start": 218.64,
+        "end": 218.88
+      },
+      {
+        "word": "a",
+        "start": 218.88,
+        "end": 219.07999999999998
+      },
+      {
+        "word": "no",
+        "start": 219.47,
+        "end": 219.69
+      },
+      {
+        "word": "corresponding",
+        "start": 219.69,
+        "end": 220.45
+      },
+      {
+        "word": "communities",
+        "start": 220.45,
+        "end": 221.31
+      },
+      {
+        "word": "there",
+        "start": 221.31,
+        "end": 221.51999999999998
+      },
+      {
+        "word": "yet.",
+        "start": 221.51999999999998,
+        "end": 221.98999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0222160_0226630",
+    "final_spoken": "so it was hard for them to learn from each other to interpret the data",
+    "final_written": "so it was hard for them to learn from each other to interpret the data.",
+    "words_spoken": [
+      {
+        "word": "so",
+        "start": 222.28,
+        "end": 222.47
+      },
+      {
+        "word": "it",
+        "start": 222.47,
+        "end": 222.7
+      },
+      {
+        "word": "was",
+        "start": 222.7,
+        "end": 222.92
+      },
+      {
+        "word": "hard",
+        "start": 223.09,
+        "end": 223.43
+      },
+      {
+        "word": "for",
+        "start": 223.43,
+        "end": 223.60999999999999
+      },
+      {
+        "word": "them",
+        "start": 223.60999999999999,
+        "end": 223.78
+      },
+      {
+        "word": "to",
+        "start": 223.78,
+        "end": 223.93
+      },
+      {
+        "word": "learn",
+        "start": 223.93,
+        "end": 224.16
+      },
+      {
+        "word": "from",
+        "start": 224.16,
+        "end": 224.32999999999998
+      },
+      {
+        "word": "each",
+        "start": 224.32999999999998,
+        "end": 224.56
+      },
+      {
+        "word": "other",
+        "start": 224.56,
+        "end": 224.88
+      },
+      {
+        "word": "to",
+        "start": 224.88,
+        "end": 225.04
+      },
+      {
+        "word": "interpret",
+        "start": 225.04,
+        "end": 225.67
+      },
+      {
+        "word": "the",
+        "start": 225.67,
+        "end": 225.76
+      },
+      {
+        "word": "data",
+        "start": 225.76,
+        "end": 226.04999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "so",
+        "start": 222.28,
+        "end": 222.47
+      },
+      {
+        "word": "it",
+        "start": 222.47,
+        "end": 222.7
+      },
+      {
+        "word": "was",
+        "start": 222.7,
+        "end": 222.92
+      },
+      {
+        "word": "hard",
+        "start": 223.09,
+        "end": 223.43
+      },
+      {
+        "word": "for",
+        "start": 223.43,
+        "end": 223.60999999999999
+      },
+      {
+        "word": "them",
+        "start": 223.60999999999999,
+        "end": 223.78
+      },
+      {
+        "word": "to",
+        "start": 223.78,
+        "end": 223.93
+      },
+      {
+        "word": "learn",
+        "start": 223.93,
+        "end": 224.16
+      },
+      {
+        "word": "from",
+        "start": 224.16,
+        "end": 224.32999999999998
+      },
+      {
+        "word": "each",
+        "start": 224.32999999999998,
+        "end": 224.56
+      },
+      {
+        "word": "other",
+        "start": 224.56,
+        "end": 224.88
+      },
+      {
+        "word": "to",
+        "start": 224.88,
+        "end": 225.04
+      },
+      {
+        "word": "interpret",
+        "start": 225.04,
+        "end": 225.67
+      },
+      {
+        "word": "the",
+        "start": 225.67,
+        "end": 225.76
+      },
+      {
+        "word": "data.",
+        "start": 225.76,
+        "end": 226.04999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0226630_0234200",
+    "final_spoken": "so by focusing on such a relatively new self tracking technology and relatively complex notion of stress",
+    "final_written": "So by focusing on such a relatively new self-tracking technology and relatively complex notion of stress,",
+    "words_spoken": [
+      {
+        "word": "so",
+        "start": 227.18,
+        "end": 227.32999999999998
+      },
+      {
+        "word": "by",
+        "start": 227.32999999999998,
+        "end": 227.51999999999998
+      },
+      {
+        "word": "focusing",
+        "start": 227.51999999999998,
+        "end": 228.12
+      },
+      {
+        "word": "on",
+        "start": 228.12,
+        "end": 228.37
+      },
+      {
+        "word": "such",
+        "start": 228.37,
+        "end": 228.71
+      },
+      {
+        "word": "a",
+        "start": 228.71,
+        "end": 228.89
+      },
+      {
+        "word": "relatively",
+        "start": 228.89,
+        "end": 229.54
+      },
+      {
+        "word": "new",
+        "start": 229.54,
+        "end": 229.9
+      },
+      {
+        "word": "self",
+        "start": 229.9,
+        "end": 230.16
+      },
+      {
+        "word": "tracking",
+        "start": 230.16,
+        "end": 230.49
+      },
+      {
+        "word": "technology",
+        "start": 230.49,
+        "end": 231.21
+      },
+      {
+        "word": "and",
+        "start": 231.21,
+        "end": 231.4
+      },
+      {
+        "word": "relatively",
+        "start": 231.4,
+        "end": 232.04
+      },
+      {
+        "word": "complex",
+        "start": 232.07999999999998,
+        "end": 232.88
+      },
+      {
+        "word": "notion",
+        "start": 233.03,
+        "end": 233.4
+      },
+      {
+        "word": "of",
+        "start": 233.4,
+        "end": 233.51
+      },
+      {
+        "word": "stress",
+        "start": 233.51,
+        "end": 234.01999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "So",
+        "start": 227.17,
+        "end": 227.32999999999998
+      },
+      {
+        "word": "by",
+        "start": 227.32999999999998,
+        "end": 227.51999999999998
+      },
+      {
+        "word": "focusing",
+        "start": 227.51999999999998,
+        "end": 228.12
+      },
+      {
+        "word": "on",
+        "start": 228.12,
+        "end": 228.37
+      },
+      {
+        "word": "such",
+        "start": 228.37,
+        "end": 228.71
+      },
+      {
+        "word": "a",
+        "start": 228.71,
+        "end": 228.89
+      },
+      {
+        "word": "relatively",
+        "start": 228.89,
+        "end": 229.54
+      },
+      {
+        "word": "new",
+        "start": 229.54,
+        "end": 229.9
+      },
+      {
+        "word": "self-tracking",
+        "start": 229.9,
+        "end": 230.49
+      },
+      {
+        "word": "technology",
+        "start": 230.49,
+        "end": 231.22
+      },
+      {
+        "word": "and",
+        "start": 231.22,
+        "end": 231.39
+      },
+      {
+        "word": "relatively",
+        "start": 231.39,
+        "end": 232.04
+      },
+      {
+        "word": "complex",
+        "start": 232.07999999999998,
+        "end": 232.88
+      },
+      {
+        "word": "notion",
+        "start": 233.03,
+        "end": 233.4
+      },
+      {
+        "word": "of",
+        "start": 233.4,
+        "end": 233.51
+      },
+      {
+        "word": "stress,",
+        "start": 233.51,
+        "end": 234.01999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0234200_0241280",
+    "final_spoken": "we uncovered a number of issues with data engagement of data engagement with self tracking technologies",
+    "final_written": "We uncovered a number of issues with data, engagement of data, engagement with self tracking technologies.",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 234.42999999999998,
+        "end": 234.51999999999998
+      },
+      {
+        "word": "uncovered",
+        "start": 234.51999999999998,
+        "end": 235.20999999999998
+      },
+      {
+        "word": "a",
+        "start": 235.26999999999998,
+        "end": 235.33999999999997
+      },
+      {
+        "word": "number",
+        "start": 235.33999999999997,
+        "end": 235.64
+      },
+      {
+        "word": "of",
+        "start": 235.64,
+        "end": 235.67
+      },
+      {
+        "word": "issues",
+        "start": 235.67,
+        "end": 236.17999999999998
+      },
+      {
+        "word": "with",
+        "start": 236.17999999999998,
+        "end": 236.5
+      },
+      {
+        "word": "data",
+        "start": 236.5,
+        "end": 236.73
+      },
+      {
+        "word": "engagement",
+        "start": 236.73,
+        "end": 237.48999999999998
+      },
+      {
+        "word": "of",
+        "start": 237.64,
+        "end": 237.97
+      },
+      {
+        "word": "data",
+        "start": 238.01999999999998,
+        "end": 238.23
+      },
+      {
+        "word": "engagement",
+        "start": 238.23,
+        "end": 238.86999999999998
+      },
+      {
+        "word": "with",
+        "start": 238.86999999999998,
+        "end": 239.14
+      },
+      {
+        "word": "self",
+        "start": 239.14,
+        "end": 239.54
+      },
+      {
+        "word": "tracking",
+        "start": 239.79,
+        "end": 240.11999999999998
+      },
+      {
+        "word": "technologies",
+        "start": 240.11999999999998,
+        "end": 240.89999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "We",
+        "start": 234.42999999999998,
+        "end": 234.51999999999998
+      },
+      {
+        "word": "uncovered",
+        "start": 234.51999999999998,
+        "end": 235.20999999999998
+      },
+      {
+        "word": "a",
+        "start": 235.26999999999998,
+        "end": 235.33999999999997
+      },
+      {
+        "word": "number",
+        "start": 235.33999999999997,
+        "end": 235.64
+      },
+      {
+        "word": "of",
+        "start": 235.64,
+        "end": 235.67
+      },
+      {
+        "word": "issues",
+        "start": 235.67,
+        "end": 236.17999999999998
+      },
+      {
+        "word": "with",
+        "start": 236.17999999999998,
+        "end": 236.5
+      },
+      {
+        "word": "data,",
+        "start": 236.5,
+        "end": 236.73
+      },
+      {
+        "word": "engagement",
+        "start": 236.73,
+        "end": 237.48999999999998
+      },
+      {
+        "word": "of",
+        "start": 237.64,
+        "end": 237.97
+      },
+      {
+        "word": "data,",
+        "start": 238.01999999999998,
+        "end": 238.23
+      },
+      {
+        "word": "engagement",
+        "start": 238.23,
+        "end": 238.86999999999998
+      },
+      {
+        "word": "with",
+        "start": 238.86999999999998,
+        "end": 239.14
+      },
+      {
+        "word": "self",
+        "start": 239.14,
+        "end": 239.54
+      },
+      {
+        "word": "tracking",
+        "start": 239.79,
+        "end": 240.11999999999998
+      },
+      {
+        "word": "technologies.",
+        "start": 240.11999999999998,
+        "end": 240.89999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0241280_0249320",
+    "final_spoken": "first we found that automatic tracking is not just to save the labor of tracking but also it changes the very nature",
+    "final_written": "First, we found that automatic tracking is not just to save the labor of tracking, but also it changes the very nature",
+    "words_spoken": [
+      {
+        "word": "first",
+        "start": 241.42,
+        "end": 241.71
+      },
+      {
+        "word": "we",
+        "start": 241.75,
+        "end": 241.87
+      },
+      {
+        "word": "found",
+        "start": 241.87,
+        "end": 242.13
+      },
+      {
+        "word": "that",
+        "start": 242.13,
+        "end": 242.23
+      },
+      {
+        "word": "automatic",
+        "start": 242.29,
+        "end": 242.93
+      },
+      {
+        "word": "tracking",
+        "start": 242.93,
+        "end": 243.56
+      },
+      {
+        "word": "is",
+        "start": 243.56,
+        "end": 243.63
+      },
+      {
+        "word": "not",
+        "start": 243.74,
+        "end": 243.92
+      },
+      {
+        "word": "just",
+        "start": 244.13,
+        "end": 244.32
+      },
+      {
+        "word": "to",
+        "start": 244.66,
+        "end": 244.81
+      },
+      {
+        "word": "save",
+        "start": 244.81,
+        "end": 245.17
+      },
+      {
+        "word": "the",
+        "start": 245.17,
+        "end": 245.38
+      },
+      {
+        "word": "labor",
+        "start": 245.38,
+        "end": 245.72
+      },
+      {
+        "word": "of",
+        "start": 245.72,
+        "end": 246.18
+      },
+      {
+        "word": "tracking",
+        "start": 246.18,
+        "end": 246.63
+      },
+      {
+        "word": "but",
+        "start": 246.94,
+        "end": 247.05
+      },
+      {
+        "word": "also",
+        "start": 247.05,
+        "end": 247.55
+      },
+      {
+        "word": "it",
+        "start": 247.55,
+        "end": 247.79
+      },
+      {
+        "word": "changes",
+        "start": 247.79,
+        "end": 248.21
+      },
+      {
+        "word": "the",
+        "start": 248.21,
+        "end": 248.29
+      },
+      {
+        "word": "very",
+        "start": 248.29,
+        "end": 248.54
+      },
+      {
+        "word": "nature",
+        "start": 248.54,
+        "end": 249.11
+      }
+    ],
+    "words_written": [
+      {
+        "word": "First,",
+        "start": 241.42,
+        "end": 241.71
+      },
+      {
+        "word": "we",
+        "start": 241.75,
+        "end": 241.87
+      },
+      {
+        "word": "found",
+        "start": 241.87,
+        "end": 242.13
+      },
+      {
+        "word": "that",
+        "start": 242.13,
+        "end": 242.23
+      },
+      {
+        "word": "automatic",
+        "start": 242.29,
+        "end": 242.93
+      },
+      {
+        "word": "tracking",
+        "start": 242.93,
+        "end": 243.56
+      },
+      {
+        "word": "is",
+        "start": 243.56,
+        "end": 243.63
+      },
+      {
+        "word": "not",
+        "start": 243.74,
+        "end": 243.92
+      },
+      {
+        "word": "just",
+        "start": 244.13,
+        "end": 244.32
+      },
+      {
+        "word": "to",
+        "start": 244.66,
+        "end": 244.81
+      },
+      {
+        "word": "save",
+        "start": 244.81,
+        "end": 245.17
+      },
+      {
+        "word": "the",
+        "start": 245.17,
+        "end": 245.38
+      },
+      {
+        "word": "labor",
+        "start": 245.38,
+        "end": 245.72
+      },
+      {
+        "word": "of",
+        "start": 245.72,
+        "end": 246.18
+      },
+      {
+        "word": "tracking,",
+        "start": 246.18,
+        "end": 246.63
+      },
+      {
+        "word": "but",
+        "start": 246.94,
+        "end": 247.05
+      },
+      {
+        "word": "also",
+        "start": 247.05,
+        "end": 247.55
+      },
+      {
+        "word": "it",
+        "start": 247.55,
+        "end": 247.79
+      },
+      {
+        "word": "changes",
+        "start": 247.79,
+        "end": 248.21
+      },
+      {
+        "word": "the",
+        "start": 248.21,
+        "end": 248.29
+      },
+      {
+        "word": "very",
+        "start": 248.29,
+        "end": 248.54
+      },
+      {
+        "word": "nature",
+        "start": 248.54,
+        "end": 249.11
+      }
+    ]
+  },
+  {
+    "timestr": "0249320_0257570",
+    "final_spoken": "of how people encounter with the data and engage with the data for example cannot assume users intentional checking anymore",
+    "final_written": "Of how people encounter with the data and engage with the data, e.g. cannot assume users intentional checking anymore.",
+    "words_spoken": [
+      {
+        "word": "of",
+        "start": 249.45,
+        "end": 249.64
+      },
+      {
+        "word": "how",
+        "start": 249.67,
+        "end": 250.10999999999999
+      },
+      {
+        "word": "people",
+        "start": 250.23999999999998,
+        "end": 250.56
+      },
+      {
+        "word": "encounter",
+        "start": 250.56,
+        "end": 251.12
+      },
+      {
+        "word": "with",
+        "start": 251.12,
+        "end": 251.25
+      },
+      {
+        "word": "the",
+        "start": 251.25,
+        "end": 251.35
+      },
+      {
+        "word": "data",
+        "start": 251.35,
+        "end": 251.82
+      },
+      {
+        "word": "and",
+        "start": 251.82,
+        "end": 251.95999999999998
+      },
+      {
+        "word": "engage",
+        "start": 251.95999999999998,
+        "end": 252.32999999999998
+      },
+      {
+        "word": "with",
+        "start": 252.32999999999998,
+        "end": 252.51999999999998
+      },
+      {
+        "word": "the",
+        "start": 252.51999999999998,
+        "end": 252.64
+      },
+      {
+        "word": "data",
+        "start": 252.64,
+        "end": 253.0
+      },
+      {
+        "word": "for",
+        "start": 253.35999999999999,
+        "end": 253.45999999999998
+      },
+      {
+        "word": "example",
+        "start": 253.45999999999998,
+        "end": 254.48
+      },
+      {
+        "word": "cannot",
+        "start": 254.79,
+        "end": 255.15
+      },
+      {
+        "word": "assume",
+        "start": 255.15,
+        "end": 255.51
+      },
+      {
+        "word": "users",
+        "start": 255.51,
+        "end": 255.92
+      },
+      {
+        "word": "intentional",
+        "start": 255.92,
+        "end": 256.51
+      },
+      {
+        "word": "checking",
+        "start": 256.51,
+        "end": 256.92
+      },
+      {
+        "word": "anymore",
+        "start": 256.92,
+        "end": 257.43
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Of",
+        "start": 249.45,
+        "end": 249.64
+      },
+      {
+        "word": "how",
+        "start": 249.67,
+        "end": 250.12
+      },
+      {
+        "word": "people",
+        "start": 250.23999999999998,
+        "end": 250.56
+      },
+      {
+        "word": "encounter",
+        "start": 250.56,
+        "end": 251.12
+      },
+      {
+        "word": "with",
+        "start": 251.12,
+        "end": 251.23999999999998
+      },
+      {
+        "word": "the",
+        "start": 251.23999999999998,
+        "end": 251.35
+      },
+      {
+        "word": "data",
+        "start": 251.35,
+        "end": 251.82
+      },
+      {
+        "word": "and",
+        "start": 251.82,
+        "end": 251.95999999999998
+      },
+      {
+        "word": "engage",
+        "start": 251.95999999999998,
+        "end": 252.32999999999998
+      },
+      {
+        "word": "with",
+        "start": 252.32999999999998,
+        "end": 252.51999999999998
+      },
+      {
+        "word": "the",
+        "start": 252.51999999999998,
+        "end": 252.64
+      },
+      {
+        "word": "data,",
+        "start": 252.64,
+        "end": 253.0
+      },
+      {
+        "word": "e.g.",
+        "start": 253.45,
+        "end": 254.0
+      },
+      {
+        "word": "cannot",
+        "start": 254.0,
+        "end": 254.5
+      },
+      {
+        "word": "assume",
+        "start": 254.79999999999998,
+        "end": 255.51
+      },
+      {
+        "word": "users",
+        "start": 255.51,
+        "end": 255.92
+      },
+      {
+        "word": "intentional",
+        "start": 255.92,
+        "end": 256.51
+      },
+      {
+        "word": "checking",
+        "start": 256.51,
+        "end": 256.92
+      },
+      {
+        "word": "anymore.",
+        "start": 256.92,
+        "end": 257.43
+      }
+    ]
+  },
+  {
+    "timestr": "0257570_0265030",
+    "final_spoken": "and that also means that many times users encounter with the data as in a more casual manner not in a deliberate manner",
+    "final_written": "And that also means that many times users encounter with the data as in a more casual manner, not in a deliberate manner.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 257.7,
+        "end": 257.88
+      },
+      {
+        "word": "that",
+        "start": 257.88,
+        "end": 257.94
+      },
+      {
+        "word": "also",
+        "start": 257.94,
+        "end": 258.23
+      },
+      {
+        "word": "means",
+        "start": 258.23,
+        "end": 258.62
+      },
+      {
+        "word": "that",
+        "start": 258.62,
+        "end": 258.92
+      },
+      {
+        "word": "many",
+        "start": 258.92,
+        "end": 259.21
+      },
+      {
+        "word": "times",
+        "start": 259.21,
+        "end": 259.55
+      },
+      {
+        "word": "users",
+        "start": 259.55,
+        "end": 259.95
+      },
+      {
+        "word": "encounter",
+        "start": 259.95,
+        "end": 260.44
+      },
+      {
+        "word": "with",
+        "start": 260.44,
+        "end": 260.59
+      },
+      {
+        "word": "the",
+        "start": 260.59,
+        "end": 260.7
+      },
+      {
+        "word": "data",
+        "start": 260.7,
+        "end": 260.95
+      },
+      {
+        "word": "as",
+        "start": 260.95,
+        "end": 261.32
+      },
+      {
+        "word": "in",
+        "start": 261.34999999999997,
+        "end": 261.58
+      },
+      {
+        "word": "a",
+        "start": 261.58,
+        "end": 261.64
+      },
+      {
+        "word": "more",
+        "start": 261.64,
+        "end": 262.04
+      },
+      {
+        "word": "casual",
+        "start": 262.15,
+        "end": 262.56
+      },
+      {
+        "word": "manner",
+        "start": 262.56,
+        "end": 262.83
+      },
+      {
+        "word": "not",
+        "start": 263.19,
+        "end": 263.42
+      },
+      {
+        "word": "in",
+        "start": 263.42,
+        "end": 263.59999999999997
+      },
+      {
+        "word": "a",
+        "start": 263.59999999999997,
+        "end": 263.7
+      },
+      {
+        "word": "deliberate",
+        "start": 263.7,
+        "end": 264.46
+      },
+      {
+        "word": "manner",
+        "start": 264.54,
+        "end": 264.88
+      }
+    ],
+    "words_written": [
+      {
+        "word": "And",
+        "start": 257.7,
+        "end": 257.88
+      },
+      {
+        "word": "that",
+        "start": 257.88,
+        "end": 257.94
+      },
+      {
+        "word": "also",
+        "start": 257.94,
+        "end": 258.23
+      },
+      {
+        "word": "means",
+        "start": 258.23,
+        "end": 258.62
+      },
+      {
+        "word": "that",
+        "start": 258.62,
+        "end": 258.93
+      },
+      {
+        "word": "many",
+        "start": 258.93,
+        "end": 259.21
+      },
+      {
+        "word": "times",
+        "start": 259.21,
+        "end": 259.55
+      },
+      {
+        "word": "users",
+        "start": 259.55,
+        "end": 259.95
+      },
+      {
+        "word": "encounter",
+        "start": 259.95,
+        "end": 260.44
+      },
+      {
+        "word": "with",
+        "start": 260.44,
+        "end": 260.59
+      },
+      {
+        "word": "the",
+        "start": 260.59,
+        "end": 260.7
+      },
+      {
+        "word": "data",
+        "start": 260.7,
+        "end": 260.95
+      },
+      {
+        "word": "as",
+        "start": 260.95,
+        "end": 261.32
+      },
+      {
+        "word": "in",
+        "start": 261.34999999999997,
+        "end": 261.58
+      },
+      {
+        "word": "a",
+        "start": 261.58,
+        "end": 261.64
+      },
+      {
+        "word": "more",
+        "start": 261.64,
+        "end": 262.04
+      },
+      {
+        "word": "casual",
+        "start": 262.15,
+        "end": 262.56
+      },
+      {
+        "word": "manner,",
+        "start": 262.56,
+        "end": 262.83
+      },
+      {
+        "word": "not",
+        "start": 263.19,
+        "end": 263.42
+      },
+      {
+        "word": "in",
+        "start": 263.42,
+        "end": 263.59999999999997
+      },
+      {
+        "word": "a",
+        "start": 263.59999999999997,
+        "end": 263.7
+      },
+      {
+        "word": "deliberate",
+        "start": 263.7,
+        "end": 264.46
+      },
+      {
+        "word": "manner.",
+        "start": 264.54,
+        "end": 264.88
+      }
+    ]
+  },
+  {
+    "timestr": "0265030_0272180",
+    "final_spoken": "and we cannot assume that they have the required knowledge already to interpret the data so",
+    "final_written": "And we cannot assume that they have the required knowledge already to interpret the data. So",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 265.21,
+        "end": 265.33
+      },
+      {
+        "word": "we",
+        "start": 265.33,
+        "end": 265.44
+      },
+      {
+        "word": "cannot",
+        "start": 265.44,
+        "end": 265.79999999999995
+      },
+      {
+        "word": "assume",
+        "start": 265.79999999999995,
+        "end": 266.21
+      },
+      {
+        "word": "that",
+        "start": 266.21,
+        "end": 266.39
+      },
+      {
+        "word": "they",
+        "start": 266.39,
+        "end": 266.46
+      },
+      {
+        "word": "have",
+        "start": 266.46,
+        "end": 266.78999999999996
+      },
+      {
+        "word": "the",
+        "start": 266.88,
+        "end": 266.94
+      },
+      {
+        "word": "required",
+        "start": 266.94,
+        "end": 267.46
+      },
+      {
+        "word": "knowledge",
+        "start": 267.46,
+        "end": 267.98999999999995
+      },
+      {
+        "word": "already",
+        "start": 267.98999999999995,
+        "end": 268.41999999999996
+      },
+      {
+        "word": "to",
+        "start": 268.69,
+        "end": 268.75
+      },
+      {
+        "word": "interpret",
+        "start": 268.75,
+        "end": 269.38
+      },
+      {
+        "word": "the",
+        "start": 269.38,
+        "end": 269.52
+      },
+      {
+        "word": "data",
+        "start": 269.52,
+        "end": 269.80999999999995
+      },
+      {
+        "word": "so",
+        "start": 271.44,
+        "end": 272.17999999999995
+      }
+    ],
+    "words_written": [
+      {
+        "word": "And",
+        "start": 265.21,
+        "end": 265.33
+      },
+      {
+        "word": "we",
+        "start": 265.33,
+        "end": 265.45
+      },
+      {
+        "word": "cannot",
+        "start": 265.45,
+        "end": 265.79999999999995
+      },
+      {
+        "word": "assume",
+        "start": 265.79999999999995,
+        "end": 266.21
+      },
+      {
+        "word": "that",
+        "start": 266.21,
+        "end": 266.39
+      },
+      {
+        "word": "they",
+        "start": 266.39,
+        "end": 266.46
+      },
+      {
+        "word": "have",
+        "start": 266.46,
+        "end": 266.78999999999996
+      },
+      {
+        "word": "the",
+        "start": 266.88,
+        "end": 266.94
+      },
+      {
+        "word": "required",
+        "start": 266.94,
+        "end": 267.46
+      },
+      {
+        "word": "knowledge",
+        "start": 267.46,
+        "end": 267.98999999999995
+      },
+      {
+        "word": "already",
+        "start": 267.98999999999995,
+        "end": 268.41999999999996
+      },
+      {
+        "word": "to",
+        "start": 268.69,
+        "end": 268.75
+      },
+      {
+        "word": "interpret",
+        "start": 268.75,
+        "end": 269.38
+      },
+      {
+        "word": "the",
+        "start": 269.38,
+        "end": 269.52
+      },
+      {
+        "word": "data.",
+        "start": 269.52,
+        "end": 269.80999999999995
+      },
+      {
+        "word": "So",
+        "start": 271.44,
+        "end": 272.17999999999995
+      }
+    ]
+  },
+  {
+    "timestr": "0272180_0280960",
+    "final_spoken": "in future we believe with more and more health data being automatically collected and tracked we we believe that",
+    "final_written": "In future, we believe, with more and more health data being automatically collected and tracked, we we believe that.",
+    "words_spoken": [
+      {
+        "word": "in",
+        "start": 272.48,
+        "end": 272.62
+      },
+      {
+        "word": "future",
+        "start": 272.62,
+        "end": 273.02
+      },
+      {
+        "word": "we",
+        "start": 273.02,
+        "end": 273.11
+      },
+      {
+        "word": "believe",
+        "start": 273.11,
+        "end": 273.52
+      },
+      {
+        "word": "with",
+        "start": 273.52,
+        "end": 273.78000000000003
+      },
+      {
+        "word": "more",
+        "start": 273.78000000000003,
+        "end": 274.01
+      },
+      {
+        "word": "and",
+        "start": 274.01,
+        "end": 274.21
+      },
+      {
+        "word": "more",
+        "start": 274.21,
+        "end": 274.56
+      },
+      {
+        "word": "health",
+        "start": 274.79,
+        "end": 275.0
+      },
+      {
+        "word": "data",
+        "start": 275.0,
+        "end": 275.5
+      },
+      {
+        "word": "being",
+        "start": 275.5,
+        "end": 275.72
+      },
+      {
+        "word": "automatically",
+        "start": 275.72,
+        "end": 276.71
+      },
+      {
+        "word": "collected",
+        "start": 276.85,
+        "end": 277.36
+      },
+      {
+        "word": "and",
+        "start": 277.59000000000003,
+        "end": 277.93
+      },
+      {
+        "word": "tracked",
+        "start": 278.42,
+        "end": 278.87
+      },
+      {
+        "word": "we",
+        "start": 278.87,
+        "end": 279.2
+      },
+      {
+        "word": "we",
+        "start": 279.59000000000003,
+        "end": 279.89
+      },
+      {
+        "word": "believe",
+        "start": 279.98,
+        "end": 280.40000000000003
+      },
+      {
+        "word": "that",
+        "start": 280.40000000000003,
+        "end": 280.65000000000003
+      }
+    ],
+    "words_written": [
+      {
+        "word": "In",
+        "start": 272.48,
+        "end": 272.62
+      },
+      {
+        "word": "future,",
+        "start": 272.62,
+        "end": 273.02
+      },
+      {
+        "word": "we",
+        "start": 273.02,
+        "end": 273.11
+      },
+      {
+        "word": "believe,",
+        "start": 273.11,
+        "end": 273.52
+      },
+      {
+        "word": "with",
+        "start": 273.52,
+        "end": 273.78000000000003
+      },
+      {
+        "word": "more",
+        "start": 273.78000000000003,
+        "end": 274.01
+      },
+      {
+        "word": "and",
+        "start": 274.01,
+        "end": 274.21
+      },
+      {
+        "word": "more",
+        "start": 274.21,
+        "end": 274.59000000000003
+      },
+      {
+        "word": "health",
+        "start": 274.79,
+        "end": 275.0
+      },
+      {
+        "word": "data",
+        "start": 275.0,
+        "end": 275.5
+      },
+      {
+        "word": "being",
+        "start": 275.5,
+        "end": 275.72
+      },
+      {
+        "word": "automatically",
+        "start": 275.72,
+        "end": 276.71
+      },
+      {
+        "word": "collected",
+        "start": 276.85,
+        "end": 277.36
+      },
+      {
+        "word": "and",
+        "start": 277.59000000000003,
+        "end": 277.93
+      },
+      {
+        "word": "tracked,",
+        "start": 278.42,
+        "end": 278.87
+      },
+      {
+        "word": "we",
+        "start": 278.87,
+        "end": 279.2
+      },
+      {
+        "word": "we",
+        "start": 279.59000000000003,
+        "end": 279.87
+      },
+      {
+        "word": "believe",
+        "start": 279.99,
+        "end": 280.40000000000003
+      },
+      {
+        "word": "that.",
+        "start": 280.40000000000003,
+        "end": 280.66
+      }
+    ]
+  },
+  {
+    "timestr": "0280960_0287360",
+    "final_spoken": "we should not just consider data engagement as looking at the user interface for analysis but should",
+    "final_written": "we should not just consider data engagement as looking at the user interface for analysis, but should",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 281.12,
+        "end": 281.21999999999997
+      },
+      {
+        "word": "should",
+        "start": 281.21999999999997,
+        "end": 281.38
+      },
+      {
+        "word": "not",
+        "start": 281.38,
+        "end": 281.65
+      },
+      {
+        "word": "just",
+        "start": 281.65,
+        "end": 281.89
+      },
+      {
+        "word": "consider",
+        "start": 282.04999999999995,
+        "end": 282.66999999999996
+      },
+      {
+        "word": "data",
+        "start": 282.66999999999996,
+        "end": 282.94
+      },
+      {
+        "word": "engagement",
+        "start": 282.94,
+        "end": 283.68
+      },
+      {
+        "word": "as",
+        "start": 283.68,
+        "end": 284.10999999999996
+      },
+      {
+        "word": "looking",
+        "start": 284.10999999999996,
+        "end": 284.51
+      },
+      {
+        "word": "at",
+        "start": 284.51,
+        "end": 284.63
+      },
+      {
+        "word": "the",
+        "start": 284.63,
+        "end": 284.68
+      },
+      {
+        "word": "user",
+        "start": 284.68,
+        "end": 284.97999999999996
+      },
+      {
+        "word": "interface",
+        "start": 284.97999999999996,
+        "end": 285.59
+      },
+      {
+        "word": "for",
+        "start": 285.63,
+        "end": 285.72999999999996
+      },
+      {
+        "word": "analysis",
+        "start": 285.72999999999996,
+        "end": 286.52
+      },
+      {
+        "word": "but",
+        "start": 286.56,
+        "end": 286.77
+      },
+      {
+        "word": "should",
+        "start": 286.77,
+        "end": 287.07
+      }
+    ],
+    "words_written": [
+      {
+        "word": "we",
+        "start": 281.12,
+        "end": 281.21999999999997
+      },
+      {
+        "word": "should",
+        "start": 281.21999999999997,
+        "end": 281.38
+      },
+      {
+        "word": "not",
+        "start": 281.38,
+        "end": 281.65
+      },
+      {
+        "word": "just",
+        "start": 281.65,
+        "end": 281.89
+      },
+      {
+        "word": "consider",
+        "start": 282.04999999999995,
+        "end": 282.66999999999996
+      },
+      {
+        "word": "data",
+        "start": 282.66999999999996,
+        "end": 282.94
+      },
+      {
+        "word": "engagement",
+        "start": 282.94,
+        "end": 283.68
+      },
+      {
+        "word": "as",
+        "start": 283.68,
+        "end": 284.10999999999996
+      },
+      {
+        "word": "looking",
+        "start": 284.10999999999996,
+        "end": 284.51
+      },
+      {
+        "word": "at",
+        "start": 284.51,
+        "end": 284.63
+      },
+      {
+        "word": "the",
+        "start": 284.63,
+        "end": 284.68
+      },
+      {
+        "word": "user",
+        "start": 284.68,
+        "end": 284.97999999999996
+      },
+      {
+        "word": "interface",
+        "start": 284.97999999999996,
+        "end": 285.59
+      },
+      {
+        "word": "for",
+        "start": 285.63,
+        "end": 285.72999999999996
+      },
+      {
+        "word": "analysis,",
+        "start": 285.72999999999996,
+        "end": 286.52
+      },
+      {
+        "word": "but",
+        "start": 286.56,
+        "end": 286.77
+      },
+      {
+        "word": "should",
+        "start": 286.77,
+        "end": 287.07
+      }
+    ]
+  },
+  {
+    "timestr": "0287360_0298540",
+    "final_spoken": "consider it as a part of self tracking practices with technologies that's embedded in the web or wants intentional tracking domain knowledge technical properties other users and learning resources",
+    "final_written": "consider it as a part of self-tracking practices with technologies that's embedded in the web or wants intentional tracking, domain knowledge, technical properties, other users, and learning resources.",
+    "words_spoken": [
+      {
+        "word": "consider",
+        "start": 287.45,
+        "end": 288.14
+      },
+      {
+        "word": "it",
+        "start": 288.14,
+        "end": 288.3
+      },
+      {
+        "word": "as",
+        "start": 288.3,
+        "end": 288.51
+      },
+      {
+        "word": "a",
+        "start": 288.51,
+        "end": 288.58000000000004
+      },
+      {
+        "word": "part",
+        "start": 288.58000000000004,
+        "end": 288.86
+      },
+      {
+        "word": "of",
+        "start": 288.86,
+        "end": 288.95
+      },
+      {
+        "word": "self",
+        "start": 288.95,
+        "end": 289.24
+      },
+      {
+        "word": "tracking",
+        "start": 289.24,
+        "end": 289.62
+      },
+      {
+        "word": "practices",
+        "start": 289.62,
+        "end": 290.33000000000004
+      },
+      {
+        "word": "with",
+        "start": 290.39,
+        "end": 290.53000000000003
+      },
+      {
+        "word": "technologies",
+        "start": 290.59000000000003,
+        "end": 291.43
+      },
+      {
+        "word": "that's",
+        "start": 291.46000000000004,
+        "end": 291.87
+      },
+      {
+        "word": "embedded",
+        "start": 291.87,
+        "end": 292.39
+      },
+      {
+        "word": "in",
+        "start": 292.39,
+        "end": 292.61
+      },
+      {
+        "word": "the",
+        "start": 292.61,
+        "end": 292.7
+      },
+      {
+        "word": "web",
+        "start": 292.7,
+        "end": 292.94
+      },
+      {
+        "word": "or",
+        "start": 292.97,
+        "end": 293.11
+      },
+      {
+        "word": "wants",
+        "start": 293.11,
+        "end": 293.38
+      },
+      {
+        "word": "intentional",
+        "start": 293.38,
+        "end": 293.95
+      },
+      {
+        "word": "tracking",
+        "start": 293.95,
+        "end": 294.51
+      },
+      {
+        "word": "domain",
+        "start": 294.54,
+        "end": 294.82
+      },
+      {
+        "word": "knowledge",
+        "start": 294.82,
+        "end": 295.23
+      },
+      {
+        "word": "technical",
+        "start": 295.23,
+        "end": 295.81
+      },
+      {
+        "word": "properties",
+        "start": 295.81,
+        "end": 296.44
+      },
+      {
+        "word": "other",
+        "start": 296.44,
+        "end": 296.68
+      },
+      {
+        "word": "users",
+        "start": 296.68,
+        "end": 297.13
+      },
+      {
+        "word": "and",
+        "start": 297.13,
+        "end": 297.27000000000004
+      },
+      {
+        "word": "learning",
+        "start": 297.27000000000004,
+        "end": 297.68
+      },
+      {
+        "word": "resources",
+        "start": 297.68,
+        "end": 298.37
+      }
+    ],
+    "words_written": [
+      {
+        "word": "consider",
+        "start": 287.45,
+        "end": 288.18
+      },
+      {
+        "word": "it",
+        "start": 288.18,
+        "end": 288.3
+      },
+      {
+        "word": "as",
+        "start": 288.3,
+        "end": 288.51
+      },
+      {
+        "word": "a",
+        "start": 288.51,
+        "end": 288.58000000000004
+      },
+      {
+        "word": "part",
+        "start": 288.58000000000004,
+        "end": 288.86
+      },
+      {
+        "word": "of",
+        "start": 288.86,
+        "end": 288.95
+      },
+      {
+        "word": "self-tracking",
+        "start": 288.95,
+        "end": 289.62
+      },
+      {
+        "word": "practices",
+        "start": 289.62,
+        "end": 290.33000000000004
+      },
+      {
+        "word": "with",
+        "start": 290.40000000000003,
+        "end": 290.53000000000003
+      },
+      {
+        "word": "technologies",
+        "start": 290.59000000000003,
+        "end": 291.43
+      },
+      {
+        "word": "that's",
+        "start": 291.46000000000004,
+        "end": 291.87
+      },
+      {
+        "word": "embedded",
+        "start": 291.87,
+        "end": 292.39
+      },
+      {
+        "word": "in",
+        "start": 292.39,
+        "end": 292.61
+      },
+      {
+        "word": "the",
+        "start": 292.61,
+        "end": 292.7
+      },
+      {
+        "word": "web",
+        "start": 292.7,
+        "end": 292.94
+      },
+      {
+        "word": "or",
+        "start": 292.97,
+        "end": 293.11
+      },
+      {
+        "word": "wants",
+        "start": 293.11,
+        "end": 293.38
+      },
+      {
+        "word": "intentional",
+        "start": 293.38,
+        "end": 293.95
+      },
+      {
+        "word": "tracking,",
+        "start": 293.95,
+        "end": 294.51
+      },
+      {
+        "word": "domain",
+        "start": 294.54,
+        "end": 294.82
+      },
+      {
+        "word": "knowledge,",
+        "start": 294.82,
+        "end": 295.23
+      },
+      {
+        "word": "technical",
+        "start": 295.23,
+        "end": 295.81
+      },
+      {
+        "word": "properties,",
+        "start": 295.81,
+        "end": 296.44
+      },
+      {
+        "word": "other",
+        "start": 296.44,
+        "end": 296.68
+      },
+      {
+        "word": "users,",
+        "start": 296.68,
+        "end": 297.13
+      },
+      {
+        "word": "and",
+        "start": 297.13,
+        "end": 297.27000000000004
+      },
+      {
+        "word": "learning",
+        "start": 297.27000000000004,
+        "end": 297.68
+      },
+      {
+        "word": "resources.",
+        "start": 297.68,
+        "end": 298.37
+      }
+    ]
+  },
+  {
+    "timestr": "0298540_0301630",
+    "final_spoken": "with that i'd like to take questions sms khan",
+    "final_written": "With that, I'd like to take questions, Sms. Khan.",
+    "words_spoken": [
+      {
+        "word": "with",
+        "start": 298.81,
+        "end": 298.95000000000005
+      },
+      {
+        "word": "that",
+        "start": 298.95000000000005,
+        "end": 299.22
+      },
+      {
+        "word": "i'd",
+        "start": 299.45000000000005,
+        "end": 299.54
+      },
+      {
+        "word": "like",
+        "start": 299.54,
+        "end": 299.72
+      },
+      {
+        "word": "to",
+        "start": 299.72,
+        "end": 299.83000000000004
+      },
+      {
+        "word": "take",
+        "start": 299.83000000000004,
+        "end": 300.02000000000004
+      },
+      {
+        "word": "questions",
+        "start": 300.12,
+        "end": 300.74
+      },
+      {
+        "word": "sms",
+        "start": 301.55,
+        "end": 301.58000000000004
+      },
+      {
+        "word": "khan",
+        "start": 301.58000000000004,
+        "end": 301.63
+      }
+    ],
+    "words_written": [
+      {
+        "word": "With",
+        "start": 298.81,
+        "end": 298.95000000000005
+      },
+      {
+        "word": "that,",
+        "start": 298.95000000000005,
+        "end": 299.22
+      },
+      {
+        "word": "I'd",
+        "start": 299.45000000000005,
+        "end": 299.54
+      },
+      {
+        "word": "like",
+        "start": 299.54,
+        "end": 299.72
+      },
+      {
+        "word": "to",
+        "start": 299.72,
+        "end": 299.84000000000003
+      },
+      {
+        "word": "take",
+        "start": 299.84000000000003,
+        "end": 300.02000000000004
+      },
+      {
+        "word": "questions,",
+        "start": 300.12,
+        "end": 300.71000000000004
+      },
+      {
+        "word": "Sms.",
+        "start": 301.55,
+        "end": 301.58000000000004
+      },
+      {
+        "word": "Khan.",
+        "start": 301.58000000000004,
+        "end": 301.63
+      }
+    ]
+  }
+]

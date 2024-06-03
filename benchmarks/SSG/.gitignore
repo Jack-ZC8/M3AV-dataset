@@ -1,0 +1,12 @@
+*.pyc
+sample_set_split.json
+.vscode/settings.json
+ssg_gpt4/openai_key.txt
+
+ssg_dataset/
+alog/
+ssg_llama2/statics/debug.llama2_7b/
+ssg_gpt4/gpt-4/
+ssg_gpt4/gpt-4V/
+
+

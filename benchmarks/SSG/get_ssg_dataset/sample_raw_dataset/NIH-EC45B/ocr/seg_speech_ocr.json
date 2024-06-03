@@ -1,0 +1,626 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0007000.jpg",
+    "ocr_text": "Wednesday Afternoon Lecture Series\nThe Planning Committee members of this activity have reported no relevant financial relationships to disclose\nThe Speaker for this activity has reported reported relevant financial relationships to disclose with: Pfizer and Aclaris Therapeutics\nThe Speaker for this activity will be discussing unlabeled, investigational, or alternative uses of a product, device, or techniques.\none program many people infinite possibilities\nIntramural Research Program Our Research Changes Lives",
+    "speech_text": "Welcome to the Wednesday afternoon lecture.",
+    "start": 3.0,
+    "end": 7.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0180450.jpg",
+    "ocr_text": "Genetics, Immunology and Targeted Therapies for Alopecia Areata NIH Director's Wednesday Afternoon Lecture Series (WALS) March 1,2017\nAngela M.Christiano, Ph.D\nJulian Mackay-Wiggan & Raphael Clynes Columbia University College of Physicians & Surgeons\nMadeleine Duvic, MD Anderson Maria Hordinsky, Univ of Minnesota Vera Price, UCSF David Norris, University of Colorado",
+    "speech_text": "Today we have Dr. Angela Cristiano, who will be talking on genetics and immunology of alopecia areata. Angela got her PhD in microbiology and molecular genetics at Rutgers University and did her postdoctoral work at the Department of Dermatology, Thomas Jefferson University. She set her own laboratory as a research assistant professor at Thomas Jefferson and later became an adjunct assistant professor at Rockefeller University. In 1995, she moved to Columbia University, where she was assistant professor, associate professor and is presently. the Richard and Mildred Rodebeck Professor at the Departments of Dermatology and Genetics and Development. She's the director of the Center for Human Genetics and the vice chair for research of the Department of Dermatology. She is also currently the president of the Society of Investigative Dermatology and serves as the deputy editor for the Journal of Investigative Dermatology. Angela's research has focused on understanding the molecular processes that lead to inherited skin and hair disorders in humans. She's made really beautiful findings and seminal findings starting with the discovery of genetic mutations that are associated with blistering skin disorders. She has also pioneered the research in the underlying genetic causes of hair loss and identification of potential therapies for alopecia For alopecia, areata, an autoimmune form of hair loss. She will be presenting this area of their work today and the title of her presentation is Genetics and Immunology of Alopecia Areata. Please join me in welcoming Dr. Angela Cristiano. Thank you so much, Maria, for the beautiful introduction and for the opportunity to be here speaking in this amazing lecture series. So I'm honored to to attend, and it's wonderful to see so many friends and colleagues out here in the audience, as well as some of the people whose work we've followed. For quite some time now, and I hope that I can do justice to acknowledging everyone appropriately along the way, so thank you for having me. I'm going to talk to you today about an autoimmune form of hair loss called alopecia areata that is within the dermatologic diseases, So this falls within the Nyans mission here at Nih. I'm a P. h. D geneticist, so I'm joined in this work by two. Clinical colleagues, Julian Mckay Wiggin, who runs our clinical trials unit in the department at Columbia, and Raphael Kleins, who's an immunologist at. the time that we did this work, was at Columbia University working in other autoimmune diseases and really helped us move",
+    "start": 7.0,
+    "end": 180.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0455000.jpg",
+    "ocr_text": "Challenge of Alopecia Areata Pathogenesis: Collapse of Immune privilege of the Hair Follicle\nLoss of immune privilege medated by: IFN-Y Neuropeptides (substance P) Immunogenetics Insufficient Treg activities\nUnknown anagen- associated autoantige\nPresentation of antigen by ectopic MHC class I expression\nIncreased MHC classI\nAA Secondary autoimmune events Activatod CD4T colls Autoantbocies Proinfiammatory and catagen-promoting Thi cytckines HLA-DR ICA-1exprecsicn\nImmune privelege guardians a-MSH TGF-1 IGF-1 NK cell suppression\nAutoreactive CD8Tcel\nMHC classI\nCostimulatory\"signals and CD4T coll heip\nCD4 Tce\nFigure 3 Proposed pathogenesis of AA. Cytokines and cellular factors responsible for maintaining immune privilege are listed in the left box. Those fac- tors believed to mediate loss of immune privilege and initiation of disease are listed in the middle box. Loss of immune privilege is associated with expression of MHC class I molecules, which are capable of presenting hair follicle autoantigens to T lymphocytes.Secondary autoimmune amplification circuits that may help establish or amplify the pathology are listed in the right box\nFrom Gilhar, Paus &KalishJCI,2007",
+    "speech_text": "this program into preclinical models and with Julian's help into the clinic. Our work really stems from a registry that was established by NIAMS in about year 2000 or so called the National Alopecia Areata Registry and it was that group of patients that really formed the basis of allowing us to do the genetic studies that I'll talk about today And I'm joined here by my colleagues at the other registry sites. this was founded, and and the home site was at Md. Anderson in Houston. followed by sites at these institutions and at our own at Columbia. So without this important patient registry, a lot of what you're going to hear today Probably would not be able to happen so again. I have a lots of gratitude to thank folks up front for helping us do this. So just to introduce you to the phenotype, so alopecia, Rihanna is a very common autoimmune form of hair loss affecting. about six million people in the United States, roughly one to two percent lifetime risk. It can sometimes start as small patches of hair loss on the scalp, sometimes on the beard in males. It can progress to cover the entire scalp, sometimes occurs in unusual patterns. One thing that we think we know about it is that it preferentially attacks pigmented hair so it spares The white hairs often leaving behind a patch like this, and it can eventually progress to cover. the entire scalp, in which case it's called alopecia totalis, or the entire body hair, in which case it's called alopecia universalis. When it progresses to to that late stage, it tends to be resistant to conventional therapies. When we began this work, there had been 20 or so years of literature in the field describing an autoimmune infiltrate surrounding affected hair follicles in a characteristic pattern that's called a swarm of bees. And for many years, the composition and nature of this swarm of bees wasn't well understood. And so thinking about ways to target this specifically Was still a little bit out of reach, and so the standard of care of treatment for allopuchariata, still today is steroids either injected. Interlesionally into the scalp, or sometimes topical steroids, in children, occasionally oral steroids, but again without knowledge of. the details of this process, it was very difficult over the years to come up with ways to target this. I'll also make one other disclosure at the beginning that my interest in alopecia is personal as well as professional. So the top middle panel here is myself. I developed alopecia areata in 1996, shortly after arriving at Columbia. And this is really what sparked our interest in trying to dissect the genetics of this complex disease. And so let me So, let me tell you a bit about our basic biological context, our problem, and? And that is that, in normal conditions, the hair follicle exists in a state of relative immune privilege where it remains cloaked. In, if you will, guardians of the immune system that keep it from being recognized by immune cells. That's part of its special privilege in the in the. In the site, and so, for reasons we don't yet understand entirely in terms of triggering events, this hair follicle loses that immune privilege and begins to express. Signs of danger, so it upregulates Mhc class one and two other danger signals that begin to recruit in. in this mixed inflammatory infiltrate. Over the years, this has been shown to contain CD4 cells, CD8 cells. But this process, once it begins, sort of becomes a vicious cycle. The hair follicle secretes more and more danger, recruiting again this infiltrate, and it keeps this process going. So even though it's a complex problem model to think about, it also presents opportunity at two levels. One is to think about ways of treating the immune infiltrate and sort of dampening down that response. But the 2nd involves trying to restore this relative immune privilege state of the hair follicle. And so, if we think about interventions, we can potentially think about doing both of those things, both restoring the immune components and also. Not restoring the hair follicle, so when I show you later, some of our treatment work in mice and in humans, I hope that we can come back to this model and. and talk about",
+    "start": 180.45,
+    "end": 455.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0511450.jpg",
+    "ocr_text": "Functional Genomics\nGenomics\nCancer\nDrugs & Biomarkers\nPrevention Diagnosis Treatment\nEpigenomics\nCell Regulatory Logic\nTranscripiomics\nOther Omics: Metabolomics Proteomics Glycomics\nClinical Trials",
+    "speech_text": "how we've managed to try and do some of this. So our work really began, as many others have, in complex disease genetics. And that was to try and build an unbiased genetic map of alopecia areata for the first time. And, again, this was coming along at the time in history when GWAS studies, genome-wide association studies, were just becoming popular. And so, again, because this is a complex disease involving both genes and environmental triggers, we followed the footsteps of other diseases before us that had really paved the way for using this approach and thinking about ways to use the genetic maps to find potentially new targets that could be used potentially with already FDA-approved drugs and testing those in clinical trials. So This map of functional genomics is borrowed from my colleague at Columbia, Andrea Califano, who I think has done also a great job of helping us to. think about ways to",
+    "start": 455.0,
+    "end": 511.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0533450.jpg",
+    "ocr_text": "Outline\nGenetics of Alopecia Areata\nImmunology of Alopecia Areata\nTranslational and Biomarker Platform\nClinical Development Plan",
+    "speech_text": "link our genetics to some of the mechanisms and think about new drugs. So I'm going to talk in four areas today, a little bit about the genetics, some work on our immunology in alopecia areata, and then finally talk about our work to develop new biomarkers so we could track the progress and response of patients to some of the new drugs, and then finally, at the end, some",
+    "start": 511.45,
+    "end": 533.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0669000.jpg",
+    "ocr_text": "Genomewide Association Study (GWAS) in Alopecia Areata\nJoint analysis of ~1000 cases vs ~3000 controls\nA\nHLA\nULBP3/ULBP6\nCTLA4/ICOS\nEos/ErbB3\nIL2RA\nPRDX5\nSTX17\nIs NKG2D Ligand expression an End-Organ Precipitant of Autoimmunity and Alopecia Areata?\nPethukova, Nature 2010",
+    "speech_text": "work from our clinical trials. So the results of our genome-wide association study, this was from about 2,000 or so patients, roughly 1,500 cases, 3,500 controls. This is a very small genome-wide association study, so nowadays you see numbers in some diseases well over 100,000 cases and controls, So this is a very modest size, Genome wide Association study, and simply we take. A few thousand cases compare their Snp markers to a few thousand controls, and we look for areas of the genome where we see skewing or over representation. of certain genetic markers in the cases relative to controls, and when we do that, this red line is statistical significance. Anything that rises above that line suggests to us that there's a locust there that may be contributing to disease. So the Hla is a nice positive control to have for any autoimmune disease, but it, particularly in alopecia areata, there had been many. candidate gene association studies here in the past, and some of these other genes in black are ones that are shared amongst other autoimmune diseases, so again, nice controls that we're hitting upon, some genes that should have interest in the disease. But what every geneticist really wants is the smoking gun, is the gene that that's unique to your disease, that has the one. the greatest potential, usually, of guiding you towards a mechanism that might help understand pathogenesis. And so in our case, this gene, the ULBP3N6 cluster, you can see is the second most significant hit in alopecia, and importantly, it's also unique to alopecia areata, so to date, there are still no other autoimmune diseases that have this gene as a candidate gene, so similar to insulin and diabetes, for example, it's usually the genes that are unique to your disease that are the ones that are the most instructive about pathogenesis. The other reason this gene was exciting is because it happens to be a danger signal. It's a ligand for a receptor called NKG2D that's expressed on activated CD8 effector cells, and when those two engage, the CD8 effectors can then target and kill cells that are expressing this ligand. And so for both",
+    "start": 533.45,
+    "end": 669.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0721450.jpg",
+    "ocr_text": "Genome-wide Association Study in AA\nnature\nMaximum odds ratio\nStrongest association (P value)\nRegion\nGene CTLA4 ICOS L-21/I-2 ULBP6 ULBP3 STX17 IL-2RA PRDX5 Eos(IKZF4) ERBB3 MICA NOTCH4 C6orf10 BTNL2 HLA-DRA HLA-DOA1 HLA-DOA2 HLA-DQB2\nFunction Co-stimulatory family Co-stimulatory family T-B-and NK-cell proliferation NKG2D activating ligand NKG2D activating ligand Premature hair greying T-cell proliferation Antioxidant enzyme Treg transcription factor Epidermal growth factor receptor NKG2D activating ligand Haematopoietic differentiation Unknown Co-stimulatory family Antigen presentation Antigen presentation Antigen presentation Antigen presentation\nT1D.RACeD.MS, SLE, GD\nT1D, RA, CeD, PS None None None T1D, MS.GD.GV MS T1D, SLE T1D, SLE T1D, RA, CeD, UC, PS, SLE T1D, RA, MS T1D, RA, PS.GV T1D, RA, UC, CD, SLE, MS, GV T1D, RA, CeD, MS, GV T1D, RA, CeD, MS, SLE, PS, CD, UC, GD T1D, RA RA\nSurprises\nAligned Diseases\nPathways Costimulatory Pathway\nType 1 diabetes Rheumatoid arthritis Celiac disease\nNKG2D axis\nCytokine signaling",
+    "speech_text": "of those reasons, this gene became quite an interest for us in the lab. One of the other surprises that came out of this work early on was the alignment of alopecia with some unexpected genetic diseases. So We and I think many people alopecia areata to closely resemble psoriasis, atopic dermatitis, maybe even vitiligo. in terms of its genetic makeup, and instead, if you look down this column, you'll see that that's not the case, and instead what we see is a strong alignment with this class of autoimmune diseases. So this was, again, a surprise. It took us a while to sort of get our minds around this, but when we went to the literature, it turned out that there was a rich history in In this class of diseases for understanding what makes them similar, and most of that converges on this",
+    "start": 669.0,
+    "end": 721.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0748000.jpg",
+    "ocr_text": "Meta Analysis Study Design with European Cohort\nGenotyping Platform\nCohort(Ascertainment Source)\nAnalysis\nSample Count\nDisease Status\nPublication\nPMID20596022 PMID20596022 current publication current publication\nmeta analysis and HLA imputation\ncase\nUS1(NAAR US2(NAAR) Central Europe1 Central Europe 2\nIllumina 610 lllumina 610 Illumina 660 Illumina Omni\ncontrolUS1(NYCP) US2(CGEMS Central Europe1 (PopGen, KORA, HNR) Central Europe2 (PopGen, KORA, HNR)\nIllumina 550 Illumina 550 Illumina Omni llumina 550\nPMID20596022 PMID20596022 current publication current publication\nUS3 (NAAR)\nSequenom Immunochip Sequenom\ncase\ncurrent publication\nreplication\ncase\nCentral Europe 3\ncurrent publication\ncontrol control control\nUS3a(NAAR) US3b(NIDDK IBDGC) Central Europe 3\nSequenom Immunochip Sequenom\ncurrent publication current publication current publication\nCollaboration with Regina Betz, Markus Nothen Paul deBakker\nTotal Case Count3,096 Total Control Count7,439",
+    "speech_text": "Nkg 2d axis. So again, something geneticists love to do is is replicate our initial Gwas studies, and oftentimes we have to combine with colleagues from around the world. also doing GWAS studies to get even more candidate genes. So we're very lucky to collaborate with Regina Betts and Marcus Newton To combine our Gwas with theirs, and when we do this, we now have close to 10000 cases",
+    "start": 721.45,
+    "end": 748.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0764000.jpg",
+    "ocr_text": "Manhattan Plot of Meta-analysis Collaboration with Regina Betz, Bonn Germany\nULBP3/6\nChromosome\nBetz/Petukhova Nat.Comm.2015",
+    "speech_text": "and controls, and what we see is an improvement of. in our HLA signal here, as well as ULBP3 and 6 and some of the others. And so we fully replicated our initial GWAS in this meta-analysis in addition to finding",
+    "start": 748.0,
+    "end": 764.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0820000.jpg",
+    "ocr_text": "Resolving GWAS signals in the HLA locus\nFour independent effects account for entire HLA association\nHow does this compare?\nAA has 4 HLA-DRB1aa13.37 HLA-DRB1-0401 HLA-A eQTL\nRA has 6 HLA-DRB1 aa 11,71,74 HLA-A aa 77 HLA-B aa 9 HLA-DPB1 aa 9\nresidues 70-74 (shared epitope of HLA-DRβ1*0401)\nTyrβ37\nHisβ13\npsoriasis has 6 HLA-C-0602 and 1203 HLA-A aa 95 HLA-B aa 9,67 HLA-DQB1 aa 53\nCollaboration with Paul deBakker",
+    "speech_text": "several other new candidate genes, and you can see the compiled list here. So some of the statistics on this are getting impressive. At the Ulbp genes here you see again are holding up at ten to the -24 again. Still no replication of these in any other autoimmune disease. suggesting, once again, that this might be a place to focus for mechanism. Just as an aside, we've also resolved our HLA signal to a few particular amino acids within HLA-DRB1, so amino acid 13 and 37, as well as A Qtl snip here, so most of our signal is coming from Drb One. This compares nicely to rheumatoid arthritis, to psoriasis, which have also done this type of analysis With the help of Paul Debaker, to really resolve these signals down to a very small number of amino acids, and again, these also align closely with. those in celiac disease",
+    "start": 764.0,
+    "end": 820.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0853450.jpg",
+    "ocr_text": "Genome-wide meta-analysis in alopecia areata resolves HLA associations and reveals two new susceptibility loci\nRegina C.Betz*,Lynn Petukhova*, Stephan Ripke*,Hailiang Huang,Androniki Menelaou, Silke Redler Tim Becker, Stefanie Heilmann, Tarek Yamany, Madeliene Duvic, Maria Hordinsky, David Norris, Vera H.Price, Julian Mackay-Wiggan, Annemieke de Jong, Gina M.DeStefano, Susanne Moebus, Markus Bohm, Ulrike Blume-Peytavi, Hans Wolff, Gerhard Lutz, Roland Kruse, Li Bian, Christopher I. Amos Annette Lee, Peter K.Gregersen, Bettina Blaumeiser, David Altshuler, Raphael Clynes, Paul I.W.de Bakker, Markus M.Nothen, Mark J.Daly, Angela M.Christiano\nNature Communications(2015,6:5966)\nWhat's next...\nONGOING: Whole exome plus custom capture sequencing to identify variants And determine their functional consequences\nPLANNED: Additional GWAS and family based studies -10,000 individuals is our",
+    "speech_text": "and those in type 1 diabetes. So we put this all together, and our goal now is to continue along the genetics. We're now doing whole exome sequencing with custom capture in our GWAS regions to identify the functional variants, and the goal is to advance this to well over 10,000 individuals. So I'm not going to go much further on the genetics today, but sometimes my friends like to say that we've gotten so distracted by this five years of immunology that we're finally coming back to doing what we started, which was to go further into the",
+    "start": 820.0,
+    "end": 853.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0899000.jpg",
+    "ocr_text": "Rationale for Meta-analysis GWAS\nCountof GWAS risk loci\nOR distribution in www.genome.gov/gwastudies\nEmpirical distribution of effect sizes(OR) for autoimmune diseases in genome.gov/gwastudies(data download on 6/13).AA, with the smallest case count has not identified any risk allele with OR<1.3, while nearly 80% of risk alleles for other autoimmune diseases reside within this range(1.0<OR<1.3)",
+    "speech_text": "genetics. But I won't go any further there today, except just to put it in context a little bit. This is alopecia areata, and these are some of the other Autoimmune diseases, This is a little bit out of date. Now, these are number of patients in Gwas studies, and again, many of these are over a hundred thousand now. What happens is, as you move to the left here, you begin to pick up more and more and more susceptibility genes. So you can see that you begin to get many more genes with small effect sizes here as you add patients to these Gwas studies, So we're at this level, but. I'm hoping what I can show you today is that even with knowledge of the very lowest hanging fruit, the genes that are easiest to find here, that even with that information, we've been able to make some interesting",
+    "start": 853.45,
+    "end": 899.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0918000.jpg",
+    "ocr_text": "How have genetic studies advanced our understanding of disease pathogenesis?\nHow have genetic studies led to translational research and new clinical\napproaches?",
+    "speech_text": "functional observations. So what I hope to, again, send you home with today is a little bit of appreciation of how the genetics have opened up a new window into understanding the disease pathology, and then also how we've tried to leverage that to choosing and repurposing some existing",
+    "start": 899.0,
+    "end": 918.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0947000.jpg",
+    "ocr_text": "Autoimmunity has a \"Common Cause\nAutoimmune Disease\nAlopecia Areata Psoriasis Rheumatoid arthritis Type 1 diabetes Multiple sclerosis Systemic lupus erythematosus\nAre AA, Type I Diabetes, Rheumatoid Arthritis, Celiac Disease unrelated diseases? or are there common pathways involved?\nSupport for Common pathways Autoimmunity is Clustered: e.g., AA, Celiac Disease, Tvpe I diabetes occurs together in families and sometimes in the same individual. Genetic evidence: same genes predispose to many autoimmune conditions Pathology is the same: common mediators of tissue injury CD8+NKG2D+ TCells in diabetesCeD and AA\nImplications: SHARED TREATMENT",
+    "speech_text": "drugs to try in this disease. So again, taking a page from what's come before us, we've studied with great care The beautiful work of Thomas Waldman, who's here in the audience of Bhanu Jabri, who works on Celiac disease, of John O'shea, who's here in the audience. Many of the folks that have come before us have done seminal work in these pathways, in the the related autoimmune diseases, and we've been inspired. by their collective scholarship to try and borrow some of",
+    "start": 918.0,
+    "end": 947.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-0998000.jpg",
+    "ocr_text": "Common pathways with other Autoimmune diseases. NK ligands in the target organs\nIn RA, synoviocytes aberrantly express MIC ligands, leading to autoreactive T cell stimulation\nIn Celiac disease, Mic ligands are overexpressed in the gut epithelium during active disease.\nIn Type 1diabetes, Islet cells in prediabetic NOD mice express RAE-1 ligand\nHypothesis: In AA, do we find overexpression of ULBP3 in the hair follicle?\nThe aberrant expression of NK activating ligands in genetically predisposed individuals may induce or exacerbate disease",
+    "speech_text": "these principles and apply them to alopecia areata, Of course, with the goal of finding some shared treatment, so to come back to the our favorite candidate gene Ulbp Three. again, when we first found this, we weren't quite sure how to interpret it, what to make of it. And so we began to go through this literature, And what came through was that in the other three related disease states, there was the similar up regulation of a danger. So, get a hold particularly of an Nkg 2d ligand in the end organ of the other diseases. So in rheumatoid arthritis, in the synovium, in Celiac in the gut. And in type one diabetes in the eyelid cells in the n Od mice, the nomenclature here gets a little messy, but Rae One and Nick are relevant relatives. Of the same class of Ulbp, three ligands, and so our question was do we see the same",
+    "start": 947.0,
+    "end": 998.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1038000.jpg",
+    "ocr_text": "Danger Signals: ULBP3 Expression in the Hair Follicle\ncontrol individuals\nAA patients",
+    "speech_text": "in alopecia areata hair follicles? so? the blue is an outline of normal cells in a control hair follicle. The red is staining for ULBP3. We always see a little bit of staining Even in controls, but in alopecia Areata patients, we see a massive upregulation of Ulbp three in the. in the outermost part of the hair follicle, in this case in the dermal sheath, positioning it at the right place in the anatomy of the hair follicle to interact with the NKG2D receptor coming in from the surrounding immune cells. And so this characteristic really, I think, begins to give some functional",
+    "start": 998.0,
+    "end": 1038.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1085000.jpg",
+    "ocr_text": "Human Buzzing Bees\nAA is caused by swarm of bees\nKiller CD8 T cells attracted by NKG2DL\nAA \"2010\": Bees are identified\nAA \"Pre-2010\" Swarm of Bees\nCollaboration with Raphael Clynes",
+    "speech_text": "significance to our candidate gene. So if we have the ligand on the hair follicle, we expect to see the receptor on the infiltrate. So this is co-staining for CD8 and NKG2D, suggesting that our infiltrate, in fact, has killer cells of this particular phenotype That are likely involved in disease, and so remember, at the beginning I mentioned this sort of swarm of bees, pathology that was known. up until now. And it was really at this point that I was able to Enlist the help of my collaborator and colleague, Raphael Kleins, an immunologist at Columbia, then, to really help us figure that out, and when Raphael looked at this picture, he said. but this looks like type 1 diabetes of the hair follicle. And so that sort of became our working model",
+    "start": 1038.0,
+    "end": 1085.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1087000.jpg",
+    "ocr_text": "Outline\nGenetics of Alopecia Areata\nImmunology of Alopecia Areata\nTranslational and Biomarker Platform\nClinical Development Plan",
+    "speech_text": "for trying to build",
+    "start": 1085.0,
+    "end": 1087.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1172000.jpg",
+    "ocr_text": "Pre-clinical C3H-HeJ mouse model of alopecia areata\nC3H/HeJ Spontaneous alopecia areata -> 15% incidence in 6-12 months\nC3H/HeJ Skin Graft Model -> 100%incidence in 6-12weeks McEIwee, JID1998\nPrevention Model->Give drug at the time of grafting\nTreatment Molel->Give drug after onset of disease6 weeks or later)\nAA skin donor\nAA graft recipients\n1cm2 skin grafts\n6 weeks\n16 weeks",
+    "speech_text": "out our studies on the immunology. And so let me introduce to you the mouse model that's used throughout our work. So this is an inbred strain of mice called C3HHEJ. This is a strain that's kept at Jackson Labs. These mice develop spontaneous alopecia in about 15 % of females at about a year, and so it's not a very tractable. model to do either prevention or treatment studies waiting around all this time. So John Sundberg and Kevin McElwee at the Jackson Labs developed a graft model where they can take small bits of skin from affected AA mice and graft them onto the back of C3H recipients. And when you do that, after about six weeks, the mice begin to lose hair on the belly first, resembling patchy alopecia areata. And then if you let this progress to three or four months, they'll lose hair everywhere on the back and on the rest of the body. And so this model is very stereotypical. It's easy to use for testing. And so we can do two things with it. We can give drugs at the time of the grafts and we can try to prevent the onset of alopecia. That's the easier model. Or we can let the mice lose their hair, either early or late disease, and then give drug and try to reverse the model and actually set up a treatment-type study. And that's, of course, much more challenging. So I'll show you",
+    "start": 1087.0,
+    "end": 1172.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1199000.jpg",
+    "ocr_text": "Shared Pathogenesis in Human and Mouse\nComparative Transcriptomics Reveals Shared IFN Response Signature\nHuman Alopecia Areata And Normal Scalp\nGene Expression in Human and Mouse AA\nHuman\nMouse\nFold Upregulated\nFold Upregulated\nGene\nGene\nCXCL10 CXCL9 CD8A STAT1 IFI44\nCxcl10 Cxc19 Cd8a Stat1 Ifi44 Ccl2\nCCL2\nGzma Rsad2 Ptprc TIr3\nGZMA RSAD2\nPTPRC\nTLR3\nAA\nNormal",
+    "speech_text": "some examples later of how we've done that. So to try and prove that the mouse was a good model for human alopecia, just a few quick studies. So this is at the gene expression level. This is human compared to mouse alopecia. Rihanna. You can see up regulation of some of the interferon cytokines Here. some markers of. CD8 cytotoxic cells, granzyme CD8 here. We'll go through this in a lot more detail later, but just, again, rough",
+    "start": 1172.0,
+    "end": 1199.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1225000.jpg",
+    "ocr_text": "Shared Pathogenesis in Human and Mouse\nNKG2D\"Stress\"Ligands are Upregulated in the Hair Follicle\nMouse Alopecia\nHuman Alopecia\nC3H/HeJ non-lesional\ncontrol individual\nHF of an AA patie\nC3H/HeJ lesional\nPethukova, Nature 2010",
+    "speech_text": "similarities in terms of gene expression. Do we see similar upregulation of an NK ligand in the mouse? So this is human, Ulbp, three in a stressed follicle, and this is C3h Mouse. Before grafting you can see that this ligand H60 is already. upregulated at baseline compared to black six mice. And here it is after transfer of the skin graft, showing even more upregulation. So",
+    "start": 1199.0,
+    "end": 1225.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1261000.jpg",
+    "ocr_text": "CD8NKG2D Cytotoxic T Cells infiltrate the AA Hair follicle\nHuman Alopecia\nSkin\nCD8 NKG2D\nCD8\nNKG20\nC3HAA\nPethukova, Nature 2010\nMouse Alopecia NKG2D\nCD8\nCD8/NKG2D\nHED\nNKG2D\nC3HAA\nC3HAA\nC3H AA\nCD8",
+    "speech_text": "good consistency there. Do we see the similarities at the level of the T cells? So in human, again, CD8 Nkg 2dt cells, and here in the mouse, the same marking the infiltrate with this two markers in these killer cells. And interestingly, this phenotype of Cd eight and Kg 2d cells makes up a full 20 % of the T cells in the skin of lesional alopeceriata in the mice. So this becomes a very convenient biomarker, if you will. If we can measure the disappearance of these cells from the skin, it would suggest to us that we're hitting The right target, and",
+    "start": 1225.0,
+    "end": 1261.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1302450.jpg",
+    "ocr_text": "NKG2D+CD8+T cells are Necessary and Sufficient for T Cell Transfer of AA\nTotal Cutaneous Lymph node T cells NKG2D'\nAlopecic C3H mouse\nNKG2D depleted Lymph node T cells\nNKG2DT LN cells alone\nNormal C3H mouse\nXing et al, Nature Medicine 2014",
+    "speech_text": "we'll see that again later, so that the critical experiment really was to show that these Cd. eight Nkg 2d cells were. Necessary and sufficient, so here we're transferring a total lymph node cells from an affected mouse into an unaffected recipient and that mouse loses its hair. But then if we separate the NKG2D negative from the NKG2D positive cells, you can see the depleted cells. The mice retain their hair. And it's only the Nkg 2d positive cells that actually lose their hair, So this gave us really the 1st window of trying to understand again a little bit more specifically. what's in that infiltrate. And if we could selectively target those cells, maybe give us a chance to",
+    "start": 1261.0,
+    "end": 1302.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1353000.jpg",
+    "ocr_text": "Shared Autoimmune Pathways in Human AA and the C3H Mouse Model\nThree lines of evidence support the relevance of the model to human AA\n1. End-organ drivers -> NKG2DLULBP3, MICA, and IL-15 in HF 2.Immune effectors -> CD8 T cell effectors 3.Biomarkers -> IFN-transcriptional signature\nArgues for the translational relevance of mechanistic studies in the mouse model.\nUsing the mouse model: can we identify targetable cytokine pathways in AA (as for IL-6/TNF in RA and IL-17 in psoriasis)\nSuch as: IFNgamma, IL15, IL2, IL7, others..\nHypothesis: How do we target our CD8+ killers?",
+    "speech_text": "interrupt the disease process. So there are many, many ways to think about doing that. Again, this is a rich literature in terms of targeting these cells. But here we start to think about the risk benefit for a disease like alopecia Areata where these patients don't have life threatening complications from their disease. In many cases, in most cases, in fact, hair loss is their only medical problem. And so the risk-benefit of using Potent immunosuppressive drugs for a disorder like alopecia areata, becomes a question that we ask. And also you, to make this into a viable treatment for patients, we need to sort of think practically speaking about what's the right way to go here. So even though there was a rich literature in the cytokine world, our question really began to focus a little more on",
+    "start": 1302.45,
+    "end": 1353.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1428000.jpg",
+    "ocr_text": "IL-15: Required for maintaining killer CD8 T cells.. an Achilles heel?\nAntigen-presenting cell/Epithelial CellO\nPotential Therapeutic Targets for Alopecia Areata\nCD8+Tcell",
+    "speech_text": "how could we maybe do this Using small molecules, and so again defined by Dr. Waltman, who is here in the room, and his colleagues, Bhanu Jabri and others. The Il15 pathway, we know is a key component of keeping these Cda cells to create cytotoxic cells alive and that without. an active IL-15 signal, these cells really don't survive well. So I want to show you the the whole story, but suffice to say that we have strong up regulation of Il15 pathway in Alopecia Riata, both in the hair follicle. So we need two components on the sending cell in Alopecia Areata, We have expression of Il15 Ra, the chaperone receptor, as well as Il 15, the cytokine itself. And in the receiving cell, the gamma chain and beta chain cytokine here, so we have all four components in alopecia, suggesting that This, in fact, could be thought of as targeting with a downstream Jak inhibitor, and again, as many of you know, on the campus, Dr.. O'shea's lab has been one of the pioneers in this field, really establishing many of the core concepts and so. Again, it was Raphael's suggestion to think about using these jak inhibitors in place of some of these more broad. immune suppressive",
+    "start": 1353.0,
+    "end": 1428.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1464000.jpg",
+    "ocr_text": "IL-15 and IFNy are Critical Cytokines for Alopecic CD8 Killer T Cells\nHypothesis: Target their Effector JAK Kinases?\nProduced by killer T cells\nHighly expressed in diseased human and murine AA HF\nDominates human and murine AA \"signature\", driving inflammation.\nCD8 Killer Tcells\nDrives CD8 killer activation\nAb blockade prevents disease\nAb blockade prevents disease\nIFN-Y\nIFN-Y",
+    "speech_text": "molecules as a way to target for alopecia. So here you see that IL-15 signal in an affected hair follicle. It's very strong. Also, in some of the outer layers, again, suggesting it's at the right place to be active. I'll show you later, But also we have the strong evidence for the interferon signature that you saw a bit earlier. And so these two cytokine pathways are really our two major axes. In alopecia, areata, and so this immediately then highlighted the possibilities of looking downstream of both of these at inhibition of Jak one two. Or Jak one three to try and block both",
+    "start": 1428.0,
+    "end": 1464.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1508000.jpg",
+    "ocr_text": "Positive feedback loop in AA\nFollicular epithelial cell\nNucleus\n-STAT1\nHair follicle bulb (anagen phase)\nRuxolitinib\nTofacitinib\nMHC classI +peptide\nJAK2\nNKG2DL\nIL-15Ra\nIFN-yR1-\nIFN-yR2\nTCR\nIFN-Y\nIL-2R\nNKG2D\nCD8\nAK3\nJAK1\nTofacitinib\nCD8* NKG2D T cells\nSTATS\nRuxolitinib\nTcell proliferation\nCD8-NKG2D Tcell\nNucleus",
+    "speech_text": "one or both of these signatures, so as it turned out. The Jack inhibitors in our story actually had a dual purpose, and I'll show you that now, just so that we can be thinking about it. Here's our aisle 15 signal coming from the hair follicle back to the T cell, and here you see blockade by some jack inhibitors, but we also unexpectedly have. a second opportunity to interrupt the interferon signal here, which actually functions at the level of the hair follicle cell, and so this was unexpected. We sort of got a gift with purchase here, and again, work that I won't go too much into. We know now that the jack inhibitors have a dual effect not just on blocking the immune response, but also on direct activation of hair follicle stem cells.",
+    "start": 1464.0,
+    "end": 1508.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1550000.jpg",
+    "ocr_text": "JAK 1 and JAK 3 Inhibitors in Clinical Development\nIFN-Y\nSTATUS FDAapproved RA Psoriasis Phase ll IBD Phase II RA PhaseII RA Phasel FDA approved MF, PV Psoriasis Phase Il RA Phase II RA PhaseII\nDRUG Tofacitinib\nTARGET JAK1,2,3\nRoute oral topical oral oral oral oral topical oral oral\nVX-509 R348 Ruxolitinib\nJAK3 JAK3 JAK1,2\nJAK1,2 JAK1\nBaricitinib GLPG0634\nJak3\nJak1\nJak1\nJak2\nO'Shea, Immunity 2012",
+    "speech_text": "So again, that was unexpected. So at the time we started there were still. are, I think only two Fda approved Jak inhabitors. Here in the Us. one is, Tofacitinib. was approved by the Fda for Rheumatoid arthritis and ruxolitinib. Approved for myelofibrosis and polycythemia vera, So Tofa is a, called A pan Jak inhibitor targets all three. And ruxo is specific to Jak one and two, and more recently, Baricitinib is also a Jak One Two inhibitor being developed for rheumatoid arthritis. and John told me today it's been approved in Europe for RA. So a lot of activity and development in this area for many",
+    "start": 1508.0,
+    "end": 1550.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1561000.jpg",
+    "ocr_text": "Pre-clinical C3H-HeJ mouse model of alopecia areata\nC3H/HeJ Spontaneous alopecia areata ->15% incidence in 6-12 months\nC3H/HeJ Skin Graft Model->100%incidence in 6-12weeks McEIwee, JID 1998\nPrevention Model->Give drug at the time of grafting\nTreatment Model-> Give drug after onset of disease6weeks or later)\nAA skin donor\nAA graft recipients\n1cm2 skin grafts\n6weeks\n16 weeks",
+    "speech_text": "different autoimmune diseases and cancers. So again, the way we use these drugs in the model, some we give at the time of grafting to prevent disease, and others we give After the mice have established",
+    "start": 1550.0,
+    "end": 1561.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1568000.jpg",
+    "ocr_text": "Pre-clinical studies with systemic delivery of JAK1/2 Inhibitor (ruxolitinib) and JAK3 inhibitor (tofacitinib)",
+    "speech_text": "alopecia areata to try and reverse it, so let me show you some examples, so this is systemic delivery of.",
+    "start": 1561.0,
+    "end": 1568.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1620000.jpg",
+    "ocr_text": "JAK 1/2 Inhibitor (Ruxolitinib) Prevents Alopecia Areata\nJAK1/2Inhibitor\nMice without hair loss\nJAK1/2inhibitor (N=7)\nPBS (N=9)\nPBS\nJAK1/2Inhibitor\nPBS\nXing et al, Nature Medicine 2014",
+    "speech_text": "Both ruxo and tofa, so here we give tofacitinib at the time of grafting, and you can see that the mice that received tofacitinib. retained their hair, whereas the mice that got the vehicle lose their hair. You can see their alopecia here. The treated mice have Thick, healthy follicles here still in the antigen or growth phase, whereas the untreated mice have a strong immune infiltrate that you see here, and dystrophic hairs. not making much of a hair shaft. Their lymph nodes stay small as their spleen, suggesting that these cells basically don't get started. They really don't get born in the treated animals. The same result is true for ruxolitinib, a Jak, one two inhibitor, so the treated mice retain their hair. and the untreated mice lose their hair. These are strong, healthy follicles in antigen, and these are dystrophic follicles with this immune infiltrate surrounding the follicle, and the",
+    "start": 1568.0,
+    "end": 1620.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1681000.jpg",
+    "ocr_text": "Normalization of inflammatory infiltrates following systemic delivery of anti-IL15RB, Tofacitinib and Ruxolitinib\nPBS\nSKIFLOWCYTOMETRY Untreated Treated\naJL-15Rb\nAnti-IL-15RmAb\nPBS\nJAK3 Inhibitor Tofacitinib\nJAK3inhibitor Tofacitinib\nPBS\nJAK1/2Inhibitor Ruxolitinib\nIAK1/2inhibito Ruxolitinib\nCD&\nCD4\nCD8\nMHC-I\nMHC-II\nRAE-1\nXing et al, Nature Medicine 2014",
+    "speech_text": "same result here. So if we compare that to what we get when we block with an IL-15 blocking antibody shown on the top panels here, you can see that in the top row of each IL-15 blockade or tofa or ruxo, each of these three treatments can reverse the inflammation, so the red markers start to go away. You see these black indicators here of hair follicle regrowth, so those are the hair shafts going back into antigen or growth phase. So we've reversed, if you will, our danger signals, or restoring our immune privilege at the hair follicle level. And here you can see, importantly, that in the untreated mice, these are our killer cells in the top right quadrants in both IL-15 And Jack three and Tofa controls. but when we look at the treated mice, these quadrants are essentially empty, suggesting, again, that our killer cells never have the chance to get going in this disease When we block either with the antibody compared to the two jack inhibitors, so giving us, I think good evidence that we're hitting target. and that we're beginning to affect the cells as well as the end organ",
+    "start": 1620.0,
+    "end": 1681.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1689000.jpg",
+    "ocr_text": "Pre-clinical studies with TOPICAL delivery of JAK1/2 Inhibitor (ruxolitinib) and JAK3 inhibitor (tofacitinib)",
+    "speech_text": "phenotype in a positive direction. So I'll fast forward and just show you we've done this now with Many different jack inhibitors both with systemic",
+    "start": 1681.0,
+    "end": 1689.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1752000.jpg",
+    "ocr_text": "opicaltreatmentusing either JAK1/2 orJAK3inhibitor results in\nreversal of long-standing AA (2-3 months duration)\nControl Mice\nJAK3 inhibitor Treated\nJAK1/2Inhibitor Treated\nBefore Treatment\nBefore Treatment 4 weeks\nBefore\n4weeks\n7weeks\n4weeks\n7weeks\n7weeks\nTreatment\n8 Weeks withdrawal\n12 weeks\nSkin Flow Cytometry\nCD4\nCD8\nMHC-I\nMHC-II\nControl\nControl\nJAK inhibitor\nJAK inhibitor\nSkin Immunohistochemistry",
+    "speech_text": "and more recently topical delivery, so this is what it looks like topically so. these control mice are treated with the vehicle cream before and for one month and for two months, and then this is tofa before one month, two months, and the same for ruxo. So you see this is a dramatic increase in hair growth and pigmentation after just two months of treatment. We can withdraw the treatment and show that it's durable, so when we take away the drug, the mice keep their hair. They only regrow where we treat them, so these mice were treated on the back. They don't regrow on their belly, so the drug does not seem to pass systemically when we use it topically. You can see that we've reverted, again, some of our immune privilege markers back to the normal situation, and importantly, we've been able to clear these cells from treated skin, so here's our 20 percent or so of NKG2D positive cells in the skin before treatment, and then after the topical treatment, these go back to a baseline level. So this is Encouraging and suggests that again, for different",
+    "start": 1689.0,
+    "end": 1752.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1777000.jpg",
+    "ocr_text": "Outline\nGenetics of Alopecia Areata\nImmunology of Alopecia Areata\nTranslational and Biomarker Platform\nClinical Development Plan",
+    "speech_text": "modalities, that we might be able to think about incorporating a topical treatment into the. Arsenal for treatment of alopecia Areata, So just a quick aside. let's change gears for a minute and look at some of the work that we've been trying to do. to develop a concomitant biomarker plan that we could use in tandem with our clinical trials to begin to give us biological indications of response to treatment even",
+    "start": 1752.0,
+    "end": 1777.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1800000.jpg",
+    "ocr_text": "Increasing Efficiency of Clinical Trials\nAlopecia Areata Translational Platform\nGenome\nSkin\nBlood\nEnvironment\nGenotyping\nCirculating PBMCs Flow Cytometry (CD8+NKG2D+)\nSkin Crawl-out\nEcological momentary assessments Remote Monitoring\nFlow Cytometry (CD8+NKG2D+) Microdissection\nTargeted sequencing\nEpigenome\nTranscriptome\nTranscriptome\nSerum Cytokines\nPatient Reported Outcome\nHistology\nAutoantibody Profiles\nAA Biomarker Study(R21AR061881\nMolecular Monitoring of Disease Activity",
+    "speech_text": "before we're able to see the hair growing. So again, encouraged by Niams, who was behind us really 100 percent in this work, we had a small R21 grant to begin to develop some of these gene expression biomarkers. So in addition to the genetics, we've done now extensive transcriptional analysis, both in the blood and also in skin, and so I'll show",
+    "start": 1777.0,
+    "end": 1800.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1871000.jpg",
+    "ocr_text": "Biomarkers in Alopecia Areata\nThree classes of data\nGenotype Risk Score\nSerum Markers\nGene Expression profiling(ALADIN score\nGOAL: To develop an integrated biomarker panel for prognostic and predictive value\nPrognostic: will it get better/worse/stay the same Predictive: which therapy will benefit most",
+    "speech_text": "you now some of our gene expression work. The goal here really is several-fold. One is to try and think about Stratification of patients when they come in without pesh areata for the 1st time so. The most common presentation for patients is just a single patch of hair loss and it's really it's unknown to the patient and the. practitioner whether that patient will go on to get better, get worse, or stay the same. And it's actually a huge frustration both for treating and also a huge source of anxiety for patients to know if they're likely to spontaneously remit or likely to have long-term patchy disease or Likely to progress, and so in in the long term, we'd like to have a genotype risk score that can help us. at baseline know how many susceptibility genes a patient will carry. We'd like to have some serum markers so that we could track these changes And non invasively not have to do a scalp biopsy each time, And then finally what I'll show you is the development of a classifier, a gene expression classifier. To mark again their response to treatment, so we'd like to know again. Could we use these prognostically and and also, could we stratify.",
+    "start": 1800.0,
+    "end": 1871.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1894000.jpg",
+    "ocr_text": "AA-specific Disease Signature",
+    "speech_text": "Given patients to a particular treatment, So if we take biopsies from alopecia areata scalp, and we just. We do sort of an unsupervised classification. These are control scalps, These are mild, patchy disease in the middle, and this is severe. universalis totalis. So immediately you can see that these groups nicely self-organize into three different",
+    "start": 1871.0,
+    "end": 1894.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1920450.jpg",
+    "ocr_text": "Gene Expression Modules\nIFN, CTL genes\nNormalized Enrichment Score vs.\nAA disease signature\nKRT genes\nIFN signature KER signature",
+    "speech_text": "states of disease. And if we analyze these, it's on one end the interferon signature and the cytotoxic T cell signature that's the most extremely upregulated, whereas on the other side it's the hair keratins and some of the other structural hair genes that are the most downregulated. And so statistically, we'd like to have both ends of this represented so that when our interferon scores go down, our hair keratin scores go up, and we can measure",
+    "start": 1894.0,
+    "end": 1920.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1958000.jpg",
+    "ocr_text": "ALADIN analysis of AA patient biopsies\nAU/AT\nAA patchy\nNormal controls\nCD8A GZMB ICOS PRF1 PRF1 CXCL10 CXCL11 CXCL11 CXCL9 MX1 STAT1 STAT1 DSG4 HOXC13 KRT31 KRT32 KRT33B KRT82 PKP1 PKP1\nCTL signature IFN signature KERsignature",
+    "speech_text": "recovery in these different ways. So here's a closer view. So in normal control subjects scalp, we see very low expression of our cytotoxic T cell signature or our interferon signature, and the red indicates very strong signature of normal hair growth. If we contrast that to alopecia totalis universalis, you see very high immune infiltrate scores and actually very little In the way of structural hair, proteins and patchy disease, as you would expect, is somewhere in the middle, at sort of a moderate level of interferon. scores and some hairs still left in lesional skin of these",
+    "start": 1920.45,
+    "end": 1958.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1971000.jpg",
+    "ocr_text": "Alopecia Areata Disease Activity Index\n(ALADIN)\nAlopecia Areata Disease Activity Index(ALADIN)\na multi-dimensional guantitative composite score that may be used as an AA\"molecular distance to health\"(Pankla et al 2009).\nALADIN is comprised of three signature scores: a CTL score, an IFN score and a KER score.\nALADIN is currently being assessed and refined in our biomarkers study for its utility in human AA.",
+    "speech_text": "patients. So we've tried to quantitate this as sort of what we call a distance to health calculation, where we can measure a composite score of all of the gene expression In an rna sequencing experiment collapsed down to",
+    "start": 1958.0,
+    "end": 1971.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-1996450.jpg",
+    "ocr_text": "Alopecia Areata Disease Activity Index (ALADIN)\nAU/AT\nAAP\nNormal\nIs AU/AT is more recalcitrant to therapy than AAP?\nJabbari et al, ebiomedicine 7.240-247,2016",
+    "speech_text": "a single score, and when we do that, it looks something like this, so. this is our most severe phenotype of totalis universalis. This is patchy disease in the middle. And these are controls. And so the goal is when we treat With a a gene drug that hits the targets, we expect to see these gene expression signatures move this way to. sort of resolve towards the normal quadrant, which we see down here in regress to normal.",
+    "start": 1971.0,
+    "end": 1996.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2042000.jpg",
+    "ocr_text": "Molecular signatures define alopecia areata subtypes and transcriptional biomarkers\nUnexpectedly, we see a more exaggerated profile in AU/AT compared with AAP, suggesting even long standing disease may be treatable using rational therapies\nEfficacy of topical immunotherapies in AU/AT may be lower in longstanding disease\nAUIAT biopsies often appear devoid of hair/hair components\nIs AU/AT is more recalcitrant to therapy than AAP?\nJabbari et al, ebiomedicine 7.240-247,2016",
+    "speech_text": "So one thing as an aside that was surprising to us is that we actually, as you saw earlier, see an exaggerated profile in universalis totalis in the severe disease compared to patchy. So now that we look back on it, maybe this makes sense, but for a long time in our field, it's been suggested that these patients actually have what they call burned out disease, meaning they're really not treatable because the thinking was that this immune infiltrate had long disappeared from the scalp. But in fact, our biopsy study actually indicates the opposite, that these patients have the highest levels of immune infiltrate signatures. And so this suggests to us that even though for conventional therapies like steroids, these patients were resistant but for the jack inhibitors or others.",
+    "start": 1996.45,
+    "end": 2042.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2043000.jpg",
+    "ocr_text": "Outline\nGenetics of Alopecia Areata\nImmunology of Alopecia Areata\nTranslational and Biomarker Platform\nClinical Trials",
+    "speech_text": "they may",
+    "start": 2042.0,
+    "end": 2043.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2066000.jpg",
+    "ocr_text": "FDA-Approved JAK Inhibitors\nJAK3 inhibitor\nXELJANZ tofacitinib citrate 5mg tablets\nRheumatoid arthritis\nJAK1/2 Inhibitor\nMyelofibrosis\nJAK inhibitors are potent immunosuppressive agents with associated risks: Are they safe and effective in alopecia areata?",
+    "speech_text": "actually be targetable. So in the last section, I'll just tell you about our two Open label studies that have been done again, led by Julian Mckay Wiggin, at Columbia. we've studied Jakify, which is Ruxolitinib. In a small open label study of ten to twelve patients, as well as tofacitin, it began in a very small series, ten to twelve patients in an open label study.",
+    "start": 2043.0,
+    "end": 2066.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2092000.jpg",
+    "ocr_text": "Ruxolitinib Study\nJulian Mackay-Wiggan, MD, MPH\nOpen-label, single arm pilot study 12 patientsinitially 10), duration of disease from 2-34years 10 Moderate to severe patch type AA,2 AT/AUs/p modification) Treatment with ruxolitinib 20mg BID for 3 to 6 months Efficacy measured by hair re-growth as determined by physical exam, SALT score and photography, and by patient and physician evaluation scores.\nPatients followed for 3 months after treatment to evaluate durability of response. Biopsies and peripheral blood obtained at baseline and at 12 weeks for immune monitoring and molecular studies.Additional biopsies and blood draws(1-3 anticipated)obtained as clinically indicated\nQOL measures at baseline and at various additional time points",
+    "speech_text": "So I'll show you some of our results. So again, these are single-arm pilot studies. In this study, RUXO, we started with 10 moderate to severe patients and Advanced this to two Universalist Totalis patients, They were given 20 mg a day, so so. that'll become important later. These are 20 BID for three to six months, and we followed them with photography and reporting and",
+    "start": 2066.0,
+    "end": 2092.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2114000.jpg",
+    "ocr_text": "Ruxolitinib - response\n9 of 12 patients have achieved the primary outcome of at least 50%regrowth measured by SALT score\nResponse is seen as early as 1 month (subtle patchy regrowth) Regrowth progresses steadily with continued patchy regrowth. 1 AT patient has had slower regrowth compared to the other responders",
+    "speech_text": "biomarkers during this study. So overall, nine out of our twelve patients achieved their primary outcome of at least 50 % of regrowth. Measured by salt score, which is the quantitation of alopeciac regrowth, the response was early seen in as early as one month, the regrowth was progressive. One patient was a little bit slower than the others,",
+    "start": 2092.0,
+    "end": 2114.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2142000.jpg",
+    "ocr_text": "Ruxo subject 2\nWeek16(full regrowth but also has extensions)\nBaseline",
+    "speech_text": "but eventually caught up. So I'll just show you some examples. Here's a patient with moderate, if you would, to severe, patchy alopecia. And this is after 20 weeks on study. This is another patient at baseline, and this is after about four months on study. She got some hair extensions here because she was very excited to have her Hair back, so those ruined our pictures a little bit, but but nonetheless",
+    "start": 2114.0,
+    "end": 2142.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2272000.jpg",
+    "ocr_text": "Ruxo non-responders\n3 non-responders\nNo clear reason to explain lack of response\nAll 3 patients of African American or hispanic\nbackground-likely a coincidence\n1 subject also did not respond to IL TAC 1 subject biopsy proven AA but had a diffuse pattern-?FPHL 1 subject with MPHL but clear patches c/w AA",
+    "speech_text": "she was very happy. This gentleman had long standing. Alopecia, this is a tattoo of his eyebrow, and he had lost all of his facial hair as well as the hair in the back of his head. And this is him, after six months on ruxolitinib, so he regained all of his facial and body hair as well as his scalp hair. So complete, essentially complete response. This gentleman, also a nice response. This is shown in series here because you can see his hair is coming back in gray. Here on top, and he did meet our endpoint, and if you're looking carefully, the dermatologist in the room. Are noticing his forehead is also repigmenting, So this gentleman had vitiligo as well as alopecia areata, It came to us. From John Harris's group and his vitiligo also responded well to treatment with ruxolitinib, we know. From John 's work that the same type of immune infiltrate is similar between alopeciata and vitiligo, And so here you can see it responding. To ruxolitinib, So here is another one. The hairline in Alopecia is very difficult to regrow, and so here you see nice filling in of that hairline. Here's a patient, again, essentially complete alopecia totalis universalis, and this is after six months. This is our slower responder, so at baseline and then eventually caught up to meet our end point of more than 50%. And here's another example just showing from the side, again, a nice response after six months. Here's another one. So this gentleman had, again, longstanding alopecia universalis for a very long time and had complete regrowth. So the three non-responders, we don't We don't have a clear unifying hypothesis yet. One of them also failed intralesional steroids. Another one had biopsy proven alopecia, but also maybe had some female pattern hair loss and. and another one also had male pattern hair loss, but also clearly AA. So we're not sure exactly what went on here. All three of them happened to be from African-American or Hispanic descent, but I think that's a coincidence because you just saw that some of our responders were",
+    "start": 2142.0,
+    "end": 2272.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2316000.jpg",
+    "ocr_text": "Ruxolitinib - SALT score\nSALT Score(%)vs.Time\nSALT Score (%)\nWeeks",
+    "speech_text": "also from these groups. So here's an example of a non-responder. You can see this is very bimodal. That's either all or nothing. So this is at baseline. This looks like regrowth, but he simply didn't shave in this picture, so it's actually no change from baseline. Here's another one, Baseline, and then 16 weeks, no change again. This pattern might be a little different. This is a more diffuse type. And then finally, this patient is the one who had failed steroids, and this is the ophiasis pattern that surrounds the hairline. That's a very challenging pattern to Get to regrow, so this is their assault score. So at baseline again, up to a hundred percent hair loss. and then these decline as we treat. So the hair loss score goes down. This dashed line is",
+    "start": 2272.0,
+    "end": 2316.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2329000.jpg",
+    "ocr_text": "Ruxolitinib % regrowth\nPercent Regrowth (%) vs.Time\nPercent Regrowth (%)\nWeeks",
+    "speech_text": "after we stop treatment. This is the other way. This is percent regrowth over time. So this is the hair returning. This is at the end of the treatment period, and then the dashed lines indicate the relapse after treatment is stopped, and here's some of the",
+    "start": 2316.0,
+    "end": 2329.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2344000.jpg",
+    "ocr_text": "Ruxolitinib - relapse\n1 responder noted significant shedding beginning at approximately week 3 post d/c\nruxo with significant hair loss at week 12 post d/c ruxo\nMost responders report mild increased\nshedding but not significant hair loss at 12\nweeks post d/c",
+    "speech_text": "non-responders down here. So relapses are common. So they occur between sort of two and three months, if you will, after the treatment is ended. It can be severe. It can go back to baseline. Some report mild shedding, but not",
+    "start": 2329.0,
+    "end": 2344.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2361000.jpg",
+    "ocr_text": "Ruxo-Adverse effects\nLess frequent than anticipated\nLowered white counts initially but remaining WNL therefore no dose adjustment required\nLowered hgb - 1 patientreguired dose modification\n1 patient with2 episodes furuncles/abscesses and reported possible biopsy site infection\nMild URIs,1 episode pneumonia\nNo observed lowered platelets",
+    "speech_text": "totally significant. Adverse events in our patients in this study were essentially mild to non-existent. None of the things that we were afraid of looking out for really showed up here. One patient dropped their hemoglobin just a little bit. We adjusted the dose, and",
+    "start": 2344.0,
+    "end": 2361.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2408000.jpg",
+    "ocr_text": "Oral Ruxolitinib Clinically Reverses Moderate/Severe Alopecia Areata\n\"On-Target\"Reversal of Inflammatory Biomarkers Early Data from Single Arm Open Label Study of 12 patients\nBaseline\nWeek 12\nRow Z-Scom\nIFN score\nCD8\nHLA-A/B/C\nHLA-DP/DQ/DR\nCD4\nCTLscore\nBaseline\nNormal\nWeek 12\nXing, et al.Alopecia areata is driven by cytotoxic T lymphocytes and is reversed by JAK inhibition\nnature medicineVOLUME20INUMBER9|SEPTEMBER2014",
+    "speech_text": "it recovered on its own. So for the biomarkers, again, we wanted to look and see if we could notice the response to treatment even before the hair was growing back. So here's our two example patients at baseline. So the red, again, very high interferon scores and essentially no hair signature. If we compare those to the three normals here on the right, again, low immune infiltrates and a lot of hair. This is them after 12 weeks. So you can see that immune infiltrate has largely resolved, and the hair has begun to recover. And if we look at our biomarkers, these are before treatment, and these are after treatment, and we've seen a nice correction of our markers. And the black, again, indicates that these hairs have gone back into their growth",
+    "start": 2361.0,
+    "end": 2408.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2461000.jpg",
+    "ocr_text": "Gene expression profiling before and after ruxolitinib treatment\nPRF1 CD8A GZMB ICOS PRF1 STAT1 MX1 CXCL9 CXCL10 STAT1 CXCL11 CXCL11 DSG4 PKP1 KRT31 KRT32 KRT33B HOXC13 PKP1 KRT82\nColor Key\n3 RowZ-Score",
+    "speech_text": "phase. So if we expand that to look at the whole cohort, these are our Rexo responders in the middle. So these are nine responders at time zero, and here they are after 12 weeks. So again, at baseline, a high immune signature, not much hair. And then after treatment, a much lower immune score, and the red indicates the return of their hair, much like these controls. But here's two non-responders. And so interestingly, I think, these two non-responders actually did not have a strong interferon gamma score or a cytotoxic T cell score at baseline. And so this gives us a hint. I think that something must be going on with these non responders. It is different. They either have a different form of alopecia areata or the form that they. have is driven by a different set of cytokines, but as we get more and more of these collected, I think this will be informative",
+    "start": 2408.0,
+    "end": 2461.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2476000.jpg",
+    "ocr_text": "ALADIN score before and after ruxolitinib treatment\nResponder, Baseline\nIFN\nNormal\nResponder, w12 Nonresponder, baseline\nCTL\nNonresponder, w12\nKRT",
+    "speech_text": "for us to how to approach these in the future. So here's, again, our responders at baseline, and our responders in purple after 12 weeks, and then the non-responders in blue before treatment, and in yellow after treatment, again, showing not much change",
+    "start": 2461.0,
+    "end": 2476.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2499000.jpg",
+    "ocr_text": "Tofacitinib-study design PI: Julian Mackay-Wiggan, MD, MPH\nOpen-label, single arm pilot study 12 patients -6 moderate to severe patchy AA and 6 AT/AU, duration of disease from3-34years Treated for 6 to 12 months with tofacitinib 5mg BID, up to 10mg BID Efficacy will be measured by hair regrowth as determined by physical exam, SALT score and photography, and by patient and physician evaluation scores. Patients will be followed for another 6 months after end of treatment to evaluate the durability of response.\nBiopsies and peripheral blood will be obtained at baseline.weeks 4 and 24, for immune monitoring and molecular studies.Additional biopsies and blood draws(1-3 anticipated) may be obtained as clinically indicated QOL measures at baseline and at various additional time points",
+    "speech_text": "in their molecular signature. So just very briefly, the TOFA study, similar, 12 patients, this time six moderate to severe and six severe, again, very long durations of disease, up to 34 years. In this study, we actually had to escalate our dose from 5 milligrams BID to 10, and you'll see how that played out during the study. Again, the same",
+    "start": 2476.0,
+    "end": 2499.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2547000.jpg",
+    "ocr_text": "TOFACITINIB\nSubject 4 Week 24\nBaseline\nBL SALT 84,6 months 5mg BID,0 months 10/5mg,0 months 10mg, End of treatment SALT0.",
+    "speech_text": "monitoring was done for all. So here's a patient at baseline, and here's week 40. So these are longer. The numbers on the bottom are how long they spent at the low dose, so five months at the low dose, two months at a medium dose, And three months at the highest dose before going down to a salt score from a hundred percent to 39 % so. So this is just an indicator of the stepwise escalation in their dose again, five months at low dose, two months at medium dose, two months at high dose. and as you push the dose in these patients, they begin to get a stronger response. Here's another one, eventually caught up, and this filled in. This was our only patient who responded completely only at the low dose, so she only got 5 milligrams BID for six months and had a full",
+    "start": 2499.0,
+    "end": 2547.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2655000.jpg",
+    "ocr_text": "TOFA Regrowth vs.time Essentially flat response in most patients on lower dose in the first 3-4 months. Improved after dose adjustment up to 15mg or 20mg\nRegrowth (%) vs. Time\nRegrowth(%)\nWeeks\nTofacitinib reguires higher dose and Tonger duration of treatment(15mg or 20mg;>6 months)",
+    "speech_text": "response. This is what the time course looks like, so you can see the hairs actually beginning to fill in during the course of treatment. And in these patients, again, growing the facial hair is often very difficult, and here you can see the eyelashes and eyebrows, as well as the frontal hairline. So the same is true for our biomarkers. They worked very well in sort of predicting how these patients would respond. Here we're just a RUXO for comparison in this lane, and after treatment, and here's a TOFA. But the difference here is that this TOFA study was done at four weeks, and so already you can begin to see in four weeks that these patients are beginning to have a molecular response very, very early. So that means if we tested early, we begin to maybe pick up a response signature and know that they would either, A, respond to the drug at all, B, would their dose have to be escalated, or C, if they're not responding, to switch them to something else. And here you just see that we can begin to track this in serum. So this is a four-week treatment looking at CXCL10 in the serum. And so we'd like, again, to be able to move this into a non-invasive marker where, again, we could track immediate and early response. And finally, we've gone on to do this now for the entire series, looking from time zero to time four-week to time 12-week, and this is normal scalp on the right. So you can see the blue Changing and changing over so that it after twelve weeks begins to look very much like normal scalp, so again, salt scores over time. Again, this was the dose escalation. So they look flat until we change the dose, and then they tend to respond. Here's the one that responded at low dose. Again, the other way around, this is regrowth. So that's the patient who responded at low dose. The rest of them required dose escalation around here before they eventually",
+    "start": 2547.0,
+    "end": 2655.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2689450.jpg",
+    "ocr_text": "TOFACITINIB Adverse effects\nNo serious adverse effects 1 patient discontinued treatment after 3 months on 5mg BID\ntofacitinib due to hypertension. Prior to discontinuation, she achieved 15%regrowth.\n1 subject had study medication held due to low platelets 129x10(9)/L(normal165-415).Platelet levels returned to normal after 2 weeks off tofacitinib and have subsequently remained normal even with gradual dose escalation to 10mg BID.\n1 subiect had elevated liver function tests at week 4.The patient attributed this to moderate alcohol intake. The patient was counseled to avoid alcohol intake.Her liver function tests have subsequently remained within normal limits.\n2 subjects with loose stools.1 with transient increased frequency.\nStudy drug held for 1 mth for GI eval.Full eval.WNL",
+    "speech_text": "caught up. So we're not totally sure what's driving that dose escalation, but we do have some hypothesis. So again, no serious adverse events really in this study. One patient had a little bit of hypertension. One patient had increased alcohol intake, and so her liver function was a little bit out of line, and some patients have a few GI problems. Almost all of our patients report weight gain, but some of them say that they're just very happy to be out in the world without their wigs or without their hats, and",
+    "start": 2655.0,
+    "end": 2689.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2721000.jpg",
+    "ocr_text": "TOFACITINIB: Outcome to date\n8 subjects have achieved at least 50% regrowth\n2 subjects with good regrowth, but not yet 50%\n1 subject early terminated at 3mths due to elevated blood pressure.Patient self reported ful regrowth after study drug discontinued\nOverall: interim~70-75% response rate",
+    "speech_text": "they're just feeling better and social. So just our statistics, and just to say that now many other centers are using these drugs in their patients. So Yale has done several hundred patients, Stanford's over 100, and what's interesting is the response rate is very consistent across the different groups that are using these drugs. So 65, 70, 75 response rate, percent response is not uncommon. And so again, the next step here would be to do a proper placebo-controlled study, and I hope that that will be",
+    "start": 2689.45,
+    "end": 2721.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2760000.jpg",
+    "ocr_text": "Tofacitinib in Psoriasis: perhaps higher doses are needed for skin and hair disorders?\nTofacitinib 5mg twice daily Tofacitinib 10 mg twice daily Etanercept 50 mg twice weekly Placebo\nProportion of patients achieving\nPASI75 response(%)\nBachelez et al..Lancet.2015",
+    "speech_text": "on the radar for one of the groups in the future. So, just as a comparator about the dosing for tofacitinib, Pfizer's own study on Psoriasis, published in 2015, also showed this difference that. when TOFA is given at low dose twice a day, only about 40 percent of psoriasis patients respond, And that, if you take it to 10 mg twice a day, it goes up to about 60 % or greater. So this is pretty similar, I think, to what we're seeing now, Peach areata. So, maybe suggesting that more of a dose is needed to get this drug into the skin, And and maybe? a higher local concentration in the scalp or skin",
+    "start": 2721.0,
+    "end": 2760.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2814000.jpg",
+    "ocr_text": "Next Generation JAK inhibitors\nSelectivity for specific JAKs\nfilgotinib abt-494 JAK1\nDecernotinib and CovalentJAK3is\ntofacitinib JAK1/2/3 baricitinib, ruxolitinib JAK1/2\nAclaris/rigel JAK1/3\nAdapted from Gadina, Arth & RheumV68, no.12016 pp31-4",
+    "speech_text": "is needed to target some of our disorders. So this is from One of my favorite reviews written by John O'shea and and his team here. And so this really is saying for the future. What's the thinking in the field and I think you know, Up to now we've talked about Pan Jak inhibitors, one that target jak, one, two and three together like tofa. So the idea, I think, for the future is to try and find more and more specific and selective isoforms and figure out, If possible, which of these Jak inhibitors is controlling which part of disease, and and again the thinking may come that a specific is better, but. Perhaps as John and I talked about this morning, maybe for the early stages of disease, having something that covers broadly across many of the cytokine pathways. Might be useful because I don't think that I'll 15, and interfering Gamma are the whole story for Lp. Shariata, certainly",
+    "start": 2760.0,
+    "end": 2814.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2834000.jpg",
+    "ocr_text": "Environmental Factors:\nAlopecia Areata and the Microbiome",
+    "speech_text": "not, and more work to be done there. So just in the last two minutes, I'll just share a little bit of unpublished data, just to say we've been thinking a lot about The genetics, but we also have our eye on the environmental factors, and so, given all of the excitement about alopecia areata, and also about the microbiome. we decided",
+    "start": 2814.0,
+    "end": 2834.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2854000.jpg",
+    "ocr_text": "MICROBIOME AND AUTOIMMUNITY\nBacteroides inoculation in mice induces T-reg cells and protects against experimental encephalitis (Ochoa-Reparaz et al, JImmunol2010\nClostridiuminoculation in mice prevents colitis Atarashi et al, Science 2011\nIncrease in gut Bacteroides dorei coincides with the onset of Type 1 Diabetes in a cohort of Finnish children (Davis Richardson et al, Front Microbiol2014",
+    "speech_text": "to combine some of that and try to look at a role for microbiome in this disease. So I don't think I need to talk about how important this has become. There is a huge effort here on the campus again. Some of the great studies in this field and skin have come from here from Julie Shegray, from Heidi Kong, from others. So a huge culture now exists for",
+    "start": 2834.0,
+    "end": 2854.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2879000.jpg",
+    "ocr_text": "MICROBIOMEANDAUTOIMMUNITY\nRHEUMATOID ARTHRITIS(RA)\n16S rRNA sequencing of gut microbiome in RA patients vs controls\nOver-abundance of Prevotella copri in untreated, new-onset RA(75%)compared to chronic RA(37.5%) and controls(21.4%)\nColonization of C57BL/6 mice with P.copri leads to a pro-inflammatory state and were more susceptible to induced colitis\nPrevotella abundance\n-Promotes pro-inflammatory environment\nOut-competes anti-inflammatoryspecies like Bacteriodes and Group XIV Clostridia\nScher et al, Elife 2015",
+    "speech_text": "studying microbiome in skin, particularly also again in some of the. some of the autoimmune diseases like RA, different microorganisms again are now showing up as being overrepresented in patients, At least in Ra, at the onset of disease, and so we've begun to start of again, model our work, our thinking after the work of Dan Littman and others who? have already, you know,",
+    "start": 2854.0,
+    "end": 2879.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2880000.jpg",
+    "ocr_text": "Can alterations in the\nmicrobiome affect the development of Alopecia Areata?",
+    "speech_text": "paved this path for",
+    "start": 2879.0,
+    "end": 2880.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2899000.jpg",
+    "ocr_text": "5 weeks\nHAIR LOSS (starting around the belly)\nC3H/H3J mouse - Skin from alopecic mice grafted at 9 weeks of age\nCan antibiotic cocktail prevent alopecia areata?",
+    "speech_text": "rheumatoid arthritis. So we've just done a couple of very simple experiments, but basically we just wanted to ask if we could manipulate the microbiome and see if we could get an effect on alopecia areata. So we used our skin graft model, and we gave the conventional antibiotic cocktail that's used to deplete the microbiome,",
+    "start": 2880.0,
+    "end": 2899.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2951000.jpg",
+    "ocr_text": "Still no AA in treated\n9weeks: Grafted\n4 weeks: Treatment or control\nmice...\n15 weeks after grafting\nAntibiotic cocktail(Ampicillin Vancomycin, Neomycin and Metronidazole, with 10% sucrose)started at4weeks of age\nCONTROL",
+    "speech_text": "primarily in the gut. And so When we do that, we treat our mice before grafting and keep going. This was about two months after grafting and. and the control mice are losing their hair right on time, but the antibiotic-treated mice retain their hair. And this is the cocktail. Again, it's the AVNM cocktail that's used in many of the microbiome studies. So we pushed it further, and so now this is about four months after grafting. The untreated mice have lost their hair, and the antibiotic-treated mice still haven't lost their hair. So we've done this now a number of times, and we're relatively confident that there's an effect here. A ton more work to be done. We've sequenced the skin microbiome from these treated mice, and we don't see any difference in their skin. And we've now begun to work through their",
+    "start": 2899.0,
+    "end": 2951.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2966000.jpg",
+    "ocr_text": "Microbiota is required for development of AA\nAntibiotic cocktail prevents development of AA\nControl\nTreatment\nControl\n% without hair loss\nControl(n=5 Treatment(n=7\nTreatment\nWeeks",
+    "speech_text": "gut microbiome to understand if, in fact, this effect may be coming from the gut. So again, here's our controls, here's our treatments, and after giving those antibiotics, the treated mice, again, retain their hair in 100 percent of",
+    "start": 2951.0,
+    "end": 2966.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-2984000.jpg",
+    "ocr_text": "How does antibiotic\ntreatment affect the\ncomposition of the microbiome?\nIs it working via skin or gut microbiome (or both)?",
+    "speech_text": "cases. So more work to be done. Is it skin? Is it gut? Is it both? How does this work? Is it priming at a distant sight? This is just the beginning of the story, but I just wanted to give you a little flavor of excitement for. some of the work that we're now doing to try and combine our genetics work with both new treatments",
+    "start": 2966.0,
+    "end": 2984.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-3045450.jpg",
+    "ocr_text": "JAK inhibitors in dermatology\npsoriasis atopic dermatitis vitiligo Sezary syndrome epidermolysis bullosa/Scc CANDLE syndrome\nalopecia areata\n...other inflammatory alopecias, CA, FFA.",
+    "speech_text": "and also new ways of looking at the environmental effects. So I'll close by just saying that it's been a really exciting couple of years for Jak inhibitors in skin and. Here's just some of the examples of cases that have come in the literature in the past few years, Especially this Candle Syndrome study that's got ongoing here at the N. i H. Nih with Baricitinib, I learned today from Ed about graft versus host disease, which I didn't know at all, And so this is our work on alopecia Areata, and I think in the hair field. On this work is now expanding into other forms of inflammatory alopecia, including the scarring alopecias that also have no. Suitable treatments at the moment are even less well understood than alopecia areata, but because of some of the early work from others in the field. Ralph Paus and his colleagues especially have begun to define this early immune infiltrate, suggesting that a jack inhibitor might work here, too, and we have some. Data, now that will be presented at the Sid meeting about this. I'm suggesting that again, these drugs may have",
+    "start": 2984.0,
+    "end": 3045.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-3088000.jpg",
+    "ocr_text": "C3H/HeJ mouse model SystemicTopical Treatment Treatment Treatment Treatment\nHuman AA SystemicTopical\nDrug Class\nPrevention\nJAK Inhibitors\nRuxolitinib Baricitinib Totacitinib Decernotinib R548/R507 Oclacitinib Filgotinib AZD1480 Momelotinib\nPre-clinical and Clinical Research Studies in AA\nJak1/2\nA\nJak1/3 Jak1 Jak2\nTherapeutic Approaches tested in the C3H/H3J mouse model and in human clinical trials\ny chain cytokine blockade\nAnti-II-2 mAb Anti-Il-4 mAb Anti-IL-7 mAb Anti-IL-15 mAb Anti-II-21 mAb\nBiological agents\nAnti-IL-12 mAb Anti-IL-12/23 mAb Anti-IL-23p19 mAb Anti-IL-13 mAb Anti-IL-17 mAb Anti-IFN-y mAb Anti-OXCR3 mAb Anti-NKG2D mAb Anti-TNF mAbs\nEtanercept/alefacept/efalizumab\nProtein Therapeutics\nCTLA-4-igG Low dose Il-2\nSmall molecules\nApremilast Simvastatin/Ezetimibe Onglyza Vorinostat Bimatoprost/unoprostone CXCR3i\nFrom the literature From our lab and the literature\nCell and Tissue\nPlatelet Rich Plasma Stem Cell Educator Therapy",
+    "speech_text": "a broader use in the field, so this is just. A summary of everything we've tested in the alopecia Areata mouse model. The ones in green, have I think made it all the way into human clinical proof of concept? We have again twelve patients with ruxo. There's one case report of ruxo topical from Brett King Barrasit. And again, there's one patient here in the Nih Candle study who had alopecia Areata with Raphaela Goldback Mansky, and recovered their alopecia areata. TOFA. This is now well over several hundred, and again, as some of these advance hopefully into the clinic, this human side of the table will fill out more. And so, again, more work to be done, but just a sort of overview of how things",
+    "start": 3045.45,
+    "end": 3088.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-3169000.jpg",
+    "ocr_text": "JAK inhibitors in Clinical\nDevelopment for Alopecia Areata\nIncyte (ruxolitinib, JAK1/2)- topical\nLeo Pharma (JTE-052, pan-JAK)-topical\nConcert Pharma - oral deuterated ruxo (CTP-543)\nAclaris -topical(A-301), oral (A-201)\nPfizer - oral PF06651600 (JAK3 covalent) and",
+    "speech_text": "are looking. So again, I think coming back full circle, historically, clinical trials in alopecia really have been sort of, if you will, one-off studies, repurposing studies from psoriasis drugs mainly, and these have been particularly unfruitful For alopecia, Areata and I think, now that we understand the genetics and a bit about the immunology, we can see why there's not much overlap in the pathways that are. In, involved in both diseases, and so, I'm very gratified that after such a short time, really of this work coming out that. There's been a tremendous uptake of interest on the part of the the pharmaceutical partners to bring these drugs. into studies specifically for alopecia areata, and that really is a change in the way that this disease has been studied in the past. This is the first time, historically, that any of these folks have taken an interest in alopecia for its own sake and not as a second indication for a psoriasis drug, so I'm extremely encouraged by all of this activity. There's interest in topical drugs. There's interest in oral drugs. There's panjax. There's single isoforms. I think this is going to be a really exciting space, and hopefully one that will lead to an approval for this indication",
+    "start": 3088.0,
+    "end": 3169.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-3235000.jpg",
+    "ocr_text": "Timeline of Alopecia Areata Translational Research at Columbia University\nCOLUMBIA UNIVERSITY MEDICAL CENTER\nTranslational Milestones\nIdentification of AA Biomarkers in Skin and Blood (R21AR081881)\nDeveloping an AA Disease Activity Index ALADIN) (U01AR087173\nFounding of AA Registry CUMC site (NCT00089589 NOAR082279\nOpen label ctinicaltrial for Abatacept NCT02018042\nRCTof intralesional triamcinolone (NCT0189880\nOpen label ctinicaltrial for Ruxolitinib NCTO1950780\nOpenlabel clinical trial for Tofacitinib NCT02299297\nPublication of Clinical Trials NCTO1950780)\nFirst genome- widelinkage study of AA (RO1AR52579) (Martinex-Miret al. Am J Hum Genet\nFirst demonstration of JAK inhibitors reversingAA in mice and humans (R01AR058018)\nFirst GWAS Study in AA (RO1AR05801e) (Petukhovaet al.Nature 2010\nFirstAA meta- GWAS, higher resolution of HLA locus (R01AR05801\nFirst functional genomics study in AA (startedJuly) (R01AR085983)\nFirst systems level gene expression study ofAA (R21AR081881) (Chenet al, Cell Systems 2015)\n(Betzetal, NatureComm\nKingetal, NatureMed\nBasic and Preclinical Milestones\nTranslational Stucies\nClinical Trials Key Partnerships",
+    "speech_text": "sometime in the future. So I'll just close by saying a word of thanks, Being here at the Nih, our work has been supported by Niams from the beginning and starting with the founding of the. Aa registry in 2001, even before that, for me personally, but this is really the timeline of of work that's gone on. Largely again supported at different times by Iams, here's our contract. Here's our initial R21, here's our Uo one. and finally, much more recently, our center grant, which just started, and then on the bottom, this is, again, the clinical timeline, but this is really lobbied back and forth between lab findings and moving them into the clinic, and I think, again, without my extremely Wonderful colleagues at Columbia. This would not have come to pass, and we've had tremendous foundation support from Nav. And also from the Locks of Love Foundation, that have really helped again jumpstart some of those early studies, and right now in in 2016, at least. this has been a milestone",
+    "start": 3169.0,
+    "end": 3235.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-3254450.jpg",
+    "ocr_text": "AACORT AlopeciaAreata Center of Research Translation at Columbia University",
+    "speech_text": "for us. So just this past fall, our team at Columbia has been granted a P50 grant from NIAMS, and this is the first of its kind in Alopecia Areata Center for Research Translation, And we couldn't be more honored and and more proud to be",
+    "start": 3235.0,
+    "end": 3254.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-3317450.jpg",
+    "ocr_text": "Reengineering Translational Science: The Time is Right Francis Collins, Sci.Trans.Med.3: 1-6.2011\nTable 1.The GWAS potential.GWAS*can reveal new therapeutic targets for complex diseases\nDisease\nGWAS hits associated with marketed drugst\nTotalGWAS hitst\nGWAS hits associated with drug effectss\nType2 diabetes\nHyperlipidemia\nMultiple sclerosis\nPsoriasis\nAlopecia Areata\nabataceptCTLA4-Ig), jakafiJak1i, xeljanzJak3i\n*Genome-wide association studies (GWAS) assume no knowledge of disease pathogenesis and provide a comprehensive approach to the discovery of common genetic risk factors Many known drug targets and associated pathways appear on the list of GWAS hits for common diseases, suggesting that other GWAS hits likely represent\"druggable targets worthy of further investigation. Genetic variants strongly linked to disease susceptibility.Genetic variants that are primary targets of drugs currently marketed for the listed indication. SGenetic variants associated with cellular, pharmacokinetic, pharmacodynamic, or clinical variations in response to one or more drugs currently marketed for thelisted indication.",
+    "speech_text": "bringing this work forward. so I put this slide in for Dr. Collins. I hope that he'll see it at some point. This is from a review that he wrote in 2011, Where he was talking about the potential for Genome Wide Association studies to uncover new drug targets, and you, I can see again. many of these diseases were well ahead of us with their number of GWAS hits and the number of drugs that really were associated and that have come through the pipeline. So I added alopecia to this, and even with our eight little genes at the beginning, three of those turned out to be Fruitful and identifying drug targets, I didn't talk about it Beta Sept today, but I just wanted him to know that that. I hope that alpesha can take its place. in this type of study and be a success story for using genetics to take an unbiased look at a disease And bring a new understanding together with immunology, colleagues, clinical scientists, and hopefully someday I get",
+    "start": 3254.45,
+    "end": 3317.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-EC45B-3340000.jpg",
+    "ocr_text": "Acknowledgements\nLynn Petukhova Claire Higgins Colin Jahoda Peter Gregersen David Altshuler Mark Daly Abraham Zlotogorski Regina Betz Marcus Nothen James Januzzi Jane Cerise Esther Drill Andrea Califano\nRaphael Clynes Julian Mackay-Wiggan Madeleine Duvic Maria Hordinsky Vera Price David Norris\nAnnemieke deJong Zhenpeng Dai Ali Jabbari Luzhou Xing\nLocksoiLWv\nAmerican Skin Association\nAAlnitiative\nDE\nNYSTEM\nNYSTAR New York State Foundation for Science, Technology and Innovation\nNATIONALALOPECIAAREATA FOUNDATIOI",
+    "speech_text": "new approvals. So I'll stop and just acknowledge again, my two incredible colleagues at Columbia, my colleagues at the Alopecia Areata registry. my team in the lab that has grown and changed over the years, especially these folks who've taken the lead on many of these projects, And especially again, Niams and some of our other supporters, for believing in us and",
+    "start": 3317.45,
+    "end": 3340.0
+  }
+]

@@ -1,0 +1,7763 @@
+[
+  {
+    "timestr": "0010680_0020580",
+    "final_spoken": "when we think of dance in its most basic form we think of it as a way of artistic expression through body movement however when we think of technology in dance",
+    "final_written": "When we think of dance in its most basic form, we think of it as a way of artistic expression through body movement. However, when we think of technology in dance,",
+    "words_spoken": [
+      {
+        "word": "when",
+        "start": 10.77,
+        "end": 10.879999999999999
+      },
+      {
+        "word": "we",
+        "start": 10.879999999999999,
+        "end": 10.969999999999999
+      },
+      {
+        "word": "think",
+        "start": 10.969999999999999,
+        "end": 11.24
+      },
+      {
+        "word": "of",
+        "start": 11.24,
+        "end": 11.4
+      },
+      {
+        "word": "dance",
+        "start": 11.4,
+        "end": 11.82
+      },
+      {
+        "word": "in",
+        "start": 11.82,
+        "end": 12.0
+      },
+      {
+        "word": "its",
+        "start": 12.0,
+        "end": 12.16
+      },
+      {
+        "word": "most",
+        "start": 12.16,
+        "end": 12.43
+      },
+      {
+        "word": "basic",
+        "start": 12.43,
+        "end": 12.83
+      },
+      {
+        "word": "form",
+        "start": 12.83,
+        "end": 13.15
+      },
+      {
+        "word": "we",
+        "start": 13.55,
+        "end": 13.629999999999999
+      },
+      {
+        "word": "think",
+        "start": 13.629999999999999,
+        "end": 13.94
+      },
+      {
+        "word": "of",
+        "start": 13.94,
+        "end": 14.059999999999999
+      },
+      {
+        "word": "it",
+        "start": 14.059999999999999,
+        "end": 14.23
+      },
+      {
+        "word": "as",
+        "start": 14.23,
+        "end": 14.4
+      },
+      {
+        "word": "a",
+        "start": 14.4,
+        "end": 14.44
+      },
+      {
+        "word": "way",
+        "start": 14.44,
+        "end": 14.76
+      },
+      {
+        "word": "of",
+        "start": 14.76,
+        "end": 14.95
+      },
+      {
+        "word": "artistic",
+        "start": 14.95,
+        "end": 15.58
+      },
+      {
+        "word": "expression",
+        "start": 15.58,
+        "end": 16.259999999999998
+      },
+      {
+        "word": "through",
+        "start": 16.259999999999998,
+        "end": 16.47
+      },
+      {
+        "word": "body",
+        "start": 16.47,
+        "end": 16.75
+      },
+      {
+        "word": "movement",
+        "start": 16.75,
+        "end": 17.39
+      },
+      {
+        "word": "however",
+        "start": 17.72,
+        "end": 18.2
+      },
+      {
+        "word": "when",
+        "start": 18.53,
+        "end": 18.64
+      },
+      {
+        "word": "we",
+        "start": 18.64,
+        "end": 18.740000000000002
+      },
+      {
+        "word": "think",
+        "start": 18.740000000000002,
+        "end": 19.03
+      },
+      {
+        "word": "of",
+        "start": 19.03,
+        "end": 19.17
+      },
+      {
+        "word": "technology",
+        "start": 19.17,
+        "end": 20.0
+      },
+      {
+        "word": "in",
+        "start": 20.060000000000002,
+        "end": 20.119999999999997
+      },
+      {
+        "word": "dance",
+        "start": 20.119999999999997,
+        "end": 20.490000000000002
+      }
+    ],
+    "words_written": [
+      {
+        "word": "When",
+        "start": 10.77,
+        "end": 10.879999999999999
+      },
+      {
+        "word": "we",
+        "start": 10.879999999999999,
+        "end": 10.969999999999999
+      },
+      {
+        "word": "think",
+        "start": 10.969999999999999,
+        "end": 11.24
+      },
+      {
+        "word": "of",
+        "start": 11.24,
+        "end": 11.4
+      },
+      {
+        "word": "dance",
+        "start": 11.4,
+        "end": 11.82
+      },
+      {
+        "word": "in",
+        "start": 11.82,
+        "end": 12.0
+      },
+      {
+        "word": "its",
+        "start": 12.0,
+        "end": 12.16
+      },
+      {
+        "word": "most",
+        "start": 12.16,
+        "end": 12.43
+      },
+      {
+        "word": "basic",
+        "start": 12.43,
+        "end": 12.83
+      },
+      {
+        "word": "form,",
+        "start": 12.83,
+        "end": 13.15
+      },
+      {
+        "word": "we",
+        "start": 13.55,
+        "end": 13.629999999999999
+      },
+      {
+        "word": "think",
+        "start": 13.629999999999999,
+        "end": 13.94
+      },
+      {
+        "word": "of",
+        "start": 13.94,
+        "end": 14.059999999999999
+      },
+      {
+        "word": "it",
+        "start": 14.059999999999999,
+        "end": 14.23
+      },
+      {
+        "word": "as",
+        "start": 14.23,
+        "end": 14.4
+      },
+      {
+        "word": "a",
+        "start": 14.4,
+        "end": 14.44
+      },
+      {
+        "word": "way",
+        "start": 14.44,
+        "end": 14.76
+      },
+      {
+        "word": "of",
+        "start": 14.76,
+        "end": 14.95
+      },
+      {
+        "word": "artistic",
+        "start": 14.95,
+        "end": 15.58
+      },
+      {
+        "word": "expression",
+        "start": 15.58,
+        "end": 16.259999999999998
+      },
+      {
+        "word": "through",
+        "start": 16.259999999999998,
+        "end": 16.47
+      },
+      {
+        "word": "body",
+        "start": 16.47,
+        "end": 16.75
+      },
+      {
+        "word": "movement.",
+        "start": 16.75,
+        "end": 17.38
+      },
+      {
+        "word": "However,",
+        "start": 17.72,
+        "end": 18.2
+      },
+      {
+        "word": "when",
+        "start": 18.53,
+        "end": 18.64
+      },
+      {
+        "word": "we",
+        "start": 18.64,
+        "end": 18.740000000000002
+      },
+      {
+        "word": "think",
+        "start": 18.740000000000002,
+        "end": 19.03
+      },
+      {
+        "word": "of",
+        "start": 19.03,
+        "end": 19.17
+      },
+      {
+        "word": "technology",
+        "start": 19.17,
+        "end": 20.0
+      },
+      {
+        "word": "in",
+        "start": 20.060000000000002,
+        "end": 20.119999999999997
+      },
+      {
+        "word": "dance,",
+        "start": 20.119999999999997,
+        "end": 20.490000000000002
+      }
+    ]
+  },
+  {
+    "timestr": "0020580_0025780",
+    "final_spoken": "the image is less clear than for instance the use of technology in painting or in music",
+    "final_written": "the image is less clear than, for instance, the use of technology in painting or in music.",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 20.75,
+        "end": 20.819999999999997
+      },
+      {
+        "word": "image",
+        "start": 20.819999999999997,
+        "end": 21.18
+      },
+      {
+        "word": "is",
+        "start": 21.18,
+        "end": 21.33
+      },
+      {
+        "word": "less",
+        "start": 21.33,
+        "end": 21.56
+      },
+      {
+        "word": "clear",
+        "start": 21.56,
+        "end": 21.9
+      },
+      {
+        "word": "than",
+        "start": 21.9,
+        "end": 22.209999999999997
+      },
+      {
+        "word": "for",
+        "start": 22.209999999999997,
+        "end": 22.38
+      },
+      {
+        "word": "instance",
+        "start": 22.38,
+        "end": 22.9
+      },
+      {
+        "word": "the",
+        "start": 23.029999999999998,
+        "end": 23.099999999999998
+      },
+      {
+        "word": "use",
+        "start": 23.099999999999998,
+        "end": 23.36
+      },
+      {
+        "word": "of",
+        "start": 23.36,
+        "end": 23.49
+      },
+      {
+        "word": "technology",
+        "start": 23.49,
+        "end": 24.159999999999997
+      },
+      {
+        "word": "in",
+        "start": 24.159999999999997,
+        "end": 24.27
+      },
+      {
+        "word": "painting",
+        "start": 24.27,
+        "end": 24.799999999999997
+      },
+      {
+        "word": "or",
+        "start": 24.799999999999997,
+        "end": 24.93
+      },
+      {
+        "word": "in",
+        "start": 24.93,
+        "end": 25.07
+      },
+      {
+        "word": "music",
+        "start": 25.07,
+        "end": 25.529999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "the",
+        "start": 20.75,
+        "end": 20.819999999999997
+      },
+      {
+        "word": "image",
+        "start": 20.819999999999997,
+        "end": 21.18
+      },
+      {
+        "word": "is",
+        "start": 21.18,
+        "end": 21.33
+      },
+      {
+        "word": "less",
+        "start": 21.33,
+        "end": 21.56
+      },
+      {
+        "word": "clear",
+        "start": 21.56,
+        "end": 21.9
+      },
+      {
+        "word": "than,",
+        "start": 21.9,
+        "end": 22.209999999999997
+      },
+      {
+        "word": "for",
+        "start": 22.209999999999997,
+        "end": 22.38
+      },
+      {
+        "word": "instance,",
+        "start": 22.38,
+        "end": 22.9
+      },
+      {
+        "word": "the",
+        "start": 23.029999999999998,
+        "end": 23.099999999999998
+      },
+      {
+        "word": "use",
+        "start": 23.099999999999998,
+        "end": 23.36
+      },
+      {
+        "word": "of",
+        "start": 23.36,
+        "end": 23.49
+      },
+      {
+        "word": "technology",
+        "start": 23.49,
+        "end": 24.159999999999997
+      },
+      {
+        "word": "in",
+        "start": 24.159999999999997,
+        "end": 24.27
+      },
+      {
+        "word": "painting",
+        "start": 24.27,
+        "end": 24.799999999999997
+      },
+      {
+        "word": "or",
+        "start": 24.799999999999997,
+        "end": 24.93
+      },
+      {
+        "word": "in",
+        "start": 24.93,
+        "end": 25.07
+      },
+      {
+        "word": "music.",
+        "start": 25.07,
+        "end": 25.529999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0025780_0031300",
+    "final_spoken": "the reason is that the tool of expression in dance which is the abstract movement of the human body",
+    "final_written": "The reason is that the tool of expression in dance, which is the abstract movement of the human body,",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 26.080000000000002,
+        "end": 26.17
+      },
+      {
+        "word": "reason",
+        "start": 26.17,
+        "end": 26.650000000000002
+      },
+      {
+        "word": "is",
+        "start": 26.650000000000002,
+        "end": 26.8
+      },
+      {
+        "word": "that",
+        "start": 26.8,
+        "end": 26.96
+      },
+      {
+        "word": "the",
+        "start": 26.96,
+        "end": 27.02
+      },
+      {
+        "word": "tool",
+        "start": 27.02,
+        "end": 27.41
+      },
+      {
+        "word": "of",
+        "start": 27.41,
+        "end": 27.5
+      },
+      {
+        "word": "expression",
+        "start": 27.5,
+        "end": 28.020000000000003
+      },
+      {
+        "word": "in",
+        "start": 28.020000000000003,
+        "end": 28.17
+      },
+      {
+        "word": "dance",
+        "start": 28.21,
+        "end": 28.6
+      },
+      {
+        "word": "which",
+        "start": 28.810000000000002,
+        "end": 28.990000000000002
+      },
+      {
+        "word": "is",
+        "start": 28.990000000000002,
+        "end": 29.130000000000003
+      },
+      {
+        "word": "the",
+        "start": 29.130000000000003,
+        "end": 29.21
+      },
+      {
+        "word": "abstract",
+        "start": 29.21,
+        "end": 29.75
+      },
+      {
+        "word": "movement",
+        "start": 29.75,
+        "end": 30.220000000000002
+      },
+      {
+        "word": "of",
+        "start": 30.220000000000002,
+        "end": 30.37
+      },
+      {
+        "word": "the",
+        "start": 30.37,
+        "end": 30.42
+      },
+      {
+        "word": "human",
+        "start": 30.42,
+        "end": 30.71
+      },
+      {
+        "word": "body",
+        "start": 30.71,
+        "end": 31.12
+      }
+    ],
+    "words_written": [
+      {
+        "word": "The",
+        "start": 26.080000000000002,
+        "end": 26.17
+      },
+      {
+        "word": "reason",
+        "start": 26.17,
+        "end": 26.650000000000002
+      },
+      {
+        "word": "is",
+        "start": 26.650000000000002,
+        "end": 26.8
+      },
+      {
+        "word": "that",
+        "start": 26.8,
+        "end": 26.96
+      },
+      {
+        "word": "the",
+        "start": 26.96,
+        "end": 27.03
+      },
+      {
+        "word": "tool",
+        "start": 27.03,
+        "end": 27.41
+      },
+      {
+        "word": "of",
+        "start": 27.41,
+        "end": 27.5
+      },
+      {
+        "word": "expression",
+        "start": 27.5,
+        "end": 28.020000000000003
+      },
+      {
+        "word": "in",
+        "start": 28.020000000000003,
+        "end": 28.17
+      },
+      {
+        "word": "dance,",
+        "start": 28.21,
+        "end": 28.6
+      },
+      {
+        "word": "which",
+        "start": 28.810000000000002,
+        "end": 28.990000000000002
+      },
+      {
+        "word": "is",
+        "start": 28.990000000000002,
+        "end": 29.130000000000003
+      },
+      {
+        "word": "the",
+        "start": 29.130000000000003,
+        "end": 29.21
+      },
+      {
+        "word": "abstract",
+        "start": 29.21,
+        "end": 29.75
+      },
+      {
+        "word": "movement",
+        "start": 29.75,
+        "end": 30.220000000000002
+      },
+      {
+        "word": "of",
+        "start": 30.220000000000002,
+        "end": 30.37
+      },
+      {
+        "word": "the",
+        "start": 30.37,
+        "end": 30.42
+      },
+      {
+        "word": "human",
+        "start": 30.42,
+        "end": 30.67
+      },
+      {
+        "word": "body,",
+        "start": 30.67,
+        "end": 31.12
+      }
+    ]
+  },
+  {
+    "timestr": "0031300_0038100",
+    "final_spoken": "cannot be simply captured in digital formats without losing its essence intrigued by this unique challenge",
+    "final_written": "cannot be simply captured in digital formats without losing its essence. Intrigued by this unique challenge,",
+    "words_spoken": [
+      {
+        "word": "cannot",
+        "start": 31.46,
+        "end": 31.88
+      },
+      {
+        "word": "be",
+        "start": 31.88,
+        "end": 31.98
+      },
+      {
+        "word": "simply",
+        "start": 31.98,
+        "end": 32.38
+      },
+      {
+        "word": "captured",
+        "start": 32.38,
+        "end": 32.95
+      },
+      {
+        "word": "in",
+        "start": 32.980000000000004,
+        "end": 33.13
+      },
+      {
+        "word": "digital",
+        "start": 33.13,
+        "end": 33.51
+      },
+      {
+        "word": "formats",
+        "start": 33.51,
+        "end": 34.19
+      },
+      {
+        "word": "without",
+        "start": 34.19,
+        "end": 34.59
+      },
+      {
+        "word": "losing",
+        "start": 34.59,
+        "end": 34.9
+      },
+      {
+        "word": "its",
+        "start": 34.9,
+        "end": 35.04
+      },
+      {
+        "word": "essence",
+        "start": 35.11,
+        "end": 35.61
+      },
+      {
+        "word": "intrigued",
+        "start": 36.1,
+        "end": 36.7
+      },
+      {
+        "word": "by",
+        "start": 36.7,
+        "end": 36.870000000000005
+      },
+      {
+        "word": "this",
+        "start": 36.870000000000005,
+        "end": 37.06
+      },
+      {
+        "word": "unique",
+        "start": 37.06,
+        "end": 37.43
+      },
+      {
+        "word": "challenge",
+        "start": 37.43,
+        "end": 38.0
+      }
+    ],
+    "words_written": [
+      {
+        "word": "cannot",
+        "start": 31.46,
+        "end": 31.88
+      },
+      {
+        "word": "be",
+        "start": 31.88,
+        "end": 31.98
+      },
+      {
+        "word": "simply",
+        "start": 31.98,
+        "end": 32.38
+      },
+      {
+        "word": "captured",
+        "start": 32.38,
+        "end": 32.95
+      },
+      {
+        "word": "in",
+        "start": 32.980000000000004,
+        "end": 33.13
+      },
+      {
+        "word": "digital",
+        "start": 33.13,
+        "end": 33.51
+      },
+      {
+        "word": "formats",
+        "start": 33.51,
+        "end": 34.19
+      },
+      {
+        "word": "without",
+        "start": 34.19,
+        "end": 34.58
+      },
+      {
+        "word": "losing",
+        "start": 34.58,
+        "end": 34.9
+      },
+      {
+        "word": "its",
+        "start": 34.9,
+        "end": 35.04
+      },
+      {
+        "word": "essence.",
+        "start": 35.11,
+        "end": 35.620000000000005
+      },
+      {
+        "word": "Intrigued",
+        "start": 36.1,
+        "end": 36.7
+      },
+      {
+        "word": "by",
+        "start": 36.7,
+        "end": 36.86
+      },
+      {
+        "word": "this",
+        "start": 36.86,
+        "end": 37.06
+      },
+      {
+        "word": "unique",
+        "start": 37.06,
+        "end": 37.43
+      },
+      {
+        "word": "challenge,",
+        "start": 37.43,
+        "end": 38.0
+      }
+    ]
+  },
+  {
+    "timestr": "0038100_0046320",
+    "final_spoken": "we conducted a systematic review on the literature of dance and choreography in hci for the past two decades my name is qiu shizhou",
+    "final_written": "we conducted a systematic review on the literature of dance and choreography in HCI for the past two decades. My name is Qiu Shizhou,",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 38.29,
+        "end": 38.42
+      },
+      {
+        "word": "conducted",
+        "start": 38.42,
+        "end": 38.980000000000004
+      },
+      {
+        "word": "a",
+        "start": 38.980000000000004,
+        "end": 39.01
+      },
+      {
+        "word": "systematic",
+        "start": 39.01,
+        "end": 39.82
+      },
+      {
+        "word": "review",
+        "start": 39.82,
+        "end": 40.27
+      },
+      {
+        "word": "on",
+        "start": 40.300000000000004,
+        "end": 40.46
+      },
+      {
+        "word": "the",
+        "start": 40.46,
+        "end": 40.52
+      },
+      {
+        "word": "literature",
+        "start": 40.52,
+        "end": 41.0
+      },
+      {
+        "word": "of",
+        "start": 41.0,
+        "end": 41.2
+      },
+      {
+        "word": "dance",
+        "start": 41.2,
+        "end": 41.56
+      },
+      {
+        "word": "and",
+        "start": 41.56,
+        "end": 41.63
+      },
+      {
+        "word": "choreography",
+        "start": 41.63,
+        "end": 42.46
+      },
+      {
+        "word": "in",
+        "start": 42.49,
+        "end": 42.620000000000005
+      },
+      {
+        "word": "hci",
+        "start": 42.620000000000005,
+        "end": 43.19
+      },
+      {
+        "word": "for",
+        "start": 43.19,
+        "end": 43.32
+      },
+      {
+        "word": "the",
+        "start": 43.32,
+        "end": 43.38
+      },
+      {
+        "word": "past",
+        "start": 43.38,
+        "end": 43.74
+      },
+      {
+        "word": "two",
+        "start": 43.74,
+        "end": 43.86
+      },
+      {
+        "word": "decades",
+        "start": 43.86,
+        "end": 44.43
+      },
+      {
+        "word": "my",
+        "start": 44.88,
+        "end": 44.980000000000004
+      },
+      {
+        "word": "name",
+        "start": 44.980000000000004,
+        "end": 45.24
+      },
+      {
+        "word": "is",
+        "start": 45.24,
+        "end": 45.39
+      },
+      {
+        "word": "qiu",
+        "start": 45.39,
+        "end": 45.81
+      },
+      {
+        "word": "shizhou",
+        "start": 45.81,
+        "end": 46.2
+      }
+    ],
+    "words_written": [
+      {
+        "word": "we",
+        "start": 38.29,
+        "end": 38.42
+      },
+      {
+        "word": "conducted",
+        "start": 38.42,
+        "end": 38.980000000000004
+      },
+      {
+        "word": "a",
+        "start": 38.980000000000004,
+        "end": 39.01
+      },
+      {
+        "word": "systematic",
+        "start": 39.01,
+        "end": 39.82
+      },
+      {
+        "word": "review",
+        "start": 39.82,
+        "end": 40.27
+      },
+      {
+        "word": "on",
+        "start": 40.300000000000004,
+        "end": 40.46
+      },
+      {
+        "word": "the",
+        "start": 40.46,
+        "end": 40.52
+      },
+      {
+        "word": "literature",
+        "start": 40.52,
+        "end": 41.0
+      },
+      {
+        "word": "of",
+        "start": 41.0,
+        "end": 41.2
+      },
+      {
+        "word": "dance",
+        "start": 41.2,
+        "end": 41.56
+      },
+      {
+        "word": "and",
+        "start": 41.56,
+        "end": 41.63
+      },
+      {
+        "word": "choreography",
+        "start": 41.63,
+        "end": 42.46
+      },
+      {
+        "word": "in",
+        "start": 42.49,
+        "end": 42.620000000000005
+      },
+      {
+        "word": "HCI",
+        "start": 42.620000000000005,
+        "end": 43.19
+      },
+      {
+        "word": "for",
+        "start": 43.19,
+        "end": 43.32
+      },
+      {
+        "word": "the",
+        "start": 43.32,
+        "end": 43.38
+      },
+      {
+        "word": "past",
+        "start": 43.38,
+        "end": 43.74
+      },
+      {
+        "word": "two",
+        "start": 43.74,
+        "end": 43.86
+      },
+      {
+        "word": "decades.",
+        "start": 43.86,
+        "end": 44.43
+      },
+      {
+        "word": "My",
+        "start": 44.88,
+        "end": 44.980000000000004
+      },
+      {
+        "word": "name",
+        "start": 44.980000000000004,
+        "end": 45.24
+      },
+      {
+        "word": "is",
+        "start": 45.24,
+        "end": 45.39
+      },
+      {
+        "word": "Qiu",
+        "start": 45.39,
+        "end": 45.81
+      },
+      {
+        "word": "Shizhou,",
+        "start": 45.81,
+        "end": 46.2
+      }
+    ]
+  },
+  {
+    "timestr": "0046320_0054660",
+    "final_spoken": "and i will present an overview of our findings on behalf of my co authors in this review we discuss the literature from two perspectives first",
+    "final_written": "and I will present an overview of our findings on behalf of my co-authors. In this review, we discuss the literature from two perspectives. First,",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 46.46,
+        "end": 46.58
+      },
+      {
+        "word": "i",
+        "start": 46.58,
+        "end": 46.69
+      },
+      {
+        "word": "will",
+        "start": 46.69,
+        "end": 46.84
+      },
+      {
+        "word": "present",
+        "start": 46.84,
+        "end": 47.34
+      },
+      {
+        "word": "an",
+        "start": 47.34,
+        "end": 47.48
+      },
+      {
+        "word": "overview",
+        "start": 47.48,
+        "end": 47.99
+      },
+      {
+        "word": "of",
+        "start": 47.99,
+        "end": 48.11
+      },
+      {
+        "word": "our",
+        "start": 48.11,
+        "end": 48.22
+      },
+      {
+        "word": "findings",
+        "start": 48.22,
+        "end": 48.84
+      },
+      {
+        "word": "on",
+        "start": 48.84,
+        "end": 49.0
+      },
+      {
+        "word": "behalf",
+        "start": 49.0,
+        "end": 49.3
+      },
+      {
+        "word": "of",
+        "start": 49.3,
+        "end": 49.45
+      },
+      {
+        "word": "my",
+        "start": 49.45,
+        "end": 49.58
+      },
+      {
+        "word": "co",
+        "start": 49.58,
+        "end": 49.77
+      },
+      {
+        "word": "authors",
+        "start": 49.77,
+        "end": 50.4
+      },
+      {
+        "word": "in",
+        "start": 50.97,
+        "end": 51.11
+      },
+      {
+        "word": "this",
+        "start": 51.11,
+        "end": 51.27
+      },
+      {
+        "word": "review",
+        "start": 51.27,
+        "end": 51.76
+      },
+      {
+        "word": "we",
+        "start": 52.06,
+        "end": 52.15
+      },
+      {
+        "word": "discuss",
+        "start": 52.15,
+        "end": 52.63
+      },
+      {
+        "word": "the",
+        "start": 52.63,
+        "end": 52.69
+      },
+      {
+        "word": "literature",
+        "start": 52.69,
+        "end": 53.2
+      },
+      {
+        "word": "from",
+        "start": 53.2,
+        "end": 53.46
+      },
+      {
+        "word": "two",
+        "start": 53.46,
+        "end": 53.68
+      },
+      {
+        "word": "perspectives",
+        "start": 53.68,
+        "end": 54.46
+      },
+      {
+        "word": "first",
+        "start": 54.46,
+        "end": 54.66
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 46.46,
+        "end": 46.58
+      },
+      {
+        "word": "I",
+        "start": 46.58,
+        "end": 46.69
+      },
+      {
+        "word": "will",
+        "start": 46.69,
+        "end": 46.84
+      },
+      {
+        "word": "present",
+        "start": 46.84,
+        "end": 47.34
+      },
+      {
+        "word": "an",
+        "start": 47.34,
+        "end": 47.48
+      },
+      {
+        "word": "overview",
+        "start": 47.48,
+        "end": 47.99
+      },
+      {
+        "word": "of",
+        "start": 47.99,
+        "end": 48.11
+      },
+      {
+        "word": "our",
+        "start": 48.11,
+        "end": 48.22
+      },
+      {
+        "word": "findings",
+        "start": 48.22,
+        "end": 48.84
+      },
+      {
+        "word": "on",
+        "start": 48.84,
+        "end": 49.0
+      },
+      {
+        "word": "behalf",
+        "start": 49.0,
+        "end": 49.3
+      },
+      {
+        "word": "of",
+        "start": 49.3,
+        "end": 49.45
+      },
+      {
+        "word": "my",
+        "start": 49.45,
+        "end": 49.58
+      },
+      {
+        "word": "co-authors.",
+        "start": 49.58,
+        "end": 50.4
+      },
+      {
+        "word": "In",
+        "start": 50.97,
+        "end": 51.11
+      },
+      {
+        "word": "this",
+        "start": 51.11,
+        "end": 51.27
+      },
+      {
+        "word": "review,",
+        "start": 51.27,
+        "end": 51.76
+      },
+      {
+        "word": "we",
+        "start": 52.06,
+        "end": 52.15
+      },
+      {
+        "word": "discuss",
+        "start": 52.15,
+        "end": 52.63
+      },
+      {
+        "word": "the",
+        "start": 52.63,
+        "end": 52.69
+      },
+      {
+        "word": "literature",
+        "start": 52.69,
+        "end": 53.2
+      },
+      {
+        "word": "from",
+        "start": 53.2,
+        "end": 53.46
+      },
+      {
+        "word": "two",
+        "start": 53.46,
+        "end": 53.68
+      },
+      {
+        "word": "perspectives.",
+        "start": 53.68,
+        "end": 54.46
+      },
+      {
+        "word": "First,",
+        "start": 54.46,
+        "end": 54.66
+      }
+    ]
+  },
+  {
+    "timestr": "0054660_0059810",
+    "final_spoken": "first we focus on the body as the instrument of artistic expression in dance",
+    "final_written": "1st, we focus on the body as the instrument of artistic expression in dance.",
+    "words_spoken": [
+      {
+        "word": "first",
+        "start": 54.73,
+        "end": 55.209999999999994
+      },
+      {
+        "word": "we",
+        "start": 55.55,
+        "end": 55.63999999999999
+      },
+      {
+        "word": "focus",
+        "start": 55.63999999999999,
+        "end": 56.05
+      },
+      {
+        "word": "on",
+        "start": 56.05,
+        "end": 56.15
+      },
+      {
+        "word": "the",
+        "start": 56.15,
+        "end": 56.199999999999996
+      },
+      {
+        "word": "body",
+        "start": 56.199999999999996,
+        "end": 56.66
+      },
+      {
+        "word": "as",
+        "start": 56.66,
+        "end": 56.86
+      },
+      {
+        "word": "the",
+        "start": 56.86,
+        "end": 56.91
+      },
+      {
+        "word": "instrument",
+        "start": 56.91,
+        "end": 57.559999999999995
+      },
+      {
+        "word": "of",
+        "start": 57.559999999999995,
+        "end": 57.68
+      },
+      {
+        "word": "artistic",
+        "start": 57.68,
+        "end": 58.269999999999996
+      },
+      {
+        "word": "expression",
+        "start": 58.269999999999996,
+        "end": 58.989999999999995
+      },
+      {
+        "word": "in",
+        "start": 58.989999999999995,
+        "end": 59.16
+      },
+      {
+        "word": "dance",
+        "start": 59.16,
+        "end": 59.709999999999994
+      }
+    ],
+    "words_written": [
+      {
+        "word": "1st,",
+        "start": 54.79,
+        "end": 55.169999999999995
+      },
+      {
+        "word": "we",
+        "start": 55.55,
+        "end": 55.65
+      },
+      {
+        "word": "focus",
+        "start": 55.65,
+        "end": 56.05
+      },
+      {
+        "word": "on",
+        "start": 56.05,
+        "end": 56.15
+      },
+      {
+        "word": "the",
+        "start": 56.15,
+        "end": 56.199999999999996
+      },
+      {
+        "word": "body",
+        "start": 56.199999999999996,
+        "end": 56.66
+      },
+      {
+        "word": "as",
+        "start": 56.66,
+        "end": 56.86
+      },
+      {
+        "word": "the",
+        "start": 56.86,
+        "end": 56.91
+      },
+      {
+        "word": "instrument",
+        "start": 56.91,
+        "end": 57.559999999999995
+      },
+      {
+        "word": "of",
+        "start": 57.559999999999995,
+        "end": 57.68
+      },
+      {
+        "word": "artistic",
+        "start": 57.68,
+        "end": 58.269999999999996
+      },
+      {
+        "word": "expression",
+        "start": 58.269999999999996,
+        "end": 58.989999999999995
+      },
+      {
+        "word": "in",
+        "start": 58.989999999999995,
+        "end": 59.16
+      },
+      {
+        "word": "dance.",
+        "start": 59.16,
+        "end": 59.709999999999994
+      }
+    ]
+  },
+  {
+    "timestr": "0059810_0067690",
+    "final_spoken": "and look at how technology contributed to the recognition and analysis of the expressive qualities in dance movement then",
+    "final_written": "and look at how technology contributed to the recognition and analysis of the expressive qualities in dance movement. Then,",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 59.95,
+        "end": 60.09
+      },
+      {
+        "word": "look",
+        "start": 60.09,
+        "end": 60.31
+      },
+      {
+        "word": "at",
+        "start": 60.31,
+        "end": 60.400000000000006
+      },
+      {
+        "word": "how",
+        "start": 60.400000000000006,
+        "end": 60.7
+      },
+      {
+        "word": "technology",
+        "start": 60.7,
+        "end": 61.440000000000005
+      },
+      {
+        "word": "contributed",
+        "start": 61.440000000000005,
+        "end": 62.1
+      },
+      {
+        "word": "to",
+        "start": 62.1,
+        "end": 62.43
+      },
+      {
+        "word": "the",
+        "start": 62.43,
+        "end": 62.56
+      },
+      {
+        "word": "recognition",
+        "start": 62.56,
+        "end": 63.39
+      },
+      {
+        "word": "and",
+        "start": 63.42,
+        "end": 63.68
+      },
+      {
+        "word": "analysis",
+        "start": 63.68,
+        "end": 64.35000000000001
+      },
+      {
+        "word": "of",
+        "start": 64.35000000000001,
+        "end": 64.53
+      },
+      {
+        "word": "the",
+        "start": 64.53,
+        "end": 64.60000000000001
+      },
+      {
+        "word": "expressive",
+        "start": 64.60000000000001,
+        "end": 65.23
+      },
+      {
+        "word": "qualities",
+        "start": 65.23,
+        "end": 65.8
+      },
+      {
+        "word": "in",
+        "start": 65.8,
+        "end": 65.86
+      },
+      {
+        "word": "dance",
+        "start": 65.96000000000001,
+        "end": 66.26
+      },
+      {
+        "word": "movement",
+        "start": 66.26,
+        "end": 66.78
+      },
+      {
+        "word": "then",
+        "start": 67.25,
+        "end": 67.60000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 59.95,
+        "end": 60.09
+      },
+      {
+        "word": "look",
+        "start": 60.09,
+        "end": 60.31
+      },
+      {
+        "word": "at",
+        "start": 60.31,
+        "end": 60.400000000000006
+      },
+      {
+        "word": "how",
+        "start": 60.400000000000006,
+        "end": 60.7
+      },
+      {
+        "word": "technology",
+        "start": 60.7,
+        "end": 61.440000000000005
+      },
+      {
+        "word": "contributed",
+        "start": 61.440000000000005,
+        "end": 62.1
+      },
+      {
+        "word": "to",
+        "start": 62.1,
+        "end": 62.43
+      },
+      {
+        "word": "the",
+        "start": 62.43,
+        "end": 62.56
+      },
+      {
+        "word": "recognition",
+        "start": 62.56,
+        "end": 63.38
+      },
+      {
+        "word": "and",
+        "start": 63.410000000000004,
+        "end": 63.68
+      },
+      {
+        "word": "analysis",
+        "start": 63.68,
+        "end": 64.35000000000001
+      },
+      {
+        "word": "of",
+        "start": 64.35000000000001,
+        "end": 64.53
+      },
+      {
+        "word": "the",
+        "start": 64.53,
+        "end": 64.60000000000001
+      },
+      {
+        "word": "expressive",
+        "start": 64.60000000000001,
+        "end": 65.23
+      },
+      {
+        "word": "qualities",
+        "start": 65.23,
+        "end": 65.8
+      },
+      {
+        "word": "in",
+        "start": 65.8,
+        "end": 65.86
+      },
+      {
+        "word": "dance",
+        "start": 65.96000000000001,
+        "end": 66.26
+      },
+      {
+        "word": "movement.",
+        "start": 66.26,
+        "end": 66.78
+      },
+      {
+        "word": "Then,",
+        "start": 67.25,
+        "end": 67.60000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0067690_0077030",
+    "final_spoken": "we look at how technology has influenced the practice of dance making in existing case studies so what is the body in the context of dance",
+    "final_written": "we look at how technology has influenced the practice of dance-making in existing case studies. So, what is the body in the context of dance?",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 67.87,
+        "end": 67.97
+      },
+      {
+        "word": "look",
+        "start": 67.97,
+        "end": 68.16
+      },
+      {
+        "word": "at",
+        "start": 68.16,
+        "end": 68.25999999999999
+      },
+      {
+        "word": "how",
+        "start": 68.25999999999999,
+        "end": 68.50999999999999
+      },
+      {
+        "word": "technology",
+        "start": 68.50999999999999,
+        "end": 69.21
+      },
+      {
+        "word": "has",
+        "start": 69.21,
+        "end": 69.52
+      },
+      {
+        "word": "influenced",
+        "start": 69.52,
+        "end": 70.06
+      },
+      {
+        "word": "the",
+        "start": 70.06,
+        "end": 70.12
+      },
+      {
+        "word": "practice",
+        "start": 70.12,
+        "end": 70.7
+      },
+      {
+        "word": "of",
+        "start": 70.7,
+        "end": 70.83
+      },
+      {
+        "word": "dance",
+        "start": 70.83,
+        "end": 71.14999999999999
+      },
+      {
+        "word": "making",
+        "start": 71.14999999999999,
+        "end": 71.6
+      },
+      {
+        "word": "in",
+        "start": 71.7,
+        "end": 71.86
+      },
+      {
+        "word": "existing",
+        "start": 71.86,
+        "end": 72.48
+      },
+      {
+        "word": "case",
+        "start": 72.48,
+        "end": 72.77
+      },
+      {
+        "word": "studies",
+        "start": 72.77,
+        "end": 73.37
+      },
+      {
+        "word": "so",
+        "start": 74.28,
+        "end": 74.55
+      },
+      {
+        "word": "what",
+        "start": 74.55,
+        "end": 74.72
+      },
+      {
+        "word": "is",
+        "start": 74.72,
+        "end": 74.89
+      },
+      {
+        "word": "the",
+        "start": 74.89,
+        "end": 74.95
+      },
+      {
+        "word": "body",
+        "start": 74.95,
+        "end": 75.33
+      },
+      {
+        "word": "in",
+        "start": 75.33,
+        "end": 75.44
+      },
+      {
+        "word": "the",
+        "start": 75.44,
+        "end": 75.49
+      },
+      {
+        "word": "context",
+        "start": 75.49,
+        "end": 76.00999999999999
+      },
+      {
+        "word": "of",
+        "start": 76.00999999999999,
+        "end": 76.07
+      },
+      {
+        "word": "dance",
+        "start": 76.15,
+        "end": 76.65
+      }
+    ],
+    "words_written": [
+      {
+        "word": "we",
+        "start": 67.87,
+        "end": 67.97
+      },
+      {
+        "word": "look",
+        "start": 67.97,
+        "end": 68.16
+      },
+      {
+        "word": "at",
+        "start": 68.16,
+        "end": 68.25999999999999
+      },
+      {
+        "word": "how",
+        "start": 68.25999999999999,
+        "end": 68.50999999999999
+      },
+      {
+        "word": "technology",
+        "start": 68.50999999999999,
+        "end": 69.21
+      },
+      {
+        "word": "has",
+        "start": 69.21,
+        "end": 69.52
+      },
+      {
+        "word": "influenced",
+        "start": 69.52,
+        "end": 70.06
+      },
+      {
+        "word": "the",
+        "start": 70.06,
+        "end": 70.12
+      },
+      {
+        "word": "practice",
+        "start": 70.12,
+        "end": 70.7
+      },
+      {
+        "word": "of",
+        "start": 70.7,
+        "end": 70.83
+      },
+      {
+        "word": "dance-making",
+        "start": 70.83,
+        "end": 71.6
+      },
+      {
+        "word": "in",
+        "start": 71.7,
+        "end": 71.86
+      },
+      {
+        "word": "existing",
+        "start": 71.86,
+        "end": 72.48
+      },
+      {
+        "word": "case",
+        "start": 72.48,
+        "end": 72.77
+      },
+      {
+        "word": "studies.",
+        "start": 72.77,
+        "end": 73.37
+      },
+      {
+        "word": "So,",
+        "start": 74.28,
+        "end": 74.55
+      },
+      {
+        "word": "what",
+        "start": 74.55,
+        "end": 74.72
+      },
+      {
+        "word": "is",
+        "start": 74.72,
+        "end": 74.89
+      },
+      {
+        "word": "the",
+        "start": 74.89,
+        "end": 74.95
+      },
+      {
+        "word": "body",
+        "start": 74.95,
+        "end": 75.33
+      },
+      {
+        "word": "in",
+        "start": 75.33,
+        "end": 75.44
+      },
+      {
+        "word": "the",
+        "start": 75.44,
+        "end": 75.49
+      },
+      {
+        "word": "context",
+        "start": 75.49,
+        "end": 76.00999999999999
+      },
+      {
+        "word": "of",
+        "start": 76.00999999999999,
+        "end": 76.07
+      },
+      {
+        "word": "dance?",
+        "start": 76.15,
+        "end": 76.65
+      }
+    ]
+  },
+  {
+    "timestr": "0077030_0084920",
+    "final_spoken": "from an hci perspective the dancer's body is a physical interface that can be accessed and extended through technology",
+    "final_written": "From an HCI perspective, the dancer's body is a physical interface that can be accessed and extended through technology.",
+    "words_spoken": [
+      {
+        "word": "from",
+        "start": 77.39,
+        "end": 77.66
+      },
+      {
+        "word": "an",
+        "start": 77.66,
+        "end": 77.86
+      },
+      {
+        "word": "hci",
+        "start": 77.86,
+        "end": 78.31
+      },
+      {
+        "word": "perspective",
+        "start": 78.31,
+        "end": 78.93
+      },
+      {
+        "word": "the",
+        "start": 79.3,
+        "end": 79.38
+      },
+      {
+        "word": "dancer's",
+        "start": 79.38,
+        "end": 79.85
+      },
+      {
+        "word": "body",
+        "start": 79.85,
+        "end": 80.33
+      },
+      {
+        "word": "is",
+        "start": 80.33,
+        "end": 80.47
+      },
+      {
+        "word": "a",
+        "start": 80.47,
+        "end": 80.5
+      },
+      {
+        "word": "physical",
+        "start": 80.5,
+        "end": 80.98
+      },
+      {
+        "word": "interface",
+        "start": 80.98,
+        "end": 81.61
+      },
+      {
+        "word": "that",
+        "start": 81.61,
+        "end": 81.9
+      },
+      {
+        "word": "can",
+        "start": 81.9,
+        "end": 82.06
+      },
+      {
+        "word": "be",
+        "start": 82.06,
+        "end": 82.24
+      },
+      {
+        "word": "accessed",
+        "start": 82.24,
+        "end": 82.81
+      },
+      {
+        "word": "and",
+        "start": 82.84,
+        "end": 83.01
+      },
+      {
+        "word": "extended",
+        "start": 83.01,
+        "end": 83.66
+      },
+      {
+        "word": "through",
+        "start": 83.66,
+        "end": 83.88
+      },
+      {
+        "word": "technology",
+        "start": 83.88,
+        "end": 84.57000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "From",
+        "start": 77.39,
+        "end": 77.66
+      },
+      {
+        "word": "an",
+        "start": 77.66,
+        "end": 77.86
+      },
+      {
+        "word": "HCI",
+        "start": 77.86,
+        "end": 78.31
+      },
+      {
+        "word": "perspective,",
+        "start": 78.31,
+        "end": 78.93
+      },
+      {
+        "word": "the",
+        "start": 79.3,
+        "end": 79.38
+      },
+      {
+        "word": "dancer's",
+        "start": 79.38,
+        "end": 79.85
+      },
+      {
+        "word": "body",
+        "start": 79.85,
+        "end": 80.33
+      },
+      {
+        "word": "is",
+        "start": 80.33,
+        "end": 80.47
+      },
+      {
+        "word": "a",
+        "start": 80.47,
+        "end": 80.5
+      },
+      {
+        "word": "physical",
+        "start": 80.5,
+        "end": 80.98
+      },
+      {
+        "word": "interface",
+        "start": 80.98,
+        "end": 81.61
+      },
+      {
+        "word": "that",
+        "start": 81.61,
+        "end": 81.9
+      },
+      {
+        "word": "can",
+        "start": 81.9,
+        "end": 82.06
+      },
+      {
+        "word": "be",
+        "start": 82.06,
+        "end": 82.24
+      },
+      {
+        "word": "accessed",
+        "start": 82.24,
+        "end": 82.81
+      },
+      {
+        "word": "and",
+        "start": 82.84,
+        "end": 83.01
+      },
+      {
+        "word": "extended",
+        "start": 83.01,
+        "end": 83.66
+      },
+      {
+        "word": "through",
+        "start": 83.66,
+        "end": 83.88
+      },
+      {
+        "word": "technology.",
+        "start": 83.88,
+        "end": 84.57000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0084920_0091810",
+    "final_spoken": "we can read the bodily signals through physiological sensors to directly control multimedia stage effects",
+    "final_written": "We can read the bodily signals through physiological sensors to directly control multimedia stage effects",
+    "words_spoken": [
+      {
+        "word": "we",
+        "start": 85.22,
+        "end": 85.32000000000001
+      },
+      {
+        "word": "can",
+        "start": 85.32000000000001,
+        "end": 85.58
+      },
+      {
+        "word": "read",
+        "start": 85.58,
+        "end": 85.98
+      },
+      {
+        "word": "the",
+        "start": 85.98,
+        "end": 86.03
+      },
+      {
+        "word": "bodily",
+        "start": 86.03,
+        "end": 86.41
+      },
+      {
+        "word": "signals",
+        "start": 86.41,
+        "end": 86.94
+      },
+      {
+        "word": "through",
+        "start": 86.94,
+        "end": 87.31
+      },
+      {
+        "word": "physiological",
+        "start": 87.31,
+        "end": 88.04
+      },
+      {
+        "word": "sensors",
+        "start": 88.04,
+        "end": 88.67
+      },
+      {
+        "word": "to",
+        "start": 88.95,
+        "end": 89.08
+      },
+      {
+        "word": "directly",
+        "start": 89.08,
+        "end": 89.62
+      },
+      {
+        "word": "control",
+        "start": 89.62,
+        "end": 90.09
+      },
+      {
+        "word": "multimedia",
+        "start": 90.09,
+        "end": 90.78
+      },
+      {
+        "word": "stage",
+        "start": 90.78,
+        "end": 91.13
+      },
+      {
+        "word": "effects",
+        "start": 91.13,
+        "end": 91.71000000000001
+      }
+    ],
+    "words_written": [
+      {
+        "word": "We",
+        "start": 85.22,
+        "end": 85.32000000000001
+      },
+      {
+        "word": "can",
+        "start": 85.32000000000001,
+        "end": 85.58
+      },
+      {
+        "word": "read",
+        "start": 85.58,
+        "end": 85.98
+      },
+      {
+        "word": "the",
+        "start": 85.98,
+        "end": 86.03
+      },
+      {
+        "word": "bodily",
+        "start": 86.03,
+        "end": 86.41
+      },
+      {
+        "word": "signals",
+        "start": 86.41,
+        "end": 86.94
+      },
+      {
+        "word": "through",
+        "start": 86.94,
+        "end": 87.31
+      },
+      {
+        "word": "physiological",
+        "start": 87.31,
+        "end": 88.04
+      },
+      {
+        "word": "sensors",
+        "start": 88.04,
+        "end": 88.67
+      },
+      {
+        "word": "to",
+        "start": 88.95,
+        "end": 89.08
+      },
+      {
+        "word": "directly",
+        "start": 89.08,
+        "end": 89.62
+      },
+      {
+        "word": "control",
+        "start": 89.62,
+        "end": 90.09
+      },
+      {
+        "word": "multimedia",
+        "start": 90.09,
+        "end": 90.78
+      },
+      {
+        "word": "stage",
+        "start": 90.78,
+        "end": 91.13
+      },
+      {
+        "word": "effects",
+        "start": 91.13,
+        "end": 91.71000000000001
+      }
+    ]
+  },
+  {
+    "timestr": "0091810_0100010",
+    "final_spoken": "and to provide context for further augmentation of the performance we can also write to the body through its underlying sensory neural system",
+    "final_written": "and to provide context for further augmentation of the performance. We can also write to the body through its underlying sensory neural system",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 91.93,
+        "end": 92.05
+      },
+      {
+        "word": "to",
+        "start": 92.05,
+        "end": 92.16
+      },
+      {
+        "word": "provide",
+        "start": 92.16,
+        "end": 92.66
+      },
+      {
+        "word": "context",
+        "start": 92.66,
+        "end": 93.19
+      },
+      {
+        "word": "for",
+        "start": 93.19,
+        "end": 93.31
+      },
+      {
+        "word": "further",
+        "start": 93.31,
+        "end": 93.68
+      },
+      {
+        "word": "augmentation",
+        "start": 93.68,
+        "end": 94.47
+      },
+      {
+        "word": "of",
+        "start": 94.47,
+        "end": 94.61
+      },
+      {
+        "word": "the",
+        "start": 94.61,
+        "end": 94.68
+      },
+      {
+        "word": "performance",
+        "start": 94.68,
+        "end": 95.4
+      },
+      {
+        "word": "we",
+        "start": 95.97,
+        "end": 96.05
+      },
+      {
+        "word": "can",
+        "start": 96.05,
+        "end": 96.23
+      },
+      {
+        "word": "also",
+        "start": 96.23,
+        "end": 96.59
+      },
+      {
+        "word": "write",
+        "start": 96.59,
+        "end": 96.85000000000001
+      },
+      {
+        "word": "to",
+        "start": 96.85000000000001,
+        "end": 97.07000000000001
+      },
+      {
+        "word": "the",
+        "start": 97.07000000000001,
+        "end": 97.15
+      },
+      {
+        "word": "body",
+        "start": 97.15,
+        "end": 97.55
+      },
+      {
+        "word": "through",
+        "start": 97.55,
+        "end": 97.84
+      },
+      {
+        "word": "its",
+        "start": 97.84,
+        "end": 97.99000000000001
+      },
+      {
+        "word": "underlying",
+        "start": 97.99000000000001,
+        "end": 98.55
+      },
+      {
+        "word": "sensory",
+        "start": 98.55,
+        "end": 98.99000000000001
+      },
+      {
+        "word": "neural",
+        "start": 98.99000000000001,
+        "end": 99.31
+      },
+      {
+        "word": "system",
+        "start": 99.31,
+        "end": 99.85
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 91.93,
+        "end": 92.05
+      },
+      {
+        "word": "to",
+        "start": 92.05,
+        "end": 92.16
+      },
+      {
+        "word": "provide",
+        "start": 92.16,
+        "end": 92.66
+      },
+      {
+        "word": "context",
+        "start": 92.66,
+        "end": 93.19
+      },
+      {
+        "word": "for",
+        "start": 93.19,
+        "end": 93.31
+      },
+      {
+        "word": "further",
+        "start": 93.31,
+        "end": 93.68
+      },
+      {
+        "word": "augmentation",
+        "start": 93.68,
+        "end": 94.47
+      },
+      {
+        "word": "of",
+        "start": 94.47,
+        "end": 94.61
+      },
+      {
+        "word": "the",
+        "start": 94.61,
+        "end": 94.68
+      },
+      {
+        "word": "performance.",
+        "start": 94.68,
+        "end": 95.4
+      },
+      {
+        "word": "We",
+        "start": 95.97,
+        "end": 96.05
+      },
+      {
+        "word": "can",
+        "start": 96.05,
+        "end": 96.23
+      },
+      {
+        "word": "also",
+        "start": 96.23,
+        "end": 96.61
+      },
+      {
+        "word": "write",
+        "start": 96.61,
+        "end": 96.85000000000001
+      },
+      {
+        "word": "to",
+        "start": 96.85000000000001,
+        "end": 97.07000000000001
+      },
+      {
+        "word": "the",
+        "start": 97.07000000000001,
+        "end": 97.15
+      },
+      {
+        "word": "body",
+        "start": 97.15,
+        "end": 97.55
+      },
+      {
+        "word": "through",
+        "start": 97.55,
+        "end": 97.84
+      },
+      {
+        "word": "its",
+        "start": 97.84,
+        "end": 97.99000000000001
+      },
+      {
+        "word": "underlying",
+        "start": 97.99000000000001,
+        "end": 98.55
+      },
+      {
+        "word": "sensory",
+        "start": 98.55,
+        "end": 98.99000000000001
+      },
+      {
+        "word": "neural",
+        "start": 98.99000000000001,
+        "end": 99.31
+      },
+      {
+        "word": "system",
+        "start": 99.31,
+        "end": 99.85
+      }
+    ]
+  },
+  {
+    "timestr": "0100010_0109570",
+    "final_spoken": "to alter the felt experience of the dancer physical costumes can change the dancer's perception of their own bodies and redefine the possibility of movement",
+    "final_written": "to alter the felt experience of the dancer. Physical costumes can change the dancer's perception of their own bodies and redefine the possibility of movement.",
+    "words_spoken": [
+      {
+        "word": "to",
+        "start": 100.13000000000001,
+        "end": 100.25
+      },
+      {
+        "word": "alter",
+        "start": 100.25,
+        "end": 100.60000000000001
+      },
+      {
+        "word": "the",
+        "start": 100.60000000000001,
+        "end": 100.72
+      },
+      {
+        "word": "felt",
+        "start": 100.72,
+        "end": 101.11
+      },
+      {
+        "word": "experience",
+        "start": 101.11,
+        "end": 101.71000000000001
+      },
+      {
+        "word": "of",
+        "start": 101.71000000000001,
+        "end": 101.77000000000001
+      },
+      {
+        "word": "the",
+        "start": 101.84,
+        "end": 101.9
+      },
+      {
+        "word": "dancer",
+        "start": 101.9,
+        "end": 102.38000000000001
+      },
+      {
+        "word": "physical",
+        "start": 102.84,
+        "end": 103.22
+      },
+      {
+        "word": "costumes",
+        "start": 103.22,
+        "end": 103.92
+      },
+      {
+        "word": "can",
+        "start": 103.92,
+        "end": 104.08000000000001
+      },
+      {
+        "word": "change",
+        "start": 104.08000000000001,
+        "end": 104.46000000000001
+      },
+      {
+        "word": "the",
+        "start": 104.46000000000001,
+        "end": 104.56
+      },
+      {
+        "word": "dancer's",
+        "start": 104.56,
+        "end": 105.0
+      },
+      {
+        "word": "perception",
+        "start": 105.0,
+        "end": 105.63000000000001
+      },
+      {
+        "word": "of",
+        "start": 105.63000000000001,
+        "end": 105.75
+      },
+      {
+        "word": "their",
+        "start": 105.75,
+        "end": 105.92
+      },
+      {
+        "word": "own",
+        "start": 105.92,
+        "end": 106.18
+      },
+      {
+        "word": "bodies",
+        "start": 106.18,
+        "end": 106.72
+      },
+      {
+        "word": "and",
+        "start": 106.94,
+        "end": 107.12
+      },
+      {
+        "word": "redefine",
+        "start": 107.12,
+        "end": 107.74000000000001
+      },
+      {
+        "word": "the",
+        "start": 107.74000000000001,
+        "end": 107.80000000000001
+      },
+      {
+        "word": "possibility",
+        "start": 107.80000000000001,
+        "end": 108.54
+      },
+      {
+        "word": "of",
+        "start": 108.54,
+        "end": 108.73
+      },
+      {
+        "word": "movement",
+        "start": 108.73,
+        "end": 109.25
+      }
+    ],
+    "words_written": [
+      {
+        "word": "to",
+        "start": 100.13000000000001,
+        "end": 100.25
+      },
+      {
+        "word": "alter",
+        "start": 100.25,
+        "end": 100.60000000000001
+      },
+      {
+        "word": "the",
+        "start": 100.60000000000001,
+        "end": 100.72
+      },
+      {
+        "word": "felt",
+        "start": 100.72,
+        "end": 101.11
+      },
+      {
+        "word": "experience",
+        "start": 101.11,
+        "end": 101.71000000000001
+      },
+      {
+        "word": "of",
+        "start": 101.71000000000001,
+        "end": 101.77000000000001
+      },
+      {
+        "word": "the",
+        "start": 101.84,
+        "end": 101.9
+      },
+      {
+        "word": "dancer.",
+        "start": 101.9,
+        "end": 102.38000000000001
+      },
+      {
+        "word": "Physical",
+        "start": 102.84,
+        "end": 103.22
+      },
+      {
+        "word": "costumes",
+        "start": 103.22,
+        "end": 103.92
+      },
+      {
+        "word": "can",
+        "start": 103.92,
+        "end": 104.08000000000001
+      },
+      {
+        "word": "change",
+        "start": 104.08000000000001,
+        "end": 104.46000000000001
+      },
+      {
+        "word": "the",
+        "start": 104.46000000000001,
+        "end": 104.56
+      },
+      {
+        "word": "dancer's",
+        "start": 104.56,
+        "end": 105.0
+      },
+      {
+        "word": "perception",
+        "start": 105.0,
+        "end": 105.63000000000001
+      },
+      {
+        "word": "of",
+        "start": 105.63000000000001,
+        "end": 105.75
+      },
+      {
+        "word": "their",
+        "start": 105.75,
+        "end": 105.92
+      },
+      {
+        "word": "own",
+        "start": 105.92,
+        "end": 106.18
+      },
+      {
+        "word": "bodies",
+        "start": 106.18,
+        "end": 106.72
+      },
+      {
+        "word": "and",
+        "start": 106.94,
+        "end": 107.12
+      },
+      {
+        "word": "redefine",
+        "start": 107.12,
+        "end": 107.74000000000001
+      },
+      {
+        "word": "the",
+        "start": 107.74000000000001,
+        "end": 107.80000000000001
+      },
+      {
+        "word": "possibility",
+        "start": 107.80000000000001,
+        "end": 108.54
+      },
+      {
+        "word": "of",
+        "start": 108.54,
+        "end": 108.73
+      },
+      {
+        "word": "movement.",
+        "start": 108.73,
+        "end": 109.25
+      }
+    ]
+  },
+  {
+    "timestr": "0109570_0117140",
+    "final_spoken": "a similar effect can be achieved with visual and acoustic effects which influence the dancer's lived experience on stage",
+    "final_written": "A similar effect can be achieved with visual and acoustic effects, which influence the dancer's lived experience on stage.",
+    "words_spoken": [
+      {
+        "word": "a",
+        "start": 109.83,
+        "end": 109.86999999999999
+      },
+      {
+        "word": "similar",
+        "start": 109.86999999999999,
+        "end": 110.30999999999999
+      },
+      {
+        "word": "effect",
+        "start": 110.30999999999999,
+        "end": 110.69
+      },
+      {
+        "word": "can",
+        "start": 110.69,
+        "end": 110.83
+      },
+      {
+        "word": "be",
+        "start": 110.83,
+        "end": 110.97
+      },
+      {
+        "word": "achieved",
+        "start": 110.97,
+        "end": 111.47999999999999
+      },
+      {
+        "word": "with",
+        "start": 111.47999999999999,
+        "end": 111.72999999999999
+      },
+      {
+        "word": "visual",
+        "start": 111.72999999999999,
+        "end": 112.14999999999999
+      },
+      {
+        "word": "and",
+        "start": 112.14999999999999,
+        "end": 112.25
+      },
+      {
+        "word": "acoustic",
+        "start": 112.25,
+        "end": 112.82
+      },
+      {
+        "word": "effects",
+        "start": 112.92999999999999,
+        "end": 113.52
+      },
+      {
+        "word": "which",
+        "start": 113.78999999999999,
+        "end": 114.13
+      },
+      {
+        "word": "influence",
+        "start": 114.13,
+        "end": 114.61
+      },
+      {
+        "word": "the",
+        "start": 114.61,
+        "end": 114.67999999999999
+      },
+      {
+        "word": "dancer's",
+        "start": 114.67999999999999,
+        "end": 115.19999999999999
+      },
+      {
+        "word": "lived",
+        "start": 115.19999999999999,
+        "end": 115.50999999999999
+      },
+      {
+        "word": "experience",
+        "start": 115.50999999999999,
+        "end": 116.16
+      },
+      {
+        "word": "on",
+        "start": 116.16,
+        "end": 116.33999999999999
+      },
+      {
+        "word": "stage",
+        "start": 116.33999999999999,
+        "end": 116.89999999999999
+      }
+    ],
+    "words_written": [
+      {
+        "word": "A",
+        "start": 109.83,
+        "end": 109.86999999999999
+      },
+      {
+        "word": "similar",
+        "start": 109.86999999999999,
+        "end": 110.30999999999999
+      },
+      {
+        "word": "effect",
+        "start": 110.30999999999999,
+        "end": 110.69
+      },
+      {
+        "word": "can",
+        "start": 110.69,
+        "end": 110.83
+      },
+      {
+        "word": "be",
+        "start": 110.83,
+        "end": 110.97
+      },
+      {
+        "word": "achieved",
+        "start": 110.97,
+        "end": 111.47999999999999
+      },
+      {
+        "word": "with",
+        "start": 111.47999999999999,
+        "end": 111.72999999999999
+      },
+      {
+        "word": "visual",
+        "start": 111.72999999999999,
+        "end": 112.13999999999999
+      },
+      {
+        "word": "and",
+        "start": 112.13999999999999,
+        "end": 112.25
+      },
+      {
+        "word": "acoustic",
+        "start": 112.25,
+        "end": 112.82
+      },
+      {
+        "word": "effects,",
+        "start": 112.92999999999999,
+        "end": 113.52
+      },
+      {
+        "word": "which",
+        "start": 113.78999999999999,
+        "end": 114.13
+      },
+      {
+        "word": "influence",
+        "start": 114.13,
+        "end": 114.61
+      },
+      {
+        "word": "the",
+        "start": 114.61,
+        "end": 114.67999999999999
+      },
+      {
+        "word": "dancer's",
+        "start": 114.67999999999999,
+        "end": 115.19999999999999
+      },
+      {
+        "word": "lived",
+        "start": 115.19999999999999,
+        "end": 115.50999999999999
+      },
+      {
+        "word": "experience",
+        "start": 115.50999999999999,
+        "end": 116.16
+      },
+      {
+        "word": "on",
+        "start": 116.16,
+        "end": 116.33999999999999
+      },
+      {
+        "word": "stage.",
+        "start": 116.33999999999999,
+        "end": 116.89999999999999
+      }
+    ]
+  },
+  {
+    "timestr": "0117140_0123380",
+    "final_spoken": "recognizing and analyzing the expressive movement qualities has been another direction of the research in dance",
+    "final_written": "Recognizing and analyzing the expressive movement qualities has been another direction of the research in dance.",
+    "words_spoken": [
+      {
+        "word": "recognizing",
+        "start": 117.37,
+        "end": 118.09
+      },
+      {
+        "word": "and",
+        "start": 118.09,
+        "end": 118.19
+      },
+      {
+        "word": "analyzing",
+        "start": 118.19,
+        "end": 118.85
+      },
+      {
+        "word": "the",
+        "start": 118.85,
+        "end": 118.9
+      },
+      {
+        "word": "expressive",
+        "start": 118.9,
+        "end": 119.45
+      },
+      {
+        "word": "movement",
+        "start": 119.45,
+        "end": 119.8
+      },
+      {
+        "word": "qualities",
+        "start": 119.8,
+        "end": 120.38
+      },
+      {
+        "word": "has",
+        "start": 120.38,
+        "end": 120.66
+      },
+      {
+        "word": "been",
+        "start": 120.66,
+        "end": 120.86
+      },
+      {
+        "word": "another",
+        "start": 120.86,
+        "end": 121.19
+      },
+      {
+        "word": "direction",
+        "start": 121.19,
+        "end": 121.79
+      },
+      {
+        "word": "of",
+        "start": 121.79,
+        "end": 121.91
+      },
+      {
+        "word": "the",
+        "start": 121.91,
+        "end": 122.01
+      },
+      {
+        "word": "research",
+        "start": 122.01,
+        "end": 122.5
+      },
+      {
+        "word": "in",
+        "start": 122.5,
+        "end": 122.61
+      },
+      {
+        "word": "dance",
+        "start": 122.61,
+        "end": 123.09
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Recognizing",
+        "start": 117.37,
+        "end": 118.09
+      },
+      {
+        "word": "and",
+        "start": 118.09,
+        "end": 118.19
+      },
+      {
+        "word": "analyzing",
+        "start": 118.19,
+        "end": 118.85
+      },
+      {
+        "word": "the",
+        "start": 118.85,
+        "end": 118.9
+      },
+      {
+        "word": "expressive",
+        "start": 118.9,
+        "end": 119.45
+      },
+      {
+        "word": "movement",
+        "start": 119.45,
+        "end": 119.8
+      },
+      {
+        "word": "qualities",
+        "start": 119.8,
+        "end": 120.38
+      },
+      {
+        "word": "has",
+        "start": 120.38,
+        "end": 120.66
+      },
+      {
+        "word": "been",
+        "start": 120.66,
+        "end": 120.85
+      },
+      {
+        "word": "another",
+        "start": 120.85,
+        "end": 121.19
+      },
+      {
+        "word": "direction",
+        "start": 121.19,
+        "end": 121.79
+      },
+      {
+        "word": "of",
+        "start": 121.79,
+        "end": 121.91
+      },
+      {
+        "word": "the",
+        "start": 121.91,
+        "end": 122.01
+      },
+      {
+        "word": "research",
+        "start": 122.01,
+        "end": 122.5
+      },
+      {
+        "word": "in",
+        "start": 122.5,
+        "end": 122.61
+      },
+      {
+        "word": "dance.",
+        "start": 122.61,
+        "end": 123.09
+      }
+    ]
+  },
+  {
+    "timestr": "0123380_0129880",
+    "final_spoken": "learning from existing frameworks for categorizing movement qualities such as the laban movement analysis",
+    "final_written": "Learning from existing frameworks for categorizing movement qualities, such as the Laban Movement Analysis,",
+    "words_spoken": [
+      {
+        "word": "learning",
+        "start": 123.69999999999999,
+        "end": 124.13
+      },
+      {
+        "word": "from",
+        "start": 124.13,
+        "end": 124.39999999999999
+      },
+      {
+        "word": "existing",
+        "start": 124.39999999999999,
+        "end": 124.86999999999999
+      },
+      {
+        "word": "frameworks",
+        "start": 124.86999999999999,
+        "end": 125.44999999999999
+      },
+      {
+        "word": "for",
+        "start": 125.44999999999999,
+        "end": 125.6
+      },
+      {
+        "word": "categorizing",
+        "start": 125.6,
+        "end": 126.71
+      },
+      {
+        "word": "movement",
+        "start": 126.97999999999999,
+        "end": 127.22999999999999
+      },
+      {
+        "word": "qualities",
+        "start": 127.22999999999999,
+        "end": 127.44
+      },
+      {
+        "word": "such",
+        "start": 127.44,
+        "end": 127.69999999999999
+      },
+      {
+        "word": "as",
+        "start": 127.69999999999999,
+        "end": 127.89
+      },
+      {
+        "word": "the",
+        "start": 127.89,
+        "end": 127.99
+      },
+      {
+        "word": "laban",
+        "start": 127.99,
+        "end": 128.42
+      },
+      {
+        "word": "movement",
+        "start": 128.42,
+        "end": 128.93
+      },
+      {
+        "word": "analysis",
+        "start": 128.99,
+        "end": 129.71
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Learning",
+        "start": 123.69999999999999,
+        "end": 124.13
+      },
+      {
+        "word": "from",
+        "start": 124.13,
+        "end": 124.39999999999999
+      },
+      {
+        "word": "existing",
+        "start": 124.39999999999999,
+        "end": 124.86999999999999
+      },
+      {
+        "word": "frameworks",
+        "start": 124.86999999999999,
+        "end": 125.44999999999999
+      },
+      {
+        "word": "for",
+        "start": 125.44999999999999,
+        "end": 125.6
+      },
+      {
+        "word": "categorizing",
+        "start": 125.6,
+        "end": 126.71
+      },
+      {
+        "word": "movement",
+        "start": 126.97999999999999,
+        "end": 127.22999999999999
+      },
+      {
+        "word": "qualities,",
+        "start": 127.22999999999999,
+        "end": 127.44
+      },
+      {
+        "word": "such",
+        "start": 127.44,
+        "end": 127.69999999999999
+      },
+      {
+        "word": "as",
+        "start": 127.69999999999999,
+        "end": 127.89
+      },
+      {
+        "word": "the",
+        "start": 127.89,
+        "end": 127.99
+      },
+      {
+        "word": "Laban",
+        "start": 127.99,
+        "end": 128.49
+      },
+      {
+        "word": "Movement",
+        "start": 128.49,
+        "end": 128.93
+      },
+      {
+        "word": "Analysis,",
+        "start": 128.99,
+        "end": 129.71
+      }
+    ]
+  },
+  {
+    "timestr": "0129880_0136360",
+    "final_spoken": "previous works have attempted to automatically detect movement qualities and convert them to visual output",
+    "final_written": "previous works have attempted to automatically detect movement qualities and convert them to visual output",
+    "words_spoken": [
+      {
+        "word": "previous",
+        "start": 130.12,
+        "end": 130.46
+      },
+      {
+        "word": "works",
+        "start": 130.46,
+        "end": 130.82
+      },
+      {
+        "word": "have",
+        "start": 130.82,
+        "end": 131.04999999999998
+      },
+      {
+        "word": "attempted",
+        "start": 131.04999999999998,
+        "end": 131.60999999999999
+      },
+      {
+        "word": "to",
+        "start": 131.60999999999999,
+        "end": 131.75
+      },
+      {
+        "word": "automatically",
+        "start": 131.75,
+        "end": 132.51
+      },
+      {
+        "word": "detect",
+        "start": 132.51,
+        "end": 133.07999999999998
+      },
+      {
+        "word": "movement",
+        "start": 133.07999999999998,
+        "end": 133.44
+      },
+      {
+        "word": "qualities",
+        "start": 133.44,
+        "end": 134.09
+      },
+      {
+        "word": "and",
+        "start": 134.31,
+        "end": 134.51
+      },
+      {
+        "word": "convert",
+        "start": 134.51,
+        "end": 134.94
+      },
+      {
+        "word": "them",
+        "start": 134.94,
+        "end": 135.15
+      },
+      {
+        "word": "to",
+        "start": 135.15,
+        "end": 135.31
+      },
+      {
+        "word": "visual",
+        "start": 135.31,
+        "end": 135.66
+      },
+      {
+        "word": "output",
+        "start": 135.69,
+        "end": 136.12
+      }
+    ],
+    "words_written": [
+      {
+        "word": "previous",
+        "start": 130.12,
+        "end": 130.46
+      },
+      {
+        "word": "works",
+        "start": 130.46,
+        "end": 130.82
+      },
+      {
+        "word": "have",
+        "start": 130.82,
+        "end": 131.04999999999998
+      },
+      {
+        "word": "attempted",
+        "start": 131.04999999999998,
+        "end": 131.60999999999999
+      },
+      {
+        "word": "to",
+        "start": 131.60999999999999,
+        "end": 131.75
+      },
+      {
+        "word": "automatically",
+        "start": 131.75,
+        "end": 132.51
+      },
+      {
+        "word": "detect",
+        "start": 132.51,
+        "end": 133.07999999999998
+      },
+      {
+        "word": "movement",
+        "start": 133.07999999999998,
+        "end": 133.44
+      },
+      {
+        "word": "qualities",
+        "start": 133.44,
+        "end": 134.09
+      },
+      {
+        "word": "and",
+        "start": 134.31,
+        "end": 134.51
+      },
+      {
+        "word": "convert",
+        "start": 134.51,
+        "end": 134.94
+      },
+      {
+        "word": "them",
+        "start": 134.94,
+        "end": 135.15
+      },
+      {
+        "word": "to",
+        "start": 135.15,
+        "end": 135.31
+      },
+      {
+        "word": "visual",
+        "start": 135.31,
+        "end": 135.66
+      },
+      {
+        "word": "output",
+        "start": 135.69,
+        "end": 136.12
+      }
+    ]
+  },
+  {
+    "timestr": "0136360_0144790",
+    "final_spoken": "and to help with choreographic training and education equipped with advanced technologies such as motion tracking and machine learning",
+    "final_written": "and to help with choreographic training and education. Equipped with advanced technologies such as motion tracking and machine learning,",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 136.52,
+        "end": 136.63000000000002
+      },
+      {
+        "word": "to",
+        "start": 136.63000000000002,
+        "end": 136.72000000000003
+      },
+      {
+        "word": "help",
+        "start": 136.72000000000003,
+        "end": 137.14000000000001
+      },
+      {
+        "word": "with",
+        "start": 137.14000000000001,
+        "end": 137.3
+      },
+      {
+        "word": "choreographic",
+        "start": 137.3,
+        "end": 138.13000000000002
+      },
+      {
+        "word": "training",
+        "start": 138.13000000000002,
+        "end": 138.64000000000001
+      },
+      {
+        "word": "and",
+        "start": 138.64000000000001,
+        "end": 138.8
+      },
+      {
+        "word": "education",
+        "start": 138.8,
+        "end": 139.4
+      },
+      {
+        "word": "equipped",
+        "start": 140.3,
+        "end": 140.8
+      },
+      {
+        "word": "with",
+        "start": 140.8,
+        "end": 141.08
+      },
+      {
+        "word": "advanced",
+        "start": 141.08,
+        "end": 141.74
+      },
+      {
+        "word": "technologies",
+        "start": 141.74,
+        "end": 142.51000000000002
+      },
+      {
+        "word": "such",
+        "start": 142.51000000000002,
+        "end": 142.71
+      },
+      {
+        "word": "as",
+        "start": 142.71,
+        "end": 142.87
+      },
+      {
+        "word": "motion",
+        "start": 142.87,
+        "end": 143.22000000000003
+      },
+      {
+        "word": "tracking",
+        "start": 143.22000000000003,
+        "end": 143.72000000000003
+      },
+      {
+        "word": "and",
+        "start": 143.72000000000003,
+        "end": 143.85000000000002
+      },
+      {
+        "word": "machine",
+        "start": 143.85000000000002,
+        "end": 144.20000000000002
+      },
+      {
+        "word": "learning",
+        "start": 144.20000000000002,
+        "end": 144.60000000000002
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 136.52,
+        "end": 136.63000000000002
+      },
+      {
+        "word": "to",
+        "start": 136.63000000000002,
+        "end": 136.72000000000003
+      },
+      {
+        "word": "help",
+        "start": 136.72000000000003,
+        "end": 137.14000000000001
+      },
+      {
+        "word": "with",
+        "start": 137.14000000000001,
+        "end": 137.3
+      },
+      {
+        "word": "choreographic",
+        "start": 137.3,
+        "end": 138.13000000000002
+      },
+      {
+        "word": "training",
+        "start": 138.13000000000002,
+        "end": 138.64000000000001
+      },
+      {
+        "word": "and",
+        "start": 138.64000000000001,
+        "end": 138.8
+      },
+      {
+        "word": "education.",
+        "start": 138.8,
+        "end": 139.4
+      },
+      {
+        "word": "Equipped",
+        "start": 140.3,
+        "end": 140.8
+      },
+      {
+        "word": "with",
+        "start": 140.8,
+        "end": 141.08
+      },
+      {
+        "word": "advanced",
+        "start": 141.08,
+        "end": 141.74
+      },
+      {
+        "word": "technologies",
+        "start": 141.74,
+        "end": 142.51000000000002
+      },
+      {
+        "word": "such",
+        "start": 142.51000000000002,
+        "end": 142.71
+      },
+      {
+        "word": "as",
+        "start": 142.71,
+        "end": 142.87
+      },
+      {
+        "word": "motion",
+        "start": 142.87,
+        "end": 143.22000000000003
+      },
+      {
+        "word": "tracking",
+        "start": 143.22000000000003,
+        "end": 143.72000000000003
+      },
+      {
+        "word": "and",
+        "start": 143.72000000000003,
+        "end": 143.85000000000002
+      },
+      {
+        "word": "machine",
+        "start": 143.85000000000002,
+        "end": 144.20000000000002
+      },
+      {
+        "word": "learning,",
+        "start": 144.20000000000002,
+        "end": 144.61
+      }
+    ]
+  },
+  {
+    "timestr": "0144790_0151110",
+    "final_spoken": "hci dance researchers are still faced with a major challenge of quantifying the kinesthetic creativity",
+    "final_written": "HCI dance researchers are still faced with a major challenge of quantifying the kinesthetic creativity,",
+    "words_spoken": [
+      {
+        "word": "hci",
+        "start": 144.94,
+        "end": 145.47
+      },
+      {
+        "word": "dance",
+        "start": 145.47,
+        "end": 145.76999999999998
+      },
+      {
+        "word": "researchers",
+        "start": 145.76999999999998,
+        "end": 146.42999999999998
+      },
+      {
+        "word": "are",
+        "start": 146.42999999999998,
+        "end": 146.48
+      },
+      {
+        "word": "still",
+        "start": 146.48,
+        "end": 146.78
+      },
+      {
+        "word": "faced",
+        "start": 146.78,
+        "end": 147.26
+      },
+      {
+        "word": "with",
+        "start": 147.26,
+        "end": 147.39
+      },
+      {
+        "word": "a",
+        "start": 147.39,
+        "end": 147.42999999999998
+      },
+      {
+        "word": "major",
+        "start": 147.42999999999998,
+        "end": 147.73999999999998
+      },
+      {
+        "word": "challenge",
+        "start": 147.73999999999998,
+        "end": 148.37
+      },
+      {
+        "word": "of",
+        "start": 148.6,
+        "end": 148.73999999999998
+      },
+      {
+        "word": "quantifying",
+        "start": 148.73999999999998,
+        "end": 149.38
+      },
+      {
+        "word": "the",
+        "start": 149.38,
+        "end": 149.44
+      },
+      {
+        "word": "kinesthetic",
+        "start": 149.44,
+        "end": 150.12
+      },
+      {
+        "word": "creativity",
+        "start": 150.12,
+        "end": 151.10999999999999
+      }
+    ],
+    "words_written": [
+      {
+        "word": "HCI",
+        "start": 144.94,
+        "end": 145.47
+      },
+      {
+        "word": "dance",
+        "start": 145.47,
+        "end": 145.76999999999998
+      },
+      {
+        "word": "researchers",
+        "start": 145.76999999999998,
+        "end": 146.42999999999998
+      },
+      {
+        "word": "are",
+        "start": 146.42999999999998,
+        "end": 146.48
+      },
+      {
+        "word": "still",
+        "start": 146.48,
+        "end": 146.78
+      },
+      {
+        "word": "faced",
+        "start": 146.78,
+        "end": 147.26
+      },
+      {
+        "word": "with",
+        "start": 147.26,
+        "end": 147.39
+      },
+      {
+        "word": "a",
+        "start": 147.39,
+        "end": 147.42999999999998
+      },
+      {
+        "word": "major",
+        "start": 147.42999999999998,
+        "end": 147.73999999999998
+      },
+      {
+        "word": "challenge",
+        "start": 147.73999999999998,
+        "end": 148.37
+      },
+      {
+        "word": "of",
+        "start": 148.6,
+        "end": 148.73999999999998
+      },
+      {
+        "word": "quantifying",
+        "start": 148.73999999999998,
+        "end": 149.38
+      },
+      {
+        "word": "the",
+        "start": 149.38,
+        "end": 149.44
+      },
+      {
+        "word": "kinesthetic",
+        "start": 149.44,
+        "end": 150.12
+      },
+      {
+        "word": "creativity,",
+        "start": 150.12,
+        "end": 151.10999999999999
+      }
+    ]
+  },
+  {
+    "timestr": "0151110_0159530",
+    "final_spoken": "the felt experience of the dancers and expressive movement qualities channeled through the embodied perception from the choreographers to the audience",
+    "final_written": "the felt experience of the dancers, and expressive movement qualities, channeled through the embodied perception from the choreographers to the audience.",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 151.25,
+        "end": 151.32000000000002
+      },
+      {
+        "word": "felt",
+        "start": 151.32000000000002,
+        "end": 151.78
+      },
+      {
+        "word": "experience",
+        "start": 151.78,
+        "end": 152.36
+      },
+      {
+        "word": "of",
+        "start": 152.36,
+        "end": 152.47000000000003
+      },
+      {
+        "word": "the",
+        "start": 152.47000000000003,
+        "end": 152.54000000000002
+      },
+      {
+        "word": "dancers",
+        "start": 152.54000000000002,
+        "end": 153.16000000000003
+      },
+      {
+        "word": "and",
+        "start": 153.19000000000003,
+        "end": 153.37
+      },
+      {
+        "word": "expressive",
+        "start": 153.37,
+        "end": 153.93
+      },
+      {
+        "word": "movement",
+        "start": 154.05,
+        "end": 154.33
+      },
+      {
+        "word": "qualities",
+        "start": 154.33,
+        "end": 155.02
+      },
+      {
+        "word": "channeled",
+        "start": 155.42000000000002,
+        "end": 155.8
+      },
+      {
+        "word": "through",
+        "start": 155.8,
+        "end": 156.10000000000002
+      },
+      {
+        "word": "the",
+        "start": 156.10000000000002,
+        "end": 156.15
+      },
+      {
+        "word": "embodied",
+        "start": 156.15,
+        "end": 156.67000000000002
+      },
+      {
+        "word": "perception",
+        "start": 156.67000000000002,
+        "end": 157.28
+      },
+      {
+        "word": "from",
+        "start": 157.32000000000002,
+        "end": 157.60000000000002
+      },
+      {
+        "word": "the",
+        "start": 157.60000000000002,
+        "end": 157.66000000000003
+      },
+      {
+        "word": "choreographers",
+        "start": 157.66000000000003,
+        "end": 158.51000000000002
+      },
+      {
+        "word": "to",
+        "start": 158.51000000000002,
+        "end": 158.70000000000002
+      },
+      {
+        "word": "the",
+        "start": 158.70000000000002,
+        "end": 158.77
+      },
+      {
+        "word": "audience",
+        "start": 158.77,
+        "end": 159.43
+      }
+    ],
+    "words_written": [
+      {
+        "word": "the",
+        "start": 151.25,
+        "end": 151.32000000000002
+      },
+      {
+        "word": "felt",
+        "start": 151.32000000000002,
+        "end": 151.78
+      },
+      {
+        "word": "experience",
+        "start": 151.78,
+        "end": 152.36
+      },
+      {
+        "word": "of",
+        "start": 152.36,
+        "end": 152.47000000000003
+      },
+      {
+        "word": "the",
+        "start": 152.47000000000003,
+        "end": 152.54000000000002
+      },
+      {
+        "word": "dancers,",
+        "start": 152.54000000000002,
+        "end": 153.16000000000003
+      },
+      {
+        "word": "and",
+        "start": 153.19000000000003,
+        "end": 153.37
+      },
+      {
+        "word": "expressive",
+        "start": 153.37,
+        "end": 153.93
+      },
+      {
+        "word": "movement",
+        "start": 154.05,
+        "end": 154.33
+      },
+      {
+        "word": "qualities,",
+        "start": 154.33,
+        "end": 155.02
+      },
+      {
+        "word": "channeled",
+        "start": 155.42000000000002,
+        "end": 155.8
+      },
+      {
+        "word": "through",
+        "start": 155.8,
+        "end": 156.10000000000002
+      },
+      {
+        "word": "the",
+        "start": 156.10000000000002,
+        "end": 156.15
+      },
+      {
+        "word": "embodied",
+        "start": 156.15,
+        "end": 156.67000000000002
+      },
+      {
+        "word": "perception",
+        "start": 156.67000000000002,
+        "end": 157.28
+      },
+      {
+        "word": "from",
+        "start": 157.32000000000002,
+        "end": 157.60000000000002
+      },
+      {
+        "word": "the",
+        "start": 157.60000000000002,
+        "end": 157.66000000000003
+      },
+      {
+        "word": "choreographers",
+        "start": 157.66000000000003,
+        "end": 158.51000000000002
+      },
+      {
+        "word": "to",
+        "start": 158.51000000000002,
+        "end": 158.70000000000002
+      },
+      {
+        "word": "the",
+        "start": 158.70000000000002,
+        "end": 158.77
+      },
+      {
+        "word": "audience.",
+        "start": 158.77,
+        "end": 159.43
+      }
+    ]
+  },
+  {
+    "timestr": "0159530_0169160",
+    "final_spoken": "as a result previous works have employed alternative approaches to the body and its abstract movement apart from the direct bodily sensing and motion capturing",
+    "final_written": "As a result, previous works have employed alternative approaches to the body and its abstract movement apart from the direct bodily sensing and motion capturing.",
+    "words_spoken": [
+      {
+        "word": "as",
+        "start": 159.72,
+        "end": 159.87
+      },
+      {
+        "word": "a",
+        "start": 159.87,
+        "end": 159.94
+      },
+      {
+        "word": "result",
+        "start": 159.94,
+        "end": 160.48
+      },
+      {
+        "word": "previous",
+        "start": 160.73,
+        "end": 161.09
+      },
+      {
+        "word": "works",
+        "start": 161.09,
+        "end": 161.41
+      },
+      {
+        "word": "have",
+        "start": 161.41,
+        "end": 161.62
+      },
+      {
+        "word": "employed",
+        "start": 161.62,
+        "end": 162.17
+      },
+      {
+        "word": "alternative",
+        "start": 162.17,
+        "end": 162.8
+      },
+      {
+        "word": "approaches",
+        "start": 162.8,
+        "end": 163.39000000000001
+      },
+      {
+        "word": "to",
+        "start": 163.39000000000001,
+        "end": 163.56
+      },
+      {
+        "word": "the",
+        "start": 163.56,
+        "end": 163.61
+      },
+      {
+        "word": "body",
+        "start": 163.61,
+        "end": 164.08
+      },
+      {
+        "word": "and",
+        "start": 164.13,
+        "end": 164.26
+      },
+      {
+        "word": "its",
+        "start": 164.26,
+        "end": 164.43
+      },
+      {
+        "word": "abstract",
+        "start": 164.43,
+        "end": 164.98
+      },
+      {
+        "word": "movement",
+        "start": 164.98,
+        "end": 165.41
+      },
+      {
+        "word": "apart",
+        "start": 165.41,
+        "end": 165.81
+      },
+      {
+        "word": "from",
+        "start": 165.81,
+        "end": 166.14000000000001
+      },
+      {
+        "word": "the",
+        "start": 166.14000000000001,
+        "end": 166.19
+      },
+      {
+        "word": "direct",
+        "start": 166.19,
+        "end": 166.67
+      },
+      {
+        "word": "bodily",
+        "start": 166.67,
+        "end": 166.99
+      },
+      {
+        "word": "sensing",
+        "start": 166.99,
+        "end": 167.51
+      },
+      {
+        "word": "and",
+        "start": 167.55,
+        "end": 167.7
+      },
+      {
+        "word": "motion",
+        "start": 167.7,
+        "end": 168.07
+      },
+      {
+        "word": "capturing",
+        "start": 168.14,
+        "end": 168.64
+      }
+    ],
+    "words_written": [
+      {
+        "word": "As",
+        "start": 159.72,
+        "end": 159.87
+      },
+      {
+        "word": "a",
+        "start": 159.87,
+        "end": 159.94
+      },
+      {
+        "word": "result,",
+        "start": 159.94,
+        "end": 160.48
+      },
+      {
+        "word": "previous",
+        "start": 160.73,
+        "end": 161.09
+      },
+      {
+        "word": "works",
+        "start": 161.09,
+        "end": 161.41
+      },
+      {
+        "word": "have",
+        "start": 161.41,
+        "end": 161.62
+      },
+      {
+        "word": "employed",
+        "start": 161.62,
+        "end": 162.17
+      },
+      {
+        "word": "alternative",
+        "start": 162.17,
+        "end": 162.8
+      },
+      {
+        "word": "approaches",
+        "start": 162.8,
+        "end": 163.39000000000001
+      },
+      {
+        "word": "to",
+        "start": 163.39000000000001,
+        "end": 163.56
+      },
+      {
+        "word": "the",
+        "start": 163.56,
+        "end": 163.61
+      },
+      {
+        "word": "body",
+        "start": 163.61,
+        "end": 164.08
+      },
+      {
+        "word": "and",
+        "start": 164.13,
+        "end": 164.26
+      },
+      {
+        "word": "its",
+        "start": 164.26,
+        "end": 164.43
+      },
+      {
+        "word": "abstract",
+        "start": 164.43,
+        "end": 164.98
+      },
+      {
+        "word": "movement",
+        "start": 164.98,
+        "end": 165.41
+      },
+      {
+        "word": "apart",
+        "start": 165.41,
+        "end": 165.81
+      },
+      {
+        "word": "from",
+        "start": 165.81,
+        "end": 166.14000000000001
+      },
+      {
+        "word": "the",
+        "start": 166.14000000000001,
+        "end": 166.19
+      },
+      {
+        "word": "direct",
+        "start": 166.19,
+        "end": 166.67
+      },
+      {
+        "word": "bodily",
+        "start": 166.67,
+        "end": 166.99
+      },
+      {
+        "word": "sensing",
+        "start": 166.99,
+        "end": 167.51
+      },
+      {
+        "word": "and",
+        "start": 167.55,
+        "end": 167.7
+      },
+      {
+        "word": "motion",
+        "start": 167.7,
+        "end": 168.07
+      },
+      {
+        "word": "capturing.",
+        "start": 168.14,
+        "end": 168.64
+      }
+    ]
+  },
+  {
+    "timestr": "0169160_0179470",
+    "final_spoken": "one of the promising trends of those approaches is the use of virtual and physical agents to accompany the dancers' performance while forming new bodily relationships on stage",
+    "final_written": "One of the promising trends of those approaches is the use of virtual and physical agents to accompany the dancers' performance while forming new bodily relationships on stage.",
+    "words_spoken": [
+      {
+        "word": "one",
+        "start": 169.60999999999999,
+        "end": 169.79
+      },
+      {
+        "word": "of",
+        "start": 169.79,
+        "end": 169.9
+      },
+      {
+        "word": "the",
+        "start": 169.9,
+        "end": 169.96
+      },
+      {
+        "word": "promising",
+        "start": 169.96,
+        "end": 170.57999999999998
+      },
+      {
+        "word": "trends",
+        "start": 170.57999999999998,
+        "end": 171.06
+      },
+      {
+        "word": "of",
+        "start": 171.06,
+        "end": 171.19
+      },
+      {
+        "word": "those",
+        "start": 171.19,
+        "end": 171.41
+      },
+      {
+        "word": "approaches",
+        "start": 171.41,
+        "end": 172.04999999999998
+      },
+      {
+        "word": "is",
+        "start": 172.04999999999998,
+        "end": 172.18
+      },
+      {
+        "word": "the",
+        "start": 172.18,
+        "end": 172.27
+      },
+      {
+        "word": "use",
+        "start": 172.27,
+        "end": 172.57999999999998
+      },
+      {
+        "word": "of",
+        "start": 172.57999999999998,
+        "end": 172.66
+      },
+      {
+        "word": "virtual",
+        "start": 172.66,
+        "end": 173.18
+      },
+      {
+        "word": "and",
+        "start": 173.18,
+        "end": 173.32
+      },
+      {
+        "word": "physical",
+        "start": 173.32,
+        "end": 173.84
+      },
+      {
+        "word": "agents",
+        "start": 173.84,
+        "end": 174.37
+      },
+      {
+        "word": "to",
+        "start": 174.51,
+        "end": 174.64
+      },
+      {
+        "word": "accompany",
+        "start": 174.64,
+        "end": 175.16
+      },
+      {
+        "word": "the",
+        "start": 175.16,
+        "end": 175.26
+      },
+      {
+        "word": "dancers'",
+        "start": 175.26,
+        "end": 175.79999999999998
+      },
+      {
+        "word": "performance",
+        "start": 175.79999999999998,
+        "end": 176.54999999999998
+      },
+      {
+        "word": "while",
+        "start": 176.54999999999998,
+        "end": 176.75
+      },
+      {
+        "word": "forming",
+        "start": 176.75,
+        "end": 177.28
+      },
+      {
+        "word": "new",
+        "start": 177.28,
+        "end": 177.47
+      },
+      {
+        "word": "bodily",
+        "start": 177.47,
+        "end": 177.88
+      },
+      {
+        "word": "relationships",
+        "start": 177.88,
+        "end": 178.7
+      },
+      {
+        "word": "on",
+        "start": 178.73,
+        "end": 178.89
+      },
+      {
+        "word": "stage",
+        "start": 178.89,
+        "end": 179.39
+      }
+    ],
+    "words_written": [
+      {
+        "word": "One",
+        "start": 169.60999999999999,
+        "end": 169.79
+      },
+      {
+        "word": "of",
+        "start": 169.79,
+        "end": 169.9
+      },
+      {
+        "word": "the",
+        "start": 169.9,
+        "end": 169.96
+      },
+      {
+        "word": "promising",
+        "start": 169.96,
+        "end": 170.57999999999998
+      },
+      {
+        "word": "trends",
+        "start": 170.57999999999998,
+        "end": 171.06
+      },
+      {
+        "word": "of",
+        "start": 171.06,
+        "end": 171.19
+      },
+      {
+        "word": "those",
+        "start": 171.19,
+        "end": 171.41
+      },
+      {
+        "word": "approaches",
+        "start": 171.41,
+        "end": 171.99
+      },
+      {
+        "word": "is",
+        "start": 171.99,
+        "end": 172.18
+      },
+      {
+        "word": "the",
+        "start": 172.18,
+        "end": 172.27
+      },
+      {
+        "word": "use",
+        "start": 172.27,
+        "end": 172.57999999999998
+      },
+      {
+        "word": "of",
+        "start": 172.57999999999998,
+        "end": 172.66
+      },
+      {
+        "word": "virtual",
+        "start": 172.66,
+        "end": 173.18
+      },
+      {
+        "word": "and",
+        "start": 173.18,
+        "end": 173.32
+      },
+      {
+        "word": "physical",
+        "start": 173.32,
+        "end": 173.82999999999998
+      },
+      {
+        "word": "agents",
+        "start": 173.82999999999998,
+        "end": 174.37
+      },
+      {
+        "word": "to",
+        "start": 174.51,
+        "end": 174.64
+      },
+      {
+        "word": "accompany",
+        "start": 174.64,
+        "end": 175.16
+      },
+      {
+        "word": "the",
+        "start": 175.16,
+        "end": 175.26
+      },
+      {
+        "word": "dancers'",
+        "start": 175.26,
+        "end": 175.79999999999998
+      },
+      {
+        "word": "performance",
+        "start": 175.79999999999998,
+        "end": 176.54999999999998
+      },
+      {
+        "word": "while",
+        "start": 176.54999999999998,
+        "end": 176.75
+      },
+      {
+        "word": "forming",
+        "start": 176.75,
+        "end": 177.26999999999998
+      },
+      {
+        "word": "new",
+        "start": 177.26999999999998,
+        "end": 177.47
+      },
+      {
+        "word": "bodily",
+        "start": 177.47,
+        "end": 177.88
+      },
+      {
+        "word": "relationships",
+        "start": 177.88,
+        "end": 178.7
+      },
+      {
+        "word": "on",
+        "start": 178.73,
+        "end": 178.89
+      },
+      {
+        "word": "stage.",
+        "start": 178.89,
+        "end": 179.39
+      }
+    ]
+  },
+  {
+    "timestr": "0179470_0187870",
+    "final_spoken": "for instance neural networks have been used to create virtual body extensions that react to different features in the movement of the dancers",
+    "final_written": "For instance, neural networks have been used to create virtual body extensions that react to different features in the movement of the dancers.",
+    "words_spoken": [
+      {
+        "word": "for",
+        "start": 179.55,
+        "end": 179.7
+      },
+      {
+        "word": "instance",
+        "start": 179.7,
+        "end": 180.15
+      },
+      {
+        "word": "neural",
+        "start": 180.49,
+        "end": 180.77
+      },
+      {
+        "word": "networks",
+        "start": 180.77,
+        "end": 181.3
+      },
+      {
+        "word": "have",
+        "start": 181.3,
+        "end": 181.48
+      },
+      {
+        "word": "been",
+        "start": 181.48,
+        "end": 181.64
+      },
+      {
+        "word": "used",
+        "start": 181.64,
+        "end": 182.01
+      },
+      {
+        "word": "to",
+        "start": 182.04,
+        "end": 182.16
+      },
+      {
+        "word": "create",
+        "start": 182.16,
+        "end": 182.78
+      },
+      {
+        "word": "virtual",
+        "start": 182.85999999999999,
+        "end": 183.19
+      },
+      {
+        "word": "body",
+        "start": 183.19,
+        "end": 183.59
+      },
+      {
+        "word": "extensions",
+        "start": 183.66,
+        "end": 184.4
+      },
+      {
+        "word": "that",
+        "start": 184.62,
+        "end": 184.83
+      },
+      {
+        "word": "react",
+        "start": 184.83,
+        "end": 185.23
+      },
+      {
+        "word": "to",
+        "start": 185.23,
+        "end": 185.31
+      },
+      {
+        "word": "different",
+        "start": 185.31,
+        "end": 185.66
+      },
+      {
+        "word": "features",
+        "start": 185.66,
+        "end": 186.23
+      },
+      {
+        "word": "in",
+        "start": 186.23,
+        "end": 186.32
+      },
+      {
+        "word": "the",
+        "start": 186.32,
+        "end": 186.42
+      },
+      {
+        "word": "movement",
+        "start": 186.42,
+        "end": 186.89
+      },
+      {
+        "word": "of",
+        "start": 186.89,
+        "end": 186.96
+      },
+      {
+        "word": "the",
+        "start": 187.02,
+        "end": 187.08
+      },
+      {
+        "word": "dancers",
+        "start": 187.14,
+        "end": 187.68
+      }
+    ],
+    "words_written": [
+      {
+        "word": "For",
+        "start": 179.55,
+        "end": 179.7
+      },
+      {
+        "word": "instance,",
+        "start": 179.7,
+        "end": 180.15
+      },
+      {
+        "word": "neural",
+        "start": 180.49,
+        "end": 180.78
+      },
+      {
+        "word": "networks",
+        "start": 180.78,
+        "end": 181.3
+      },
+      {
+        "word": "have",
+        "start": 181.3,
+        "end": 181.48
+      },
+      {
+        "word": "been",
+        "start": 181.48,
+        "end": 181.64
+      },
+      {
+        "word": "used",
+        "start": 181.64,
+        "end": 182.01
+      },
+      {
+        "word": "to",
+        "start": 182.04,
+        "end": 182.16
+      },
+      {
+        "word": "create",
+        "start": 182.16,
+        "end": 182.78
+      },
+      {
+        "word": "virtual",
+        "start": 182.85999999999999,
+        "end": 183.19
+      },
+      {
+        "word": "body",
+        "start": 183.19,
+        "end": 183.59
+      },
+      {
+        "word": "extensions",
+        "start": 183.66,
+        "end": 184.4
+      },
+      {
+        "word": "that",
+        "start": 184.62,
+        "end": 184.83
+      },
+      {
+        "word": "react",
+        "start": 184.83,
+        "end": 185.23
+      },
+      {
+        "word": "to",
+        "start": 185.23,
+        "end": 185.31
+      },
+      {
+        "word": "different",
+        "start": 185.31,
+        "end": 185.66
+      },
+      {
+        "word": "features",
+        "start": 185.66,
+        "end": 186.23
+      },
+      {
+        "word": "in",
+        "start": 186.23,
+        "end": 186.32
+      },
+      {
+        "word": "the",
+        "start": 186.32,
+        "end": 186.42
+      },
+      {
+        "word": "movement",
+        "start": 186.42,
+        "end": 186.89
+      },
+      {
+        "word": "of",
+        "start": 186.89,
+        "end": 186.96
+      },
+      {
+        "word": "the",
+        "start": 187.02,
+        "end": 187.08
+      },
+      {
+        "word": "dancers.",
+        "start": 187.14,
+        "end": 187.68
+      }
+    ]
+  },
+  {
+    "timestr": "0187870_0196790",
+    "final_spoken": "robotic agents have also been explored extensively including drones that respond to specific types of movement from human dancers",
+    "final_written": "Robotic agents have also been explored extensively, including drones that respond to specific types of movement from human dancers,",
+    "words_spoken": [
+      {
+        "word": "robotic",
+        "start": 187.91,
+        "end": 188.62
+      },
+      {
+        "word": "agents",
+        "start": 188.65,
+        "end": 189.08
+      },
+      {
+        "word": "have",
+        "start": 189.08,
+        "end": 189.33
+      },
+      {
+        "word": "also",
+        "start": 189.33,
+        "end": 189.68
+      },
+      {
+        "word": "been",
+        "start": 189.68,
+        "end": 189.94
+      },
+      {
+        "word": "explored",
+        "start": 189.94,
+        "end": 190.43
+      },
+      {
+        "word": "extensively",
+        "start": 190.43,
+        "end": 191.17000000000002
+      },
+      {
+        "word": "including",
+        "start": 191.70000000000002,
+        "end": 192.23000000000002
+      },
+      {
+        "word": "drones",
+        "start": 192.23000000000002,
+        "end": 192.75
+      },
+      {
+        "word": "that",
+        "start": 192.75,
+        "end": 192.95000000000002
+      },
+      {
+        "word": "respond",
+        "start": 192.95000000000002,
+        "end": 193.37
+      },
+      {
+        "word": "to",
+        "start": 193.37,
+        "end": 193.72
+      },
+      {
+        "word": "specific",
+        "start": 193.72,
+        "end": 194.25
+      },
+      {
+        "word": "types",
+        "start": 194.25,
+        "end": 194.63
+      },
+      {
+        "word": "of",
+        "start": 194.63,
+        "end": 194.70000000000002
+      },
+      {
+        "word": "movement",
+        "start": 194.79,
+        "end": 195.24
+      },
+      {
+        "word": "from",
+        "start": 195.24,
+        "end": 195.59
+      },
+      {
+        "word": "human",
+        "start": 195.59,
+        "end": 195.93
+      },
+      {
+        "word": "dancers",
+        "start": 195.96,
+        "end": 196.5
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Robotic",
+        "start": 187.91,
+        "end": 188.62
+      },
+      {
+        "word": "agents",
+        "start": 188.65,
+        "end": 189.08
+      },
+      {
+        "word": "have",
+        "start": 189.08,
+        "end": 189.33
+      },
+      {
+        "word": "also",
+        "start": 189.33,
+        "end": 189.68
+      },
+      {
+        "word": "been",
+        "start": 189.68,
+        "end": 189.94
+      },
+      {
+        "word": "explored",
+        "start": 189.94,
+        "end": 190.43
+      },
+      {
+        "word": "extensively,",
+        "start": 190.43,
+        "end": 191.17000000000002
+      },
+      {
+        "word": "including",
+        "start": 191.70000000000002,
+        "end": 192.23000000000002
+      },
+      {
+        "word": "drones",
+        "start": 192.23000000000002,
+        "end": 192.75
+      },
+      {
+        "word": "that",
+        "start": 192.75,
+        "end": 192.95000000000002
+      },
+      {
+        "word": "respond",
+        "start": 192.95000000000002,
+        "end": 193.37
+      },
+      {
+        "word": "to",
+        "start": 193.37,
+        "end": 193.72
+      },
+      {
+        "word": "specific",
+        "start": 193.72,
+        "end": 194.25
+      },
+      {
+        "word": "types",
+        "start": 194.25,
+        "end": 194.63
+      },
+      {
+        "word": "of",
+        "start": 194.63,
+        "end": 194.70000000000002
+      },
+      {
+        "word": "movement",
+        "start": 194.79,
+        "end": 195.24
+      },
+      {
+        "word": "from",
+        "start": 195.24,
+        "end": 195.59
+      },
+      {
+        "word": "human",
+        "start": 195.59,
+        "end": 195.93
+      },
+      {
+        "word": "dancers,",
+        "start": 195.96,
+        "end": 196.51
+      }
+    ]
+  },
+  {
+    "timestr": "0196790_0201610",
+    "final_spoken": "and autonomous agents that collaboratively improvise with the human dancers",
+    "final_written": "and autonomous agents that collaboratively improvise with the human dancers.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 196.95999999999998,
+        "end": 197.15
+      },
+      {
+        "word": "autonomous",
+        "start": 197.15,
+        "end": 197.69
+      },
+      {
+        "word": "agents",
+        "start": 197.73999999999998,
+        "end": 198.26
+      },
+      {
+        "word": "that",
+        "start": 198.26,
+        "end": 198.48999999999998
+      },
+      {
+        "word": "collaboratively",
+        "start": 198.48999999999998,
+        "end": 199.38
+      },
+      {
+        "word": "improvise",
+        "start": 199.38,
+        "end": 200.07999999999998
+      },
+      {
+        "word": "with",
+        "start": 200.07999999999998,
+        "end": 200.22
+      },
+      {
+        "word": "the",
+        "start": 200.22,
+        "end": 200.26999999999998
+      },
+      {
+        "word": "human",
+        "start": 200.26999999999998,
+        "end": 200.6
+      },
+      {
+        "word": "dancers",
+        "start": 200.6,
+        "end": 201.23999999999998
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 196.95999999999998,
+        "end": 197.15
+      },
+      {
+        "word": "autonomous",
+        "start": 197.15,
+        "end": 197.69
+      },
+      {
+        "word": "agents",
+        "start": 197.73999999999998,
+        "end": 198.26
+      },
+      {
+        "word": "that",
+        "start": 198.26,
+        "end": 198.48999999999998
+      },
+      {
+        "word": "collaboratively",
+        "start": 198.48999999999998,
+        "end": 199.38
+      },
+      {
+        "word": "improvise",
+        "start": 199.38,
+        "end": 200.07999999999998
+      },
+      {
+        "word": "with",
+        "start": 200.07999999999998,
+        "end": 200.22
+      },
+      {
+        "word": "the",
+        "start": 200.22,
+        "end": 200.26999999999998
+      },
+      {
+        "word": "human",
+        "start": 200.26999999999998,
+        "end": 200.6
+      },
+      {
+        "word": "dancers.",
+        "start": 200.6,
+        "end": 201.23999999999998
+      }
+    ]
+  },
+  {
+    "timestr": "0201610_0209690",
+    "final_spoken": "the other perspective in our review is to look at how technology has influenced the creative process of dance in practice",
+    "final_written": "The other perspective in our review is to look at how technology has influenced the creative process of dance in practice.",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 201.98000000000002,
+        "end": 202.07000000000002
+      },
+      {
+        "word": "other",
+        "start": 202.07000000000002,
+        "end": 202.31
+      },
+      {
+        "word": "perspective",
+        "start": 202.31,
+        "end": 202.95000000000002
+      },
+      {
+        "word": "in",
+        "start": 202.95000000000002,
+        "end": 203.08
+      },
+      {
+        "word": "our",
+        "start": 203.08,
+        "end": 203.31
+      },
+      {
+        "word": "review",
+        "start": 203.31,
+        "end": 203.8
+      },
+      {
+        "word": "is",
+        "start": 204.06,
+        "end": 204.16000000000003
+      },
+      {
+        "word": "to",
+        "start": 204.16000000000003,
+        "end": 204.31
+      },
+      {
+        "word": "look",
+        "start": 204.31,
+        "end": 204.52
+      },
+      {
+        "word": "at",
+        "start": 204.52,
+        "end": 204.65
+      },
+      {
+        "word": "how",
+        "start": 204.65,
+        "end": 204.95000000000002
+      },
+      {
+        "word": "technology",
+        "start": 204.95000000000002,
+        "end": 205.63000000000002
+      },
+      {
+        "word": "has",
+        "start": 205.63000000000002,
+        "end": 205.94000000000003
+      },
+      {
+        "word": "influenced",
+        "start": 205.97000000000003,
+        "end": 206.54000000000002
+      },
+      {
+        "word": "the",
+        "start": 206.54000000000002,
+        "end": 206.60000000000002
+      },
+      {
+        "word": "creative",
+        "start": 206.60000000000002,
+        "end": 207.25
+      },
+      {
+        "word": "process",
+        "start": 207.35000000000002,
+        "end": 207.86
+      },
+      {
+        "word": "of",
+        "start": 207.86,
+        "end": 208.07000000000002
+      },
+      {
+        "word": "dance",
+        "start": 208.07000000000002,
+        "end": 208.44000000000003
+      },
+      {
+        "word": "in",
+        "start": 208.44000000000003,
+        "end": 208.62
+      },
+      {
+        "word": "practice",
+        "start": 208.62,
+        "end": 209.35000000000002
+      }
+    ],
+    "words_written": [
+      {
+        "word": "The",
+        "start": 201.98000000000002,
+        "end": 202.07000000000002
+      },
+      {
+        "word": "other",
+        "start": 202.07000000000002,
+        "end": 202.31
+      },
+      {
+        "word": "perspective",
+        "start": 202.31,
+        "end": 202.95000000000002
+      },
+      {
+        "word": "in",
+        "start": 202.95000000000002,
+        "end": 203.08
+      },
+      {
+        "word": "our",
+        "start": 203.08,
+        "end": 203.31
+      },
+      {
+        "word": "review",
+        "start": 203.31,
+        "end": 203.8
+      },
+      {
+        "word": "is",
+        "start": 204.06,
+        "end": 204.16000000000003
+      },
+      {
+        "word": "to",
+        "start": 204.16000000000003,
+        "end": 204.31
+      },
+      {
+        "word": "look",
+        "start": 204.31,
+        "end": 204.52
+      },
+      {
+        "word": "at",
+        "start": 204.52,
+        "end": 204.65
+      },
+      {
+        "word": "how",
+        "start": 204.65,
+        "end": 204.95000000000002
+      },
+      {
+        "word": "technology",
+        "start": 204.95000000000002,
+        "end": 205.63000000000002
+      },
+      {
+        "word": "has",
+        "start": 205.63000000000002,
+        "end": 205.94000000000003
+      },
+      {
+        "word": "influenced",
+        "start": 205.97000000000003,
+        "end": 206.54000000000002
+      },
+      {
+        "word": "the",
+        "start": 206.54000000000002,
+        "end": 206.60000000000002
+      },
+      {
+        "word": "creative",
+        "start": 206.60000000000002,
+        "end": 207.25
+      },
+      {
+        "word": "process",
+        "start": 207.35000000000002,
+        "end": 207.86
+      },
+      {
+        "word": "of",
+        "start": 207.86,
+        "end": 208.07000000000002
+      },
+      {
+        "word": "dance",
+        "start": 208.07000000000002,
+        "end": 208.44000000000003
+      },
+      {
+        "word": "in",
+        "start": 208.44000000000003,
+        "end": 208.62
+      },
+      {
+        "word": "practice.",
+        "start": 208.62,
+        "end": 209.35000000000002
+      }
+    ]
+  },
+  {
+    "timestr": "0209690_0217910",
+    "final_spoken": "those works include novel tools for choreographers such as the sketching interfaces that help reflect abstract choreographic ideas",
+    "final_written": "Those works include novel tools for choreographers, such as the sketching interfaces that help reflect abstract choreographic ideas,",
+    "words_spoken": [
+      {
+        "word": "those",
+        "start": 210.07,
+        "end": 210.3
+      },
+      {
+        "word": "works",
+        "start": 210.3,
+        "end": 210.62
+      },
+      {
+        "word": "include",
+        "start": 210.62,
+        "end": 211.18
+      },
+      {
+        "word": "novel",
+        "start": 211.18,
+        "end": 211.56
+      },
+      {
+        "word": "tools",
+        "start": 211.56,
+        "end": 211.98
+      },
+      {
+        "word": "for",
+        "start": 211.98,
+        "end": 212.12
+      },
+      {
+        "word": "choreographers",
+        "start": 212.12,
+        "end": 212.99
+      },
+      {
+        "word": "such",
+        "start": 213.17,
+        "end": 213.43
+      },
+      {
+        "word": "as",
+        "start": 213.43,
+        "end": 213.57
+      },
+      {
+        "word": "the",
+        "start": 213.57,
+        "end": 213.66
+      },
+      {
+        "word": "sketching",
+        "start": 213.66,
+        "end": 214.16
+      },
+      {
+        "word": "interfaces",
+        "start": 214.16,
+        "end": 214.88
+      },
+      {
+        "word": "that",
+        "start": 214.88,
+        "end": 215.07999999999998
+      },
+      {
+        "word": "help",
+        "start": 215.07999999999998,
+        "end": 215.4
+      },
+      {
+        "word": "reflect",
+        "start": 215.60999999999999,
+        "end": 215.9
+      },
+      {
+        "word": "abstract",
+        "start": 215.93,
+        "end": 216.44
+      },
+      {
+        "word": "choreographic",
+        "start": 216.44,
+        "end": 217.15
+      },
+      {
+        "word": "ideas",
+        "start": 217.15,
+        "end": 217.81
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Those",
+        "start": 210.07,
+        "end": 210.3
+      },
+      {
+        "word": "works",
+        "start": 210.3,
+        "end": 210.62
+      },
+      {
+        "word": "include",
+        "start": 210.62,
+        "end": 211.18
+      },
+      {
+        "word": "novel",
+        "start": 211.18,
+        "end": 211.56
+      },
+      {
+        "word": "tools",
+        "start": 211.56,
+        "end": 211.98
+      },
+      {
+        "word": "for",
+        "start": 211.98,
+        "end": 212.12
+      },
+      {
+        "word": "choreographers,",
+        "start": 212.12,
+        "end": 212.99
+      },
+      {
+        "word": "such",
+        "start": 213.17,
+        "end": 213.43
+      },
+      {
+        "word": "as",
+        "start": 213.43,
+        "end": 213.57
+      },
+      {
+        "word": "the",
+        "start": 213.57,
+        "end": 213.66
+      },
+      {
+        "word": "sketching",
+        "start": 213.66,
+        "end": 214.16
+      },
+      {
+        "word": "interfaces",
+        "start": 214.16,
+        "end": 214.88
+      },
+      {
+        "word": "that",
+        "start": 214.88,
+        "end": 215.07999999999998
+      },
+      {
+        "word": "help",
+        "start": 215.07999999999998,
+        "end": 215.4
+      },
+      {
+        "word": "reflect",
+        "start": 215.60999999999999,
+        "end": 215.9
+      },
+      {
+        "word": "abstract",
+        "start": 215.93,
+        "end": 216.44
+      },
+      {
+        "word": "choreographic",
+        "start": 216.44,
+        "end": 217.15
+      },
+      {
+        "word": "ideas,",
+        "start": 217.15,
+        "end": 217.81
+      }
+    ]
+  },
+  {
+    "timestr": "0217910_0223780",
+    "final_spoken": "and recording and annotating tools used across the development process of a dance project",
+    "final_written": "and recording and annotating tools used across the development process of a dance project.",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 218.06,
+        "end": 218.25
+      },
+      {
+        "word": "recording",
+        "start": 218.25,
+        "end": 218.88
+      },
+      {
+        "word": "and",
+        "start": 218.88,
+        "end": 219.01
+      },
+      {
+        "word": "annotating",
+        "start": 219.01,
+        "end": 219.64
+      },
+      {
+        "word": "tools",
+        "start": 219.64,
+        "end": 220.12
+      },
+      {
+        "word": "used",
+        "start": 220.31,
+        "end": 220.59
+      },
+      {
+        "word": "across",
+        "start": 220.59,
+        "end": 221.06
+      },
+      {
+        "word": "the",
+        "start": 221.06,
+        "end": 221.14
+      },
+      {
+        "word": "development",
+        "start": 221.14,
+        "end": 221.74
+      },
+      {
+        "word": "process",
+        "start": 221.74,
+        "end": 222.29999999999998
+      },
+      {
+        "word": "of",
+        "start": 222.29999999999998,
+        "end": 222.45
+      },
+      {
+        "word": "a",
+        "start": 222.45,
+        "end": 222.48
+      },
+      {
+        "word": "dance",
+        "start": 222.48,
+        "end": 222.78
+      },
+      {
+        "word": "project",
+        "start": 222.78,
+        "end": 223.44
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 218.06,
+        "end": 218.25
+      },
+      {
+        "word": "recording",
+        "start": 218.25,
+        "end": 218.88
+      },
+      {
+        "word": "and",
+        "start": 218.88,
+        "end": 219.01
+      },
+      {
+        "word": "annotating",
+        "start": 219.01,
+        "end": 219.64
+      },
+      {
+        "word": "tools",
+        "start": 219.64,
+        "end": 220.12
+      },
+      {
+        "word": "used",
+        "start": 220.31,
+        "end": 220.59
+      },
+      {
+        "word": "across",
+        "start": 220.59,
+        "end": 221.06
+      },
+      {
+        "word": "the",
+        "start": 221.06,
+        "end": 221.14
+      },
+      {
+        "word": "development",
+        "start": 221.14,
+        "end": 221.74
+      },
+      {
+        "word": "process",
+        "start": 221.74,
+        "end": 222.29999999999998
+      },
+      {
+        "word": "of",
+        "start": 222.29999999999998,
+        "end": 222.45
+      },
+      {
+        "word": "a",
+        "start": 222.45,
+        "end": 222.48
+      },
+      {
+        "word": "dance",
+        "start": 222.48,
+        "end": 222.78
+      },
+      {
+        "word": "project.",
+        "start": 222.78,
+        "end": 223.44
+      }
+    ]
+  },
+  {
+    "timestr": "0223780_0230790",
+    "final_spoken": "the common conclusion from those works is that the creative process of dance is highly complex and idiosyncratic",
+    "final_written": "The common conclusion from those works is that the creative process of dance is highly complex and idiosyncratic,",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 224.03,
+        "end": 224.11
+      },
+      {
+        "word": "common",
+        "start": 224.11,
+        "end": 224.54
+      },
+      {
+        "word": "conclusion",
+        "start": 224.54,
+        "end": 225.13
+      },
+      {
+        "word": "from",
+        "start": 225.13,
+        "end": 225.38
+      },
+      {
+        "word": "those",
+        "start": 225.38,
+        "end": 225.63
+      },
+      {
+        "word": "works",
+        "start": 225.63,
+        "end": 226.07
+      },
+      {
+        "word": "is",
+        "start": 226.13,
+        "end": 226.3
+      },
+      {
+        "word": "that",
+        "start": 226.3,
+        "end": 226.46
+      },
+      {
+        "word": "the",
+        "start": 226.46,
+        "end": 226.52
+      },
+      {
+        "word": "creative",
+        "start": 226.52,
+        "end": 227.1
+      },
+      {
+        "word": "process",
+        "start": 227.1,
+        "end": 227.56
+      },
+      {
+        "word": "of",
+        "start": 227.56,
+        "end": 227.7
+      },
+      {
+        "word": "dance",
+        "start": 227.7,
+        "end": 228.11
+      },
+      {
+        "word": "is",
+        "start": 228.14000000000001,
+        "end": 228.27
+      },
+      {
+        "word": "highly",
+        "start": 228.27,
+        "end": 228.66
+      },
+      {
+        "word": "complex",
+        "start": 228.66,
+        "end": 229.34
+      },
+      {
+        "word": "and",
+        "start": 229.4,
+        "end": 229.56
+      },
+      {
+        "word": "idiosyncratic",
+        "start": 229.56,
+        "end": 230.57
+      }
+    ],
+    "words_written": [
+      {
+        "word": "The",
+        "start": 224.03,
+        "end": 224.11
+      },
+      {
+        "word": "common",
+        "start": 224.11,
+        "end": 224.54
+      },
+      {
+        "word": "conclusion",
+        "start": 224.54,
+        "end": 225.13
+      },
+      {
+        "word": "from",
+        "start": 225.13,
+        "end": 225.38
+      },
+      {
+        "word": "those",
+        "start": 225.38,
+        "end": 225.63
+      },
+      {
+        "word": "works",
+        "start": 225.63,
+        "end": 226.07
+      },
+      {
+        "word": "is",
+        "start": 226.13,
+        "end": 226.3
+      },
+      {
+        "word": "that",
+        "start": 226.3,
+        "end": 226.46
+      },
+      {
+        "word": "the",
+        "start": 226.46,
+        "end": 226.52
+      },
+      {
+        "word": "creative",
+        "start": 226.52,
+        "end": 227.1
+      },
+      {
+        "word": "process",
+        "start": 227.1,
+        "end": 227.56
+      },
+      {
+        "word": "of",
+        "start": 227.56,
+        "end": 227.7
+      },
+      {
+        "word": "dance",
+        "start": 227.7,
+        "end": 228.11
+      },
+      {
+        "word": "is",
+        "start": 228.14000000000001,
+        "end": 228.27
+      },
+      {
+        "word": "highly",
+        "start": 228.27,
+        "end": 228.66
+      },
+      {
+        "word": "complex",
+        "start": 228.66,
+        "end": 229.35
+      },
+      {
+        "word": "and",
+        "start": 229.4,
+        "end": 229.56
+      },
+      {
+        "word": "idiosyncratic,",
+        "start": 229.56,
+        "end": 230.57
+      }
+    ]
+  },
+  {
+    "timestr": "0230790_0235990",
+    "final_spoken": "and the introduction of technology may produce unexpected impact for instance",
+    "final_written": "and the introduction of technology may produce unexpected impact. For instance,",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 231.04,
+        "end": 231.17999999999998
+      },
+      {
+        "word": "the",
+        "start": 231.17999999999998,
+        "end": 231.23
+      },
+      {
+        "word": "introduction",
+        "start": 231.23,
+        "end": 231.88
+      },
+      {
+        "word": "of",
+        "start": 231.88,
+        "end": 232.0
+      },
+      {
+        "word": "technology",
+        "start": 232.0,
+        "end": 232.70999999999998
+      },
+      {
+        "word": "may",
+        "start": 232.76,
+        "end": 232.94
+      },
+      {
+        "word": "produce",
+        "start": 232.94,
+        "end": 233.4
+      },
+      {
+        "word": "unexpected",
+        "start": 233.44,
+        "end": 234.17
+      },
+      {
+        "word": "impact",
+        "start": 234.20999999999998,
+        "end": 234.84
+      },
+      {
+        "word": "for",
+        "start": 235.16,
+        "end": 235.37
+      },
+      {
+        "word": "instance",
+        "start": 235.37,
+        "end": 235.95
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 231.04,
+        "end": 231.17999999999998
+      },
+      {
+        "word": "the",
+        "start": 231.17999999999998,
+        "end": 231.23
+      },
+      {
+        "word": "introduction",
+        "start": 231.23,
+        "end": 231.88
+      },
+      {
+        "word": "of",
+        "start": 231.88,
+        "end": 232.0
+      },
+      {
+        "word": "technology",
+        "start": 232.0,
+        "end": 232.70999999999998
+      },
+      {
+        "word": "may",
+        "start": 232.76,
+        "end": 232.94
+      },
+      {
+        "word": "produce",
+        "start": 232.94,
+        "end": 233.4
+      },
+      {
+        "word": "unexpected",
+        "start": 233.44,
+        "end": 234.17
+      },
+      {
+        "word": "impact.",
+        "start": 234.20999999999998,
+        "end": 234.84
+      },
+      {
+        "word": "For",
+        "start": 235.16,
+        "end": 235.37
+      },
+      {
+        "word": "instance,",
+        "start": 235.37,
+        "end": 235.95
+      }
+    ]
+  },
+  {
+    "timestr": "0235990_0243410",
+    "final_spoken": "while choreographic tools with online user interface makes communication between choreographers and dancers more easily accessible",
+    "final_written": "while choreographic tools with online user interface makes communication between choreographers and dancers more easily accessible,",
+    "words_spoken": [
+      {
+        "word": "while",
+        "start": 236.16,
+        "end": 236.31
+      },
+      {
+        "word": "choreographic",
+        "start": 236.31,
+        "end": 237.10000000000002
+      },
+      {
+        "word": "tools",
+        "start": 237.10000000000002,
+        "end": 237.51000000000002
+      },
+      {
+        "word": "with",
+        "start": 237.51000000000002,
+        "end": 237.70000000000002
+      },
+      {
+        "word": "online",
+        "start": 237.70000000000002,
+        "end": 238.13
+      },
+      {
+        "word": "user",
+        "start": 238.13,
+        "end": 238.38
+      },
+      {
+        "word": "interface",
+        "start": 238.38,
+        "end": 239.13
+      },
+      {
+        "word": "makes",
+        "start": 239.21,
+        "end": 239.5
+      },
+      {
+        "word": "communication",
+        "start": 239.5,
+        "end": 240.28
+      },
+      {
+        "word": "between",
+        "start": 240.28,
+        "end": 240.60000000000002
+      },
+      {
+        "word": "choreographers",
+        "start": 240.60000000000002,
+        "end": 241.43
+      },
+      {
+        "word": "and",
+        "start": 241.43,
+        "end": 241.55
+      },
+      {
+        "word": "dancers",
+        "start": 241.55,
+        "end": 242.06
+      },
+      {
+        "word": "more",
+        "start": 242.06,
+        "end": 242.28
+      },
+      {
+        "word": "easily",
+        "start": 242.31,
+        "end": 242.58
+      },
+      {
+        "word": "accessible",
+        "start": 242.58,
+        "end": 243.28
+      }
+    ],
+    "words_written": [
+      {
+        "word": "while",
+        "start": 236.16,
+        "end": 236.31
+      },
+      {
+        "word": "choreographic",
+        "start": 236.31,
+        "end": 237.10000000000002
+      },
+      {
+        "word": "tools",
+        "start": 237.10000000000002,
+        "end": 237.51000000000002
+      },
+      {
+        "word": "with",
+        "start": 237.51000000000002,
+        "end": 237.70000000000002
+      },
+      {
+        "word": "online",
+        "start": 237.70000000000002,
+        "end": 238.13
+      },
+      {
+        "word": "user",
+        "start": 238.13,
+        "end": 238.38
+      },
+      {
+        "word": "interface",
+        "start": 238.38,
+        "end": 239.13
+      },
+      {
+        "word": "makes",
+        "start": 239.21,
+        "end": 239.5
+      },
+      {
+        "word": "communication",
+        "start": 239.5,
+        "end": 240.28
+      },
+      {
+        "word": "between",
+        "start": 240.28,
+        "end": 240.60000000000002
+      },
+      {
+        "word": "choreographers",
+        "start": 240.60000000000002,
+        "end": 241.43
+      },
+      {
+        "word": "and",
+        "start": 241.43,
+        "end": 241.55
+      },
+      {
+        "word": "dancers",
+        "start": 241.55,
+        "end": 242.06
+      },
+      {
+        "word": "more",
+        "start": 242.06,
+        "end": 242.28
+      },
+      {
+        "word": "easily",
+        "start": 242.31,
+        "end": 242.58
+      },
+      {
+        "word": "accessible,",
+        "start": 242.58,
+        "end": 243.28
+      }
+    ]
+  },
+  {
+    "timestr": "0243410_0252415",
+    "final_spoken": "they also cause disturbance in the creative process due to the change of context from face to face rehearsals to the online text communications",
+    "final_written": "they also cause disturbance in the creative process, due to the change of context from face-to-face rehearsals to the online text communications.",
+    "words_spoken": [
+      {
+        "word": "they",
+        "start": 243.57999999999998,
+        "end": 243.68
+      },
+      {
+        "word": "also",
+        "start": 243.68,
+        "end": 244.01
+      },
+      {
+        "word": "cause",
+        "start": 244.01,
+        "end": 244.47
+      },
+      {
+        "word": "disturbance",
+        "start": 244.47,
+        "end": 245.21
+      },
+      {
+        "word": "in",
+        "start": 245.25,
+        "end": 245.39
+      },
+      {
+        "word": "the",
+        "start": 245.39,
+        "end": 245.44
+      },
+      {
+        "word": "creative",
+        "start": 245.44,
+        "end": 245.85
+      },
+      {
+        "word": "process",
+        "start": 245.85,
+        "end": 246.46
+      },
+      {
+        "word": "due",
+        "start": 246.81,
+        "end": 246.94
+      },
+      {
+        "word": "to",
+        "start": 246.94,
+        "end": 247.06
+      },
+      {
+        "word": "the",
+        "start": 247.12,
+        "end": 247.23
+      },
+      {
+        "word": "change",
+        "start": 247.23,
+        "end": 247.66
+      },
+      {
+        "word": "of",
+        "start": 247.66,
+        "end": 247.81
+      },
+      {
+        "word": "context",
+        "start": 247.81,
+        "end": 248.32
+      },
+      {
+        "word": "from",
+        "start": 248.32,
+        "end": 248.56
+      },
+      {
+        "word": "face",
+        "start": 248.56,
+        "end": 248.81
+      },
+      {
+        "word": "to",
+        "start": 248.81,
+        "end": 248.93
+      },
+      {
+        "word": "face",
+        "start": 248.93,
+        "end": 249.22
+      },
+      {
+        "word": "rehearsals",
+        "start": 249.22,
+        "end": 249.87
+      },
+      {
+        "word": "to",
+        "start": 250.07999999999998,
+        "end": 250.21
+      },
+      {
+        "word": "the",
+        "start": 250.21,
+        "end": 250.28
+      },
+      {
+        "word": "online",
+        "start": 250.28,
+        "end": 250.85
+      },
+      {
+        "word": "text",
+        "start": 250.85,
+        "end": 251.23
+      },
+      {
+        "word": "communications",
+        "start": 251.23,
+        "end": 252.10999999999999
+      }
+    ],
+    "words_written": [
+      {
+        "word": "they",
+        "start": 243.57999999999998,
+        "end": 243.68
+      },
+      {
+        "word": "also",
+        "start": 243.68,
+        "end": 244.01
+      },
+      {
+        "word": "cause",
+        "start": 244.01,
+        "end": 244.47
+      },
+      {
+        "word": "disturbance",
+        "start": 244.47,
+        "end": 245.21
+      },
+      {
+        "word": "in",
+        "start": 245.25,
+        "end": 245.39
+      },
+      {
+        "word": "the",
+        "start": 245.39,
+        "end": 245.44
+      },
+      {
+        "word": "creative",
+        "start": 245.44,
+        "end": 245.85
+      },
+      {
+        "word": "process,",
+        "start": 245.85,
+        "end": 246.46
+      },
+      {
+        "word": "due",
+        "start": 246.81,
+        "end": 246.94
+      },
+      {
+        "word": "to",
+        "start": 246.94,
+        "end": 247.06
+      },
+      {
+        "word": "the",
+        "start": 247.12,
+        "end": 247.23
+      },
+      {
+        "word": "change",
+        "start": 247.23,
+        "end": 247.66
+      },
+      {
+        "word": "of",
+        "start": 247.66,
+        "end": 247.81
+      },
+      {
+        "word": "context",
+        "start": 247.81,
+        "end": 248.32
+      },
+      {
+        "word": "from",
+        "start": 248.32,
+        "end": 248.56
+      },
+      {
+        "word": "face-to-face",
+        "start": 248.56,
+        "end": 249.22
+      },
+      {
+        "word": "rehearsals",
+        "start": 249.22,
+        "end": 249.87
+      },
+      {
+        "word": "to",
+        "start": 250.07999999999998,
+        "end": 250.21
+      },
+      {
+        "word": "the",
+        "start": 250.21,
+        "end": 250.28
+      },
+      {
+        "word": "online",
+        "start": 250.28,
+        "end": 250.85
+      },
+      {
+        "word": "text",
+        "start": 250.85,
+        "end": 251.23
+      },
+      {
+        "word": "communications.",
+        "start": 251.23,
+        "end": 252.10999999999999
+      }
+    ]
+  },
+  {
+    "timestr": "0252415_0258640",
+    "final_spoken": "overall the challenges and opportunities reflected in the field of dance during the past twenty years",
+    "final_written": "Overall, the challenges and opportunities reflected in the field of dance during the past 20 years",
+    "words_spoken": [
+      {
+        "word": "overall",
+        "start": 252.635,
+        "end": 253.315
+      },
+      {
+        "word": "the",
+        "start": 253.605,
+        "end": 253.685
+      },
+      {
+        "word": "challenges",
+        "start": 253.685,
+        "end": 254.375
+      },
+      {
+        "word": "and",
+        "start": 254.375,
+        "end": 254.525
+      },
+      {
+        "word": "opportunities",
+        "start": 254.525,
+        "end": 255.375
+      },
+      {
+        "word": "reflected",
+        "start": 255.375,
+        "end": 256.015
+      },
+      {
+        "word": "in",
+        "start": 256.075,
+        "end": 256.145
+      },
+      {
+        "word": "the",
+        "start": 256.145,
+        "end": 256.22499999999997
+      },
+      {
+        "word": "field",
+        "start": 256.22499999999997,
+        "end": 256.525
+      },
+      {
+        "word": "of",
+        "start": 256.525,
+        "end": 256.685
+      },
+      {
+        "word": "dance",
+        "start": 256.685,
+        "end": 257.105
+      },
+      {
+        "word": "during",
+        "start": 257.135,
+        "end": 257.395
+      },
+      {
+        "word": "the",
+        "start": 257.395,
+        "end": 257.445
+      },
+      {
+        "word": "past",
+        "start": 257.445,
+        "end": 257.795
+      },
+      {
+        "word": "twenty",
+        "start": 257.795,
+        "end": 258.055
+      },
+      {
+        "word": "years",
+        "start": 258.055,
+        "end": 258.515
+      }
+    ],
+    "words_written": [
+      {
+        "word": "Overall,",
+        "start": 252.635,
+        "end": 253.315
+      },
+      {
+        "word": "the",
+        "start": 253.605,
+        "end": 253.685
+      },
+      {
+        "word": "challenges",
+        "start": 253.685,
+        "end": 254.375
+      },
+      {
+        "word": "and",
+        "start": 254.375,
+        "end": 254.525
+      },
+      {
+        "word": "opportunities",
+        "start": 254.525,
+        "end": 255.375
+      },
+      {
+        "word": "reflected",
+        "start": 255.375,
+        "end": 256.015
+      },
+      {
+        "word": "in",
+        "start": 256.075,
+        "end": 256.145
+      },
+      {
+        "word": "the",
+        "start": 256.145,
+        "end": 256.22499999999997
+      },
+      {
+        "word": "field",
+        "start": 256.22499999999997,
+        "end": 256.525
+      },
+      {
+        "word": "of",
+        "start": 256.525,
+        "end": 256.685
+      },
+      {
+        "word": "dance",
+        "start": 256.685,
+        "end": 257.105
+      },
+      {
+        "word": "during",
+        "start": 257.135,
+        "end": 257.395
+      },
+      {
+        "word": "the",
+        "start": 257.395,
+        "end": 257.445
+      },
+      {
+        "word": "past",
+        "start": 257.445,
+        "end": 257.815
+      },
+      {
+        "word": "20",
+        "start": 257.815,
+        "end": 258.075
+      },
+      {
+        "word": "years",
+        "start": 258.075,
+        "end": 258.515
+      }
+    ]
+  },
+  {
+    "timestr": "0258640_0265880",
+    "final_spoken": "contributed a wealth of knowledge that benefit broader hci research in the context of creativity support and beyond",
+    "final_written": "contributed a wealth of knowledge that benefit broader HCI research in the context of creativity support and beyond.",
+    "words_spoken": [
+      {
+        "word": "contributed",
+        "start": 258.78,
+        "end": 259.4
+      },
+      {
+        "word": "a",
+        "start": 259.4,
+        "end": 259.47999999999996
+      },
+      {
+        "word": "wealth",
+        "start": 259.47999999999996,
+        "end": 259.88
+      },
+      {
+        "word": "of",
+        "start": 259.88,
+        "end": 260.06
+      },
+      {
+        "word": "knowledge",
+        "start": 260.06,
+        "end": 260.63
+      },
+      {
+        "word": "that",
+        "start": 260.63,
+        "end": 260.84999999999997
+      },
+      {
+        "word": "benefit",
+        "start": 260.84999999999997,
+        "end": 261.43
+      },
+      {
+        "word": "broader",
+        "start": 261.43,
+        "end": 261.89
+      },
+      {
+        "word": "hci",
+        "start": 261.89,
+        "end": 262.25
+      },
+      {
+        "word": "research",
+        "start": 262.25,
+        "end": 262.82
+      },
+      {
+        "word": "in",
+        "start": 262.82,
+        "end": 262.93
+      },
+      {
+        "word": "the",
+        "start": 262.93,
+        "end": 262.97999999999996
+      },
+      {
+        "word": "context",
+        "start": 262.97999999999996,
+        "end": 263.59
+      },
+      {
+        "word": "of",
+        "start": 263.59,
+        "end": 263.78
+      },
+      {
+        "word": "creativity",
+        "start": 263.78,
+        "end": 264.43
+      },
+      {
+        "word": "support",
+        "start": 264.43,
+        "end": 265.02
+      },
+      {
+        "word": "and",
+        "start": 265.02,
+        "end": 265.14
+      },
+      {
+        "word": "beyond",
+        "start": 265.14,
+        "end": 265.49
+      }
+    ],
+    "words_written": [
+      {
+        "word": "contributed",
+        "start": 258.78,
+        "end": 259.4
+      },
+      {
+        "word": "a",
+        "start": 259.4,
+        "end": 259.47999999999996
+      },
+      {
+        "word": "wealth",
+        "start": 259.47999999999996,
+        "end": 259.88
+      },
+      {
+        "word": "of",
+        "start": 259.88,
+        "end": 260.06
+      },
+      {
+        "word": "knowledge",
+        "start": 260.06,
+        "end": 260.63
+      },
+      {
+        "word": "that",
+        "start": 260.63,
+        "end": 260.84999999999997
+      },
+      {
+        "word": "benefit",
+        "start": 260.84999999999997,
+        "end": 261.43
+      },
+      {
+        "word": "broader",
+        "start": 261.43,
+        "end": 261.89
+      },
+      {
+        "word": "HCI",
+        "start": 261.89,
+        "end": 262.25
+      },
+      {
+        "word": "research",
+        "start": 262.25,
+        "end": 262.82
+      },
+      {
+        "word": "in",
+        "start": 262.82,
+        "end": 262.93
+      },
+      {
+        "word": "the",
+        "start": 262.93,
+        "end": 262.97999999999996
+      },
+      {
+        "word": "context",
+        "start": 262.97999999999996,
+        "end": 263.59
+      },
+      {
+        "word": "of",
+        "start": 263.59,
+        "end": 263.78
+      },
+      {
+        "word": "creativity",
+        "start": 263.78,
+        "end": 264.43
+      },
+      {
+        "word": "support",
+        "start": 264.43,
+        "end": 265.02
+      },
+      {
+        "word": "and",
+        "start": 265.02,
+        "end": 265.14
+      },
+      {
+        "word": "beyond.",
+        "start": 265.14,
+        "end": 265.49
+      }
+    ]
+  },
+  {
+    "timestr": "0265880_0272740",
+    "final_spoken": "the focus on the lived experience of the body and the attention to the diverse and specific cultural context in dance",
+    "final_written": "The focus on the lived experience of the body and the attention to the diverse and specific cultural context in dance",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 266.13,
+        "end": 266.2
+      },
+      {
+        "word": "focus",
+        "start": 266.2,
+        "end": 266.63
+      },
+      {
+        "word": "on",
+        "start": 266.63,
+        "end": 266.78
+      },
+      {
+        "word": "the",
+        "start": 266.78,
+        "end": 266.83
+      },
+      {
+        "word": "lived",
+        "start": 266.83,
+        "end": 267.13
+      },
+      {
+        "word": "experience",
+        "start": 267.13,
+        "end": 267.83
+      },
+      {
+        "word": "of",
+        "start": 267.83,
+        "end": 267.96
+      },
+      {
+        "word": "the",
+        "start": 267.96,
+        "end": 268.02
+      },
+      {
+        "word": "body",
+        "start": 268.02,
+        "end": 268.44
+      },
+      {
+        "word": "and",
+        "start": 268.7,
+        "end": 268.82
+      },
+      {
+        "word": "the",
+        "start": 268.82,
+        "end": 268.90999999999997
+      },
+      {
+        "word": "attention",
+        "start": 268.90999999999997,
+        "end": 269.46
+      },
+      {
+        "word": "to",
+        "start": 269.46,
+        "end": 269.6
+      },
+      {
+        "word": "the",
+        "start": 269.6,
+        "end": 269.67
+      },
+      {
+        "word": "diverse",
+        "start": 269.67,
+        "end": 270.23
+      },
+      {
+        "word": "and",
+        "start": 270.23,
+        "end": 270.34
+      },
+      {
+        "word": "specific",
+        "start": 270.34,
+        "end": 270.96
+      },
+      {
+        "word": "cultural",
+        "start": 270.96,
+        "end": 271.38
+      },
+      {
+        "word": "context",
+        "start": 271.38,
+        "end": 271.96999999999997
+      },
+      {
+        "word": "in",
+        "start": 271.96999999999997,
+        "end": 272.09
+      },
+      {
+        "word": "dance",
+        "start": 272.13,
+        "end": 272.6
+      }
+    ],
+    "words_written": [
+      {
+        "word": "The",
+        "start": 266.13,
+        "end": 266.2
+      },
+      {
+        "word": "focus",
+        "start": 266.2,
+        "end": 266.63
+      },
+      {
+        "word": "on",
+        "start": 266.63,
+        "end": 266.78
+      },
+      {
+        "word": "the",
+        "start": 266.78,
+        "end": 266.83
+      },
+      {
+        "word": "lived",
+        "start": 266.83,
+        "end": 267.13
+      },
+      {
+        "word": "experience",
+        "start": 267.13,
+        "end": 267.83
+      },
+      {
+        "word": "of",
+        "start": 267.83,
+        "end": 267.96
+      },
+      {
+        "word": "the",
+        "start": 267.96,
+        "end": 268.02
+      },
+      {
+        "word": "body",
+        "start": 268.02,
+        "end": 268.44
+      },
+      {
+        "word": "and",
+        "start": 268.7,
+        "end": 268.82
+      },
+      {
+        "word": "the",
+        "start": 268.82,
+        "end": 268.90999999999997
+      },
+      {
+        "word": "attention",
+        "start": 268.90999999999997,
+        "end": 269.46
+      },
+      {
+        "word": "to",
+        "start": 269.46,
+        "end": 269.6
+      },
+      {
+        "word": "the",
+        "start": 269.6,
+        "end": 269.67
+      },
+      {
+        "word": "diverse",
+        "start": 269.67,
+        "end": 270.23
+      },
+      {
+        "word": "and",
+        "start": 270.23,
+        "end": 270.34
+      },
+      {
+        "word": "specific",
+        "start": 270.34,
+        "end": 270.96
+      },
+      {
+        "word": "cultural",
+        "start": 270.96,
+        "end": 271.38
+      },
+      {
+        "word": "context",
+        "start": 271.38,
+        "end": 271.96999999999997
+      },
+      {
+        "word": "in",
+        "start": 271.96999999999997,
+        "end": 272.09
+      },
+      {
+        "word": "dance",
+        "start": 272.13,
+        "end": 272.6
+      }
+    ]
+  },
+  {
+    "timestr": "0272740_0277455",
+    "final_spoken": "embody the characteristics of what we call the third wave shift of hci",
+    "final_written": "embody the characteristics of what we call the third wave shift of HCI.",
+    "words_spoken": [
+      {
+        "word": "embody",
+        "start": 272.88,
+        "end": 273.31
+      },
+      {
+        "word": "the",
+        "start": 273.31,
+        "end": 273.38
+      },
+      {
+        "word": "characteristics",
+        "start": 273.38,
+        "end": 274.41
+      },
+      {
+        "word": "of",
+        "start": 274.41,
+        "end": 274.55
+      },
+      {
+        "word": "what",
+        "start": 274.55,
+        "end": 274.75
+      },
+      {
+        "word": "we",
+        "start": 274.75,
+        "end": 274.87
+      },
+      {
+        "word": "call",
+        "start": 274.87,
+        "end": 275.29
+      },
+      {
+        "word": "the",
+        "start": 275.42,
+        "end": 275.5
+      },
+      {
+        "word": "third",
+        "start": 275.5,
+        "end": 275.83
+      },
+      {
+        "word": "wave",
+        "start": 275.83,
+        "end": 276.1
+      },
+      {
+        "word": "shift",
+        "start": 276.1,
+        "end": 276.45
+      },
+      {
+        "word": "of",
+        "start": 276.45,
+        "end": 276.6
+      },
+      {
+        "word": "hci",
+        "start": 276.6,
+        "end": 276.98
+      }
+    ],
+    "words_written": [
+      {
+        "word": "embody",
+        "start": 272.88,
+        "end": 273.31
+      },
+      {
+        "word": "the",
+        "start": 273.31,
+        "end": 273.38
+      },
+      {
+        "word": "characteristics",
+        "start": 273.38,
+        "end": 274.41
+      },
+      {
+        "word": "of",
+        "start": 274.41,
+        "end": 274.55
+      },
+      {
+        "word": "what",
+        "start": 274.55,
+        "end": 274.75
+      },
+      {
+        "word": "we",
+        "start": 274.75,
+        "end": 274.87
+      },
+      {
+        "word": "call",
+        "start": 274.87,
+        "end": 275.29
+      },
+      {
+        "word": "the",
+        "start": 275.42,
+        "end": 275.5
+      },
+      {
+        "word": "third",
+        "start": 275.5,
+        "end": 275.83
+      },
+      {
+        "word": "wave",
+        "start": 275.83,
+        "end": 276.1
+      },
+      {
+        "word": "shift",
+        "start": 276.1,
+        "end": 276.45
+      },
+      {
+        "word": "of",
+        "start": 276.45,
+        "end": 276.6
+      },
+      {
+        "word": "HCI.",
+        "start": 276.6,
+        "end": 276.98
+      }
+    ]
+  },
+  {
+    "timestr": "0277455_0283630",
+    "final_spoken": "the unique offerings in hci dance research such as the bodily improvisation with robotic agents",
+    "final_written": "The unique offerings in HCI dance research, such as the bodily improvisation with robotic agents,",
+    "words_spoken": [
+      {
+        "word": "the",
+        "start": 277.775,
+        "end": 277.85499999999996
+      },
+      {
+        "word": "unique",
+        "start": 277.85499999999996,
+        "end": 278.245
+      },
+      {
+        "word": "offerings",
+        "start": 278.245,
+        "end": 278.765
+      },
+      {
+        "word": "in",
+        "start": 278.765,
+        "end": 278.885
+      },
+      {
+        "word": "hci",
+        "start": 278.885,
+        "end": 279.35499999999996
+      },
+      {
+        "word": "dance",
+        "start": 279.35499999999996,
+        "end": 279.66499999999996
+      },
+      {
+        "word": "research",
+        "start": 279.66499999999996,
+        "end": 280.305
+      },
+      {
+        "word": "such",
+        "start": 280.385,
+        "end": 280.655
+      },
+      {
+        "word": "as",
+        "start": 280.655,
+        "end": 280.815
+      },
+      {
+        "word": "the",
+        "start": 280.815,
+        "end": 280.865
+      },
+      {
+        "word": "bodily",
+        "start": 280.865,
+        "end": 281.375
+      },
+      {
+        "word": "improvisation",
+        "start": 281.375,
+        "end": 282.255
+      },
+      {
+        "word": "with",
+        "start": 282.255,
+        "end": 282.41499999999996
+      },
+      {
+        "word": "robotic",
+        "start": 282.41499999999996,
+        "end": 282.895
+      },
+      {
+        "word": "agents",
+        "start": 282.945,
+        "end": 283.585
+      }
+    ],
+    "words_written": [
+      {
+        "word": "The",
+        "start": 277.775,
+        "end": 277.85499999999996
+      },
+      {
+        "word": "unique",
+        "start": 277.85499999999996,
+        "end": 278.245
+      },
+      {
+        "word": "offerings",
+        "start": 278.245,
+        "end": 278.765
+      },
+      {
+        "word": "in",
+        "start": 278.765,
+        "end": 278.885
+      },
+      {
+        "word": "HCI",
+        "start": 278.885,
+        "end": 279.35499999999996
+      },
+      {
+        "word": "dance",
+        "start": 279.35499999999996,
+        "end": 279.66499999999996
+      },
+      {
+        "word": "research,",
+        "start": 279.66499999999996,
+        "end": 280.305
+      },
+      {
+        "word": "such",
+        "start": 280.385,
+        "end": 280.655
+      },
+      {
+        "word": "as",
+        "start": 280.655,
+        "end": 280.815
+      },
+      {
+        "word": "the",
+        "start": 280.815,
+        "end": 280.865
+      },
+      {
+        "word": "bodily",
+        "start": 280.865,
+        "end": 281.375
+      },
+      {
+        "word": "improvisation",
+        "start": 281.375,
+        "end": 282.255
+      },
+      {
+        "word": "with",
+        "start": 282.255,
+        "end": 282.41499999999996
+      },
+      {
+        "word": "robotic",
+        "start": 282.41499999999996,
+        "end": 282.895
+      },
+      {
+        "word": "agents,",
+        "start": 282.945,
+        "end": 283.585
+      }
+    ]
+  },
+  {
+    "timestr": "0283630_0288430",
+    "final_spoken": "and the attempts to reflect abstract movement qualities using computational tools",
+    "final_written": "and the attempts to reflect abstract movement qualities using computational tools,",
+    "words_spoken": [
+      {
+        "word": "and",
+        "start": 283.75,
+        "end": 283.9
+      },
+      {
+        "word": "the",
+        "start": 283.9,
+        "end": 283.99
+      },
+      {
+        "word": "attempts",
+        "start": 283.99,
+        "end": 284.53
+      },
+      {
+        "word": "to",
+        "start": 284.53,
+        "end": 284.68
+      },
+      {
+        "word": "reflect",
+        "start": 284.68,
+        "end": 285.19
+      },
+      {
+        "word": "abstract",
+        "start": 285.21999999999997,
+        "end": 285.75
+      },
+      {
+        "word": "movement",
+        "start": 285.75,
+        "end": 286.11
+      },
+      {
+        "word": "qualities",
+        "start": 286.11,
+        "end": 286.77
+      },
+      {
+        "word": "using",
+        "start": 286.8,
+        "end": 287.11
+      },
+      {
+        "word": "computational",
+        "start": 287.11,
+        "end": 287.77
+      },
+      {
+        "word": "tools",
+        "start": 287.77,
+        "end": 288.27
+      }
+    ],
+    "words_written": [
+      {
+        "word": "and",
+        "start": 283.75,
+        "end": 283.9
+      },
+      {
+        "word": "the",
+        "start": 283.9,
+        "end": 283.99
+      },
+      {
+        "word": "attempts",
+        "start": 283.99,
+        "end": 284.53
+      },
+      {
+        "word": "to",
+        "start": 284.53,
+        "end": 284.68
+      },
+      {
+        "word": "reflect",
+        "start": 284.68,
+        "end": 285.19
+      },
+      {
+        "word": "abstract",
+        "start": 285.21999999999997,
+        "end": 285.75
+      },
+      {
+        "word": "movement",
+        "start": 285.75,
+        "end": 286.11
+      },
+      {
+        "word": "qualities",
+        "start": 286.11,
+        "end": 286.77
+      },
+      {
+        "word": "using",
+        "start": 286.8,
+        "end": 287.11
+      },
+      {
+        "word": "computational",
+        "start": 287.11,
+        "end": 287.77
+      },
+      {
+        "word": "tools,",
+        "start": 287.77,
+        "end": 288.27
+      }
+    ]
+  },
+  {
+    "timestr": "0288430_0298650",
+    "final_spoken": "provoke future works in hci to rethink the relationships between human experience and technology thank you for watching and we invite you to read the paper for more details",
+    "final_written": "provoke future works in HCI to rethink the relationships between human experience and technology. Thank you for watching, and we invite you to read the paper for more details.",
+    "words_spoken": [
+      {
+        "word": "provoke",
+        "start": 288.62,
+        "end": 289.05
+      },
+      {
+        "word": "future",
+        "start": 289.05,
+        "end": 289.39
+      },
+      {
+        "word": "works",
+        "start": 289.39,
+        "end": 289.78000000000003
+      },
+      {
+        "word": "in",
+        "start": 289.78000000000003,
+        "end": 289.90000000000003
+      },
+      {
+        "word": "hci",
+        "start": 289.90000000000003,
+        "end": 290.45
+      },
+      {
+        "word": "to",
+        "start": 290.45,
+        "end": 290.61
+      },
+      {
+        "word": "rethink",
+        "start": 290.61,
+        "end": 291.2
+      },
+      {
+        "word": "the",
+        "start": 291.27,
+        "end": 291.35
+      },
+      {
+        "word": "relationships",
+        "start": 291.35,
+        "end": 292.17
+      },
+      {
+        "word": "between",
+        "start": 292.26,
+        "end": 292.57
+      },
+      {
+        "word": "human",
+        "start": 292.57,
+        "end": 292.92
+      },
+      {
+        "word": "experience",
+        "start": 292.92,
+        "end": 293.56
+      },
+      {
+        "word": "and",
+        "start": 293.56,
+        "end": 293.73
+      },
+      {
+        "word": "technology",
+        "start": 293.73,
+        "end": 294.32
+      },
+      {
+        "word": "thank",
+        "start": 295.12,
+        "end": 295.31
+      },
+      {
+        "word": "you",
+        "start": 295.31,
+        "end": 295.38
+      },
+      {
+        "word": "for",
+        "start": 295.38,
+        "end": 295.52
+      },
+      {
+        "word": "watching",
+        "start": 295.52,
+        "end": 296.01
+      },
+      {
+        "word": "and",
+        "start": 296.19,
+        "end": 296.35
+      },
+      {
+        "word": "we",
+        "start": 296.35,
+        "end": 296.47
+      },
+      {
+        "word": "invite",
+        "start": 296.47,
+        "end": 296.84000000000003
+      },
+      {
+        "word": "you",
+        "start": 296.84000000000003,
+        "end": 296.94
+      },
+      {
+        "word": "to",
+        "start": 296.94,
+        "end": 297.03000000000003
+      },
+      {
+        "word": "read",
+        "start": 297.03000000000003,
+        "end": 297.2
+      },
+      {
+        "word": "the",
+        "start": 297.2,
+        "end": 297.25
+      },
+      {
+        "word": "paper",
+        "start": 297.25,
+        "end": 297.69
+      },
+      {
+        "word": "for",
+        "start": 297.69,
+        "end": 297.81
+      },
+      {
+        "word": "more",
+        "start": 297.81,
+        "end": 298.03000000000003
+      },
+      {
+        "word": "details",
+        "start": 298.06,
+        "end": 298.62
+      }
+    ],
+    "words_written": [
+      {
+        "word": "provoke",
+        "start": 288.62,
+        "end": 289.05
+      },
+      {
+        "word": "future",
+        "start": 289.05,
+        "end": 289.39
+      },
+      {
+        "word": "works",
+        "start": 289.39,
+        "end": 289.78000000000003
+      },
+      {
+        "word": "in",
+        "start": 289.78000000000003,
+        "end": 289.90000000000003
+      },
+      {
+        "word": "HCI",
+        "start": 289.90000000000003,
+        "end": 290.45
+      },
+      {
+        "word": "to",
+        "start": 290.45,
+        "end": 290.61
+      },
+      {
+        "word": "rethink",
+        "start": 290.61,
+        "end": 291.2
+      },
+      {
+        "word": "the",
+        "start": 291.27,
+        "end": 291.35
+      },
+      {
+        "word": "relationships",
+        "start": 291.35,
+        "end": 292.17
+      },
+      {
+        "word": "between",
+        "start": 292.26,
+        "end": 292.57
+      },
+      {
+        "word": "human",
+        "start": 292.57,
+        "end": 292.92
+      },
+      {
+        "word": "experience",
+        "start": 292.92,
+        "end": 293.56
+      },
+      {
+        "word": "and",
+        "start": 293.56,
+        "end": 293.73
+      },
+      {
+        "word": "technology.",
+        "start": 293.73,
+        "end": 294.32
+      },
+      {
+        "word": "Thank",
+        "start": 295.12,
+        "end": 295.31
+      },
+      {
+        "word": "you",
+        "start": 295.31,
+        "end": 295.38
+      },
+      {
+        "word": "for",
+        "start": 295.38,
+        "end": 295.52
+      },
+      {
+        "word": "watching,",
+        "start": 295.52,
+        "end": 296.01
+      },
+      {
+        "word": "and",
+        "start": 296.19,
+        "end": 296.35
+      },
+      {
+        "word": "we",
+        "start": 296.35,
+        "end": 296.47
+      },
+      {
+        "word": "invite",
+        "start": 296.47,
+        "end": 296.84000000000003
+      },
+      {
+        "word": "you",
+        "start": 296.84000000000003,
+        "end": 296.94
+      },
+      {
+        "word": "to",
+        "start": 296.94,
+        "end": 297.03000000000003
+      },
+      {
+        "word": "read",
+        "start": 297.03000000000003,
+        "end": 297.2
+      },
+      {
+        "word": "the",
+        "start": 297.2,
+        "end": 297.25
+      },
+      {
+        "word": "paper",
+        "start": 297.25,
+        "end": 297.69
+      },
+      {
+        "word": "for",
+        "start": 297.69,
+        "end": 297.81
+      },
+      {
+        "word": "more",
+        "start": 297.81,
+        "end": 298.03000000000003
+      },
+      {
+        "word": "details.",
+        "start": 298.06,
+        "end": 298.62
+      }
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0014450.jpg",
+    "ocr_text": "Data Engagement Reconsidered: A Study of Automatic Stress Tracking Technology in Use\nXianghua Ding 1, Shuhan Wei 1, Xinning Gui 2, Ning Gu 1, Peng Zhang\n[1] Cooperative and Information Systems Lab, School of Computer Science, Fudan University, Shanghai, China [2] College of Information Sciences and Technology, Pennsylvania State University, PA, USA\nCHI202I\nPennState",
+    "speech_text": "Hi, I'm Xianghua Ding from Fudan University. I'm going to present a paper called Data Engagement Reconsidered. a study of automatic stress-tracking",
+    "start": 0,
+    "end": 14.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0045450.jpg",
+    "ocr_text": "The issues\nStress has become a growing health concern\nToo much stress could reduce study and work efficiency Long term exposure to high levels of stress could lead to mental and physical diseases, e.g. depression, hypertension, cardiovascular disease, infectious illnesses, and even cancer\nThe notion of stress is complex, involving not only psychological and emotional responses, but also physiological and bodily reactions",
+    "speech_text": "technology in use. In today's very fast-paced and busy world, stress has become a growing health concern. And also we calmly talk about stress every day. The notion of stress is very complex. There's no unified definition of stress yet. Usually, when we talk about stress, we mean psychological stress, which means our subjective feelings and perception of pressure. But there's also a physiological definition of stress, which means our bodily reaction to demands or changes.",
+    "start": 14.45,
+    "end": 45.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0088450.jpg",
+    "ocr_text": "Automatic stress-tracking techurorogie:\nMore and more wearable products have automatic stress-tracking features embedded\nDo these automatic stress tracking technologies actuallywork for peopleto manage their stress on daily basis?\nHuawei\nGarmin\nBased on an analysis of Heart Rate Variability (HRV): A reliable indicator of one's physiological stress level",
+    "speech_text": "No matter whether it's psychological or physiological stress, it's all very important for us to be aware and effectively manage our stress on a daily basis. Today in the market, we have more and more wearable products that have automatic stress-tracking technologies embedded in them. For example, Huawei, Garmin, Samsung, they all have related products that have automatic stress-tracking features. Most of these products, they track our stress based on analysis of a heart rate variability, or Hrv. which is proved to be a reliable indicator of one's physiological stress level. What is not so clear is how these automatic stress-tracking technologies actually work for people to manage their stress on a daily",
+    "start": 45.45,
+    "end": 88.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0104450.jpg",
+    "ocr_text": "The\nSemi-structured interviews with 17 participants\nTable 1. Participants\nGender\nDevice Watch GT Honor Watch Magic Honor Watch Magic, Watch GT Huawei B5 bracelet Honor Watch Magic Honor Watch Magic Watch GT Honor Watch Magic Watch GT Honor Watch Magic Watch GT Watch GT, Garmin vivosmart4 Watch GT Honor Watch Magic Honor Watch Magic, Watch GT Watch GT Garmin Forerunner 645 Music\nOccupation Exhibition Salesman Government Worker IT Manufacturing Trainee Technical Developer Design and Operation Worker Programmer Wearable Health Worker Business Operator Government Worker Programmer Unemployed Exercise physiology worker Customer service Unemployed Programmer Advertising designer Student\nLocation Shanghai Jilin Guangdong Beijing Henan Beijing Shenzhen Henan Shanghai Beijing Shenyang Finland and China Shanghai Shanghai Xian Shanghai Guangzhou\nID\nAge\nWe had been following up with some participants after the interviews.",
+    "speech_text": "basis. To address this issue, we conducted some structural interviews with 17 participants who had Had adopted some of these products and had some experience with automatic self stress tracking technologies.",
+    "start": 88.45,
+    "end": 104.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0134450.jpg",
+    "ocr_text": "Findin\nAdopted the watch and discovered with stress tracking feature\nOnly a few could meaningfully engage with the stress data, and most of them are confused\nIdentified data engagement challenges",
+    "speech_text": "From the study, we found that most of them adopted the wearable products not for the purpose of stress-tracking, but for other reasons such as not missing phone calls, and they only discovered the stress-tracking technology later on. And we found only very few of them could meaningfully engage with the stress data, And most of them were very confused and could not make, could not make effective use of the stress data. Through the study, we also identified a number of challenges for people to engage with the stress data.",
+    "start": 104.45,
+    "end": 134.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0167450.jpg",
+    "ocr_text": "Challenge 1: the lack of immediate aw\nResearch shows in-the-moment data engagement is critical for reflection(Slovak et al. CHI2017\nWhen stressed, usually people's minds are too occupied by distressing thoughts to check the stress data\n\"You call a customer, or do an interview, and you feel your heartbeat rising, but when you look at your watch, the stress data has notrisen.\"\n\"I was assigned with some tasks last time when I just started my internship.wow, what the hell!I could not believe it.I then asked others a lot of questions and looked up information.I was very stressed... But when you are truly stressed, surely you don't think of looking at the watch-you think of solving the current problem first.\"\nHuawei's stress-tracking app only updates every half hour which makes the issues of immediate awareness more salient.",
+    "speech_text": "The first challenge is the lack of immediate awareness. Previous research shows that in the moment data engagement is very important for reflection. But in our case, due to some technical issues or for For reasons of stress, the nature of stress itself, it's not very common for them to engage with the stress data in the moment of stress, e.g. Huawei's stress tracking technology could only update half an hour and it. It was commonly reported when people felt stressed they were too busy or too occupied that they would not look at the stress data at",
+    "start": 134.45,
+    "end": 167.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0196450.jpg",
+    "ocr_text": "Challenge 2: the lack of pre-required kn\nUsers do not know the difference between the psychological and physiological stress\n\"My understanding is that it mainly depends on your heart rate...For example, if your heart rate is relatively high, it will recognize that you may be a bit more stressed.\"\n\"I don't think it's accurate...Most time it is around noon, such as after eating, the stress is higher.I don't understand why...\nDo not know the underlying technical mechanisms",
+    "speech_text": "all. The second challenge comes with a lack of pre-required knowledge. As noted before, the notion of stress is pretty complex, Complex and we found during the study many times users were confused with the. high level of physiological stress data when they did not feel psychologically stressed. And the underlying technical mechanism of stress-tracking was not so straightforward, so many people had some misunderstanding of how it worked.",
+    "start": 167.45,
+    "end": 196.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0225450.jpg",
+    "ocr_text": "Challenge 3: the lack of communa\nP7 joined many sports-related groups, and could interpret sports data easily\n\"For those who bought the watch just for running, they would not understand it at all. He may only understand that the Chinese words or number there shows something about stress, but he wouldn't know what exactly the words or the number means.There is no way for me to know, andl believe most people wouldn't know either.lonly have a vague knowledge about it.\n\"I just check to see if my pace matches my heart rate.If you know how to run, then you will know)for example, if I run at a pace of 6, then my heart rate should be about 140.IfIrun ata pace of6one day but my heart rate suddenly reaches 150, will know that my athletic ability has droppedif my pace is6, and my heart rate becomes lower, e.g.it was lower than the previous140 and was 130, Iwill know that have improved.\"\nVS.\nBut have no idea of the stress data",
+    "speech_text": "The third challenge is the lack of communal support. Unlike other self-tracking technologies, such as sports-related self-tracking, Usually there, there are communities formed around these technologies and they can share. Related experience and knowledge for them to interpret the data together. but for stress there's a no corresponding communities there yet. so it was hard for them to learn from each other to interpret",
+    "start": 196.45,
+    "end": 225.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0270450.jpg",
+    "ocr_text": "Data engagement issues hig\nAutomatic tracking changes how we encounter the data\nUser's intention of tracking cannot be assumed anymore\nUser's encounter with the data is more casual.not deliberate\nThe requisite of pre-required knowledge cannot to be assumed",
+    "speech_text": "the data. So by focusing on such a relatively new self-tracking technology and relatively complex notion of stress, We uncovered a number of issues with data, engagement of data, engagement with self tracking technologies. First, we found that automatic tracking is not just to save the labor of tracking, but also it changes the very nature Of how people encounter with the data and engage with the data, e.g. cannot assume users intentional checking anymore. And that also means that many times users encounter with the data as in a more casual manner, not in a deliberate manner. And we cannot assume that they have the required knowledge already to interpret the data.",
+    "start": 225.45,
+    "end": 270.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0297450.jpg",
+    "ocr_text": "Take away\nData engagement is not simply looking at the user interface for analysis, but should be considered as part of self-tracking practices with technologies, embedded in a web of one's intention of tracking, domain knowledge, technical properties, other users, andlearningresources",
+    "speech_text": "So In future, we believe, with more and more health data being automatically collected and tracked, we we believe that. we should not just consider data engagement as looking at the user interface for analysis, but should consider it as a part of self-tracking practices with technologies that's embedded in the web or wants intentional tracking, domain knowledge, technical properties, other users, and",
+    "start": 270.45,
+    "end": 297.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0303450.jpg",
+    "ocr_text": "Thank you and questions?\nXianghua Ding Fudan University, China",
+    "speech_text": "learning resources. With that, I'd like to take questions, Sms. Khan.",
+    "start": 297.45,
+    "end": 303.45
+  }
+]

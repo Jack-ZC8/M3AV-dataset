@@ -1,0 +1,497 @@
+[
+  {
+    "speech_text": "Hi, I'm Xianghua Ding from Fudan University. I'm going to present a paper called Data Engagement Reconsidered. a study of automatic stress-tracking",
+    "related_sentences": [
+      {
+        "sentence": "Below, we turn our focus to the challenges of stress-tracking data engagement we uncovered from the study.",
+        "cos_similarity": 0.5578716993331909
+      },
+      {
+        "sentence": "Here we review the self-tracking work that is related to data engagement.",
+        "cos_similarity": 0.553752064704895
+      },
+      {
+        "sentence": "As shown in our study, one challenge of stress-tracking data engagement comes from how the data is encountered.",
+        "cos_similarity": 0.5487869381904602
+      },
+      {
+        "sentence": "The contribution of this paper is an empirical study on the use of automatic stress tracking in practice, and a more nuanced understanding of data engagement with self-tracking technologies.",
+        "cos_similarity": 0.529202401638031
+      },
+      {
+        "sentence": "The study highlights a number of challenges associated with users’ stresstracking data engagement, including the lack of immediate awareness of relevant data, the lack of pre-required knowledge, domain and technical, as well as the lack of corresponding communities of practice.",
+        "cos_similarity": 0.5266997814178467
+      },
+      {
+        "sentence": "Drawing on our study of the use of the automatic stress tracking technology in particular – a relatively recent development and more complicated technology, we made data engagement our focal point, and unpacked the underlying reasons contributing to these challenges.",
+        "cos_similarity": 0.5242108702659607
+      },
+      {
+        "sentence": "In the preceding sections, we presented a study on the use of the automatic stress tracking technology in practice, highlighting three challenges presented by its data engagement: a lack of immediate awareness preventing engagement with data in-the-moment, a lack of pre-required knowledge, domain and technical, and a lack of communal support.",
+        "cos_similarity": 0.5189443230628967
+      },
+      {
+        "sentence": "In this paper, we present a study of the use of a relatively recent and less straightforward stress-tracking technology-in-practice, highlighting the three primary challenges of data engagement with automatically-tracked stress data: a lack of immediate awareness, a lack of prerequisite expertise, and a lack of corresponding communities of practice.",
+        "cos_similarity": 0.48883169889450073
+      },
+      {
+        "sentence": "Adams et al. conducted a study comparing three stress tracking approaches in the real-world environment (self-report, EDA, and voice-based), and while the study found that these three approaches are about equally efective in diferent contexts, the study didn’t evaluate automatic stress tracking.",
+        "cos_similarity": 0.48134559392929077
+      },
+      {
+        "sentence": "This study unpacks some of the data engagement assumptions embedded in the related work on self-tracking technologies.",
+        "cos_similarity": 0.4534720778465271
+      }
+    ]
+  },
+  {
+    "speech_text": "technology in use. In today's very fast-paced and busy world, stress has become a growing health concern. And also we calmly talk about stress every day. The notion of stress is very complex. There's no unified definition of stress yet. Usually, when we talk about stress, we mean psychological stress, which means our subjective feelings and perception of pressure. But there's also a physiological definition of stress, which means our bodily reaction to demands or changes.",
+    "related_sentences": [
+      {
+        "sentence": "In everyday conversation, when people say “stress,” it usually means psychological stress.",
+        "cos_similarity": 0.7369961738586426
+      },
+      {
+        "sentence": "When people talk about stress in everyday life, they are usually referring to psychological or subjective feelings, such as tension, anxiety, and fear, which they frequently associate with an external event, like an upcoming exam or deadline at work.",
+        "cos_similarity": 0.7124360203742981
+      },
+      {
+        "sentence": "In psychology, stress refers to the feelings and perception of pressure.",
+        "cos_similarity": 0.6951627135276794
+      },
+      {
+        "sentence": "As such, the complexity of stress – e.g. involving both psychological and physiological, the external and the internal – makes interpreting its data more difcult than other tracked data, such as steps and calories, on the same device.",
+        "cos_similarity": 0.6797965168952942
+      },
+      {
+        "sentence": "Furthermore, stress involves not only psychological and emotional responses (such as anxiety, anger, sadness, fear, and frustration), but also physiological and bodily reactions.",
+        "cos_similarity": 0.6780653595924377
+      },
+      {
+        "sentence": "It holds that “stress occurs when a person perceives the demands of an environment stimuli to be greater than their ability to meet, mitigate, or alter those demands”.",
+        "cos_similarity": 0.6487618088722229
+      },
+      {
+        "sentence": "Broadly speaking, stress has been mainly examined in two ways, psychologically and physiologically, with the former focusing on psychological feelings and the perception of stress and the latter referring to the bodily response to external events.",
+        "cos_similarity": 0.6431421041488647
+      },
+      {
+        "sentence": "In the medical feld, the term “stress” is defned physiologically as “the non-specifc responses of the body to any demand for change”.",
+        "cos_similarity": 0.619890570640564
+      },
+      {
+        "sentence": "In today’s fast-paced and hectic world, stress is a growing health concern.",
+        "cos_similarity": 0.6146270036697388
+      },
+      {
+        "sentence": "Stress is as such perceived as a subjective concept, and in psychology, self-reporting is usually used to detect it .",
+        "cos_similarity": 0.5961577892303467
+      }
+    ]
+  },
+  {
+    "speech_text": "No matter whether it's psychological or physiological stress, it's all very important for us to be aware and effectively manage our stress on a daily basis. Today in the market, we have more and more wearable products that have automatic stress-tracking technologies embedded in them. For example, Huawei, Garmin, Samsung, they all have related products that have automatic stress-tracking features. Most of these products, they track our stress based on analysis of a heart rate variability, or Hrv. which is proved to be a reliable indicator of one's physiological stress level. What is not so clear is how these automatic stress-tracking technologies actually work for people to manage their stress on a daily",
+    "related_sentences": [
+      {
+        "sentence": "Today, there are wearable commercial stress-tracking devices available on the market that can automatically detect stress including general products, such as smart bracelets and watches from Huawei, Garmin and Samsung with embedded stress -tracking features, as well as other products like Healbe Gobe2, Wellbe, Bellabeat Leaf Urban, and Spire Stone specializing in stress-tracking.",
+        "cos_similarity": 0.7684429883956909
+      },
+      {
+        "sentence": "More and more wearable products have automatic stress tracking features embedded, such as smart bracelets and watches made by Huawei, Garmin, and Samsung.",
+        "cos_similarity": 0.7150739431381226
+      },
+      {
+        "sentence": "In recent years, stress-tracking technologies that can automatically detect and collect stress data during the day have become commercially available.",
+        "cos_similarity": 0.7015412449836731
+      },
+      {
+        "sentence": "In China, the two most popular brands of smart wearable devices with stress-tracking features are Huawei(including Honor) and Garmin, so we posted the recruitment fyers in the QQ and WeChat groups for Huawei and Garmin wearable device users, as well as some general wearable smart device communities, and our own WeChat circles to recruit more users.",
+        "cos_similarity": 0.6808297634124756
+      },
+      {
+        "sentence": "While little has been done on stress-tracking technology in use in particular, there has been extensive research on the use of other automatic self-tracking technologies, exploring issues of adoption/abandonment, use in particular domains such as sports and diabetes management, and design for particular tracking.",
+        "cos_similarity": 0.680534839630127
+      },
+      {
+        "sentence": "The products by Huawei, Garmin, and Samsung detect stress based on an analysis of Heart Rate Variability (HRV) collected by an embedded optical heart rate sensor.",
+        "cos_similarity": 0.6765282154083252
+      },
+      {
+        "sentence": "As a result, while the automatic stress-tracking devices aford rich data, only a very small portion of it actually drew our participants’ attention and motivated them to interpret or refect on it.",
+        "cos_similarity": 0.6669553518295288
+      },
+      {
+        "sentence": "Although many stress-tracking products have become commercially available, there have been few studies on the use of these technologies in real life.",
+        "cos_similarity": 0.6662149429321289
+      },
+      {
+        "sentence": "In this paper, we focus on a complex and relatively new and under-explored automatic tracking technology – stress tracking – in use, and hope to uncover new insights into users’ data engagement with self-tracking technologies in practice to contribute to this body of work and inform the related design of self-tracking technologies.",
+        "cos_similarity": 0.6492413282394409
+      },
+      {
+        "sentence": "The contribution of this paper is an empirical study on the use of automatic stress tracking in practice, and a more nuanced understanding of data engagement with self-tracking technologies.",
+        "cos_similarity": 0.6480157375335693
+      }
+    ]
+  },
+  {
+    "speech_text": "basis. To address this issue, we conducted some structural interviews with 17 participants who had Had adopted some of these products and had some experience with automatic self stress tracking technologies.",
+    "related_sentences": [
+      {
+        "sentence": "We recruited 17 participants in China who used automatic stress-tracking technologies and conducted semi-structured interviews with them.",
+        "cos_similarity": 0.6672887802124023
+      },
+      {
+        "sentence": "The contribution of this paper is an empirical study on the use of automatic stress tracking in practice, and a more nuanced understanding of data engagement with self-tracking technologies.",
+        "cos_similarity": 0.6490318179130554
+      },
+      {
+        "sentence": "Adams et al. conducted a study comparing three stress tracking approaches in the real-world environment (self-report, EDA, and voice-based), and while the study found that these three approaches are about equally efective in diferent contexts, the study didn’t evaluate automatic stress tracking.",
+        "cos_similarity": 0.5777188539505005
+      },
+      {
+        "sentence": "To answer it, we conducted a qualitative study to understand automatic stress-tracking technology in use.",
+        "cos_similarity": 0.5695711970329285
+      },
+      {
+        "sentence": "To gain a better understanding of the use of automatic stresstracking technologies in practice, we adopted the qualitative research method to uncover the rich and detailed usage data, by interviewing those who had already used and experienced related technologies.",
+        "cos_similarity": 0.5277763605117798
+      },
+      {
+        "sentence": "In this paper, we focus on a complex and relatively new and under-explored automatic tracking technology – stress tracking – in use, and hope to uncover new insights into users’ data engagement with self-tracking technologies in practice to contribute to this body of work and inform the related design of self-tracking technologies.",
+        "cos_similarity": 0.5250689387321472
+      },
+      {
+        "sentence": "In another instance a feature analysis of 26 stress management apps investigated how the apps support refection and action; this study also left automatic stress-tracking out from its analysis.",
+        "cos_similarity": 0.5085621476173401
+      },
+      {
+        "sentence": "While little has been done on stress-tracking technology in use in particular, there has been extensive research on the use of other automatic self-tracking technologies, exploring issues of adoption/abandonment, use in particular domains such as sports and diabetes management, and design for particular tracking.",
+        "cos_similarity": 0.5052862167358398
+      },
+      {
+        "sentence": "Some of these studies were at the intersection of mental health and stress tracking, and some were design studies, using focus groups, or workshops, and exploring design opportunities for self-tracking.",
+        "cos_similarity": 0.5039548277854919
+      },
+      {
+        "sentence": "Drawing on our study of the use of the automatic stress tracking technology in particular – a relatively recent development and more complicated technology, we made data engagement our focal point, and unpacked the underlying reasons contributing to these challenges.",
+        "cos_similarity": 0.5004568696022034
+      }
+    ]
+  },
+  {
+    "speech_text": "From the study, we found that most of them adopted the wearable products not for the purpose of stress-tracking, but for other reasons such as not missing phone calls, and they only discovered the stress-tracking technology later on. And we found only very few of them could meaningfully engage with the stress data, And most of them were very confused and could not make, could not make effective use of the stress data. Through the study, we also identified a number of challenges for people to engage with the stress data.",
+    "related_sentences": [
+      {
+        "sentence": "As shown here, these challenges are not merely associated with one’s capabilities, such as graphical literacy or quantitative analysis capabilities as pointed out in prior works, but have to do with factors embedded in corresponding social practices of stress tracking with the technology, such as people too occupied to check the stress data in the moment when they were stressed, the technology failing to provide timely feedback and reminders, as well as the mismatch between the scientifc notion of stress and the everyday use of stress.",
+        "cos_similarity": 0.7417206764221191
+      },
+      {
+        "sentence": "Drawing on our study of the use of the automatic stress tracking technology in particular – a relatively recent development and more complicated technology, we made data engagement our focal point, and unpacked the underlying reasons contributing to these challenges.",
+        "cos_similarity": 0.74129718542099
+      },
+      {
+        "sentence": "More importantly, as revealed in our study, the users’ intention to track the data, that is often assumed in self-tracking work, is simply not there anymore for the stress tracking feature coming with the wearable device.",
+        "cos_similarity": 0.7388932108879089
+      },
+      {
+        "sentence": "In this paper, we present a study of the use of a relatively recent and less straightforward stress-tracking technology-in-practice, highlighting the three primary challenges of data engagement with automatically-tracked stress data: a lack of immediate awareness, a lack of prerequisite expertise, and a lack of corresponding communities of practice.",
+        "cos_similarity": 0.7263790369033813
+      },
+      {
+        "sentence": "The main reason for this was that our participants did not feel that the stress-tracking devices were helpful to raising their immediate awareness due to their natural responses to some stressful events and the limitations of the devices.",
+        "cos_similarity": 0.7234258651733398
+      },
+      {
+        "sentence": "In particular, by focusing on a relatively “unfamiliar” stress-tracking technology, the study reveals that many assumptions that have been taken for granted about self-tracking technologies no longer hold true in the rapidly changing world.",
+        "cos_similarity": 0.7174274325370789
+      },
+      {
+        "sentence": "Although many stress-tracking products have become commercially available, there have been few studies on the use of these technologies in real life.",
+        "cos_similarity": 0.7058447003364563
+      },
+      {
+        "sentence": "In the preceding sections, we presented a study on the use of the automatic stress tracking technology in practice, highlighting three challenges presented by its data engagement: a lack of immediate awareness preventing engagement with data in-the-moment, a lack of pre-required knowledge, domain and technical, and a lack of communal support.",
+        "cos_similarity": 0.6974666714668274
+      },
+      {
+        "sentence": "In summary, even when our participants paid attention to and tried to interpret the data, it was challenging for them to decipher it due to the mismatch between what the devices measured and what our participants considered to be stress, as well as the unclear underlying technological mechanisms of the automatic stress tracking.",
+        "cos_similarity": 0.6886558532714844
+      },
+      {
+        "sentence": "While little has been done on stress-tracking technology in use in particular, there has been extensive research on the use of other automatic self-tracking technologies, exploring issues of adoption/abandonment, use in particular domains such as sports and diabetes management, and design for particular tracking.",
+        "cos_similarity": 0.6785492300987244
+      }
+    ]
+  },
+  {
+    "speech_text": "The first challenge is the lack of immediate awareness. Previous research shows that in the moment data engagement is very important for reflection. But in our case, due to some technical issues or for For reasons of stress, the nature of stress itself, it's not very common for them to engage with the stress data in the moment of stress, e.g. Huawei's stress tracking technology could only update half an hour and it. It was commonly reported when people felt stressed they were too busy or too occupied that they would not look at the stress data at",
+    "related_sentences": [
+      {
+        "sentence": "In the preceding sections, we presented a study on the use of the automatic stress tracking technology in practice, highlighting three challenges presented by its data engagement: a lack of immediate awareness preventing engagement with data in-the-moment, a lack of pre-required knowledge, domain and technical, and a lack of communal support.",
+        "cos_similarity": 0.6937876343727112
+      },
+      {
+        "sentence": "In this paper, we present a study of the use of a relatively recent and less straightforward stress-tracking technology-in-practice, highlighting the three primary challenges of data engagement with automatically-tracked stress data: a lack of immediate awareness, a lack of prerequisite expertise, and a lack of corresponding communities of practice.",
+        "cos_similarity": 0.6723278760910034
+      },
+      {
+        "sentence": "As shown in our study, one challenge of stress-tracking data engagement comes from how the data is encountered.",
+        "cos_similarity": 0.6722166538238525
+      },
+      {
+        "sentence": "Drawing on our study of the use of the automatic stress tracking technology in particular – a relatively recent development and more complicated technology, we made data engagement our focal point, and unpacked the underlying reasons contributing to these challenges.",
+        "cos_similarity": 0.6691029071807861
+      },
+      {
+        "sentence": "The study highlights a number of challenges associated with users’ stresstracking data engagement, including the lack of immediate awareness of relevant data, the lack of pre-required knowledge, domain and technical, as well as the lack of corresponding communities of practice.",
+        "cos_similarity": 0.6676158905029297
+      },
+      {
+        "sentence": "As shown here, these challenges are not merely associated with one’s capabilities, such as graphical literacy or quantitative analysis capabilities as pointed out in prior works, but have to do with factors embedded in corresponding social practices of stress tracking with the technology, such as people too occupied to check the stress data in the moment when they were stressed, the technology failing to provide timely feedback and reminders, as well as the mismatch between the scientifc notion of stress and the everyday use of stress.",
+        "cos_similarity": 0.6424456238746643
+      },
+      {
+        "sentence": "However, not being able to efectively engage with the stress data overall kept most of them from making more informed use of it.",
+        "cos_similarity": 0.6284048557281494
+      },
+      {
+        "sentence": "If they could remind us that our stress was high in the moment, we would have more interactions with the data and could manage our stress better…” Users’ in-the-moment data engagement is critical for refection and intervention.",
+        "cos_similarity": 0.6171112656593323
+      },
+      {
+        "sentence": "Below, we turn our focus to the challenges of stress-tracking data engagement we uncovered from the study.",
+        "cos_similarity": 0.6127015948295593
+      },
+      {
+        "sentence": "Most of the time, they noticed the stress data through a casual or random encounter with the technology.",
+        "cos_similarity": 0.6119696497917175
+      }
+    ]
+  },
+  {
+    "speech_text": "all. The second challenge comes with a lack of pre-required knowledge. As noted before, the notion of stress is pretty complex, Complex and we found during the study many times users were confused with the. high level of physiological stress data when they did not feel psychologically stressed. And the underlying technical mechanism of stress-tracking was not so straightforward, so many people had some misunderstanding of how it worked.",
+    "related_sentences": [
+      {
+        "sentence": "What we have seen in the study is that the concept of stress in science still has not been merged with the concept of stress in everyday life, and methods for stress-tracking and stress management have still not become part of popular culture, adding to the difculty of interpreting tracked stress data.",
+        "cos_similarity": 0.7539205551147461
+      },
+      {
+        "sentence": "As such, the complexity of stress – e.g. involving both psychological and physiological, the external and the internal – makes interpreting its data more difcult than other tracked data, such as steps and calories, on the same device.",
+        "cos_similarity": 0.6813457012176514
+      },
+      {
+        "sentence": "The distinction between the psychological notion of stress that our participants adopted and the physiological notion of stress that the devices were based on led to barriers that prevented our participants from interpreting and making meaningful use of the tracked stress data.",
+        "cos_similarity": 0.6645843386650085
+      },
+      {
+        "sentence": "As shown here, these challenges are not merely associated with one’s capabilities, such as graphical literacy or quantitative analysis capabilities as pointed out in prior works, but have to do with factors embedded in corresponding social practices of stress tracking with the technology, such as people too occupied to check the stress data in the moment when they were stressed, the technology failing to provide timely feedback and reminders, as well as the mismatch between the scientifc notion of stress and the everyday use of stress.",
+        "cos_similarity": 0.6597572565078735
+      },
+      {
+        "sentence": "Besides automatic tracking, this challenge also becomes more salient with the nature of stress itself, a physiological state that is more complex and less straightforward than other measures, such as steps.",
+        "cos_similarity": 0.6468027830123901
+      },
+      {
+        "sentence": "As points out, self-tracking for daily stress has unique challenges because stress is highly subjective and involves social and environmental factors.",
+        "cos_similarity": 0.6401361227035522
+      },
+      {
+        "sentence": "In summary, even when our participants paid attention to and tried to interpret the data, it was challenging for them to decipher it due to the mismatch between what the devices measured and what our participants considered to be stress, as well as the unclear underlying technological mechanisms of the automatic stress tracking.",
+        "cos_similarity": 0.6384767293930054
+      },
+      {
+        "sentence": "However, our other participants were confused when interpreting the data, since it didn’t refect their subjective feelings of stress, that is, their perceptions of pressure.",
+        "cos_similarity": 0.6376150846481323
+      },
+      {
+        "sentence": "In particular, by focusing on a relatively “unfamiliar” stress-tracking technology, the study reveals that many assumptions that have been taken for granted about self-tracking technologies no longer hold true in the rapidly changing world.",
+        "cos_similarity": 0.6355097889900208
+      },
+      {
+        "sentence": "Some participants reported that they only wanted to know whether their stress level was normal or not, but they were usually unable to tell by just looking at the data.",
+        "cos_similarity": 0.6335764527320862
+      }
+    ]
+  },
+  {
+    "speech_text": "The third challenge is the lack of communal support. Unlike other self-tracking technologies, such as sports-related self-tracking, Usually there, there are communities formed around these technologies and they can share. Related experience and knowledge for them to interpret the data together. but for stress there's a no corresponding communities there yet. so it was hard for them to learn from each other to interpret",
+    "related_sentences": [
+      {
+        "sentence": "Where self-tracking technologies are concerned, we believe participation in corresponding communities of practice is the key to go from simple tracking to \"knowing.\"",
+        "cos_similarity": 0.6482405662536621
+      },
+      {
+        "sentence": "Studies of self-tracking technologies in use reveal various challenges to data engagement.",
+        "cos_similarity": 0.5982157588005066
+      },
+      {
+        "sentence": "We argue that to understand the data engagement issues of self-tracking technologies, we should approach them as part of the whole tracking practice, a notion that assembles all these elements into a holistic unit, and does not reduce them to a mere cognitive analysis.",
+        "cos_similarity": 0.5877379775047302
+      },
+      {
+        "sentence": "This study unpacks some of the data engagement assumptions embedded in the related work on self-tracking technologies.",
+        "cos_similarity": 0.5837506055831909
+      },
+      {
+        "sentence": "With the development of self-tracking technologies, and with increasingly more automatically-collected health data made easily available in our lives, it does not simply help to reduce the labor needed for tracking, but rather more fundamentally, to change the very mode of data engagement in practice.",
+        "cos_similarity": 0.5815328359603882
+      },
+      {
+        "sentence": "As points out, self-tracking for daily stress has unique challenges because stress is highly subjective and involves social and environmental factors.",
+        "cos_similarity": 0.579817533493042
+      },
+      {
+        "sentence": "In particular, by focusing on a relatively “unfamiliar” stress-tracking technology, the study reveals that many assumptions that have been taken for granted about self-tracking technologies no longer hold true in the rapidly changing world.",
+        "cos_similarity": 0.5773741006851196
+      },
+      {
+        "sentence": "More importantly, as revealed in our study, the users’ intention to track the data, that is often assumed in self-tracking work, is simply not there anymore for the stress tracking feature coming with the wearable device.",
+        "cos_similarity": 0.5611672401428223
+      },
+      {
+        "sentence": "What we highlight through the study is that the meaning of self-tracking is not simply a matter of having the data, nor analyzing the data, but a matter of situated practices of data engagement.",
+        "cos_similarity": 0.5574377775192261
+      },
+      {
+        "sentence": "However, as the majority of the work of automatic self-tracking technologies thus far has focused on relatively more straightforward data, these challenges have not been sufciently emphasized.",
+        "cos_similarity": 0.5565496683120728
+      }
+    ]
+  },
+  {
+    "speech_text": "the data. So by focusing on such a relatively new self-tracking technology and relatively complex notion of stress, We uncovered a number of issues with data, engagement of data, engagement with self tracking technologies. First, we found that automatic tracking is not just to save the labor of tracking, but also it changes the very nature Of how people encounter with the data and engage with the data, e.g. cannot assume users intentional checking anymore. And that also means that many times users encounter with the data as in a more casual manner, not in a deliberate manner. And we cannot assume that they have the required knowledge already to interpret the data.",
+    "related_sentences": [
+      {
+        "sentence": "With the development of self-tracking technologies, and with increasingly more automatically-collected health data made easily available in our lives, it does not simply help to reduce the labor needed for tracking, but rather more fundamentally, to change the very mode of data engagement in practice.",
+        "cos_similarity": 0.7685240507125854
+      },
+      {
+        "sentence": "However, as the majority of the work of automatic self-tracking technologies thus far has focused on relatively more straightforward data, these challenges have not been sufciently emphasized.",
+        "cos_similarity": 0.7151879668235779
+      },
+      {
+        "sentence": "We argue that to understand the data engagement issues of self-tracking technologies, we should approach them as part of the whole tracking practice, a notion that assembles all these elements into a holistic unit, and does not reduce them to a mere cognitive analysis.",
+        "cos_similarity": 0.6696250438690186
+      },
+      {
+        "sentence": "In this paper, we focus on a complex and relatively new and under-explored automatic tracking technology – stress tracking – in use, and hope to uncover new insights into users’ data engagement with self-tracking technologies in practice to contribute to this body of work and inform the related design of self-tracking technologies.",
+        "cos_similarity": 0.6535201072692871
+      },
+      {
+        "sentence": "When the users’ intention to track data can simply be assumed, we can reduce self-tracking data engagement to a mere analytic issue, as has often been the approach in prior work for data engagement.",
+        "cos_similarity": 0.6532694101333618
+      },
+      {
+        "sentence": "The contribution of this paper is an empirical study on the use of automatic stress tracking in practice, and a more nuanced understanding of data engagement with self-tracking technologies.",
+        "cos_similarity": 0.6404325366020203
+      },
+      {
+        "sentence": "With more and more automatic self-tracking technologies embedded in everyday objects such as smart watches, we believe the non-intentional and casual encounter will become increasingly more commonplace.",
+        "cos_similarity": 0.6399994492530823
+      },
+      {
+        "sentence": "As a result, while the automatic stress-tracking devices aford rich data, only a very small portion of it actually drew our participants’ attention and motivated them to interpret or refect on it.",
+        "cos_similarity": 0.6293568015098572
+      },
+      {
+        "sentence": "What we highlight through the study is that the meaning of self-tracking is not simply a matter of having the data, nor analyzing the data, but a matter of situated practices of data engagement.",
+        "cos_similarity": 0.6190681457519531
+      },
+      {
+        "sentence": "In this paper, we present a study of the use of a relatively recent and less straightforward stress-tracking technology-in-practice, highlighting the three primary challenges of data engagement with automatically-tracked stress data: a lack of immediate awareness, a lack of prerequisite expertise, and a lack of corresponding communities of practice.",
+        "cos_similarity": 0.6176527738571167
+      }
+    ]
+  },
+  {
+    "speech_text": "So In future, we believe, with more and more health data being automatically collected and tracked, we we believe that. we should not just consider data engagement as looking at the user interface for analysis, but should consider it as a part of self-tracking practices with technologies that's embedded in the web or wants intentional tracking, domain knowledge, technical properties, other users, and",
+    "related_sentences": [
+      {
+        "sentence": "Here we review the self-tracking work that is related to data engagement.",
+        "cos_similarity": 0.7171612977981567
+      },
+      {
+        "sentence": "As shown in the study, far from being simply an interaction between users and their data, data engagement is embedded in a web of an individual’s intention for tracking, domain knowledge, technical properties, other users, and learning resources.",
+        "cos_similarity": 0.7076408863067627
+      },
+      {
+        "sentence": "With the development of self-tracking technologies, and with increasingly more automatically-collected health data made easily available in our lives, it does not simply help to reduce the labor needed for tracking, but rather more fundamentally, to change the very mode of data engagement in practice.",
+        "cos_similarity": 0.6877731084823608
+      },
+      {
+        "sentence": "Therefore, for the automatically tracked health data, it is crucial to make the requisite knowledge more available and present it in a meaningful way to help users interpret the data.",
+        "cos_similarity": 0.6760215163230896
+      },
+      {
+        "sentence": "When the users’ intention to track data can simply be assumed, we can reduce self-tracking data engagement to a mere analytic issue, as has often been the approach in prior work for data engagement.",
+        "cos_similarity": 0.6751947402954102
+      },
+      {
+        "sentence": "We argue that to understand the data engagement issues of self-tracking technologies, we should approach them as part of the whole tracking practice, a notion that assembles all these elements into a holistic unit, and does not reduce them to a mere cognitive analysis.",
+        "cos_similarity": 0.6605108976364136
+      },
+      {
+        "sentence": "This study unpacks some of the data engagement assumptions embedded in the related work on self-tracking technologies.",
+        "cos_similarity": 0.5689281821250916
+      },
+      {
+        "sentence": "Data engagement itself, and its association with corresponding social practices, have not received sufcient attention.",
+        "cos_similarity": 0.5544557571411133
+      },
+      {
+        "sentence": "To support casual users engaging with the automatically collected data, there needs to be not simply new ways of data presentation or integration, but new interactive designs to help engage users in the right moment.",
+        "cos_similarity": 0.5456664562225342
+      },
+      {
+        "sentence": "Studies of self-tracking technologies in use reveal various challenges to data engagement.",
+        "cos_similarity": 0.5450484156608582
+      }
+    ]
+  },
+  {
+    "speech_text": "learning resources. With that, I'd like to take questions, Sms. Khan.",
+    "related_sentences": [
+      {
+        "sentence": "However, for most users, despite their interest and curiosity, there was no easy access to learning resources.",
+        "cos_similarity": 0.48569798469543457
+      },
+      {
+        "sentence": "P12 described the diferent accessibility of related learning resources about sports and about stress in China today: “For example, there are many books about running on the Internet in China, but there have not been books really about life stress...",
+        "cos_similarity": 0.4200417995452881
+      },
+      {
+        "sentence": "Below, we turn our focus to the challenges of stress-tracking data engagement we uncovered from the study.",
+        "cos_similarity": 0.40555495023727417
+      },
+      {
+        "sentence": "During the interviews, we asked participants.",
+        "cos_similarity": 0.4028744697570801
+      },
+      {
+        "sentence": "As such, while he could meaningfully read the running- related numbers, the stress numbers still puzzled him.",
+        "cos_similarity": 0.37866562604904175
+      },
+      {
+        "sentence": "I then asked others a lot of questions and looked up information.",
+        "cos_similarity": 0.3758241534233093
+      },
+      {
+        "sentence": "Think about the recent development of open science or citizen participation in the scientifc inquiry processes; this provides a valuable model not simply for scientifc discovery, but also for scientifc education, or the merging of scientifc and everyday knowing.",
+        "cos_similarity": 0.37096959352493286
+      },
+      {
+        "sentence": "Refecting on the challenges uncovered from our study as well as related works, it is clear that some elements of the technically-mediated tracking practices make a diference as far as data engagement is concerned.",
+        "cos_similarity": 0.35910582542419434
+      },
+      {
+        "sentence": "Those who sought out the relevant resources to gain related expertise on the Internet, such as popular science articles on stress or videos related to how to use the Garmin watch, were able to overcome some of the challenges.",
+        "cos_similarity": 0.3585008978843689
+      },
+      {
+        "sentence": "He managed to learn the related technical and domain knowledge early on by searching online and reading related scientifc articles: “I read some articles on the Internet, and some popular science articles about what the autonomic nervous system is and the relationship between the heart rate variability and the autonomic nervous system.”",
+        "cos_similarity": 0.35258984565734863
+      }
+    ]
+  }
+]

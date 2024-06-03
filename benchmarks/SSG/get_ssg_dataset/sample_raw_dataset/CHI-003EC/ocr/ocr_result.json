@@ -1,0 +1,6882 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0016000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            31,
+            50
+          ],
+          [
+            524,
+            50
+          ],
+          [
+            524,
+            109
+          ],
+          [
+            31,
+            109
+          ]
+        ],
+        "transcription": "Project Tasca"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            31,
+            143
+          ],
+          [
+            719,
+            143
+          ],
+          [
+            719,
+            169
+          ],
+          [
+            31,
+            169
+          ]
+        ],
+        "transcription": "Enabling Touch and Contextual Interactions"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            29,
+            183
+          ],
+          [
+            584,
+            184
+          ],
+          [
+            584,
+            210
+          ],
+          [
+            29,
+            209
+          ]
+        ],
+        "transcription": "with a Pocket-based Textile Sensor"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            330,
+            384
+          ],
+          [
+            488,
+            387
+          ],
+          [
+            488,
+            410
+          ],
+          [
+            329,
+            408
+          ]
+        ],
+        "transcription": "Xing-Dong Yang"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            196,
+            386
+          ],
+          [
+            287,
+            386
+          ],
+          [
+            287,
+            409
+          ],
+          [
+            196,
+            409
+          ]
+        ],
+        "transcription": "Zheer Xu"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            41,
+            388
+          ],
+          [
+            151,
+            388
+          ],
+          [
+            151,
+            406
+          ],
+          [
+            41,
+            406
+          ]
+        ],
+        "transcription": "Te-Yen Wu"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            973,
+            464
+          ],
+          [
+            1082,
+            469
+          ],
+          [
+            1081,
+            493
+          ],
+          [
+            972,
+            488
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            1125,
+            466
+          ],
+          [
+            1264,
+            466
+          ],
+          [
+            1264,
+            488
+          ],
+          [
+            1125,
+            488
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            471,
+            468
+          ],
+          [
+            584,
+            473
+          ],
+          [
+            583,
+            495
+          ],
+          [
+            470,
+            491
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            632,
+            471
+          ],
+          [
+            936,
+            467
+          ],
+          [
+            936,
+            490
+          ],
+          [
+            632,
+            494
+          ]
+        ],
+        "transcription": "Inductance Capacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            298,
+            473
+          ],
+          [
+            434,
+            470
+          ],
+          [
+            435,
+            492
+          ],
+          [
+            299,
+            495
+          ]
+        ],
+        "transcription": "apacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            32,
+            542
+          ],
+          [
+            159,
+            545
+          ],
+          [
+            158,
+            568
+          ],
+          [
+            32,
+            565
+          ]
+        ],
+        "transcription": "Steve Hodge"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            193,
+            544
+          ],
+          [
+            317,
+            544
+          ],
+          [
+            317,
+            566
+          ],
+          [
+            193,
+            566
+          ]
+        ],
+        "transcription": "Teddy Seyed"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            453,
+            627
+          ],
+          [
+            744,
+            627
+          ],
+          [
+            744,
+            672
+          ],
+          [
+            453,
+            672
+          ]
+        ],
+        "transcription": "Dartmouth"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 13,
+        "points": [
+          [
+            124,
+            630
+          ],
+          [
+            391,
+            626
+          ],
+          [
+            392,
+            676
+          ],
+          [
+            125,
+            681
+          ]
+        ],
+        "transcription": "Microsoft"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 14,
+        "points": [
+          [
+            924,
+            687
+          ],
+          [
+            1185,
+            690
+          ],
+          [
+            1185,
+            712
+          ],
+          [
+            924,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 15,
+        "points": [
+          [
+            436,
+            690
+          ],
+          [
+            771,
+            690
+          ],
+          [
+            771,
+            712
+          ],
+          [
+            436,
+            712
+          ]
+        ],
+        "transcription": "Detected: Heavy Swipe Left"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0038450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            524,
+            110
+          ],
+          [
+            579,
+            134
+          ],
+          [
+            568,
+            159
+          ],
+          [
+            513,
+            135
+          ]
+        ],
+        "transcription": "10: 02"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            526,
+            177
+          ],
+          [
+            630,
+            220
+          ],
+          [
+            620,
+            244
+          ],
+          [
+            516,
+            201
+          ]
+        ],
+        "transcription": "MESSAGES"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            472,
+            200
+          ],
+          [
+            618,
+            261
+          ],
+          [
+            606,
+            290
+          ],
+          [
+            460,
+            228
+          ]
+        ],
+        "transcription": "Project Tasca"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 1,
+        "points": [
+          [
+            462,
+            229
+          ],
+          [
+            836,
+            384
+          ],
+          [
+            824,
+            413
+          ],
+          [
+            450,
+            258
+          ]
+        ],
+        "transcription": "Project Tasca: Check Hand Sanitizer!"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            939,
+            350
+          ],
+          [
+            984,
+            366
+          ],
+          [
+            976,
+            387
+          ],
+          [
+            931,
+            371
+          ]
+        ],
+        "transcription": "now"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0043450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            238,
+            0
+          ],
+          [
+            393,
+            20
+          ],
+          [
+            390,
+            42
+          ],
+          [
+            232,
+            16
+          ]
+        ],
+        "transcription": "Computational Science!"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            295,
+            436
+          ],
+          [
+            380,
+            425
+          ],
+          [
+            382,
+            444
+          ],
+          [
+            298,
+            455
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            206,
+            447
+          ],
+          [
+            281,
+            437
+          ],
+          [
+            283,
+            457
+          ],
+          [
+            208,
+            467
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            78,
+            463
+          ],
+          [
+            189,
+            449
+          ],
+          [
+            192,
+            472
+          ],
+          [
+            81,
+            485
+          ]
+        ],
+        "transcription": "Capacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            217,
+            598
+          ],
+          [
+            343,
+            570
+          ],
+          [
+            349,
+            594
+          ],
+          [
+            223,
+            622
+          ]
+        ],
+        "transcription": "Detected: Noise"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0047450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            928,
+            433
+          ],
+          [
+            1020,
+            436
+          ],
+          [
+            1020,
+            454
+          ],
+          [
+            928,
+            451
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            779,
+            434
+          ],
+          [
+            901,
+            434
+          ],
+          [
+            901,
+            453
+          ],
+          [
+            779,
+            453
+          ]
+        ],
+        "transcription": "Capacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            1053,
+            434
+          ],
+          [
+            1167,
+            434
+          ],
+          [
+            1167,
+            453
+          ],
+          [
+            1053,
+            453
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            915,
+            605
+          ],
+          [
+            1071,
+            605
+          ],
+          [
+            1071,
+            623
+          ],
+          [
+            915,
+            623
+          ]
+        ],
+        "transcription": "Detected: Hand"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0051500.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            709,
+            15
+          ],
+          [
+            753,
+            21
+          ],
+          [
+            750,
+            42
+          ],
+          [
+            706,
+            36
+          ]
+        ],
+        "transcription": "Hello,"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            22,
+            78
+          ],
+          [
+            485,
+            81
+          ],
+          [
+            485,
+            130
+          ],
+          [
+            21,
+            127
+          ]
+        ],
+        "transcription": "Conceptual Video"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            676,
+            184
+          ],
+          [
+            717,
+            192
+          ],
+          [
+            714,
+            211
+          ],
+          [
+            672,
+            204
+          ]
+        ],
+        "transcription": "Best,"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            671,
+            209
+          ],
+          [
+            766,
+            222
+          ],
+          [
+            763,
+            244
+          ],
+          [
+            668,
+            232
+          ]
+        ],
+        "transcription": "Anonymous"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0063500.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            894,
+            35
+          ],
+          [
+            995,
+            40
+          ],
+          [
+            994,
+            64
+          ],
+          [
+            893,
+            59
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            1033,
+            35
+          ],
+          [
+            1159,
+            40
+          ],
+          [
+            1158,
+            64
+          ],
+          [
+            1032,
+            59
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            723,
+            36
+          ],
+          [
+            862,
+            39
+          ],
+          [
+            861,
+            62
+          ],
+          [
+            722,
+            59
+          ]
+        ],
+        "transcription": "Capacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            829,
+            229
+          ],
+          [
+            1101,
+            232
+          ],
+          [
+            1101,
+            254
+          ],
+          [
+            829,
+            251
+          ]
+        ],
+        "transcription": "Gesture Detected: None"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0069450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            51,
+            123
+          ],
+          [
+            342,
+            135
+          ],
+          [
+            341,
+            158
+          ],
+          [
+            50,
+            145
+          ]
+        ],
+        "transcription": "Capacitance Pressure Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            176,
+            292
+          ],
+          [
+            296,
+            284
+          ],
+          [
+            298,
+            307
+          ],
+          [
+            177,
+            314
+          ]
+        ],
+        "transcription": "Detected: Noise"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0070450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            50,
+            123
+          ],
+          [
+            342,
+            135
+          ],
+          [
+            341,
+            158
+          ],
+          [
+            49,
+            145
+          ]
+        ],
+        "transcription": "Capacitance Pressure Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            98,
+            297
+          ],
+          [
+            358,
+            279
+          ],
+          [
+            359,
+            301
+          ],
+          [
+            100,
+            319
+          ]
+        ],
+        "transcription": "Detected: card tag, UID: 15502728"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0074000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            344,
+            177
+          ],
+          [
+            527,
+            177
+          ],
+          [
+            527,
+            255
+          ],
+          [
+            344,
+            255
+          ]
+        ],
+        "transcription": "Null"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            327,
+            320
+          ],
+          [
+            956,
+            318
+          ],
+          [
+            956,
+            394
+          ],
+          [
+            327,
+            397
+          ]
+        ],
+        "transcription": "Related Work"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            1159,
+            622
+          ],
+          [
+            1245,
+            622
+          ],
+          [
+            1245,
+            680
+          ],
+          [
+            1159,
+            680
+          ]
+        ],
+        "transcription": "2X"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0082450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            8,
+            52
+          ],
+          [
+            307,
+            52
+          ],
+          [
+            307,
+            91
+          ],
+          [
+            8,
+            91
+          ]
+        ],
+        "transcription": "Related Work"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            344,
+            176
+          ],
+          [
+            528,
+            176
+          ],
+          [
+            528,
+            258
+          ],
+          [
+            344,
+            258
+          ]
+        ],
+        "transcription": "Null"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            12,
+            581
+          ],
+          [
+            182,
+            584
+          ],
+          [
+            181,
+            621
+          ],
+          [
+            12,
+            618
+          ]
+        ],
+        "transcription": "Tessutivo"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            1159,
+            623
+          ],
+          [
+            1247,
+            623
+          ],
+          [
+            1247,
+            680
+          ],
+          [
+            1159,
+            680
+          ]
+        ],
+        "transcription": "2X"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            15,
+            639
+          ],
+          [
+            175,
+            639
+          ],
+          [
+            175,
+            672
+          ],
+          [
+            15,
+            672
+          ]
+        ],
+        "transcription": "Jun et al."
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0084455.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            52
+          ],
+          [
+            308,
+            52
+          ],
+          [
+            308,
+            91
+          ],
+          [
+            7,
+            91
+          ]
+        ],
+        "transcription": "Related Work"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            587,
+            277
+          ],
+          [
+            795,
+            277
+          ],
+          [
+            795,
+            304
+          ],
+          [
+            587,
+            304
+          ]
+        ],
+        "transcription": "Sensor Area"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            84,
+            474
+          ],
+          [
+            258,
+            451
+          ],
+          [
+            263,
+            490
+          ],
+          [
+            89,
+            512
+          ]
+        ],
+        "transcription": "crouching"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            126,
+            519
+          ],
+          [
+            236,
+            507
+          ],
+          [
+            240,
+            547
+          ],
+          [
+            130,
+            558
+          ]
+        ],
+        "transcription": "figure"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 2,
+        "points": [
+          [
+            159,
+            569
+          ],
+          [
+            251,
+            556
+          ],
+          [
+            256,
+            589
+          ],
+          [
+            164,
+            602
+          ]
+        ],
+        "transcription": "atute"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            13,
+            586
+          ],
+          [
+            205,
+            583
+          ],
+          [
+            206,
+            619
+          ],
+          [
+            14,
+            622
+          ]
+        ],
+        "transcription": "Capacitivo"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            11,
+            635
+          ],
+          [
+            172,
+            638
+          ],
+          [
+            172,
+            675
+          ],
+          [
+            10,
+            672
+          ]
+        ],
+        "transcription": "Wu et al."
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0087450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            52
+          ],
+          [
+            308,
+            52
+          ],
+          [
+            308,
+            91
+          ],
+          [
+            7,
+            91
+          ]
+        ],
+        "transcription": "Related Work"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            587,
+            274
+          ],
+          [
+            793,
+            274
+          ],
+          [
+            793,
+            306
+          ],
+          [
+            587,
+            306
+          ]
+        ],
+        "transcription": "Sensor Area"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            117,
+            466
+          ],
+          [
+            233,
+            448
+          ],
+          [
+            239,
+            487
+          ],
+          [
+            123,
+            505
+          ]
+        ],
+        "transcription": "candle"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            15,
+            585
+          ],
+          [
+            204,
+            585
+          ],
+          [
+            204,
+            622
+          ],
+          [
+            15,
+            622
+          ]
+        ],
+        "transcription": "Capacitivo"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            11,
+            635
+          ],
+          [
+            171,
+            640
+          ],
+          [
+            170,
+            677
+          ],
+          [
+            10,
+            672
+          ]
+        ],
+        "transcription": "Wu et al"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0090450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            52
+          ],
+          [
+            311,
+            52
+          ],
+          [
+            311,
+            91
+          ],
+          [
+            7,
+            91
+          ]
+        ],
+        "transcription": "Related Work"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            131,
+            467
+          ],
+          [
+            223,
+            454
+          ],
+          [
+            228,
+            488
+          ],
+          [
+            136,
+            502
+          ]
+        ],
+        "transcription": "none"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            15,
+            585
+          ],
+          [
+            205,
+            585
+          ],
+          [
+            205,
+            622
+          ],
+          [
+            15,
+            622
+          ]
+        ],
+        "transcription": "Capacitivo"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            11,
+            635
+          ],
+          [
+            171,
+            640
+          ],
+          [
+            170,
+            677
+          ],
+          [
+            10,
+            672
+          ]
+        ],
+        "transcription": "Wu et al"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0097000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            9,
+            54
+          ],
+          [
+            305,
+            54
+          ],
+          [
+            305,
+            90
+          ],
+          [
+            9,
+            90
+          ]
+        ],
+        "transcription": "Related Work"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            459,
+            187
+          ],
+          [
+            701,
+            187
+          ],
+          [
+            701,
+            209
+          ],
+          [
+            459,
+            209
+          ]
+        ],
+        "transcription": "Conductive Textile"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            424,
+            296
+          ],
+          [
+            763,
+            296
+          ],
+          [
+            763,
+            319
+          ],
+          [
+            424,
+            319
+          ]
+        ],
+        "transcription": "Pressure-sensitive Textile"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            416,
+            385
+          ],
+          [
+            675,
+            387
+          ],
+          [
+            675,
+            413
+          ],
+          [
+            416,
+            412
+          ]
+        ],
+        "transcription": "Conductive Textile"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            12,
+            566
+          ],
+          [
+            1243,
+            569
+          ],
+          [
+            1243,
+            605
+          ],
+          [
+            12,
+            602
+          ]
+        ],
+        "transcription": "Computing with uncertainty in a smart textile surface for object recognition"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            14,
+            617
+          ],
+          [
+            231,
+            620
+          ],
+          [
+            230,
+            651
+          ],
+          [
+            13,
+            648
+          ]
+        ],
+        "transcription": "Rofouei et al."
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0102450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            52
+          ],
+          [
+            305,
+            52
+          ],
+          [
+            305,
+            91
+          ],
+          [
+            7,
+            91
+          ]
+        ],
+        "transcription": "Related Work"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            12,
+            566
+          ],
+          [
+            277,
+            569
+          ],
+          [
+            277,
+            605
+          ],
+          [
+            12,
+            602
+          ]
+        ],
+        "transcription": "Project Zanzibar"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            12,
+            615
+          ],
+          [
+            184,
+            618
+          ],
+          [
+            184,
+            651
+          ],
+          [
+            12,
+            648
+          ]
+        ],
+        "transcription": "Villar et al."
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0113000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            725,
+            147
+          ],
+          [
+            1268,
+            149
+          ],
+          [
+            1268,
+            190
+          ],
+          [
+            725,
+            188
+          ]
+        ],
+        "transcription": "Gestures and Tagged objects"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            816,
+            201
+          ],
+          [
+            1179,
+            200
+          ],
+          [
+            1179,
+            228
+          ],
+          [
+            816,
+            229
+          ]
+        ],
+        "transcription": "(Capacitive sensing and NFC)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            194,
+            149
+          ],
+          [
+            488,
+            152
+          ],
+          [
+            488,
+            189
+          ],
+          [
+            193,
+            187
+          ]
+        ],
+        "transcription": "Metallic objects"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            224,
+            200
+          ],
+          [
+            456,
+            203
+          ],
+          [
+            456,
+            230
+          ],
+          [
+            224,
+            228
+          ]
+        ],
+        "transcription": "(Inductive sensing)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            639,
+            371
+          ],
+          [
+            767,
+            371
+          ],
+          [
+            767,
+            404
+          ],
+          [
+            639,
+            404
+          ]
+        ],
+        "transcription": "TASCA"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            926,
+            525
+          ],
+          [
+            1072,
+            531
+          ],
+          [
+            1071,
+            568
+          ],
+          [
+            925,
+            562
+          ]
+        ],
+        "transcription": "Objects"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            830,
+            577
+          ],
+          [
+            1163,
+            581
+          ],
+          [
+            1162,
+            608
+          ],
+          [
+            829,
+            603
+          ]
+        ],
+        "transcription": "(Pressure resistive sensing)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            162,
+            527
+          ],
+          [
+            541,
+            531
+          ],
+          [
+            541,
+            567
+          ],
+          [
+            161,
+            562
+          ]
+        ],
+        "transcription": "Non-metallic objects"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            228,
+            578
+          ],
+          [
+            475,
+            581
+          ],
+          [
+            474,
+            609
+          ],
+          [
+            228,
+            606
+          ]
+        ],
+        "transcription": "(Capacitive sensing)"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0115000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            577,
+            99
+          ],
+          [
+            868,
+            105
+          ],
+          [
+            867,
+            146
+          ],
+          [
+            576,
+            140
+          ]
+        ],
+        "transcription": "2-Layer Sensor"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            482,
+            251
+          ],
+          [
+            802,
+            254
+          ],
+          [
+            801,
+            328
+          ],
+          [
+            481,
+            325
+          ]
+        ],
+        "transcription": "Sensor"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            273,
+            387
+          ],
+          [
+            1008,
+            396
+          ],
+          [
+            1007,
+            482
+          ],
+          [
+            272,
+            474
+          ]
+        ],
+        "transcription": "Implementation"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0119455.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            8,
+            44
+          ],
+          [
+            519,
+            44
+          ],
+          [
+            519,
+            83
+          ],
+          [
+            8,
+            83
+          ]
+        ],
+        "transcription": "Sensor Implementation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            578,
+            102
+          ],
+          [
+            867,
+            105
+          ],
+          [
+            866,
+            142
+          ],
+          [
+            577,
+            139
+          ]
+        ],
+        "transcription": "2-Layer Sensor"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0126460.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            9,
+            44
+          ],
+          [
+            517,
+            42
+          ],
+          [
+            517,
+            79
+          ],
+          [
+            9,
+            81
+          ]
+        ],
+        "transcription": "Sensor Implementation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            402,
+            82
+          ],
+          [
+            834,
+            88
+          ],
+          [
+            833,
+            127
+          ],
+          [
+            401,
+            122
+          ]
+        ],
+        "transcription": "Inductive-NFC Sensing"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            565,
+            141
+          ],
+          [
+            675,
+            145
+          ],
+          [
+            674,
+            187
+          ],
+          [
+            564,
+            184
+          ]
+        ],
+        "transcription": "Layer"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            456,
+            617
+          ],
+          [
+            582,
+            624
+          ],
+          [
+            580,
+            666
+          ],
+          [
+            454,
+            660
+          ]
+        ],
+        "transcription": "5mm"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0141000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            8,
+            42
+          ],
+          [
+            519,
+            41
+          ],
+          [
+            519,
+            81
+          ],
+          [
+            8,
+            82
+          ]
+        ],
+        "transcription": "Sensor Implementation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            499,
+            94
+          ],
+          [
+            1049,
+            98
+          ],
+          [
+            1049,
+            134
+          ],
+          [
+            499,
+            130
+          ]
+        ],
+        "transcription": "Resisitve- Capacitive Sensing"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            677,
+            152
+          ],
+          [
+            787,
+            152
+          ],
+          [
+            787,
+            195
+          ],
+          [
+            677,
+            195
+          ]
+        ],
+        "transcription": "Layer"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            983,
+            216
+          ],
+          [
+            1151,
+            216
+          ],
+          [
+            1151,
+            248
+          ],
+          [
+            983,
+            248
+          ]
+        ],
+        "transcription": "Conductive"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            981,
+            261
+          ],
+          [
+            1076,
+            261
+          ],
+          [
+            1076,
+            294
+          ],
+          [
+            981,
+            294
+          ]
+        ],
+        "transcription": "Fabric"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 3,
+        "points": [
+          [
+            983,
+            303
+          ],
+          [
+            1192,
+            303
+          ],
+          [
+            1192,
+            330
+          ],
+          [
+            983,
+            330
+          ]
+        ],
+        "transcription": "(capacitive sensing)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            972,
+            364
+          ],
+          [
+            1126,
+            367
+          ],
+          [
+            1125,
+            399
+          ],
+          [
+            972,
+            396
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            975,
+            413
+          ],
+          [
+            1111,
+            413
+          ],
+          [
+            1111,
+            445
+          ],
+          [
+            975,
+            445
+          ]
+        ],
+        "transcription": "Sensitive"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 4,
+        "points": [
+          [
+            972,
+            455
+          ],
+          [
+            1068,
+            455
+          ],
+          [
+            1068,
+            488
+          ],
+          [
+            972,
+            488
+          ]
+        ],
+        "transcription": "Fabric"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 4,
+        "points": [
+          [
+            976,
+            499
+          ],
+          [
+            1173,
+            499
+          ],
+          [
+            1173,
+            525
+          ],
+          [
+            976,
+            525
+          ]
+        ],
+        "transcription": "(Resistive sensing)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            973,
+            541
+          ],
+          [
+            1145,
+            541
+          ],
+          [
+            1145,
+            573
+          ],
+          [
+            973,
+            573
+          ]
+        ],
+        "transcription": "Conductive"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            973,
+            586
+          ],
+          [
+            1071,
+            586
+          ],
+          [
+            1071,
+            619
+          ],
+          [
+            973,
+            619
+          ]
+        ],
+        "transcription": "Fabric"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0146000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            195,
+            318
+          ],
+          [
+            1089,
+            322
+          ],
+          [
+            1089,
+            412
+          ],
+          [
+            195,
+            408
+          ]
+        ],
+        "transcription": "Object Recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            973,
+            464
+          ],
+          [
+            1082,
+            469
+          ],
+          [
+            1081,
+            493
+          ],
+          [
+            972,
+            488
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            1128,
+            466
+          ],
+          [
+            1264,
+            466
+          ],
+          [
+            1264,
+            488
+          ],
+          [
+            1128,
+            488
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            631,
+            470
+          ],
+          [
+            937,
+            466
+          ],
+          [
+            937,
+            490
+          ],
+          [
+            631,
+            494
+          ]
+        ],
+        "transcription": "Inductance Capacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            923,
+            687
+          ],
+          [
+            1185,
+            690
+          ],
+          [
+            1185,
+            712
+          ],
+          [
+            923,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0155460.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            40
+          ],
+          [
+            437,
+            44
+          ],
+          [
+            437,
+            89
+          ],
+          [
+            7,
+            85
+          ]
+        ],
+        "transcription": "Object Recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            93,
+            166
+          ],
+          [
+            271,
+            171
+          ],
+          [
+            270,
+            209
+          ],
+          [
+            92,
+            205
+          ]
+        ],
+        "transcription": "Footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            973,
+            464
+          ],
+          [
+            1082,
+            469
+          ],
+          [
+            1081,
+            493
+          ],
+          [
+            972,
+            488
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            1128,
+            467
+          ],
+          [
+            1264,
+            467
+          ],
+          [
+            1264,
+            490
+          ],
+          [
+            1128,
+            490
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            139,
+            508
+          ],
+          [
+            227,
+            508
+          ],
+          [
+            227,
+            541
+          ],
+          [
+            139,
+            541
+          ]
+        ],
+        "transcription": "4 x 4"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            89,
+            557
+          ],
+          [
+            271,
+            553
+          ],
+          [
+            272,
+            585
+          ],
+          [
+            90,
+            589
+          ]
+        ],
+        "transcription": "capacitance"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 4,
+        "points": [
+          [
+            110,
+            598
+          ],
+          [
+            254,
+            603
+          ],
+          [
+            253,
+            637
+          ],
+          [
+            109,
+            632
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            687,
+            508
+          ],
+          [
+            773,
+            508
+          ],
+          [
+            773,
+            541
+          ],
+          [
+            687,
+            541
+          ]
+        ],
+        "transcription": "2 x 2"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            646,
+            554
+          ],
+          [
+            816,
+            559
+          ],
+          [
+            816,
+            587
+          ],
+          [
+            645,
+            582
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            416,
+            510
+          ],
+          [
+            500,
+            510
+          ],
+          [
+            500,
+            539
+          ],
+          [
+            416,
+            539
+          ]
+        ],
+        "transcription": "4 x 4"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            390,
+            554
+          ],
+          [
+            523,
+            560
+          ],
+          [
+            522,
+            588
+          ],
+          [
+            389,
+            582
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            660,
+            600
+          ],
+          [
+            803,
+            600
+          ],
+          [
+            803,
+            633
+          ],
+          [
+            660,
+            633
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            384,
+            601
+          ],
+          [
+            527,
+            601
+          ],
+          [
+            527,
+            634
+          ],
+          [
+            384,
+            634
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            923,
+            687
+          ],
+          [
+            1185,
+            690
+          ],
+          [
+            1185,
+            712
+          ],
+          [
+            923,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0156460.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            8,
+            40
+          ],
+          [
+            436,
+            44
+          ],
+          [
+            436,
+            89
+          ],
+          [
+            8,
+            85
+          ]
+        ],
+        "transcription": "Object Recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            91,
+            165
+          ],
+          [
+            272,
+            168
+          ],
+          [
+            272,
+            209
+          ],
+          [
+            90,
+            206
+          ]
+        ],
+        "transcription": "Footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            973,
+            464
+          ],
+          [
+            1082,
+            469
+          ],
+          [
+            1081,
+            493
+          ],
+          [
+            972,
+            488
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            1128,
+            467
+          ],
+          [
+            1264,
+            467
+          ],
+          [
+            1264,
+            490
+          ],
+          [
+            1128,
+            490
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            632,
+            471
+          ],
+          [
+            936,
+            467
+          ],
+          [
+            936,
+            490
+          ],
+          [
+            632,
+            494
+          ]
+        ],
+        "transcription": "Inductance Capacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            924,
+            688
+          ],
+          [
+            1185,
+            688
+          ],
+          [
+            1185,
+            711
+          ],
+          [
+            924,
+            711
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0161000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            8,
+            42
+          ],
+          [
+            435,
+            45
+          ],
+          [
+            434,
+            86
+          ],
+          [
+            8,
+            83
+          ]
+        ],
+        "transcription": "Object Recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            93,
+            166
+          ],
+          [
+            271,
+            171
+          ],
+          [
+            270,
+            209
+          ],
+          [
+            92,
+            205
+          ]
+        ],
+        "transcription": "Footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            587,
+            168
+          ],
+          [
+            731,
+            172
+          ],
+          [
+            730,
+            205
+          ],
+          [
+            586,
+            201
+          ]
+        ],
+        "transcription": "Feature"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            564,
+            225
+          ],
+          [
+            753,
+            225
+          ],
+          [
+            753,
+            257
+          ],
+          [
+            564,
+            257
+          ]
+        ],
+        "transcription": "Extraction"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            552,
+            442
+          ],
+          [
+            795,
+            445
+          ],
+          [
+            794,
+            471
+          ],
+          [
+            552,
+            468
+          ]
+        ],
+        "transcription": "86 x 3 Features"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            973,
+            464
+          ],
+          [
+            1082,
+            469
+          ],
+          [
+            1081,
+            493
+          ],
+          [
+            972,
+            488
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            1128,
+            467
+          ],
+          [
+            1264,
+            467
+          ],
+          [
+            1264,
+            490
+          ],
+          [
+            1128,
+            490
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            529,
+            502
+          ],
+          [
+            847,
+            502
+          ],
+          [
+            847,
+            528
+          ],
+          [
+            529,
+            528
+          ]
+        ],
+        "transcription": "Shape related features"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 7,
+        "points": [
+          [
+            572,
+            543
+          ],
+          [
+            1045,
+            541
+          ],
+          [
+            1045,
+            569
+          ],
+          [
+            572,
+            570
+          ]
+        ],
+        "transcription": "(e.g., number of covered pixels)"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 7,
+        "points": [
+          [
+            528,
+            581
+          ],
+          [
+            877,
+            584
+          ],
+          [
+            877,
+            610
+          ],
+          [
+            528,
+            607
+          ]
+        ],
+        "transcription": "Materialrelated features"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            128,
+            510
+          ],
+          [
+            259,
+            510
+          ],
+          [
+            259,
+            543
+          ],
+          [
+            128,
+            543
+          ]
+        ],
+        "transcription": "multiple"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            122,
+            553
+          ],
+          [
+            266,
+            556
+          ],
+          [
+            265,
+            589
+          ],
+          [
+            121,
+            586
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            575,
+            626
+          ],
+          [
+            937,
+            623
+          ],
+          [
+            937,
+            650
+          ],
+          [
+            575,
+            653
+          ]
+        ],
+        "transcription": "(e.g., mean and median)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            923,
+            687
+          ],
+          [
+            1185,
+            690
+          ],
+          [
+            1185,
+            712
+          ],
+          [
+            923,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0176350.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            8,
+            42
+          ],
+          [
+            435,
+            45
+          ],
+          [
+            434,
+            86
+          ],
+          [
+            8,
+            83
+          ]
+        ],
+        "transcription": "Object Recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            589,
+            46
+          ],
+          [
+            734,
+            52
+          ],
+          [
+            732,
+            85
+          ],
+          [
+            588,
+            79
+          ]
+        ],
+        "transcription": "Feature"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            568,
+            103
+          ],
+          [
+            757,
+            103
+          ],
+          [
+            757,
+            135
+          ],
+          [
+            568,
+            135
+          ]
+        ],
+        "transcription": "Extraction"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            93,
+            166
+          ],
+          [
+            271,
+            171
+          ],
+          [
+            270,
+            209
+          ],
+          [
+            92,
+            205
+          ]
+        ],
+        "transcription": "Footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            555,
+            320
+          ],
+          [
+            795,
+            324
+          ],
+          [
+            794,
+            352
+          ],
+          [
+            555,
+            348
+          ]
+        ],
+        "transcription": "86 x 3 Features"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            1025,
+            341
+          ],
+          [
+            1160,
+            341
+          ],
+          [
+            1160,
+            373
+          ],
+          [
+            1025,
+            373
+          ]
+        ],
+        "transcription": "Machine"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            1023,
+            381
+          ],
+          [
+            1163,
+            388
+          ],
+          [
+            1161,
+            425
+          ],
+          [
+            1021,
+            418
+          ]
+        ],
+        "transcription": "Learning"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            975,
+            467
+          ],
+          [
+            1081,
+            467
+          ],
+          [
+            1081,
+            490
+          ],
+          [
+            975,
+            490
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            1128,
+            467
+          ],
+          [
+            1264,
+            467
+          ],
+          [
+            1264,
+            490
+          ],
+          [
+            1128,
+            490
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            128,
+            510
+          ],
+          [
+            259,
+            510
+          ],
+          [
+            259,
+            543
+          ],
+          [
+            128,
+            543
+          ]
+        ],
+        "transcription": "multiple"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            122,
+            553
+          ],
+          [
+            266,
+            556
+          ],
+          [
+            265,
+            589
+          ],
+          [
+            121,
+            586
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            559,
+            597
+          ],
+          [
+            800,
+            601
+          ],
+          [
+            800,
+            634
+          ],
+          [
+            558,
+            630
+          ]
+        ],
+        "transcription": "Idle Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            592,
+            652
+          ],
+          [
+            766,
+            655
+          ],
+          [
+            765,
+            692
+          ],
+          [
+            592,
+            689
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            923,
+            687
+          ],
+          [
+            1185,
+            690
+          ],
+          [
+            1185,
+            712
+          ],
+          [
+            923,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0190000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            44
+          ],
+          [
+            460,
+            46
+          ],
+          [
+            460,
+            87
+          ],
+          [
+            7,
+            85
+          ]
+        ],
+        "transcription": "Gesture Recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            725,
+            91
+          ],
+          [
+            1169,
+            94
+          ],
+          [
+            1169,
+            130
+          ],
+          [
+            725,
+            127
+          ]
+        ],
+        "transcription": "Background subtraction"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            932,
+            147
+          ],
+          [
+            964,
+            147
+          ],
+          [
+            964,
+            180
+          ],
+          [
+            932,
+            180
+          ]
+        ],
+        "transcription": "&"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            813,
+            202
+          ],
+          [
+            1084,
+            202
+          ],
+          [
+            1084,
+            234
+          ],
+          [
+            813,
+            234
+          ]
+        ],
+        "transcription": "Blob detection"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            96,
+            311
+          ],
+          [
+            228,
+            315
+          ],
+          [
+            227,
+            358
+          ],
+          [
+            94,
+            353
+          ]
+        ],
+        "transcription": "Object"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            56,
+            373
+          ],
+          [
+            267,
+            373
+          ],
+          [
+            267,
+            409
+          ],
+          [
+            56,
+            409
+          ]
+        ],
+        "transcription": "recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            421,
+            341
+          ],
+          [
+            525,
+            341
+          ],
+          [
+            525,
+            379
+          ],
+          [
+            421,
+            379
+          ]
+        ],
+        "transcription": "Hand"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            972,
+            467
+          ],
+          [
+            1084,
+            470
+          ],
+          [
+            1084,
+            493
+          ],
+          [
+            972,
+            490
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            617,
+            468
+          ],
+          [
+            932,
+            470
+          ],
+          [
+            932,
+            492
+          ],
+          [
+            617,
+            491
+          ]
+        ],
+        "transcription": "Inductance Capacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            756,
+            524
+          ],
+          [
+            843,
+            524
+          ],
+          [
+            843,
+            557
+          ],
+          [
+            756,
+            557
+          ]
+        ],
+        "transcription": "4 x 4"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            706,
+            575
+          ],
+          [
+            890,
+            570
+          ],
+          [
+            891,
+            601
+          ],
+          [
+            707,
+            605
+          ]
+        ],
+        "transcription": "capacitance"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 8,
+        "points": [
+          [
+            727,
+            615
+          ],
+          [
+            871,
+            618
+          ],
+          [
+            870,
+            651
+          ],
+          [
+            726,
+            648
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            1033,
+            524
+          ],
+          [
+            1116,
+            527
+          ],
+          [
+            1115,
+            558
+          ],
+          [
+            1032,
+            554
+          ]
+        ],
+        "transcription": "4 x 4"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 9,
+        "points": [
+          [
+            1006,
+            569
+          ],
+          [
+            1143,
+            575
+          ],
+          [
+            1142,
+            607
+          ],
+          [
+            1005,
+            600
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 9,
+        "points": [
+          [
+            1003,
+            617
+          ],
+          [
+            1145,
+            617
+          ],
+          [
+            1145,
+            650
+          ],
+          [
+            1003,
+            650
+          ]
+        ],
+        "transcription": "footprint"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            832,
+            688
+          ],
+          [
+            1273,
+            688
+          ],
+          [
+            1273,
+            715
+          ],
+          [
+            832,
+            715
+          ]
+        ],
+        "transcription": "Gesture Detected: Heavy Swipe Left"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0215000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            44
+          ],
+          [
+            685,
+            44
+          ],
+          [
+            685,
+            83
+          ],
+          [
+            7,
+            83
+          ]
+        ],
+        "transcription": "Evaluation - object recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            139,
+            163
+          ],
+          [
+            403,
+            166
+          ],
+          [
+            402,
+            203
+          ],
+          [
+            139,
+            200
+          ]
+        ],
+        "transcription": "10 participants"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            137,
+            220
+          ],
+          [
+            485,
+            220
+          ],
+          [
+            485,
+            251
+          ],
+          [
+            137,
+            251
+          ]
+        ],
+        "transcription": "(4 males, 6 females)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            146,
+            382
+          ],
+          [
+            475,
+            385
+          ],
+          [
+            474,
+            421
+          ],
+          [
+            145,
+            418
+          ]
+        ],
+        "transcription": "10 objects + Hand"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            145,
+            578
+          ],
+          [
+            580,
+            580
+          ],
+          [
+            580,
+            615
+          ],
+          [
+            145,
+            614
+          ]
+        ],
+        "transcription": "10 times for each object"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            924,
+            691
+          ],
+          [
+            1185,
+            691
+          ],
+          [
+            1185,
+            709
+          ],
+          [
+            924,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0219000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            4,
+            41
+          ],
+          [
+            687,
+            42
+          ],
+          [
+            687,
+            83
+          ],
+          [
+            4,
+            82
+          ]
+        ],
+        "transcription": "Evaluation - object recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            671,
+            179
+          ],
+          [
+            729,
+            179
+          ],
+          [
+            729,
+            202
+          ],
+          [
+            671,
+            202
+          ]
+        ],
+        "transcription": "Noise"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            97,
+            255
+          ],
+          [
+            590,
+            265
+          ],
+          [
+            589,
+            305
+          ],
+          [
+            96,
+            295
+          ]
+        ],
+        "transcription": "Within-user accuracy"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            215,
+            588
+          ],
+          [
+            377,
+            588
+          ],
+          [
+            377,
+            621
+          ],
+          [
+            215,
+            621
+          ]
+        ],
+        "transcription": "SD = 3.2"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            673,
+            600
+          ],
+          [
+            727,
+            600
+          ],
+          [
+            727,
+            619
+          ],
+          [
+            673,
+            619
+          ]
+        ],
+        "transcription": "Hand"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            707,
+            629
+          ],
+          [
+            785,
+            629
+          ],
+          [
+            785,
+            651
+          ],
+          [
+            707,
+            651
+          ]
+        ],
+        "transcription": "Noise"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            1141,
+            629
+          ],
+          [
+            1197,
+            629
+          ],
+          [
+            1197,
+            651
+          ],
+          [
+            1141,
+            651
+          ]
+        ],
+        "transcription": "Hand"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            889,
+            647
+          ],
+          [
+            1029,
+            649
+          ],
+          [
+            1029,
+            667
+          ],
+          [
+            889,
+            666
+          ]
+        ],
+        "transcription": "Index of predicted classes"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            927,
+            691
+          ],
+          [
+            1185,
+            691
+          ],
+          [
+            1185,
+            709
+          ],
+          [
+            927,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0232000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            4,
+            41
+          ],
+          [
+            687,
+            42
+          ],
+          [
+            687,
+            83
+          ],
+          [
+            4,
+            82
+          ]
+        ],
+        "transcription": "Evaluation - object recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            98,
+            258
+          ],
+          [
+            579,
+            268
+          ],
+          [
+            578,
+            305
+          ],
+          [
+            97,
+            295
+          ]
+        ],
+        "transcription": "Cross-user accuracy"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            215,
+            588
+          ],
+          [
+            377,
+            588
+          ],
+          [
+            377,
+            621
+          ],
+          [
+            215,
+            621
+          ]
+        ],
+        "transcription": "SD = 6.0"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            693,
+            627
+          ],
+          [
+            752,
+            627
+          ],
+          [
+            752,
+            649
+          ],
+          [
+            693,
+            649
+          ]
+        ],
+        "transcription": "Noise"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            1118,
+            629
+          ],
+          [
+            1172,
+            626
+          ],
+          [
+            1172,
+            650
+          ],
+          [
+            1117,
+            651
+          ]
+        ],
+        "transcription": "Hand"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            865,
+            647
+          ],
+          [
+            1003,
+            647
+          ],
+          [
+            1003,
+            664
+          ],
+          [
+            865,
+            664
+          ]
+        ],
+        "transcription": "Index of predicted classes"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            923,
+            688
+          ],
+          [
+            1187,
+            690
+          ],
+          [
+            1187,
+            712
+          ],
+          [
+            923,
+            711
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0238000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            5,
+            40
+          ],
+          [
+            723,
+            41
+          ],
+          [
+            723,
+            82
+          ],
+          [
+            5,
+            81
+          ]
+        ],
+        "transcription": "Evaluation - Gesture recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            139,
+            163
+          ],
+          [
+            401,
+            166
+          ],
+          [
+            401,
+            203
+          ],
+          [
+            139,
+            200
+          ]
+        ],
+        "transcription": "10 participants"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            137,
+            220
+          ],
+          [
+            485,
+            220
+          ],
+          [
+            485,
+            251
+          ],
+          [
+            137,
+            251
+          ]
+        ],
+        "transcription": "(4 males, 6 females)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            696,
+            314
+          ],
+          [
+            895,
+            312
+          ],
+          [
+            895,
+            335
+          ],
+          [
+            696,
+            336
+          ]
+        ],
+        "transcription": "Light Swipe Left (L)"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            699,
+            341
+          ],
+          [
+            923,
+            341
+          ],
+          [
+            923,
+            364
+          ],
+          [
+            699,
+            364
+          ]
+        ],
+        "transcription": "Heavy Swipe Left (HL)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            993,
+            315
+          ],
+          [
+            1204,
+            315
+          ],
+          [
+            1204,
+            334
+          ],
+          [
+            993,
+            334
+          ]
+        ],
+        "transcription": "Light Swipe Right(R)"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            992,
+            341
+          ],
+          [
+            1233,
+            340
+          ],
+          [
+            1233,
+            363
+          ],
+          [
+            992,
+            364
+          ]
+        ],
+        "transcription": "Heavy Swipe Right (HR)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            141,
+            382
+          ],
+          [
+            338,
+            389
+          ],
+          [
+            337,
+            421
+          ],
+          [
+            140,
+            414
+          ]
+        ],
+        "transcription": "8 Gestures"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            41,
+            578
+          ],
+          [
+            69,
+            578
+          ],
+          [
+            69,
+            613
+          ],
+          [
+            41,
+            613
+          ]
+        ],
+        "transcription": "3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            147,
+            580
+          ],
+          [
+            603,
+            584
+          ],
+          [
+            602,
+            616
+          ],
+          [
+            147,
+            611
+          ]
+        ],
+        "transcription": "10 times for each gesture"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            697,
+            627
+          ],
+          [
+            853,
+            627
+          ],
+          [
+            853,
+            650
+          ],
+          [
+            697,
+            650
+          ]
+        ],
+        "transcription": "Light Swipe Up"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            703,
+            660
+          ],
+          [
+            919,
+            660
+          ],
+          [
+            919,
+            683
+          ],
+          [
+            703,
+            683
+          ]
+        ],
+        "transcription": "Heavy Swipe Up (HU)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            988,
+            627
+          ],
+          [
+            1207,
+            627
+          ],
+          [
+            1207,
+            650
+          ],
+          [
+            988,
+            650
+          ]
+        ],
+        "transcription": "Light Swipe Down (D)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            984,
+            662
+          ],
+          [
+            1224,
+            662
+          ],
+          [
+            1224,
+            680
+          ],
+          [
+            984,
+            680
+          ]
+        ],
+        "transcription": "Heavy Swipe Down (HD"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 10,
+        "points": [
+          [
+            823,
+            686
+          ],
+          [
+            1272,
+            686
+          ],
+          [
+            1272,
+            713
+          ],
+          [
+            823,
+            713
+          ]
+        ],
+        "transcription": "Gesture Detected: Heavy Swipe Left"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0241000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            40
+          ],
+          [
+            726,
+            42
+          ],
+          [
+            726,
+            82
+          ],
+          [
+            7,
+            79
+          ]
+        ],
+        "transcription": "Evaluation - Gesture recognition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            876,
+            147
+          ],
+          [
+            917,
+            147
+          ],
+          [
+            917,
+            173
+          ],
+          [
+            876,
+            173
+          ]
+        ],
+        "transcription": "HR"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            760,
+            148
+          ],
+          [
+            800,
+            148
+          ],
+          [
+            800,
+            173
+          ],
+          [
+            760,
+            173
+          ]
+        ],
+        "transcription": "HL"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            823,
+            148
+          ],
+          [
+            847,
+            148
+          ],
+          [
+            847,
+            173
+          ],
+          [
+            823,
+            173
+          ]
+        ],
+        "transcription": "R"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            991,
+            148
+          ],
+          [
+            1033,
+            148
+          ],
+          [
+            1033,
+            175
+          ],
+          [
+            991,
+            175
+          ]
+        ],
+        "transcription": "HU"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            624,
+            150
+          ],
+          [
+            692,
+            150
+          ],
+          [
+            692,
+            173
+          ],
+          [
+            624,
+            173
+          ]
+        ],
+        "transcription": "None"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            936,
+            150
+          ],
+          [
+            963,
+            150
+          ],
+          [
+            963,
+            172
+          ],
+          [
+            936,
+            172
+          ]
+        ],
+        "transcription": "U"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            1056,
+            150
+          ],
+          [
+            1080,
+            150
+          ],
+          [
+            1080,
+            172
+          ],
+          [
+            1056,
+            172
+          ]
+        ],
+        "transcription": "D"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            1095,
+            151
+          ],
+          [
+            1133,
+            151
+          ],
+          [
+            1133,
+            172
+          ],
+          [
+            1095,
+            172
+          ]
+        ],
+        "transcription": "HD"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            712,
+            155
+          ],
+          [
+            725,
+            155
+          ],
+          [
+            725,
+            169
+          ],
+          [
+            712,
+            169
+          ]
+        ],
+        "transcription": "L"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            605,
+            205
+          ],
+          [
+            619,
+            205
+          ],
+          [
+            619,
+            225
+          ],
+          [
+            605,
+            225
+          ]
+        ],
+        "transcription": "L"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            587,
+            254
+          ],
+          [
+            623,
+            254
+          ],
+          [
+            623,
+            282
+          ],
+          [
+            587,
+            282
+          ]
+        ],
+        "transcription": "HL"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            90,
+            256
+          ],
+          [
+            482,
+            256
+          ],
+          [
+            482,
+            298
+          ],
+          [
+            90,
+            298
+          ]
+        ],
+        "transcription": "overall accuracy"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 13,
+        "points": [
+          [
+            601,
+            315
+          ],
+          [
+            624,
+            315
+          ],
+          [
+            624,
+            341
+          ],
+          [
+            601,
+            341
+          ]
+        ],
+        "transcription": "R"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 14,
+        "points": [
+          [
+            585,
+            371
+          ],
+          [
+            627,
+            371
+          ],
+          [
+            627,
+            397
+          ],
+          [
+            585,
+            397
+          ]
+        ],
+        "transcription": "HR"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 15,
+        "points": [
+          [
+            607,
+            429
+          ],
+          [
+            625,
+            429
+          ],
+          [
+            625,
+            450
+          ],
+          [
+            607,
+            450
+          ]
+        ],
+        "transcription": "U"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 16,
+        "points": [
+          [
+            584,
+            487
+          ],
+          [
+            625,
+            487
+          ],
+          [
+            625,
+            514
+          ],
+          [
+            584,
+            514
+          ]
+        ],
+        "transcription": "HU"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 17,
+        "points": [
+          [
+            604,
+            548
+          ],
+          [
+            627,
+            548
+          ],
+          [
+            627,
+            572
+          ],
+          [
+            604,
+            572
+          ]
+        ],
+        "transcription": "D"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 18,
+        "points": [
+          [
+            215,
+            588
+          ],
+          [
+            376,
+            588
+          ],
+          [
+            376,
+            621
+          ],
+          [
+            215,
+            621
+          ]
+        ],
+        "transcription": "SD = 3.0"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 19,
+        "points": [
+          [
+            584,
+            600
+          ],
+          [
+            625,
+            600
+          ],
+          [
+            625,
+            626
+          ],
+          [
+            584,
+            626
+          ]
+        ],
+        "transcription": "HD"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 20,
+        "points": [
+          [
+            935,
+            691
+          ],
+          [
+            1272,
+            691
+          ],
+          [
+            1272,
+            713
+          ],
+          [
+            935,
+            713
+          ]
+        ],
+        "transcription": "Detected: Heavy Swipe Left"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0260000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            44
+          ],
+          [
+            374,
+            40
+          ],
+          [
+            375,
+            77
+          ],
+          [
+            7,
+            81
+          ]
+        ],
+        "transcription": "Evaluation - NFC"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            139,
+            163
+          ],
+          [
+            402,
+            167
+          ],
+          [
+            401,
+            204
+          ],
+          [
+            138,
+            200
+          ]
+        ],
+        "transcription": "10 participants"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            137,
+            220
+          ],
+          [
+            485,
+            220
+          ],
+          [
+            485,
+            251
+          ],
+          [
+            137,
+            251
+          ]
+        ],
+        "transcription": "(4 males, 6 females)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            972,
+            344
+          ],
+          [
+            989,
+            344
+          ],
+          [
+            989,
+            367
+          ],
+          [
+            972,
+            367
+          ]
+        ],
+        "transcription": "5"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            142,
+            380
+          ],
+          [
+            462,
+            384
+          ],
+          [
+            461,
+            425
+          ],
+          [
+            141,
+            421
+          ]
+        ],
+        "transcription": "Key and Card Tag"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            1132,
+            482
+          ],
+          [
+            1149,
+            482
+          ],
+          [
+            1149,
+            504
+          ],
+          [
+            1132,
+            504
+          ]
+        ],
+        "transcription": "3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            791,
+            527
+          ],
+          [
+            1231,
+            534
+          ],
+          [
+            1230,
+            573
+          ],
+          [
+            790,
+            566
+          ]
+        ],
+        "transcription": "Detected: card/tag"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            143,
+            580
+          ],
+          [
+            579,
+            582
+          ],
+          [
+            579,
+            614
+          ],
+          [
+            143,
+            611
+          ]
+        ],
+        "transcription": "5 Locations x 3 Distance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            795,
+            615
+          ],
+          [
+            1180,
+            618
+          ],
+          [
+            1180,
+            658
+          ],
+          [
+            795,
+            655
+          ]
+        ],
+        "transcription": "UID: 15502728"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0270000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            7,
+            42
+          ],
+          [
+            374,
+            40
+          ],
+          [
+            375,
+            77
+          ],
+          [
+            7,
+            80
+          ]
+        ],
+        "transcription": "Evaluation - NFC"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            983,
+            200
+          ],
+          [
+            1036,
+            200
+          ],
+          [
+            1036,
+            214
+          ],
+          [
+            983,
+            214
+          ]
+        ],
+        "transcription": "card"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            932,
+            201
+          ],
+          [
+            980,
+            201
+          ],
+          [
+            980,
+            214
+          ],
+          [
+            932,
+            214
+          ]
+        ],
+        "transcription": "key"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            281,
+            453
+          ],
+          [
+            305,
+            453
+          ],
+          [
+            305,
+            545
+          ],
+          [
+            281,
+            545
+          ]
+        ],
+        "transcription": "top right"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            336,
+            453
+          ],
+          [
+            360,
+            453
+          ],
+          [
+            360,
+            581
+          ],
+          [
+            336,
+            581
+          ]
+        ],
+        "transcription": "bottom right"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            497,
+            453
+          ],
+          [
+            525,
+            453
+          ],
+          [
+            525,
+            525
+          ],
+          [
+            497,
+            525
+          ]
+        ],
+        "transcription": "Center"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            554,
+            453
+          ],
+          [
+            579,
+            452
+          ],
+          [
+            582,
+            543
+          ],
+          [
+            557,
+            544
+          ]
+        ],
+        "transcription": "top right"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            612,
+            453
+          ],
+          [
+            637,
+            453
+          ],
+          [
+            637,
+            584
+          ],
+          [
+            612,
+            584
+          ]
+        ],
+        "transcription": "bottom right"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            664,
+            453
+          ],
+          [
+            688,
+            452
+          ],
+          [
+            691,
+            530
+          ],
+          [
+            667,
+            531
+          ]
+        ],
+        "transcription": "top left"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            444,
+            454
+          ],
+          [
+            468,
+            454
+          ],
+          [
+            469,
+            569
+          ],
+          [
+            445,
+            569
+          ]
+        ],
+        "transcription": "bottom left"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            721,
+            454
+          ],
+          [
+            744,
+            454
+          ],
+          [
+            744,
+            569
+          ],
+          [
+            721,
+            569
+          ]
+        ],
+        "transcription": "bottom left"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            775,
+            454
+          ],
+          [
+            799,
+            454
+          ],
+          [
+            799,
+            524
+          ],
+          [
+            775,
+            524
+          ]
+        ],
+        "transcription": "Center"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            832,
+            454
+          ],
+          [
+            856,
+            454
+          ],
+          [
+            856,
+            544
+          ],
+          [
+            832,
+            544
+          ]
+        ],
+        "transcription": "top right"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 13,
+        "points": [
+          [
+            885,
+            454
+          ],
+          [
+            909,
+            454
+          ],
+          [
+            909,
+            581
+          ],
+          [
+            885,
+            581
+          ]
+        ],
+        "transcription": "bottom right"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 14,
+        "points": [
+          [
+            1051,
+            454
+          ],
+          [
+            1075,
+            454
+          ],
+          [
+            1075,
+            525
+          ],
+          [
+            1051,
+            525
+          ]
+        ],
+        "transcription": "Center"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 15,
+        "points": [
+          [
+            389,
+            455
+          ],
+          [
+            413,
+            454
+          ],
+          [
+            416,
+            530
+          ],
+          [
+            392,
+            531
+          ]
+        ],
+        "transcription": "top left"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 16,
+        "points": [
+          [
+            938,
+            455
+          ],
+          [
+            962,
+            454
+          ],
+          [
+            966,
+            530
+          ],
+          [
+            942,
+            531
+          ]
+        ],
+        "transcription": "top left"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 17,
+        "points": [
+          [
+            996,
+            455
+          ],
+          [
+            1019,
+            455
+          ],
+          [
+            1019,
+            568
+          ],
+          [
+            996,
+            568
+          ]
+        ],
+        "transcription": "bottom left"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 18,
+        "points": [
+          [
+            189,
+            472
+          ],
+          [
+            253,
+            472
+          ],
+          [
+            253,
+            491
+          ],
+          [
+            189,
+            491
+          ]
+        ],
+        "transcription": "success"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 18,
+        "points": [
+          [
+            204,
+            496
+          ],
+          [
+            241,
+            496
+          ],
+          [
+            241,
+            514
+          ],
+          [
+            204,
+            514
+          ]
+        ],
+        "transcription": "rate"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 19,
+        "points": [
+          [
+            373,
+            596
+          ],
+          [
+            430,
+            600
+          ],
+          [
+            428,
+            624
+          ],
+          [
+            372,
+            620
+          ]
+        ],
+        "transcription": "0mm"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 20,
+        "points": [
+          [
+            613,
+            598
+          ],
+          [
+            737,
+            598
+          ],
+          [
+            737,
+            621
+          ],
+          [
+            613,
+            621
+          ]
+        ],
+        "transcription": "3mm/10mm"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 21,
+        "points": [
+          [
+            887,
+            598
+          ],
+          [
+            1016,
+            598
+          ],
+          [
+            1016,
+            621
+          ],
+          [
+            887,
+            621
+          ]
+        ],
+        "transcription": "6mm/ 20mm"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 21,
+        "points": [
+          [
+            796,
+            624
+          ],
+          [
+            1182,
+            617
+          ],
+          [
+            1183,
+            656
+          ],
+          [
+            796,
+            663
+          ]
+        ],
+        "transcription": "UID: 15502728"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0299000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            8,
+            42
+          ],
+          [
+            244,
+            42
+          ],
+          [
+            244,
+            79
+          ],
+          [
+            8,
+            79
+          ]
+        ],
+        "transcription": "Conclusion"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            135,
+            189
+          ],
+          [
+            1216,
+            192
+          ],
+          [
+            1216,
+            228
+          ],
+          [
+            135,
+            225
+          ]
+        ],
+        "transcription": "We present a textile sensor design for an interactive pocket"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            137,
+            327
+          ],
+          [
+            1052,
+            327
+          ],
+          [
+            1052,
+            363
+          ],
+          [
+            137,
+            363
+          ]
+        ],
+        "transcription": "We present a system that can sense user input and"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            148,
+            384
+          ],
+          [
+            785,
+            384
+          ],
+          [
+            785,
+            416
+          ],
+          [
+            148,
+            416
+          ]
+        ],
+        "transcription": "recognize objects inside the pocket"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            971,
+            464
+          ],
+          [
+            1080,
+            469
+          ],
+          [
+            1079,
+            491
+          ],
+          [
+            970,
+            487
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            1128,
+            467
+          ],
+          [
+            1264,
+            467
+          ],
+          [
+            1264,
+            490
+          ],
+          [
+            1128,
+            490
+          ]
+        ],
+        "transcription": "Inductance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            779,
+            470
+          ],
+          [
+            936,
+            470
+          ],
+          [
+            936,
+            488
+          ],
+          [
+            779,
+            488
+          ]
+        ],
+        "transcription": "Capacitance"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            147,
+            496
+          ],
+          [
+            1021,
+            496
+          ],
+          [
+            1021,
+            528
+          ],
+          [
+            147,
+            528
+          ]
+        ],
+        "transcription": "We conducted an experimental evaluation of the"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            141,
+            551
+          ],
+          [
+            779,
+            549
+          ],
+          [
+            779,
+            585
+          ],
+          [
+            141,
+            586
+          ]
+        ],
+        "transcription": "sensing performance of our system"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            921,
+            687
+          ],
+          [
+            1185,
+            690
+          ],
+          [
+            1185,
+            712
+          ],
+          [
+            921,
+            709
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0303450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            732,
+            34
+          ],
+          [
+            1228,
+            40
+          ],
+          [
+            1228,
+            99
+          ],
+          [
+            732,
+            94
+          ]
+        ],
+        "transcription": "Project Tasca"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            533,
+            132
+          ],
+          [
+            1224,
+            132
+          ],
+          [
+            1224,
+            163
+          ],
+          [
+            533,
+            163
+          ]
+        ],
+        "transcription": "Enabling Touch and Contextual Interactions"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            668,
+            175
+          ],
+          [
+            1221,
+            175
+          ],
+          [
+            1221,
+            201
+          ],
+          [
+            668,
+            201
+          ]
+        ],
+        "transcription": "with a Pocket-based Textile Sensor"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            932,
+            377
+          ],
+          [
+            1024,
+            377
+          ],
+          [
+            1024,
+            400
+          ],
+          [
+            932,
+            400
+          ]
+        ],
+        "transcription": "Zheer Xu"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            1069,
+            377
+          ],
+          [
+            1227,
+            377
+          ],
+          [
+            1227,
+            400
+          ],
+          [
+            1069,
+            400
+          ]
+        ],
+        "transcription": "Xing-Dong Yang"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            744,
+            379
+          ],
+          [
+            856,
+            379
+          ],
+          [
+            856,
+            401
+          ],
+          [
+            744,
+            401
+          ]
+        ],
+        "transcription": "Te-Yen Wu"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            166,
+            467
+          ],
+          [
+            275,
+            471
+          ],
+          [
+            274,
+            495
+          ],
+          [
+            165,
+            491
+          ]
+        ],
+        "transcription": "Pressure"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            317,
+            470
+          ],
+          [
+            628,
+            471
+          ],
+          [
+            628,
+            494
+          ],
+          [
+            317,
+            492
+          ]
+        ],
+        "transcription": "InductanceCapacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            0,
+            471
+          ],
+          [
+            129,
+            468
+          ],
+          [
+            130,
+            492
+          ],
+          [
+            0,
+            495
+          ]
+        ],
+        "transcription": "apacitance"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            922,
+            544
+          ],
+          [
+            1048,
+            547
+          ],
+          [
+            1048,
+            569
+          ],
+          [
+            921,
+            566
+          ]
+        ],
+        "transcription": "Steve Hodge"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            1125,
+            548
+          ],
+          [
+            1247,
+            548
+          ],
+          [
+            1247,
+            566
+          ],
+          [
+            1125,
+            566
+          ]
+        ],
+        "transcription": "Teddy Seyed"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            967,
+            617
+          ],
+          [
+            1261,
+            617
+          ],
+          [
+            1261,
+            663
+          ],
+          [
+            967,
+            663
+          ]
+        ],
+        "transcription": "Dartmouth"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            640,
+            620
+          ],
+          [
+            908,
+            617
+          ],
+          [
+            908,
+            667
+          ],
+          [
+            640,
+            670
+          ]
+        ],
+        "transcription": "Microsoft"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            116,
+            691
+          ],
+          [
+            380,
+            692
+          ],
+          [
+            380,
+            715
+          ],
+          [
+            116,
+            713
+          ]
+        ],
+        "transcription": "Detected: Smartphone"
+      }
+    ]
+  }
+]

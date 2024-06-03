@@ -1,0 +1,4024 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0014450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            199,
+            184
+          ],
+          [
+            944,
+            181
+          ],
+          [
+            944,
+            226
+          ],
+          [
+            199,
+            229
+          ]
+        ],
+        "transcription": "Data Engagement Reconsidered:"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            197,
+            242
+          ],
+          [
+            1001,
+            244
+          ],
+          [
+            1001,
+            274
+          ],
+          [
+            197,
+            273
+          ]
+        ],
+        "transcription": "A Study of Automatic Stress Tracking Technology in Use"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            199,
+            292
+          ],
+          [
+            868,
+            292
+          ],
+          [
+            868,
+            315
+          ],
+          [
+            199,
+            315
+          ]
+        ],
+        "transcription": "Xianghua Ding 1, Shuhan Wei 1, Xinning Gui 2, Ning Gu 1, Peng Zhang"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            197,
+            334
+          ],
+          [
+            984,
+            334
+          ],
+          [
+            984,
+            351
+          ],
+          [
+            197,
+            351
+          ]
+        ],
+        "transcription": "[1] Cooperative and Information Systems Lab, School of Computer Science, Fudan University, Shanghai, China"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            196,
+            356
+          ],
+          [
+            851,
+            356
+          ],
+          [
+            851,
+            375
+          ],
+          [
+            196,
+            375
+          ]
+        ],
+        "transcription": "[2] College of Information Sciences and Technology, Pennsylvania State University, PA, USA"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            389,
+            543
+          ],
+          [
+            631,
+            543
+          ],
+          [
+            631,
+            602
+          ],
+          [
+            389,
+            602
+          ]
+        ],
+        "transcription": "CHI202I"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            944,
+            568
+          ],
+          [
+            1090,
+            571
+          ],
+          [
+            1089,
+            598
+          ],
+          [
+            944,
+            595
+          ]
+        ],
+        "transcription": "PennState"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0045450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            830,
+            67
+          ],
+          [
+            1020,
+            72
+          ],
+          [
+            1019,
+            107
+          ],
+          [
+            829,
+            103
+          ]
+        ],
+        "transcription": "The issues"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            111,
+            226
+          ],
+          [
+            639,
+            228
+          ],
+          [
+            639,
+            254
+          ],
+          [
+            111,
+            253
+          ]
+        ],
+        "transcription": "Stress has become a growing health concern"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            174,
+            284
+          ],
+          [
+            744,
+            286
+          ],
+          [
+            744,
+            309
+          ],
+          [
+            174,
+            306
+          ]
+        ],
+        "transcription": "Too much stress could reduce study and work efficiency"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            172,
+            315
+          ],
+          [
+            939,
+            313
+          ],
+          [
+            939,
+            337
+          ],
+          [
+            172,
+            339
+          ]
+        ],
+        "transcription": "Long term exposure to high levels of stress could lead to mental and physical"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 2,
+        "points": [
+          [
+            183,
+            339
+          ],
+          [
+            987,
+            340
+          ],
+          [
+            987,
+            367
+          ],
+          [
+            183,
+            365
+          ]
+        ],
+        "transcription": "diseases, e.g. depression, hypertension, cardiovascular disease, infectious illnesses,"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 2,
+        "points": [
+          [
+            184,
+            368
+          ],
+          [
+            343,
+            369
+          ],
+          [
+            343,
+            392
+          ],
+          [
+            184,
+            390
+          ]
+        ],
+        "transcription": "and even cancer"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            105,
+            458
+          ],
+          [
+            925,
+            458
+          ],
+          [
+            925,
+            484
+          ],
+          [
+            105,
+            484
+          ]
+        ],
+        "transcription": "The notion of stress is complex, involving not only psychological and"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            123,
+            492
+          ],
+          [
+            865,
+            492
+          ],
+          [
+            865,
+            519
+          ],
+          [
+            123,
+            519
+          ]
+        ],
+        "transcription": "emotional responses, but also physiological and bodily reactions"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0088450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            476,
+            89
+          ],
+          [
+            1172,
+            94
+          ],
+          [
+            1172,
+            130
+          ],
+          [
+            476,
+            124
+          ]
+        ],
+        "transcription": "Automatic stress-tracking techurorogie:"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            115,
+            168
+          ],
+          [
+            589,
+            169
+          ],
+          [
+            589,
+            193
+          ],
+          [
+            115,
+            192
+          ]
+        ],
+        "transcription": "More and more wearable products have"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            131,
+            203
+          ],
+          [
+            647,
+            200
+          ],
+          [
+            647,
+            226
+          ],
+          [
+            131,
+            229
+          ]
+        ],
+        "transcription": "automatic stress-tracking features embedded"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            761,
+            212
+          ],
+          [
+            1075,
+            212
+          ],
+          [
+            1075,
+            234
+          ],
+          [
+            761,
+            234
+          ]
+        ],
+        "transcription": "Do these automatic stress"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            764,
+            245
+          ],
+          [
+            1032,
+            245
+          ],
+          [
+            1032,
+            267
+          ],
+          [
+            764,
+            267
+          ]
+        ],
+        "transcription": "tracking technologies"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 2,
+        "points": [
+          [
+            764,
+            277
+          ],
+          [
+            1096,
+            277
+          ],
+          [
+            1096,
+            299
+          ],
+          [
+            764,
+            299
+          ]
+        ],
+        "transcription": "actuallywork for peopleto"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 2,
+        "points": [
+          [
+            761,
+            308
+          ],
+          [
+            1104,
+            307
+          ],
+          [
+            1104,
+            331
+          ],
+          [
+            761,
+            332
+          ]
+        ],
+        "transcription": "manage their stress on daily"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 2,
+        "points": [
+          [
+            761,
+            339
+          ],
+          [
+            837,
+            339
+          ],
+          [
+            837,
+            363
+          ],
+          [
+            761,
+            363
+          ]
+        ],
+        "transcription": "basis?"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            143,
+            357
+          ],
+          [
+            212,
+            360
+          ],
+          [
+            211,
+            380
+          ],
+          [
+            142,
+            377
+          ]
+        ],
+        "transcription": "Huawei"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            344,
+            360
+          ],
+          [
+            412,
+            360
+          ],
+          [
+            412,
+            379
+          ],
+          [
+            344,
+            379
+          ]
+        ],
+        "transcription": "Garmin"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            143,
+            551
+          ],
+          [
+            979,
+            551
+          ],
+          [
+            979,
+            569
+          ],
+          [
+            143,
+            569
+          ]
+        ],
+        "transcription": "Based on an analysis of Heart Rate Variability (HRV): A reliable indicator of one's physiological stress level"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0104450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            963,
+            74
+          ],
+          [
+            1027,
+            74
+          ],
+          [
+            1027,
+            111
+          ],
+          [
+            963,
+            111
+          ]
+        ],
+        "transcription": "The"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            149,
+            153
+          ],
+          [
+            705,
+            153
+          ],
+          [
+            705,
+            175
+          ],
+          [
+            149,
+            175
+          ]
+        ],
+        "transcription": "Semi-structured interviews with 17 participants"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            425,
+            193
+          ],
+          [
+            541,
+            193
+          ],
+          [
+            541,
+            210
+          ],
+          [
+            425,
+            210
+          ]
+        ],
+        "transcription": "Table 1. Participants"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            190,
+            231
+          ],
+          [
+            244,
+            235
+          ],
+          [
+            243,
+            254
+          ],
+          [
+            189,
+            251
+          ]
+        ],
+        "transcription": "Gender"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            562,
+            231
+          ],
+          [
+            611,
+            235
+          ],
+          [
+            610,
+            255
+          ],
+          [
+            561,
+            251
+          ]
+        ],
+        "transcription": "Device"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            553,
+            259
+          ],
+          [
+            621,
+            259
+          ],
+          [
+            621,
+            278
+          ],
+          [
+            553,
+            278
+          ]
+        ],
+        "transcription": "Watch GT"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 4,
+        "points": [
+          [
+            523,
+            277
+          ],
+          [
+            649,
+            278
+          ],
+          [
+            649,
+            297
+          ],
+          [
+            523,
+            295
+          ]
+        ],
+        "transcription": "Honor Watch Magic"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 4,
+        "points": [
+          [
+            489,
+            296
+          ],
+          [
+            683,
+            296
+          ],
+          [
+            683,
+            314
+          ],
+          [
+            489,
+            314
+          ]
+        ],
+        "transcription": "Honor Watch Magic, Watch GT"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 4,
+        "points": [
+          [
+            527,
+            314
+          ],
+          [
+            648,
+            314
+          ],
+          [
+            648,
+            332
+          ],
+          [
+            527,
+            332
+          ]
+        ],
+        "transcription": "Huawei B5 bracelet"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 4,
+        "points": [
+          [
+            524,
+            331
+          ],
+          [
+            648,
+            332
+          ],
+          [
+            648,
+            351
+          ],
+          [
+            524,
+            349
+          ]
+        ],
+        "transcription": "Honor Watch Magic"
+      },
+      {
+        "index_in_para": 6,
+        "index_para": 4,
+        "points": [
+          [
+            523,
+            348
+          ],
+          [
+            649,
+            349
+          ],
+          [
+            649,
+            368
+          ],
+          [
+            523,
+            367
+          ]
+        ],
+        "transcription": "Honor Watch Magic"
+      },
+      {
+        "index_in_para": 7,
+        "index_para": 4,
+        "points": [
+          [
+            555,
+            369
+          ],
+          [
+            619,
+            369
+          ],
+          [
+            619,
+            384
+          ],
+          [
+            555,
+            384
+          ]
+        ],
+        "transcription": "Watch GT"
+      },
+      {
+        "index_in_para": 8,
+        "index_para": 4,
+        "points": [
+          [
+            523,
+            385
+          ],
+          [
+            649,
+            387
+          ],
+          [
+            649,
+            405
+          ],
+          [
+            523,
+            404
+          ]
+        ],
+        "transcription": "Honor Watch Magic"
+      },
+      {
+        "index_in_para": 9,
+        "index_para": 4,
+        "points": [
+          [
+            556,
+            405
+          ],
+          [
+            619,
+            405
+          ],
+          [
+            619,
+            420
+          ],
+          [
+            556,
+            420
+          ]
+        ],
+        "transcription": "Watch GT"
+      },
+      {
+        "index_in_para": 10,
+        "index_para": 4,
+        "points": [
+          [
+            523,
+            419
+          ],
+          [
+            649,
+            422
+          ],
+          [
+            649,
+            441
+          ],
+          [
+            523,
+            438
+          ]
+        ],
+        "transcription": "Honor Watch Magic"
+      },
+      {
+        "index_in_para": 11,
+        "index_para": 4,
+        "points": [
+          [
+            556,
+            441
+          ],
+          [
+            619,
+            441
+          ],
+          [
+            619,
+            455
+          ],
+          [
+            556,
+            455
+          ]
+        ],
+        "transcription": "Watch GT"
+      },
+      {
+        "index_in_para": 12,
+        "index_para": 4,
+        "points": [
+          [
+            493,
+            457
+          ],
+          [
+            680,
+            457
+          ],
+          [
+            680,
+            474
+          ],
+          [
+            493,
+            474
+          ]
+        ],
+        "transcription": "Watch GT, Garmin vivosmart4"
+      },
+      {
+        "index_in_para": 13,
+        "index_para": 4,
+        "points": [
+          [
+            555,
+            476
+          ],
+          [
+            619,
+            476
+          ],
+          [
+            619,
+            491
+          ],
+          [
+            555,
+            491
+          ]
+        ],
+        "transcription": "Watch GT"
+      },
+      {
+        "index_in_para": 14,
+        "index_para": 4,
+        "points": [
+          [
+            524,
+            494
+          ],
+          [
+            649,
+            494
+          ],
+          [
+            649,
+            511
+          ],
+          [
+            524,
+            511
+          ]
+        ],
+        "transcription": "Honor Watch Magic"
+      },
+      {
+        "index_in_para": 15,
+        "index_para": 4,
+        "points": [
+          [
+            491,
+            511
+          ],
+          [
+            684,
+            511
+          ],
+          [
+            684,
+            529
+          ],
+          [
+            491,
+            529
+          ]
+        ],
+        "transcription": "Honor Watch Magic, Watch GT"
+      },
+      {
+        "index_in_para": 16,
+        "index_para": 4,
+        "points": [
+          [
+            556,
+            531
+          ],
+          [
+            617,
+            531
+          ],
+          [
+            617,
+            545
+          ],
+          [
+            556,
+            545
+          ]
+        ],
+        "transcription": "Watch GT"
+      },
+      {
+        "index_in_para": 17,
+        "index_para": 4,
+        "points": [
+          [
+            495,
+            545
+          ],
+          [
+            680,
+            547
+          ],
+          [
+            680,
+            565
+          ],
+          [
+            495,
+            564
+          ]
+        ],
+        "transcription": "Garmin Forerunner 645 Music"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            349,
+            233
+          ],
+          [
+            424,
+            236
+          ],
+          [
+            423,
+            256
+          ],
+          [
+            348,
+            253
+          ]
+        ],
+        "transcription": "Occupation"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            324,
+            261
+          ],
+          [
+            449,
+            261
+          ],
+          [
+            449,
+            278
+          ],
+          [
+            324,
+            278
+          ]
+        ],
+        "transcription": "Exhibition Salesman"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            323,
+            278
+          ],
+          [
+            451,
+            278
+          ],
+          [
+            451,
+            296
+          ],
+          [
+            323,
+            296
+          ]
+        ],
+        "transcription": "Government Worker"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 5,
+        "points": [
+          [
+            304,
+            295
+          ],
+          [
+            467,
+            297
+          ],
+          [
+            467,
+            315
+          ],
+          [
+            304,
+            314
+          ]
+        ],
+        "transcription": "IT Manufacturing Trainee"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 5,
+        "points": [
+          [
+            321,
+            312
+          ],
+          [
+            449,
+            314
+          ],
+          [
+            449,
+            332
+          ],
+          [
+            321,
+            331
+          ]
+        ],
+        "transcription": "Technical Developer"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 5,
+        "points": [
+          [
+            295,
+            334
+          ],
+          [
+            477,
+            334
+          ],
+          [
+            477,
+            351
+          ],
+          [
+            295,
+            351
+          ]
+        ],
+        "transcription": "Design and Operation Worker"
+      },
+      {
+        "index_in_para": 6,
+        "index_para": 5,
+        "points": [
+          [
+            348,
+            352
+          ],
+          [
+            424,
+            352
+          ],
+          [
+            424,
+            367
+          ],
+          [
+            348,
+            367
+          ]
+        ],
+        "transcription": "Programmer"
+      },
+      {
+        "index_in_para": 7,
+        "index_para": 5,
+        "points": [
+          [
+            311,
+            368
+          ],
+          [
+            461,
+            368
+          ],
+          [
+            461,
+            385
+          ],
+          [
+            311,
+            385
+          ]
+        ],
+        "transcription": "Wearable Health Worker"
+      },
+      {
+        "index_in_para": 8,
+        "index_para": 5,
+        "points": [
+          [
+            329,
+            386
+          ],
+          [
+            443,
+            386
+          ],
+          [
+            443,
+            404
+          ],
+          [
+            329,
+            404
+          ]
+        ],
+        "transcription": "Business Operator"
+      },
+      {
+        "index_in_para": 9,
+        "index_para": 5,
+        "points": [
+          [
+            323,
+            402
+          ],
+          [
+            451,
+            402
+          ],
+          [
+            451,
+            420
+          ],
+          [
+            323,
+            420
+          ]
+        ],
+        "transcription": "Government Worker"
+      },
+      {
+        "index_in_para": 10,
+        "index_para": 5,
+        "points": [
+          [
+            347,
+            422
+          ],
+          [
+            424,
+            422
+          ],
+          [
+            424,
+            437
+          ],
+          [
+            347,
+            437
+          ]
+        ],
+        "transcription": "Programmer"
+      },
+      {
+        "index_in_para": 11,
+        "index_para": 5,
+        "points": [
+          [
+            346,
+            438
+          ],
+          [
+            427,
+            441
+          ],
+          [
+            426,
+            460
+          ],
+          [
+            345,
+            456
+          ]
+        ],
+        "transcription": "Unemployed"
+      },
+      {
+        "index_in_para": 12,
+        "index_para": 5,
+        "points": [
+          [
+            300,
+            457
+          ],
+          [
+            472,
+            458
+          ],
+          [
+            472,
+            477
+          ],
+          [
+            300,
+            475
+          ]
+        ],
+        "transcription": "Exercise physiology worker"
+      },
+      {
+        "index_in_para": 13,
+        "index_para": 5,
+        "points": [
+          [
+            332,
+            476
+          ],
+          [
+            440,
+            476
+          ],
+          [
+            440,
+            494
+          ],
+          [
+            332,
+            494
+          ]
+        ],
+        "transcription": "Customer service"
+      },
+      {
+        "index_in_para": 14,
+        "index_para": 5,
+        "points": [
+          [
+            347,
+            495
+          ],
+          [
+            425,
+            495
+          ],
+          [
+            425,
+            510
+          ],
+          [
+            347,
+            510
+          ]
+        ],
+        "transcription": "Unemployed"
+      },
+      {
+        "index_in_para": 15,
+        "index_para": 5,
+        "points": [
+          [
+            346,
+            509
+          ],
+          [
+            427,
+            512
+          ],
+          [
+            426,
+            531
+          ],
+          [
+            345,
+            528
+          ]
+        ],
+        "transcription": "Programmer"
+      },
+      {
+        "index_in_para": 16,
+        "index_para": 5,
+        "points": [
+          [
+            321,
+            528
+          ],
+          [
+            451,
+            529
+          ],
+          [
+            451,
+            548
+          ],
+          [
+            321,
+            547
+          ]
+        ],
+        "transcription": "Advertising designer"
+      },
+      {
+        "index_in_para": 17,
+        "index_para": 5,
+        "points": [
+          [
+            360,
+            547
+          ],
+          [
+            412,
+            547
+          ],
+          [
+            412,
+            565
+          ],
+          [
+            360,
+            565
+          ]
+        ],
+        "transcription": "Student"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            693,
+            233
+          ],
+          [
+            752,
+            236
+          ],
+          [
+            751,
+            254
+          ],
+          [
+            692,
+            251
+          ]
+        ],
+        "transcription": "Location"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            258
+          ],
+          [
+            756,
+            261
+          ],
+          [
+            755,
+            281
+          ],
+          [
+            693,
+            278
+          ]
+        ],
+        "transcription": "Shanghai"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 6,
+        "points": [
+          [
+            695,
+            279
+          ],
+          [
+            724,
+            279
+          ],
+          [
+            724,
+            295
+          ],
+          [
+            695,
+            295
+          ]
+        ],
+        "transcription": "Jilin"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            295
+          ],
+          [
+            770,
+            298
+          ],
+          [
+            769,
+            317
+          ],
+          [
+            693,
+            313
+          ]
+        ],
+        "transcription": "Guangdong"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            312
+          ],
+          [
+            743,
+            315
+          ],
+          [
+            742,
+            334
+          ],
+          [
+            693,
+            330
+          ]
+        ],
+        "transcription": "Beijing"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            329
+          ],
+          [
+            740,
+            333
+          ],
+          [
+            739,
+            351
+          ],
+          [
+            693,
+            348
+          ]
+        ],
+        "transcription": "Henan"
+      },
+      {
+        "index_in_para": 6,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            348
+          ],
+          [
+            743,
+            351
+          ],
+          [
+            742,
+            370
+          ],
+          [
+            693,
+            366
+          ]
+        ],
+        "transcription": "Beijing"
+      },
+      {
+        "index_in_para": 7,
+        "index_para": 6,
+        "points": [
+          [
+            695,
+            368
+          ],
+          [
+            759,
+            368
+          ],
+          [
+            759,
+            386
+          ],
+          [
+            695,
+            386
+          ]
+        ],
+        "transcription": "Shenzhen"
+      },
+      {
+        "index_in_para": 8,
+        "index_para": 6,
+        "points": [
+          [
+            696,
+            388
+          ],
+          [
+            739,
+            388
+          ],
+          [
+            739,
+            402
+          ],
+          [
+            696,
+            402
+          ]
+        ],
+        "transcription": "Henan"
+      },
+      {
+        "index_in_para": 9,
+        "index_para": 6,
+        "points": [
+          [
+            695,
+            404
+          ],
+          [
+            756,
+            404
+          ],
+          [
+            756,
+            422
+          ],
+          [
+            695,
+            422
+          ]
+        ],
+        "transcription": "Shanghai"
+      },
+      {
+        "index_in_para": 10,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            419
+          ],
+          [
+            744,
+            423
+          ],
+          [
+            743,
+            442
+          ],
+          [
+            693,
+            439
+          ]
+        ],
+        "transcription": "Beijing"
+      },
+      {
+        "index_in_para": 11,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            438
+          ],
+          [
+            760,
+            441
+          ],
+          [
+            759,
+            460
+          ],
+          [
+            693,
+            456
+          ]
+        ],
+        "transcription": "Shenyang"
+      },
+      {
+        "index_in_para": 12,
+        "index_para": 6,
+        "points": [
+          [
+            695,
+            458
+          ],
+          [
+            809,
+            458
+          ],
+          [
+            809,
+            475
+          ],
+          [
+            695,
+            475
+          ]
+        ],
+        "transcription": "Finland and China"
+      },
+      {
+        "index_in_para": 13,
+        "index_para": 6,
+        "points": [
+          [
+            695,
+            474
+          ],
+          [
+            756,
+            477
+          ],
+          [
+            755,
+            495
+          ],
+          [
+            694,
+            492
+          ]
+        ],
+        "transcription": "Shanghai"
+      },
+      {
+        "index_in_para": 14,
+        "index_para": 6,
+        "points": [
+          [
+            694,
+            491
+          ],
+          [
+            756,
+            494
+          ],
+          [
+            755,
+            513
+          ],
+          [
+            693,
+            509
+          ]
+        ],
+        "transcription": "Shanghai"
+      },
+      {
+        "index_in_para": 15,
+        "index_para": 6,
+        "points": [
+          [
+            695,
+            512
+          ],
+          [
+            728,
+            512
+          ],
+          [
+            728,
+            528
+          ],
+          [
+            695,
+            528
+          ]
+        ],
+        "transcription": "Xian"
+      },
+      {
+        "index_in_para": 16,
+        "index_para": 6,
+        "points": [
+          [
+            695,
+            529
+          ],
+          [
+            756,
+            529
+          ],
+          [
+            756,
+            548
+          ],
+          [
+            695,
+            548
+          ]
+        ],
+        "transcription": "Shanghai"
+      },
+      {
+        "index_in_para": 17,
+        "index_para": 6,
+        "points": [
+          [
+            696,
+            549
+          ],
+          [
+            768,
+            549
+          ],
+          [
+            768,
+            564
+          ],
+          [
+            696,
+            564
+          ]
+        ],
+        "transcription": "Guangzhou"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            156,
+            236
+          ],
+          [
+            179,
+            236
+          ],
+          [
+            179,
+            251
+          ],
+          [
+            156,
+            251
+          ]
+        ],
+        "transcription": "ID"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            252,
+            236
+          ],
+          [
+            283,
+            236
+          ],
+          [
+            283,
+            255
+          ],
+          [
+            252,
+            255
+          ]
+        ],
+        "transcription": "Age"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            139,
+            610
+          ],
+          [
+            967,
+            611
+          ],
+          [
+            967,
+            639
+          ],
+          [
+            139,
+            638
+          ]
+        ],
+        "transcription": "We had been following up with some participants after the interviews."
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0134450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            909,
+            70
+          ],
+          [
+            1023,
+            70
+          ],
+          [
+            1023,
+            107
+          ],
+          [
+            909,
+            107
+          ]
+        ],
+        "transcription": "Findin"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            143,
+            177
+          ],
+          [
+            793,
+            180
+          ],
+          [
+            793,
+            208
+          ],
+          [
+            143,
+            205
+          ]
+        ],
+        "transcription": "Adopted the watch and discovered with stress tracking"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            155,
+            209
+          ],
+          [
+            241,
+            214
+          ],
+          [
+            239,
+            243
+          ],
+          [
+            153,
+            238
+          ]
+        ],
+        "transcription": "feature"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            145,
+            280
+          ],
+          [
+            787,
+            283
+          ],
+          [
+            787,
+            309
+          ],
+          [
+            145,
+            307
+          ]
+        ],
+        "transcription": "Only a few could meaningfully engage with the stress"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            157,
+            316
+          ],
+          [
+            572,
+            316
+          ],
+          [
+            572,
+            339
+          ],
+          [
+            157,
+            339
+          ]
+        ],
+        "transcription": "data, and most of them are confused"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            139,
+            376
+          ],
+          [
+            605,
+            381
+          ],
+          [
+            605,
+            411
+          ],
+          [
+            139,
+            407
+          ]
+        ],
+        "transcription": "Identified data engagement challenges"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0167450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            336,
+            81
+          ],
+          [
+            1020,
+            81
+          ],
+          [
+            1020,
+            116
+          ],
+          [
+            336,
+            116
+          ]
+        ],
+        "transcription": "Challenge 1: the lack of immediate aw"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            908,
+            217
+          ],
+          [
+            1200,
+            217
+          ],
+          [
+            1200,
+            234
+          ],
+          [
+            908,
+            234
+          ]
+        ],
+        "transcription": "Research shows in-the-moment"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            913,
+            241
+          ],
+          [
+            1172,
+            241
+          ],
+          [
+            1172,
+            259
+          ],
+          [
+            913,
+            259
+          ]
+        ],
+        "transcription": "data engagement is critical"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 1,
+        "points": [
+          [
+            913,
+            265
+          ],
+          [
+            1153,
+            265
+          ],
+          [
+            1153,
+            283
+          ],
+          [
+            913,
+            283
+          ]
+        ],
+        "transcription": "for reflection(Slovak et al."
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 1,
+        "points": [
+          [
+            911,
+            283
+          ],
+          [
+            1003,
+            288
+          ],
+          [
+            1002,
+            310
+          ],
+          [
+            910,
+            305
+          ]
+        ],
+        "transcription": "CHI2017"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            504,
+            238
+          ],
+          [
+            877,
+            238
+          ],
+          [
+            877,
+            257
+          ],
+          [
+            504,
+            257
+          ]
+        ],
+        "transcription": "When stressed, usually people's minds are too"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            503,
+            261
+          ],
+          [
+            872,
+            261
+          ],
+          [
+            872,
+            279
+          ],
+          [
+            503,
+            279
+          ]
+        ],
+        "transcription": "occupied by distressing thoughts to check the"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 2,
+        "points": [
+          [
+            501,
+            283
+          ],
+          [
+            592,
+            283
+          ],
+          [
+            592,
+            302
+          ],
+          [
+            501,
+            302
+          ]
+        ],
+        "transcription": "stress data"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            101,
+            278
+          ],
+          [
+            389,
+            279
+          ],
+          [
+            389,
+            302
+          ],
+          [
+            101,
+            300
+          ]
+        ],
+        "transcription": "\"You call a customer, or do an"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            101,
+            306
+          ],
+          [
+            361,
+            306
+          ],
+          [
+            361,
+            324
+          ],
+          [
+            101,
+            324
+          ]
+        ],
+        "transcription": "interview, and you feel your"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 3,
+        "points": [
+          [
+            100,
+            330
+          ],
+          [
+            431,
+            330
+          ],
+          [
+            431,
+            348
+          ],
+          [
+            100,
+            348
+          ]
+        ],
+        "transcription": "heartbeat rising, but when you look"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 3,
+        "points": [
+          [
+            103,
+            355
+          ],
+          [
+            416,
+            355
+          ],
+          [
+            416,
+            372
+          ],
+          [
+            103,
+            372
+          ]
+        ],
+        "transcription": "at your watch, the stress data has"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 3,
+        "points": [
+          [
+            100,
+            376
+          ],
+          [
+            197,
+            376
+          ],
+          [
+            197,
+            398
+          ],
+          [
+            100,
+            398
+          ]
+        ],
+        "transcription": "notrisen.\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            487,
+            334
+          ],
+          [
+            861,
+            334
+          ],
+          [
+            861,
+            352
+          ],
+          [
+            487,
+            352
+          ]
+        ],
+        "transcription": "\"I was assigned with some tasks last time"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            487,
+            359
+          ],
+          [
+            893,
+            359
+          ],
+          [
+            893,
+            376
+          ],
+          [
+            487,
+            376
+          ]
+        ],
+        "transcription": "when I just started my internship.wow, what"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 4,
+        "points": [
+          [
+            485,
+            381
+          ],
+          [
+            877,
+            381
+          ],
+          [
+            877,
+            398
+          ],
+          [
+            485,
+            398
+          ]
+        ],
+        "transcription": "the hell!I could not believe it.I then asked"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 4,
+        "points": [
+          [
+            488,
+            406
+          ],
+          [
+            848,
+            406
+          ],
+          [
+            848,
+            425
+          ],
+          [
+            488,
+            425
+          ]
+        ],
+        "transcription": "others a lot of questions and looked up"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 4,
+        "points": [
+          [
+            484,
+            429
+          ],
+          [
+            884,
+            429
+          ],
+          [
+            884,
+            447
+          ],
+          [
+            484,
+            447
+          ]
+        ],
+        "transcription": "information.I was very stressed... But when"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 4,
+        "points": [
+          [
+            487,
+            454
+          ],
+          [
+            887,
+            454
+          ],
+          [
+            887,
+            472
+          ],
+          [
+            487,
+            472
+          ]
+        ],
+        "transcription": "you are truly stressed, surely you don't think"
+      },
+      {
+        "index_in_para": 6,
+        "index_para": 4,
+        "points": [
+          [
+            485,
+            476
+          ],
+          [
+            831,
+            476
+          ],
+          [
+            831,
+            495
+          ],
+          [
+            485,
+            495
+          ]
+        ],
+        "transcription": "of looking at the watch-you think of"
+      },
+      {
+        "index_in_para": 7,
+        "index_para": 4,
+        "points": [
+          [
+            484,
+            500
+          ],
+          [
+            791,
+            499
+          ],
+          [
+            791,
+            521
+          ],
+          [
+            484,
+            523
+          ]
+        ],
+        "transcription": "solving the current problem first.\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            104,
+            441
+          ],
+          [
+            449,
+            441
+          ],
+          [
+            449,
+            459
+          ],
+          [
+            104,
+            459
+          ]
+        ],
+        "transcription": "Huawei's stress-tracking app only updates"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            101,
+            462
+          ],
+          [
+            443,
+            462
+          ],
+          [
+            443,
+            479
+          ],
+          [
+            101,
+            479
+          ]
+        ],
+        "transcription": "every half hour which makes the issues of"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            103,
+            486
+          ],
+          [
+            389,
+            486
+          ],
+          [
+            389,
+            504
+          ],
+          [
+            103,
+            504
+          ]
+        ],
+        "transcription": "immediate awareness more salient."
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0196450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            301,
+            79
+          ],
+          [
+            1019,
+            81
+          ],
+          [
+            1019,
+            116
+          ],
+          [
+            301,
+            115
+          ]
+        ],
+        "transcription": "Challenge 2: the lack of pre-required kn"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            148,
+            218
+          ],
+          [
+            519,
+            218
+          ],
+          [
+            519,
+            237
+          ],
+          [
+            148,
+            237
+          ]
+        ],
+        "transcription": "Users do not know the difference between the"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            148,
+            244
+          ],
+          [
+            461,
+            241
+          ],
+          [
+            461,
+            259
+          ],
+          [
+            148,
+            262
+          ]
+        ],
+        "transcription": "psychological and physiological stress"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            707,
+            257
+          ],
+          [
+            1027,
+            258
+          ],
+          [
+            1027,
+            281
+          ],
+          [
+            707,
+            279
+          ]
+        ],
+        "transcription": "\"My understanding is that it mainly"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            709,
+            285
+          ],
+          [
+            1009,
+            285
+          ],
+          [
+            1009,
+            303
+          ],
+          [
+            709,
+            303
+          ]
+        ],
+        "transcription": "depends on your heart rate...For"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 2,
+        "points": [
+          [
+            708,
+            308
+          ],
+          [
+            972,
+            308
+          ],
+          [
+            972,
+            327
+          ],
+          [
+            708,
+            327
+          ]
+        ],
+        "transcription": "example, if your heart rate is"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 2,
+        "points": [
+          [
+            707,
+            332
+          ],
+          [
+            1031,
+            332
+          ],
+          [
+            1031,
+            351
+          ],
+          [
+            707,
+            351
+          ]
+        ],
+        "transcription": "relatively high, it will recognize that"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 2,
+        "points": [
+          [
+            708,
+            357
+          ],
+          [
+            1013,
+            357
+          ],
+          [
+            1013,
+            376
+          ],
+          [
+            708,
+            376
+          ]
+        ],
+        "transcription": "you may be a bit more stressed.\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            153,
+            299
+          ],
+          [
+            531,
+            299
+          ],
+          [
+            531,
+            318
+          ],
+          [
+            153,
+            318
+          ]
+        ],
+        "transcription": "\"I don't think it's accurate...Most time it is"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            151,
+            324
+          ],
+          [
+            561,
+            324
+          ],
+          [
+            561,
+            343
+          ],
+          [
+            151,
+            343
+          ]
+        ],
+        "transcription": "around noon, such as after eating, the stress"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 3,
+        "points": [
+          [
+            148,
+            347
+          ],
+          [
+            472,
+            348
+          ],
+          [
+            472,
+            367
+          ],
+          [
+            148,
+            365
+          ]
+        ],
+        "transcription": "is higher.I don't understand why..."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            696,
+            424
+          ],
+          [
+            1004,
+            424
+          ],
+          [
+            1004,
+            442
+          ],
+          [
+            696,
+            442
+          ]
+        ],
+        "transcription": "Do not know the underlying technical"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            696,
+            446
+          ],
+          [
+            797,
+            446
+          ],
+          [
+            797,
+            465
+          ],
+          [
+            696,
+            465
+          ]
+        ],
+        "transcription": "mechanisms"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0225450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            392,
+            71
+          ],
+          [
+            1016,
+            71
+          ],
+          [
+            1016,
+            103
+          ],
+          [
+            392,
+            103
+          ]
+        ],
+        "transcription": "Challenge 3: the lack of communa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            232,
+            218
+          ],
+          [
+            620,
+            220
+          ],
+          [
+            620,
+            242
+          ],
+          [
+            232,
+            241
+          ]
+        ],
+        "transcription": "P7 joined many sports-related groups, and"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            233,
+            246
+          ],
+          [
+            536,
+            246
+          ],
+          [
+            536,
+            269
+          ],
+          [
+            233,
+            269
+          ]
+        ],
+        "transcription": "could interpret sports data easily"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            777,
+            277
+          ],
+          [
+            1089,
+            277
+          ],
+          [
+            1089,
+            295
+          ],
+          [
+            777,
+            295
+          ]
+        ],
+        "transcription": "\"For those who bought the watch"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            775,
+            302
+          ],
+          [
+            1060,
+            302
+          ],
+          [
+            1060,
+            320
+          ],
+          [
+            775,
+            320
+          ]
+        ],
+        "transcription": "just for running, they would not"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 2,
+        "points": [
+          [
+            776,
+            326
+          ],
+          [
+            1075,
+            326
+          ],
+          [
+            1075,
+            344
+          ],
+          [
+            776,
+            344
+          ]
+        ],
+        "transcription": "understand it at all. He may only"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 2,
+        "points": [
+          [
+            775,
+            348
+          ],
+          [
+            1101,
+            348
+          ],
+          [
+            1101,
+            367
+          ],
+          [
+            775,
+            367
+          ]
+        ],
+        "transcription": "understand that the Chinese words"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 2,
+        "points": [
+          [
+            773,
+            371
+          ],
+          [
+            1092,
+            372
+          ],
+          [
+            1092,
+            394
+          ],
+          [
+            773,
+            393
+          ]
+        ],
+        "transcription": "or number there shows something"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 2,
+        "points": [
+          [
+            776,
+            397
+          ],
+          [
+            1099,
+            397
+          ],
+          [
+            1099,
+            416
+          ],
+          [
+            776,
+            416
+          ]
+        ],
+        "transcription": "about stress, but he wouldn't know"
+      },
+      {
+        "index_in_para": 6,
+        "index_para": 2,
+        "points": [
+          [
+            775,
+            422
+          ],
+          [
+            1052,
+            422
+          ],
+          [
+            1052,
+            439
+          ],
+          [
+            775,
+            439
+          ]
+        ],
+        "transcription": "what exactly the words or the"
+      },
+      {
+        "index_in_para": 7,
+        "index_para": 2,
+        "points": [
+          [
+            775,
+            446
+          ],
+          [
+            1099,
+            446
+          ],
+          [
+            1099,
+            463
+          ],
+          [
+            775,
+            463
+          ]
+        ],
+        "transcription": "number means.There is no way for"
+      },
+      {
+        "index_in_para": 8,
+        "index_para": 2,
+        "points": [
+          [
+            775,
+            468
+          ],
+          [
+            1069,
+            470
+          ],
+          [
+            1069,
+            488
+          ],
+          [
+            775,
+            487
+          ]
+        ],
+        "transcription": "me to know, andl believe most"
+      },
+      {
+        "index_in_para": 9,
+        "index_para": 2,
+        "points": [
+          [
+            776,
+            494
+          ],
+          [
+            1101,
+            492
+          ],
+          [
+            1101,
+            511
+          ],
+          [
+            776,
+            512
+          ]
+        ],
+        "transcription": "people wouldn't know either.lonly"
+      },
+      {
+        "index_in_para": 10,
+        "index_para": 2,
+        "points": [
+          [
+            776,
+            518
+          ],
+          [
+            1105,
+            518
+          ],
+          [
+            1105,
+            536
+          ],
+          [
+            776,
+            536
+          ]
+        ],
+        "transcription": "have a vague knowledge about it."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            233,
+            300
+          ],
+          [
+            631,
+            303
+          ],
+          [
+            631,
+            322
+          ],
+          [
+            233,
+            319
+          ]
+        ],
+        "transcription": "\"I just check to see if my pace matches my"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            231,
+            326
+          ],
+          [
+            599,
+            327
+          ],
+          [
+            599,
+            345
+          ],
+          [
+            231,
+            344
+          ]
+        ],
+        "transcription": "heart rate.If you know how to run, then"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 3,
+        "points": [
+          [
+            233,
+            351
+          ],
+          [
+            600,
+            351
+          ],
+          [
+            600,
+            369
+          ],
+          [
+            233,
+            369
+          ]
+        ],
+        "transcription": "you will know)for example, if I run at a"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 3,
+        "points": [
+          [
+            229,
+            373
+          ],
+          [
+            605,
+            371
+          ],
+          [
+            605,
+            393
+          ],
+          [
+            229,
+            396
+          ]
+        ],
+        "transcription": "pace of 6, then my heart rate should be"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 3,
+        "points": [
+          [
+            232,
+            398
+          ],
+          [
+            613,
+            398
+          ],
+          [
+            613,
+            417
+          ],
+          [
+            232,
+            417
+          ]
+        ],
+        "transcription": "about 140.IfIrun ata pace of6one day"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 3,
+        "points": [
+          [
+            233,
+            424
+          ],
+          [
+            617,
+            424
+          ],
+          [
+            617,
+            441
+          ],
+          [
+            233,
+            441
+          ]
+        ],
+        "transcription": "but my heart rate suddenly reaches 150,"
+      },
+      {
+        "index_in_para": 6,
+        "index_para": 3,
+        "points": [
+          [
+            232,
+            446
+          ],
+          [
+            564,
+            446
+          ],
+          [
+            564,
+            463
+          ],
+          [
+            232,
+            463
+          ]
+        ],
+        "transcription": "will know that my athletic ability has"
+      },
+      {
+        "index_in_para": 7,
+        "index_para": 3,
+        "points": [
+          [
+            233,
+            471
+          ],
+          [
+            637,
+            471
+          ],
+          [
+            637,
+            490
+          ],
+          [
+            233,
+            490
+          ]
+        ],
+        "transcription": "droppedif my pace is6, and my heart rate"
+      },
+      {
+        "index_in_para": 8,
+        "index_para": 3,
+        "points": [
+          [
+            232,
+            495
+          ],
+          [
+            621,
+            495
+          ],
+          [
+            621,
+            514
+          ],
+          [
+            232,
+            514
+          ]
+        ],
+        "transcription": "becomes lower, e.g.it was lower than the"
+      },
+      {
+        "index_in_para": 9,
+        "index_para": 3,
+        "points": [
+          [
+            232,
+            519
+          ],
+          [
+            625,
+            519
+          ],
+          [
+            625,
+            537
+          ],
+          [
+            232,
+            537
+          ]
+        ],
+        "transcription": "previous140 and was 130, Iwill know that"
+      },
+      {
+        "index_in_para": 10,
+        "index_para": 3,
+        "points": [
+          [
+            229,
+            541
+          ],
+          [
+            393,
+            540
+          ],
+          [
+            393,
+            562
+          ],
+          [
+            229,
+            564
+          ]
+        ],
+        "transcription": "have improved.\""
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            681,
+            373
+          ],
+          [
+            713,
+            373
+          ],
+          [
+            713,
+            396
+          ],
+          [
+            681,
+            396
+          ]
+        ],
+        "transcription": "VS."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            769,
+            585
+          ],
+          [
+            1081,
+            585
+          ],
+          [
+            1081,
+            604
+          ],
+          [
+            769,
+            604
+          ]
+        ],
+        "transcription": "But have no idea of the stress data"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0270450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            525,
+            75
+          ],
+          [
+            1020,
+            77
+          ],
+          [
+            1020,
+            117
+          ],
+          [
+            525,
+            115
+          ]
+        ],
+        "transcription": "Data engagement issues hig"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            145,
+            212
+          ],
+          [
+            802,
+            210
+          ],
+          [
+            802,
+            238
+          ],
+          [
+            145,
+            240
+          ]
+        ],
+        "transcription": "Automatic tracking changes how we encounter the data"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            203,
+            279
+          ],
+          [
+            879,
+            280
+          ],
+          [
+            879,
+            308
+          ],
+          [
+            203,
+            307
+          ]
+        ],
+        "transcription": "User's intention of tracking cannot be assumed anymore"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            201,
+            344
+          ],
+          [
+            920,
+            346
+          ],
+          [
+            920,
+            372
+          ],
+          [
+            201,
+            371
+          ]
+        ],
+        "transcription": "User's encounter with the data is more casual.not deliberate"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            199,
+            413
+          ],
+          [
+            947,
+            413
+          ],
+          [
+            947,
+            443
+          ],
+          [
+            199,
+            443
+          ]
+        ],
+        "transcription": "The requisite of pre-required knowledge cannot to be assumed"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0297450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            810,
+            77
+          ],
+          [
+            1008,
+            81
+          ],
+          [
+            1007,
+            117
+          ],
+          [
+            809,
+            112
+          ]
+        ],
+        "transcription": "Take away"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            380,
+            340
+          ],
+          [
+            1067,
+            340
+          ],
+          [
+            1067,
+            363
+          ],
+          [
+            380,
+            363
+          ]
+        ],
+        "transcription": "Data engagement is not simply looking at the user interface for"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            379,
+            367
+          ],
+          [
+            1108,
+            368
+          ],
+          [
+            1108,
+            390
+          ],
+          [
+            379,
+            389
+          ]
+        ],
+        "transcription": "analysis, but should be considered as part of self-tracking practices"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 1,
+        "points": [
+          [
+            380,
+            394
+          ],
+          [
+            1025,
+            394
+          ],
+          [
+            1025,
+            417
+          ],
+          [
+            380,
+            417
+          ]
+        ],
+        "transcription": "with technologies, embedded in a web of one's intention of"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 1,
+        "points": [
+          [
+            380,
+            424
+          ],
+          [
+            1057,
+            424
+          ],
+          [
+            1057,
+            442
+          ],
+          [
+            380,
+            442
+          ]
+        ],
+        "transcription": "tracking, domain knowledge, technical properties, other users,"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 1,
+        "points": [
+          [
+            380,
+            450
+          ],
+          [
+            631,
+            451
+          ],
+          [
+            631,
+            470
+          ],
+          [
+            380,
+            468
+          ]
+        ],
+        "transcription": "andlearningresources"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-27F3D-0303450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            476,
+            212
+          ],
+          [
+            804,
+            216
+          ],
+          [
+            804,
+            262
+          ],
+          [
+            476,
+            258
+          ]
+        ],
+        "transcription": "Thank you and"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            480,
+            284
+          ],
+          [
+            723,
+            278
+          ],
+          [
+            724,
+            323
+          ],
+          [
+            481,
+            329
+          ]
+        ],
+        "transcription": "questions?"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            499,
+            355
+          ],
+          [
+            636,
+            358
+          ],
+          [
+            636,
+            385
+          ],
+          [
+            498,
+            382
+          ]
+        ],
+        "transcription": "Xianghua Ding"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            501,
+            393
+          ],
+          [
+            716,
+            393
+          ],
+          [
+            716,
+            416
+          ],
+          [
+            501,
+            416
+          ]
+        ],
+        "transcription": "Fudan University, China"
+      }
+    ]
+  }
+]

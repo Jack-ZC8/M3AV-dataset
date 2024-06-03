@@ -2,7 +2,7 @@
 
 <div align="center">
 
- [**🏠️Homepage**](https://jack-zc8.github.io/M3AV-dataset-page/) | [**📄Paper**](https://arxiv.org/abs/2403.14168) | [**📥Download**](./download/) | [**💎Demo**](./demo/) | [**🤖Benchmarks**](./benchmarks/) 
+  [**📄Paper**](https://arxiv.org/abs/2403.14168) | [**🏠️Homepage**](https://jack-zc8.github.io/M3AV-dataset-page/) | [**📥Download**](./download/) | [**💎Demo**](./demo/) | [**🤖Benchmarks**](./benchmarks/) 
 
 </div>
 
@@ -30,8 +30,9 @@ We download various academic lectures ranging from Human-computer Interaction, a
 
 ## News
 
+- [2024-06] 🤖Benchmarks of LLaMA-2 and GPT-4 have been released!
 - [2024-05] 🎉Our work has been accepted by ACL 2024 main conference!
-- [2024-04]🔥v1.0 has been released! We have further refined all speech data. Specifically, the training set adopts the text-normalised Whisper results, and the development/testing set employs a manual combination of Whisper and microsoft STT results.
+- [2024-04] 🔥v1.0 has been released! We have further refined all speech data. Specifically, the training set adopts the text-normalised Whisper results, and the development/testing set employs a manual combination of Whisper and microsoft STT results.
 
 ## Details
 

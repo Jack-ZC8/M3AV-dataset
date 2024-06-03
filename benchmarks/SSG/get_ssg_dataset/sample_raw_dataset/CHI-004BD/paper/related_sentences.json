@@ -1,0 +1,542 @@
+[
+  {
+    "speech_text": "When we think of dance in its most basic form, we think of it as a way of artistic expression through body movement. However, when we think of technology in dance, the image is less clear than, for instance, the use of technology in painting or in music. The reason is that the tool of expression in dance, which is the abstract movement of the human body, cannot be simply captured in digital formats without losing its essence. Intrigued by this unique challenge, we conducted a systematic review on the literature of dance and choreography in HCI for the past two decades. My name is Qiu Shizhou, and I will present an overview of our findings on behalf of",
+    "related_sentences": [
+      {
+        "sentence": "The bodily nature of expression, the abstract meaning making through movement, and the social and technological complexities in the production, collectively present a series of challenges for HCI researchers to design better technological interventions to assist in the creative process of dance.",
+        "cos_similarity": 0.6925290822982788
+      },
+      {
+        "sentence": "Exemplifed by the efort in achieving a bodily dialogue between human dancers and machines, and the evaluation of the technical, social, and ethical issues in the use of novel choreographic tools, the bodily nature of dance expression and the complexity of its creative process present two major challenges for HCI researchers and interaction designers: How can we use computing to defne, understand, and cultivate the felt dimension of creativity realised through body movement?",
+        "cos_similarity": 0.652266263961792
+      },
+      {
+        "sentence": "Should we accept the abstract nature of meaning-making in dance, and look to apply technology elsewhere?",
+        "cos_similarity": 0.6467899680137634
+      },
+      {
+        "sentence": "Five (6%) papers with opinion contributions discussed diferent aspects of using technology in the practice of dance, including mutually inspiring relationship between dance and technology, and issues of using biosensors in artistic practice.",
+        "cos_similarity": 0.6220819354057312
+      },
+      {
+        "sentence": "Other than directly accessing the bodily input and output channels, the most commonly applied approach of tapping into the expressiveness of dance is through modelling and analysing movement quality.",
+        "cos_similarity": 0.6213926076889038
+      },
+      {
+        "sentence": "Second, the extensive use of motion capture and analysis technologies and methods have provided the foundation for the crucial analysis of expressive movement qualities in dance, such as the attempts of capturing and analysing the Laban Movement Qualities with novel technologies.",
+        "cos_similarity": 0.619469404220581
+      },
+      {
+        "sentence": "Apart from the complex relationship between the diverse parties involved, the abstract meaning-making process of dance further distinguishes it from the other performing arts that involve performances through explicit semantic means, such as theatre.",
+        "cos_similarity": 0.6189390420913696
+      },
+      {
+        "sentence": "The amount of diversity in context, people, and the complexity in accessing the bodily felt experiences and the abstract expressive movement quality, collectively make dance a challenging application area to design for.",
+        "cos_similarity": 0.6005886197090149
+      },
+      {
+        "sentence": "In this section, we summarise and highlight the results as categorised by the use of technology in diferent stages of the creative process of dance.",
+        "cos_similarity": 0.5998753309249878
+      },
+      {
+        "sentence": "The most prominent diference between dance and the other technological application scenarios is its focus on the abstract meaning-making with the human body.",
+        "cos_similarity": 0.58837890625
+      }
+    ]
+  },
+  {
+    "speech_text": "my co-authors. In this review, we discuss the literature from two perspectives. First, 1st, we focus on the body as the instrument of artistic expression in dance. and look at how technology contributed to the recognition and analysis of the expressive qualities in dance movement. Then, we look at how technology has influenced the practice of dance-making in existing case studies. So, what is the body in the context of dance?",
+    "related_sentences": [
+      {
+        "sentence": "Five (6%) papers with opinion contributions discussed diferent aspects of using technology in the practice of dance, including mutually inspiring relationship between dance and technology, and issues of using biosensors in artistic practice.",
+        "cos_similarity": 0.6630369424819946
+      },
+      {
+        "sentence": "Refecting on the progress of that journey so far, we appreciate the amount and the quality of the works, which already cover a wide range of topics in dance, and a diverse set of novel technologies.",
+        "cos_similarity": 0.6480469107627869
+      },
+      {
+        "sentence": "In this section, we summarise and highlight the results as categorised by the use of technology in diferent stages of the creative process of dance.",
+        "cos_similarity": 0.6389114856719971
+      },
+      {
+        "sentence": "Should we accept the abstract nature of meaning-making in dance, and look to apply technology elsewhere?",
+        "cos_similarity": 0.6227662563323975
+      },
+      {
+        "sentence": "The new technologies for studying and supporting dance have brought further understanding of the practice and raised more questions to be answered.",
+        "cos_similarity": 0.6088986396789551
+      },
+      {
+        "sentence": "This multifaceted image of the body has been captured by the discipline of dance, which fully exploits the aesthetic, expressive, and creative qualities of the body, and makes it an instrument for artistic creation.",
+        "cos_similarity": 0.5946452617645264
+      },
+      {
+        "sentence": "The amount of diversity in context, people, and the complexity in accessing the bodily felt experiences and the abstract expressive movement quality, collectively make dance a challenging application area to design for.",
+        "cos_similarity": 0.5880643129348755
+      },
+      {
+        "sentence": "First, with the theoretical grounding in embodied interaction and the experience from empirical studies of the human body, previous works in dance have experimented novel use of bodily signals in performances, and investigated the idea of kinaesthetic creativity.",
+        "cos_similarity": 0.5874082446098328
+      },
+      {
+        "sentence": "Further, the literature over the past two decades have not only accumulated experience to inform better future design for dance, but also contributed a wealth of knowledge that beneft broader HCI research in the context of artistic practices and creativity support.",
+        "cos_similarity": 0.586441159248352
+      },
+      {
+        "sentence": "Practitioners and researchers interested in dance have eagerly adopted these emergent technologies, which provided unprecedented opportunities for analysing and understanding abstract characteristics of physical movement in dance that were previously unquantifable, such as movement quality and emotional expressiveness.",
+        "cos_similarity": 0.5832948088645935
+      }
+    ]
+  },
+  {
+    "speech_text": "From an HCI perspective, the dancer's body is a physical interface that can be accessed and extended through technology. We can read the bodily signals through physiological sensors to directly control multimedia stage effects and to provide context for further augmentation of the performance. We can also write to the body through its underlying sensory neural system to alter the felt experience of the dancer. Physical costumes can change the dancer's perception of their own bodies and redefine the possibility of movement. A similar effect can be achieved with visual and acoustic effects, which influence the dancer's lived experience on stage. Recognizing and analyzing the expressive movement qualities has been another direction of the research in dance. Learning from existing frameworks for categorizing",
+    "related_sentences": [
+      {
+        "sentence": "Apart from stage efects, physical costumes can directly alter the dancer’s sensory experience, specifcally the bodily senses, such as proprioception and kinesthesia.",
+        "cos_similarity": 0.7273831367492676
+      },
+      {
+        "sentence": "The bodily nature of expression, the abstract meaning making through movement, and the social and technological complexities in the production, collectively present a series of challenges for HCI researchers to design better technological interventions to assist in the creative process of dance.",
+        "cos_similarity": 0.6235998868942261
+      },
+      {
+        "sentence": "Dance is a unique feld of interaction for HCI researchers to investigate.",
+        "cos_similarity": 0.6113741993904114
+      },
+      {
+        "sentence": "Recent advances in the application of sensor technologies in HCI have presented many novel options that could be explored by dance practitioners.",
+        "cos_similarity": 0.5880326628684998
+      },
+      {
+        "sentence": "Through the moving body, dancers live the experience of the performance on the stage, and are shaped and infuenced by that experience at the same time.",
+        "cos_similarity": 0.5706681609153748
+      },
+      {
+        "sentence": "While many of the dancerelated HCI works also belong to movement research, they ofer a unique contribution to the grand understanding of the role that human body movement plays in the interaction with technologies.",
+        "cos_similarity": 0.5675307512283325
+      },
+      {
+        "sentence": "From the somatic perspective, HCI researchers must not only consider the aesthetic goals served by the technologies incorporated into dance performances, but must also cater to the felt experience of the performer on stage, for that will also—though implicitly—afect the expressive quality of the performance.",
+        "cos_similarity": 0.5672532916069031
+      },
+      {
+        "sentence": "Finally, we illustrated how HCI somatic research can take lessons from the works in dance to design interactions that better understand and cultivate the felt dimension of the embodied experience.",
+        "cos_similarity": 0.5627204775810242
+      },
+      {
+        "sentence": "As an interactive experience, the uniqueness of dance lies in its tight coupling with the body as the main interface through which expressive movements are conveyed.",
+        "cos_similarity": 0.5515655279159546
+      },
+      {
+        "sentence": "Further, the literature over the past two decades have not only accumulated experience to inform better future design for dance, but also contributed a wealth of knowledge that beneft broader HCI research in the context of artistic practices and creativity support.",
+        "cos_similarity": 0.5475298762321472
+      }
+    ]
+  },
+  {
+    "speech_text": "movement qualities, such as the Laban Movement Analysis, previous works have attempted to automatically detect movement qualities and convert them to visual output and to help with choreographic training and education. Equipped with advanced technologies such as motion tracking and machine learning, HCI dance researchers are still faced with a major challenge of quantifying the kinesthetic creativity, the felt experience of the dancers, and expressive movement qualities, channeled through the embodied perception from the choreographers to the audience. As a result, previous works",
+    "related_sentences": [
+      {
+        "sentence": "Second, the extensive use of motion capture and analysis technologies and methods have provided the foundation for the crucial analysis of expressive movement qualities in dance, such as the attempts of capturing and analysing the Laban Movement Qualities with novel technologies.",
+        "cos_similarity": 0.692952036857605
+      },
+      {
+        "sentence": "In this section, we present our results from the categorisation (not mutually exclusive) of the important themes of technologies used by HCI works in dance over the past two decades, including physiological sensing, multisensory perception, movement quality, and agent collaboration (Table 3).",
+        "cos_similarity": 0.6298030614852905
+      },
+      {
+        "sentence": "Dance is a unique feld of interaction for HCI researchers to investigate.",
+        "cos_similarity": 0.6279426217079163
+      },
+      {
+        "sentence": "Exemplifed by the efort in achieving a bodily dialogue between human dancers and machines, and the evaluation of the technical, social, and ethical issues in the use of novel choreographic tools, the bodily nature of dance expression and the complexity of its creative process present two major challenges for HCI researchers and interaction designers: How can we use computing to defne, understand, and cultivate the felt dimension of creativity realised through body movement?",
+        "cos_similarity": 0.6221558451652527
+      },
+      {
+        "sentence": "From the somatic perspective, HCI researchers must not only consider the aesthetic goals served by the technologies incorporated into dance performances, but must also cater to the felt experience of the performer on stage, for that will also—though implicitly—afect the expressive quality of the performance.",
+        "cos_similarity": 0.6138065457344055
+      },
+      {
+        "sentence": "HCI dance researchers should embrace the adoptions of similar technologies in diferent stages of their works, such as teaching and learning (for an extensive survey, see).",
+        "cos_similarity": 0.6095079183578491
+      },
+      {
+        "sentence": "To understand how movement qualities are perceived, Mentis et al. conducted video analysis sessions with Laban Movement experts and post-performance interviews with audiences.",
+        "cos_similarity": 0.608150839805603
+      },
+      {
+        "sentence": "The bodily nature of expression, the abstract meaning making through movement, and the social and technological complexities in the production, collectively present a series of challenges for HCI researchers to design better technological interventions to assist in the creative process of dance.",
+        "cos_similarity": 0.6072463989257812
+      },
+      {
+        "sentence": "While many of the dancerelated HCI works also belong to movement research, they ofer a unique contribution to the grand understanding of the role that human body movement plays in the interaction with technologies.",
+        "cos_similarity": 0.6063123941421509
+      },
+      {
+        "sentence": "Finally, we illustrated how HCI somatic research can take lessons from the works in dance to design interactions that better understand and cultivate the felt dimension of the embodied experience.",
+        "cos_similarity": 0.6018388271331787
+      }
+    ]
+  },
+  {
+    "speech_text": "have employed alternative approaches to the body and its abstract movement apart from the direct bodily sensing and motion capturing.",
+    "related_sentences": [
+      {
+        "sentence": "Learning from previous works, we should be aware that the direct capture and analysis of movement are not the only means through which we can use computational methods to co-create the bodily experience of the dancers and the expressive movement qualities.",
+        "cos_similarity": 0.49121564626693726
+      },
+      {
+        "sentence": "The bodily nature of expression, the abstract meaning making through movement, and the social and technological complexities in the production, collectively present a series of challenges for HCI researchers to design better technological interventions to assist in the creative process of dance.",
+        "cos_similarity": 0.48708653450012207
+      },
+      {
+        "sentence": "7.3.1 Alternative approaches to the body.",
+        "cos_similarity": 0.4730064272880554
+      },
+      {
+        "sentence": "Should we accept the abstract nature of meaning-making in dance, and look to apply technology elsewhere?",
+        "cos_similarity": 0.46903368830680847
+      },
+      {
+        "sentence": "Among such works, studies on recognising and characterising user gestures and whole body movements have increased along with the maturing of motion tracking technologies, in application areas such as gestural control and health.",
+        "cos_similarity": 0.4545612335205078
+      },
+      {
+        "sentence": "Practitioners and researchers interested in dance have eagerly adopted these emergent technologies, which provided unprecedented opportunities for analysing and understanding abstract characteristics of physical movement in dance that were previously unquantifable, such as movement quality and emotional expressiveness.",
+        "cos_similarity": 0.4415331780910492
+      },
+      {
+        "sentence": "First, with the theoretical grounding in embodied interaction and the experience from empirical studies of the human body, previous works in dance have experimented novel use of bodily signals in performances, and investigated the idea of kinaesthetic creativity.",
+        "cos_similarity": 0.43457698822021484
+      },
+      {
+        "sentence": "Second, the extensive use of motion capture and analysis technologies and methods have provided the foundation for the crucial analysis of expressive movement qualities in dance, such as the attempts of capturing and analysing the Laban Movement Qualities with novel technologies.",
+        "cos_similarity": 0.4254750609397888
+      },
+      {
+        "sentence": "Other than directly accessing the bodily input and output channels, the most commonly applied approach of tapping into the expressiveness of dance is through modelling and analysing movement quality.",
+        "cos_similarity": 0.42269688844680786
+      },
+      {
+        "sentence": "For instance, incorporating multimodal sensing of the physiological and the cognitive signals in the characterisation of expressive movement qualities may yield better results than using motion capture data alone.",
+        "cos_similarity": 0.4175203740596771
+      }
+    ]
+  },
+  {
+    "speech_text": "One of the promising trends of those approaches is the use of virtual and physical agents to accompany the dancers' performance while forming new bodily relationships on stage. For instance, neural networks have been used to create virtual body extensions that react to different features in the movement of the dancers. Robotic agents have also been explored extensively, including drones that respond to specific types of movement from human dancers, and autonomous agents that collaboratively improvise with the human dancers. The other perspective in our review is to look at how technology has influenced the creative process of dance in practice.",
+    "related_sentences": [
+      {
+        "sentence": "Previous works have explored physical interactive objects that formed embodied relationships with the dancers on stage, such as robotic agents.",
+        "cos_similarity": 0.7192591428756714
+      },
+      {
+        "sentence": "Robotic and algorithmic agents are becoming popular as accompaniment to human dancers and even as the main performer at times.",
+        "cos_similarity": 0.7137022018432617
+      },
+      {
+        "sentence": "They perceived the virtual visualisation agent as a medium for the dancers to \"externalise\" their internal movement ideas.",
+        "cos_similarity": 0.620848536491394
+      },
+      {
+        "sentence": "As the examples of introducing collaborative agents in the performances successfully evoked novel expressive qualities in the dancers, we propose that future works could learn from this approach and explore alternative ways in which we can apply technology in the complex and abstract process of dance making.",
+        "cos_similarity": 0.6077193021774292
+      },
+      {
+        "sentence": "When acting as accompaniment, they are usually present on the stage as interactive visualisations, costumes, and mechanical bodies that respond to the human dancer, as either pre-programmed or autonomous agents.",
+        "cos_similarity": 0.5715063214302063
+      },
+      {
+        "sentence": "We have already seen, in the work of Gemeinboeck and Saunders, how non-anthropomorphic robots can develop their own patterns of improvisations with the help of the human dancers.",
+        "cos_similarity": 0.5368566513061523
+      },
+      {
+        "sentence": "As the result of the non-human otherness, the dancer somaesthetically attended to the drones, changing her movements to ft with them, and consequently adjusting to a new soma that produced novel artistic expressions through movement.",
+        "cos_similarity": 0.5322799682617188
+      },
+      {
+        "sentence": "Dancers were able to perform improvised foot stomping choreographies transformed into movement across multiple drones.",
+        "cos_similarity": 0.5144640207290649
+      },
+      {
+        "sentence": "Another promising and potentially more radical approach is to further explore the use of non-anthropomorphic robots as autonomous agents.",
+        "cos_similarity": 0.5089606046676636
+      },
+      {
+        "sentence": "Through adapting to the restrictions of the new costume or to the illusion of the new virtual body, the dancers could experience a new soma, which is accompanied with new expressive movement behaviours.",
+        "cos_similarity": 0.49800020456314087
+      }
+    ]
+  },
+  {
+    "speech_text": "Those works include novel tools for choreographers, such as the sketching interfaces that help reflect abstract choreographic",
+    "related_sentences": [
+      {
+        "sentence": "Apart from tools designed for sketching and annotating choreography, other novel tools emerged that were not intended solely for choreography but deeply impacted the choreographic process during their implementations.",
+        "cos_similarity": 0.7300470471382141
+      },
+      {
+        "sentence": "A series of tools emerged to provide multimodal annotating functions to choreographers.",
+        "cos_similarity": 0.6375497579574585
+      },
+      {
+        "sentence": "They found that the introduction of a choreography annotating tool has substantially changed many aspects of the choreographic process.",
+        "cos_similarity": 0.6154681444168091
+      },
+      {
+        "sentence": "The kinaesthetic creativity of the choreographers, the lived experience of the dancers on stage, and the embodied perception of the audience, collectively makes dance an interactive experience.",
+        "cos_similarity": 0.6076724529266357
+      },
+      {
+        "sentence": "Previous works on the creative process of dance-making, such as those around the tool Choreographer’s Notebook, served as great examples of what valuable insights could be gained from the incorporation of novel tools and the evaluations of them.",
+        "cos_similarity": 0.6058502793312073
+      },
+      {
+        "sentence": "Most works explored the interactivity in dance with the whole body movements of dancers, including the above mentioned works that featured interactive virtual “costumes\" for dancers.",
+        "cos_similarity": 0.5896681547164917
+      },
+      {
+        "sentence": "The communication between the choreographer, the dancer, and the audience is achieved through a chain of embodied perceptions, such as kinaesthetic empathy during choreographing and performing, and the appreciation by the audience according to their own emotional and bodily experience.",
+        "cos_similarity": 0.5797329545021057
+      },
+      {
+        "sentence": "Even the details such as the timing of encouragement from the choreographer could be felt by the dancers as a change brought by technology to the choreographic process.",
+        "cos_similarity": 0.5687518119812012
+      },
+      {
+        "sentence": "Additionally, artists have attempted to create computationally augmented interactive dance performances, enabling novel experiences",
+        "cos_similarity": 0.5640017986297607
+      },
+      {
+        "sentence": "The majority (19) of the papers about the choreographic process were papers with artefact contributions, among which a prominent group contains tools for annotating and sketching body movement to help initiate or modify dance sequences.",
+        "cos_similarity": 0.5599120259284973
+      }
+    ]
+  },
+  {
+    "speech_text": "ideas, and recording and annotating tools used across the development process of a dance",
+    "related_sentences": [
+      {
+        "sentence": "In this section, we summarise and highlight the results as categorised by the use of technology in diferent stages of the creative process of dance.",
+        "cos_similarity": 0.5636459589004517
+      },
+      {
+        "sentence": "Previous works on the creative process of dance-making, such as those around the tool Choreographer’s Notebook, served as great examples of what valuable insights could be gained from the incorporation of novel tools and the evaluations of them.",
+        "cos_similarity": 0.5528181195259094
+      },
+      {
+        "sentence": "For instance, Choreographer’s Notebook enables choreographers and dancers to annotate video clips of dance rehearsals remotely and asynchronously with multimodal input, such as textual comments and video demonstrations.",
+        "cos_similarity": 0.5486689805984497
+      },
+      {
+        "sentence": "Finally, the designs of computational aid for the process of dance-making have learned from HCI studies of creativity support, to develop systems and tools for annotating dance sequences and for coordinating the communication between diferent personnel in dance production teams.",
+        "cos_similarity": 0.5422400236129761
+      },
+      {
+        "sentence": "Later, the authors reported on results obtained from a few case studies of dance projects that used the tool.",
+        "cos_similarity": 0.539047360420227
+      },
+      {
+        "sentence": "Apart from tools designed for sketching and annotating choreography, other novel tools emerged that were not intended solely for choreography but deeply impacted the choreographic process during their implementations.",
+        "cos_similarity": 0.5357810854911804
+      },
+      {
+        "sentence": "A series of tools emerged to provide multimodal annotating functions to choreographers.",
+        "cos_similarity": 0.5286950469017029
+      },
+      {
+        "sentence": "Better motion capture and computer vision systems have also enabled easier annotation and analysis of dance movements, which consequently changed the creative process of dance.",
+        "cos_similarity": 0.5060758590698242
+      },
+      {
+        "sentence": "Five (6%) papers with opinion contributions discussed diferent aspects of using technology in the practice of dance, including mutually inspiring relationship between dance and technology, and issues of using biosensors in artistic practice.",
+        "cos_similarity": 0.49991053342819214
+      },
+      {
+        "sentence": "Our review of the literature has revealed the complexity of incorporating interactive technologies in the creation, performance, and analysis of dance.",
+        "cos_similarity": 0.49793681502342224
+      }
+    ]
+  },
+  {
+    "speech_text": "project. The common conclusion from those works is that the creative process of dance is highly complex and idiosyncratic, and the introduction of technology",
+    "related_sentences": [
+      {
+        "sentence": "Among the many insights gained from those works, one common conclusion is that dance is a highly complex and idiosyncratic creative process that requires attention to the creative and production contexts.",
+        "cos_similarity": 0.6805726885795593
+      },
+      {
+        "sentence": "Finally, the case studies of technological integration in the creative process of dance have demonstrated the complexity in the iterative process of choreographic development and stage design, expanding across time and among the diverse collaborating parties involved.",
+        "cos_similarity": 0.6578273773193359
+      },
+      {
+        "sentence": "Previous works on the creative process of dance-making, such as those around the tool Choreographer’s Notebook, served as great examples of what valuable insights could be gained from the incorporation of novel tools and the evaluations of them.",
+        "cos_similarity": 0.6130477786064148
+      },
+      {
+        "sentence": "There were six (8%) papers with methodological contributions that mostly focused on evaluating and discussing diferent ways of incorporating technology in the creative process of dance production.",
+        "cos_similarity": 0.5891022086143494
+      },
+      {
+        "sentence": "Most works explored the interactivity in dance with the whole body movements of dancers, including the above mentioned works that featured interactive virtual “costumes\" for dancers.",
+        "cos_similarity": 0.5765355229377747
+      },
+      {
+        "sentence": "In this section, we summarise and highlight the results as categorised by the use of technology in diferent stages of the creative process of dance.",
+        "cos_similarity": 0.5744372010231018
+      },
+      {
+        "sentence": "Consequently, for technological interventions to succeed in a dance project, efort must be paid to uncover and deconstruct the relationship between the body and the achieved artistic expression.",
+        "cos_similarity": 0.5735384225845337
+      },
+      {
+        "sentence": "We also suggest that the complexities in the social and contextual diferences in the highly idiosyncratic creative process of dance should raise awareness from the dance research community, as well as the creativity-support research community at large, to avoid unexpected pitfalls when designing and incorporating technology in those projects.",
+        "cos_similarity": 0.5600340366363525
+      },
+      {
+        "sentence": "Based on the observation of a series of performances intended to explore the dance-technology relationship, Gonzalez et al. identifed unexpected problems hidden in the details along the production cycle.",
+        "cos_similarity": 0.5562611818313599
+      },
+      {
+        "sentence": "Refecting on the progress of that journey so far, we appreciate the amount and the quality of the works, which already cover a wide range of topics in dance, and a diverse set of novel technologies.",
+        "cos_similarity": 0.5529248714447021
+      }
+    ]
+  },
+  {
+    "speech_text": "may produce unexpected impact. For instance, while choreographic tools with online user interface makes communication between choreographers and dancers more easily accessible, they also cause disturbance in the creative",
+    "related_sentences": [
+      {
+        "sentence": "Apart from tools designed for sketching and annotating choreography, other novel tools emerged that were not intended solely for choreography but deeply impacted the choreographic process during their implementations.",
+        "cos_similarity": 0.6160160303115845
+      },
+      {
+        "sentence": "For instance, the evaluation of The Choreographer’s notebook has revealed a series of issues induced by the online tool, such as the reduced verbal conversations and the obscured work-life balance as the users were enabled to work during after hours.",
+        "cos_similarity": 0.5952352285385132
+      },
+      {
+        "sentence": "Even the details such as the timing of encouragement from the choreographer could be felt by the dancers as a change brought by technology to the choreographic process.",
+        "cos_similarity": 0.5677028298377991
+      },
+      {
+        "sentence": "They found that the introduction of a choreography annotating tool has substantially changed many aspects of the choreographic process.",
+        "cos_similarity": 0.5609785318374634
+      },
+      {
+        "sentence": "While benefting from the computational tools, the users have also encountered unexpected problems from the disturbance of the traditional choreographic process by the technological intervention.",
+        "cos_similarity": 0.5461826324462891
+      },
+      {
+        "sentence": "For instance, when the place of choreographic communication changes from the physical rehearsal studio to an online tool",
+        "cos_similarity": 0.5198590159416199
+      },
+      {
+        "sentence": "Many papers focused on the interactivity between human dancers and technology, and addressed the challenge of determining the right amount of mapping and control.",
+        "cos_similarity": 0.5175741910934448
+      },
+      {
+        "sentence": "This a a practical concern because there is usually limited time to make adjustments after identifying those problems within the tight schedules of dance productions.",
+        "cos_similarity": 0.505773663520813
+      },
+      {
+        "sentence": "The kinaesthetic creativity of the choreographers, the lived experience of the dancers on stage, and the embodied perception of the audience, collectively makes dance an interactive experience.",
+        "cos_similarity": 0.5053678750991821
+      },
+      {
+        "sentence": "Dance makers must consider how to avoid disturbing the lived experience of the human dancer during the performance with computational partners, while encouraging and cultivating their kinaesthetic creativity.",
+        "cos_similarity": 0.5044176578521729
+      }
+    ]
+  },
+  {
+    "speech_text": "process, due to the change of context from face-to-face rehearsals to the online text communications. Overall, the challenges and opportunities reflected in the field of dance during the past 20 years contributed a wealth of knowledge that benefit broader HCI research in the context of creativity support and beyond. The focus on the lived experience of the body and the attention to the diverse and specific cultural context in dance embody the characteristics",
+    "related_sentences": [
+      {
+        "sentence": "Further, the literature over the past two decades have not only accumulated experience to inform better future design for dance, but also contributed a wealth of knowledge that beneft broader HCI research in the context of artistic practices and creativity support.",
+        "cos_similarity": 0.7955623865127563
+      },
+      {
+        "sentence": "We also suggest that the complexities in the social and contextual diferences in the highly idiosyncratic creative process of dance should raise awareness from the dance research community, as well as the creativity-support research community at large, to avoid unexpected pitfalls when designing and incorporating technology in those projects.",
+        "cos_similarity": 0.7160817384719849
+      },
+      {
+        "sentence": "In this work, we illustrate the challenges in detail and discuss opportunities for future HCI dance research towards a better awareness of the importance of context, to design better computational support for dance making.",
+        "cos_similarity": 0.7141906023025513
+      },
+      {
+        "sentence": "This presents a challenge for the HCI community to transfer the understanding gained from one performance context to another, especially when the technological intervention was designed without the awareness of the contextual diferences.",
+        "cos_similarity": 0.7098304629325867
+      },
+      {
+        "sentence": "Finally, the designs of computational aid for the process of dance-making have learned from HCI studies of creativity support, to develop systems and tools for annotating dance sequences and for coordinating the communication between diferent personnel in dance production teams.",
+        "cos_similarity": 0.7032777667045593
+      },
+      {
+        "sentence": "Exemplifed by the efort in achieving a bodily dialogue between human dancers and machines, and the evaluation of the technical, social, and ethical issues in the use of novel choreographic tools, the bodily nature of dance expression and the complexity of its creative process present two major challenges for HCI researchers and interaction designers: How can we use computing to defne, understand, and cultivate the felt dimension of creativity realised through body movement?",
+        "cos_similarity": 0.7008592486381531
+      },
+      {
+        "sentence": "In this work, we systematically review the literature on interactive technologies and HCI theories in dance over the past 20 years, and contribute the knowledge to a better understanding of HCI research in dance and beyond.",
+        "cos_similarity": 0.6874494552612305
+      },
+      {
+        "sentence": "The bodily nature of expression, the abstract meaning making through movement, and the social and technological complexities in the production, collectively present a series of challenges for HCI researchers to design better technological interventions to assist in the creative process of dance.",
+        "cos_similarity": 0.6814400553703308
+      },
+      {
+        "sentence": "Through this work, we identify the challenges and present a timely review of the HCI literature on dance over the past twenty years.",
+        "cos_similarity": 0.6813791990280151
+      },
+      {
+        "sentence": "In this section, we present our results from the categorisation (not mutually exclusive) of the important themes of technologies used by HCI works in dance over the past two decades, including physiological sensing, multisensory perception, movement quality, and agent collaboration (Table 3).",
+        "cos_similarity": 0.6800364851951599
+      }
+    ]
+  },
+  {
+    "speech_text": "of what we call the third wave shift of HCI. The unique offerings in HCI dance research, such as the bodily improvisation with robotic agents, and the attempts to reflect abstract movement qualities using computational tools, provoke future works in HCI to rethink the relationships between human experience and technology. Thank you for watching, and we invite you to read the paper for more details.",
+    "related_sentences": [
+      {
+        "sentence": "$15.00 https://doi.org/10.1145/3411764.3445804 Dance research in Human-Computer Interaction (HCI) thoroughly embodies the cultural, experiential, and phenomenological characteristics of the third-wave shift.",
+        "cos_similarity": 0.7377365827560425
+      },
+      {
+        "sentence": "While many of the dancerelated HCI works also belong to movement research, they ofer a unique contribution to the grand understanding of the role that human body movement plays in the interaction with technologies.",
+        "cos_similarity": 0.6995312571525574
+      },
+      {
+        "sentence": "Dance is a unique feld of interaction for HCI researchers to investigate.",
+        "cos_similarity": 0.6969670653343201
+      },
+      {
+        "sentence": "HCI dance researchers should embrace the adoptions of similar technologies in diferent stages of their works, such as teaching and learning (for an extensive survey, see).",
+        "cos_similarity": 0.6955205202102661
+      },
+      {
+        "sentence": "Recent advances in the application of sensor technologies in HCI have presented many novel options that could be explored by dance practitioners.",
+        "cos_similarity": 0.6898072957992554
+      },
+      {
+        "sentence": "In this section, we present our results from the categorisation (not mutually exclusive) of the important themes of technologies used by HCI works in dance over the past two decades, including physiological sensing, multisensory perception, movement quality, and agent collaboration (Table 3).",
+        "cos_similarity": 0.6794244050979614
+      },
+      {
+        "sentence": "Further, the literature over the past two decades have not only accumulated experience to inform better future design for dance, but also contributed a wealth of knowledge that beneft broader HCI research in the context of artistic practices and creativity support.",
+        "cos_similarity": 0.6507757902145386
+      },
+      {
+        "sentence": "In this systematic review, we aim to summarise and understand current HCI research related to dance, choreography, and expressive body movement.",
+        "cos_similarity": 0.643203854560852
+      },
+      {
+        "sentence": "The bodily nature of expression, the abstract meaning making through movement, and the social and technological complexities in the production, collectively present a series of challenges for HCI researchers to design better technological interventions to assist in the creative process of dance.",
+        "cos_similarity": 0.6392554044723511
+      },
+      {
+        "sentence": "In this work, we systematically review the literature on interactive technologies and HCI theories in dance over the past 20 years, and contribute the knowledge to a better understanding of HCI research in dance and beyond.",
+        "cos_similarity": 0.6368345618247986
+      }
+    ]
+  }
+]

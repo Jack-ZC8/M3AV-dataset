@@ -1,0 +1,2450 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0004450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            72,
+            38
+          ],
+          [
+            408,
+            38
+          ],
+          [
+            408,
+            52
+          ],
+          [
+            72,
+            52
+          ]
+        ],
+        "transcription": "NlH Wednesdav Afternoon Lecture"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            124,
+            82
+          ],
+          [
+            353,
+            84
+          ],
+          [
+            353,
+            101
+          ],
+          [
+            124,
+            99
+          ]
+        ],
+        "transcription": "'Nuclear Receptors and the"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            80,
+            105
+          ],
+          [
+            399,
+            105
+          ],
+          [
+            399,
+            120
+          ],
+          [
+            80,
+            120
+          ]
+        ],
+        "transcription": "Epigenomic Regulation of Metabolism'"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            165,
+            161
+          ],
+          [
+            315,
+            162
+          ],
+          [
+            315,
+            176
+          ],
+          [
+            165,
+            175
+          ]
+        ],
+        "transcription": "Masur Auditorium"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            156,
+            200
+          ],
+          [
+            324,
+            200
+          ],
+          [
+            324,
+            215
+          ],
+          [
+            156,
+            215
+          ]
+        ],
+        "transcription": "Mitchell Lazar, M.D., Ph.D."
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            90,
+            217
+          ],
+          [
+            389,
+            219
+          ],
+          [
+            389,
+            233
+          ],
+          [
+            90,
+            231
+          ]
+        ],
+        "transcription": "University of Pennsylvania School of Medicine"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            189,
+            257
+          ],
+          [
+            290,
+            257
+          ],
+          [
+            290,
+            274
+          ],
+          [
+            189,
+            274
+          ]
+        ],
+        "transcription": "May4.2011"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            209,
+            298
+          ],
+          [
+            272,
+            298
+          ],
+          [
+            272,
+            315
+          ],
+          [
+            209,
+            315
+          ]
+        ],
+        "transcription": "1: 08: 20"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0181450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            88,
+            82
+          ],
+          [
+            385,
+            82
+          ],
+          [
+            385,
+            96
+          ],
+          [
+            88,
+            96
+          ]
+        ],
+        "transcription": "Nuclear Receptors and the Epigenomic"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            94,
+            102
+          ],
+          [
+            380,
+            102
+          ],
+          [
+            380,
+            116
+          ],
+          [
+            94,
+            116
+          ]
+        ],
+        "transcription": "Regulation of Circadian Rhythms and"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 0,
+        "points": [
+          [
+            193,
+            117
+          ],
+          [
+            285,
+            120
+          ],
+          [
+            285,
+            137
+          ],
+          [
+            193,
+            135
+          ]
+        ],
+        "transcription": "Metabolism"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            155,
+            149
+          ],
+          [
+            320,
+            149
+          ],
+          [
+            320,
+            160
+          ],
+          [
+            155,
+            160
+          ]
+        ],
+        "transcription": "Mitchell A.LazarM.D..Ph.D"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            159,
+            171
+          ],
+          [
+            319,
+            171
+          ],
+          [
+            319,
+            184
+          ],
+          [
+            159,
+            184
+          ]
+        ],
+        "transcription": "University of Pennsyivania"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            127,
+            238
+          ],
+          [
+            351,
+            239
+          ],
+          [
+            351,
+            254
+          ],
+          [
+            127,
+            253
+          ]
+        ],
+        "transcription": "Wednesday Afternoon Lecture Series"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            203,
+            284
+          ],
+          [
+            273,
+            284
+          ],
+          [
+            273,
+            299
+          ],
+          [
+            203,
+            299
+          ]
+        ],
+        "transcription": "May 4,2011"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0354450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            201,
+            63
+          ],
+          [
+            307,
+            66
+          ],
+          [
+            307,
+            76
+          ],
+          [
+            201,
+            74
+          ]
+        ],
+        "transcription": "MetabolicSyndrame"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0558300.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            150,
+            62
+          ],
+          [
+            334,
+            64
+          ],
+          [
+            334,
+            78
+          ],
+          [
+            150,
+            76
+          ]
+        ],
+        "transcription": "Circadian Rhythms and Metabolism"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            90,
+            101
+          ],
+          [
+            296,
+            101
+          ],
+          [
+            296,
+            111
+          ],
+          [
+            90,
+            111
+          ]
+        ],
+        "transcription": "Many hormones have circadian rhythms"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            83,
+            125
+          ],
+          [
+            377,
+            125
+          ],
+          [
+            377,
+            138
+          ],
+          [
+            83,
+            138
+          ]
+        ],
+        "transcription": "Obvious links between circadian rhythms andmetabolic"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            90,
+            137
+          ],
+          [
+            384,
+            137
+          ],
+          [
+            384,
+            150
+          ],
+          [
+            90,
+            150
+          ]
+        ],
+        "transcription": "physiology: not many people or mice eatwhile they aleep."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            83,
+            163
+          ],
+          [
+            365,
+            164
+          ],
+          [
+            365,
+            175
+          ],
+          [
+            83,
+            174
+          ]
+        ],
+        "transcription": "Glucoseand lipid metabolism havecircadian rhythms."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            89,
+            191
+          ],
+          [
+            394,
+            191
+          ],
+          [
+            394,
+            201
+          ],
+          [
+            89,
+            201
+          ]
+        ],
+        "transcription": "Several cardiovascular risk factors have circadian rhythms"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            90,
+            204
+          ],
+          [
+            367,
+            204
+          ],
+          [
+            367,
+            217
+          ],
+          [
+            90,
+            217
+          ]
+        ],
+        "transcription": "and most myocardial infarctions occur in the morning."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            83,
+            228
+          ],
+          [
+            272,
+            229
+          ],
+          [
+            272,
+            242
+          ],
+          [
+            83,
+            241
+          ]
+        ],
+        "transcription": "Obesepcoplehaveslecpdisorders."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            88,
+            256
+          ],
+          [
+            356,
+            256
+          ],
+          [
+            356,
+            266
+          ],
+          [
+            88,
+            266
+          ]
+        ],
+        "transcription": "Sleep deprivation and shift work are associated with"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            90,
+            268
+          ],
+          [
+            215,
+            268
+          ],
+          [
+            215,
+            281
+          ],
+          [
+            90,
+            281
+          ]
+        ],
+        "transcription": "metabolic.disturbances."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            430,
+            344
+          ],
+          [
+            460,
+            339
+          ],
+          [
+            462,
+            351
+          ],
+          [
+            432,
+            356
+          ]
+        ],
+        "transcription": "HEALT"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0626450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            100,
+            64
+          ],
+          [
+            389,
+            64
+          ],
+          [
+            389,
+            78
+          ],
+          [
+            100,
+            78
+          ]
+        ],
+        "transcription": "Increased Metabolic Syndrome in Rotating Shift Workers"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            171,
+            129
+          ],
+          [
+            182,
+            129
+          ],
+          [
+            182,
+            202
+          ],
+          [
+            171,
+            202
+          ]
+        ],
+        "transcription": "aanpulg sgogrsn"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0663350.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            116,
+            62
+          ],
+          [
+            405,
+            62
+          ],
+          [
+            405,
+            76
+          ],
+          [
+            116,
+            76
+          ]
+        ],
+        "transcription": "Resistin and Shift Work-Associated Metabolic Syndrome"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            77,
+            99
+          ],
+          [
+            377,
+            99
+          ],
+          [
+            377,
+            109
+          ],
+          [
+            77,
+            109
+          ]
+        ],
+        "transcription": "Increased leveis ofresistin in rotatingshift workers: A potentialmediatorof"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            77,
+            110
+          ],
+          [
+            312,
+            110
+          ],
+          [
+            312,
+            121
+          ],
+          [
+            77,
+            121
+          ]
+        ],
+        "transcription": "cardiovascularriskassociated with.circadian misalignment"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0829450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            175,
+            65
+          ],
+          [
+            295,
+            65
+          ],
+          [
+            295,
+            76
+          ],
+          [
+            175,
+            76
+          ]
+        ],
+        "transcription": "Genes or Environment"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            223,
+            257
+          ],
+          [
+            246,
+            257
+          ],
+          [
+            246,
+            268
+          ],
+          [
+            223,
+            268
+          ]
+        ],
+        "transcription": "But:"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            78,
+            267
+          ],
+          [
+            392,
+            267
+          ],
+          [
+            392,
+            280
+          ],
+          [
+            78,
+            280
+          ]
+        ],
+        "transcription": "The obesity and diabetes epidemics occurred during a time of tremendous"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 1,
+        "points": [
+          [
+            86,
+            278
+          ],
+          [
+            380,
+            278
+          ],
+          [
+            380,
+            291
+          ],
+          [
+            86,
+            291
+          ]
+        ],
+        "transcription": "environmentai change. too short to be explained by genetic changes"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-0976000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            115,
+            63
+          ],
+          [
+            407,
+            64
+          ],
+          [
+            407,
+            78
+          ],
+          [
+            115,
+            77
+          ]
+        ],
+        "transcription": "Epigenomics Links the Environment to Gene Expression"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            310,
+            88
+          ],
+          [
+            403,
+            88
+          ],
+          [
+            403,
+            98
+          ],
+          [
+            310,
+            98
+          ]
+        ],
+        "transcription": "Extarnal Emvironment"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            186,
+            126
+          ],
+          [
+            256,
+            126
+          ],
+          [
+            256,
+            140
+          ],
+          [
+            186,
+            140
+          ]
+        ],
+        "transcription": "Epigenomics"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            154,
+            144
+          ],
+          [
+            286,
+            143
+          ],
+          [
+            286,
+            156
+          ],
+          [
+            154,
+            158
+          ]
+        ],
+        "transcription": "Chromatin modifications (DNA"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 2,
+        "points": [
+          [
+            136,
+            155
+          ],
+          [
+            302,
+            155
+          ],
+          [
+            302,
+            169
+          ],
+          [
+            136,
+            169
+          ]
+        ],
+        "transcription": "methylation, histonemodificationj that"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 2,
+        "points": [
+          [
+            131,
+            169
+          ],
+          [
+            306,
+            169
+          ],
+          [
+            306,
+            179
+          ],
+          [
+            131,
+            179
+          ]
+        ],
+        "transcription": "resuit in changes in geneexpression and"
+      },
+      {
+        "index_in_para": 4,
+        "index_para": 2,
+        "points": [
+          [
+            143,
+            175
+          ],
+          [
+            292,
+            178
+          ],
+          [
+            292,
+            191
+          ],
+          [
+            143,
+            188
+          ]
+        ],
+        "transcription": "function withouta.corresponding"
+      },
+      {
+        "index_in_para": 5,
+        "index_para": 2,
+        "points": [
+          [
+            160,
+            189
+          ],
+          [
+            277,
+            189
+          ],
+          [
+            277,
+            199
+          ],
+          [
+            160,
+            199
+          ]
+        ],
+        "transcription": "alteration in DNA.sequence"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-1201450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            98,
+            149
+          ],
+          [
+            138,
+            149
+          ],
+          [
+            138,
+            160
+          ],
+          [
+            98,
+            160
+          ]
+        ],
+        "transcription": "Enzymes"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            88,
+            184
+          ],
+          [
+            145,
+            185
+          ],
+          [
+            145,
+            196
+          ],
+          [
+            88,
+            195
+          ]
+        ],
+        "transcription": "Coregulators"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            118,
+            207
+          ],
+          [
+            151,
+            207
+          ],
+          [
+            151,
+            217
+          ],
+          [
+            118,
+            217
+          ]
+        ],
+        "transcription": "Nuclear"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 2,
+        "points": [
+          [
+            112,
+            217
+          ],
+          [
+            157,
+            219
+          ],
+          [
+            157,
+            230
+          ],
+          [
+            112,
+            228
+          ]
+        ],
+        "transcription": "Receptors"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            347,
+            208
+          ],
+          [
+            369,
+            208
+          ],
+          [
+            369,
+            216
+          ],
+          [
+            347,
+            216
+          ]
+        ],
+        "transcription": "Gene"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            335,
+            218
+          ],
+          [
+            382,
+            218
+          ],
+          [
+            382,
+            229
+          ],
+          [
+            335,
+            229
+          ]
+        ],
+        "transcription": "Regulation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            216,
+            225
+          ],
+          [
+            262,
+            227
+          ],
+          [
+            262,
+            237
+          ],
+          [
+            216,
+            235
+          ]
+        ],
+        "transcription": "Cistromes"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            284,
+            246
+          ],
+          [
+            395,
+            246
+          ],
+          [
+            395,
+            257
+          ],
+          [
+            284,
+            257
+          ]
+        ],
+        "transcription": "Steroids, thyroid homone"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            291,
+            258
+          ],
+          [
+            388,
+            258
+          ],
+          [
+            388,
+            268
+          ],
+          [
+            291,
+            268
+          ]
+        ],
+        "transcription": "Fatty acidsoxysterols"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            291,
+            272
+          ],
+          [
+            387,
+            272
+          ],
+          [
+            387,
+            282
+          ],
+          [
+            291,
+            282
+          ]
+        ],
+        "transcription": "VitA(Retinoids)Vit D"
+      },
+      {
+        "index_in_para": 3,
+        "index_para": 5,
+        "points": [
+          [
+            308,
+            283
+          ],
+          [
+            366,
+            283
+          ],
+          [
+            366,
+            294
+          ],
+          [
+            308,
+            294
+          ]
+        ],
+        "transcription": "Drugatins"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            220,
+            248
+          ],
+          [
+            261,
+            248
+          ],
+          [
+            261,
+            255
+          ],
+          [
+            220,
+            255
+          ]
+        ],
+        "transcription": "Hormone"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            218,
+            256
+          ],
+          [
+            266,
+            257
+          ],
+          [
+            266,
+            267
+          ],
+          [
+            218,
+            266
+          ]
+        ],
+        "transcription": "Metabolites"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            83,
+            250
+          ],
+          [
+            172,
+            253
+          ],
+          [
+            172,
+            263
+          ],
+          [
+            83,
+            261
+          ]
+        ],
+        "transcription": "intornalEnvironment"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            224,
+            274
+          ],
+          [
+            261,
+            274
+          ],
+          [
+            261,
+            281
+          ],
+          [
+            224,
+            281
+          ]
+        ],
+        "transcription": "Vitamins"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 8,
+        "points": [
+          [
+            215,
+            283
+          ],
+          [
+            266,
+            283
+          ],
+          [
+            266,
+            294
+          ],
+          [
+            215,
+            294
+          ]
+        ],
+        "transcription": "Xenobiotics"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            80,
+            275
+          ],
+          [
+            175,
+            276
+          ],
+          [
+            175,
+            286
+          ],
+          [
+            80,
+            285
+          ]
+        ],
+        "transcription": "Externai Environment"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-1288450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            186,
+            62
+          ],
+          [
+            298,
+            65
+          ],
+          [
+            298,
+            78
+          ],
+          [
+            186,
+            76
+          ]
+        ],
+        "transcription": "Histone Deacetylases"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            185,
+            244
+          ],
+          [
+            386,
+            244
+          ],
+          [
+            386,
+            255
+          ],
+          [
+            185,
+            255
+          ]
+        ],
+        "transcription": "NotAll HDACs Are Created Equal:"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            225,
+            258
+          ],
+          [
+            345,
+            257
+          ],
+          [
+            345,
+            271
+          ],
+          [
+            225,
+            272
+          ]
+        ],
+        "transcription": "The Story of HDAC3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            93,
+            261
+          ],
+          [
+            124,
+            261
+          ],
+          [
+            124,
+            268
+          ],
+          [
+            93,
+            268
+          ]
+        ],
+        "transcription": "Sirtuin"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-1495000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            106,
+            64
+          ],
+          [
+            405,
+            64
+          ],
+          [
+            405,
+            78
+          ],
+          [
+            106,
+            78
+          ]
+        ],
+        "transcription": "Nuclear Receptor Corepressor Complexes Contain HDAC3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            280,
+            180
+          ],
+          [
+            403,
+            180
+          ],
+          [
+            403,
+            193
+          ],
+          [
+            280,
+            193
+          ]
+        ],
+        "transcription": "EpigonomicRegulation"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            280,
+            194
+          ],
+          [
+            383,
+            195
+          ],
+          [
+            383,
+            207
+          ],
+          [
+            280,
+            206
+          ]
+        ],
+        "transcription": "ofGeneExpression"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            244,
+            189
+          ],
+          [
+            272,
+            189
+          ],
+          [
+            272,
+            199
+          ],
+          [
+            244,
+            199
+          ]
+        ],
+        "transcription": "HDACS"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            312,
+            238
+          ],
+          [
+            372,
+            239
+          ],
+          [
+            372,
+            250
+          ],
+          [
+            312,
+            248
+          ]
+        ],
+        "transcription": "Repression"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            204,
+            277
+          ],
+          [
+            254,
+            277
+          ],
+          [
+            254,
+            287
+          ],
+          [
+            204,
+            287
+          ]
+        ],
+        "transcription": "Target Gone"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            329,
+            284
+          ],
+          [
+            345,
+            284
+          ],
+          [
+            345,
+            291
+          ],
+          [
+            329,
+            291
+          ]
+        ],
+        "transcription": "ATA"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-1657450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            100,
+            64
+          ],
+          [
+            402,
+            64
+          ],
+          [
+            402,
+            78
+          ],
+          [
+            100,
+            78
+          ]
+        ],
+        "transcription": "Dissecting the Role of the NCoR-HDAC3 Interaction In Vivo"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            81,
+            110
+          ],
+          [
+            104,
+            110
+          ],
+          [
+            104,
+            119
+          ],
+          [
+            81,
+            119
+          ]
+        ],
+        "transcription": "NCoR"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            146,
+            110
+          ],
+          [
+            167,
+            110
+          ],
+          [
+            167,
+            119
+          ],
+          [
+            146,
+            119
+          ]
+        ],
+        "transcription": "DAD"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            318,
+            110
+          ],
+          [
+            370,
+            110
+          ],
+          [
+            370,
+            121
+          ],
+          [
+            318,
+            121
+          ]
+        ],
+        "transcription": "ColtNR: Mouts"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            181,
+            141
+          ],
+          [
+            390,
+            141
+          ],
+          [
+            390,
+            151
+          ],
+          [
+            181,
+            151
+          ]
+        ],
+        "transcription": "C57B1/Smicehomozygous fortheDADmutation"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            184,
+            152
+          ],
+          [
+            374,
+            152
+          ],
+          [
+            374,
+            163
+          ],
+          [
+            184,
+            163
+          ]
+        ],
+        "transcription": "are born in Mendelian ratiosandlooinormal"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            180,
+            170
+          ],
+          [
+            391,
+            170
+          ],
+          [
+            391,
+            180
+          ],
+          [
+            180,
+            180
+          ]
+        ],
+        "transcription": "SinceNCoR andHDAC3KOsareboth lethal, this"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            183,
+            181
+          ],
+          [
+            379,
+            180
+          ],
+          [
+            379,
+            190
+          ],
+          [
+            183,
+            191
+          ]
+        ],
+        "transcription": "suggesta a role for other domains of NCoR, as"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 5,
+        "points": [
+          [
+            183,
+            191
+          ],
+          [
+            390,
+            191
+          ],
+          [
+            390,
+            201
+          ],
+          [
+            183,
+            201
+          ]
+        ],
+        "transcription": "asother interactionsof HDAC3e.g.withSMRT)"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            380,
+            182
+          ],
+          [
+            399,
+            182
+          ],
+          [
+            399,
+            189
+          ],
+          [
+            380,
+            189
+          ]
+        ],
+        "transcription": "well"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            179,
+            209
+          ],
+          [
+            381,
+            209
+          ],
+          [
+            381,
+            219
+          ],
+          [
+            179,
+            219
+          ]
+        ],
+        "transcription": "In the DAD mutant miceNCoR is xpressed at"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 7,
+        "points": [
+          [
+            181,
+            219
+          ],
+          [
+            380,
+            217
+          ],
+          [
+            380,
+            230
+          ],
+          [
+            181,
+            232
+          ]
+        ],
+        "transcription": "normal leveis but doesn't interact with HDAC3"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-1938500.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            104,
+            64
+          ],
+          [
+            387,
+            64
+          ],
+          [
+            387,
+            78
+          ],
+          [
+            104,
+            78
+          ]
+        ],
+        "transcription": "Epigenomic Regulation of Physiology By NCoR-HDAC3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            303,
+            97
+          ],
+          [
+            394,
+            97
+          ],
+          [
+            394,
+            107
+          ],
+          [
+            303,
+            107
+          ]
+        ],
+        "transcription": "What Are the Functions"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            311,
+            106
+          ],
+          [
+            386,
+            106
+          ],
+          [
+            386,
+            117
+          ],
+          [
+            311,
+            117
+          ]
+        ],
+        "transcription": "of HOAC3: in Liver?"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            225,
+            145
+          ],
+          [
+            259,
+            145
+          ],
+          [
+            259,
+            156
+          ],
+          [
+            225,
+            156
+          ]
+        ],
+        "transcription": "HDAC3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            186,
+            227
+          ],
+          [
+            301,
+            227
+          ],
+          [
+            301,
+            240
+          ],
+          [
+            186,
+            240
+          ]
+        ],
+        "transcription": "Histone Deacetylation"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            271,
+            259
+          ],
+          [
+            353,
+            259
+          ],
+          [
+            353,
+            272
+          ],
+          [
+            271,
+            272
+          ]
+        ],
+        "transcription": "Glucose and Lipid"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            287,
+            271
+          ],
+          [
+            338,
+            271
+          ],
+          [
+            338,
+            281
+          ],
+          [
+            287,
+            281
+          ]
+        ],
+        "transcription": "Metaboliam"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            145,
+            260
+          ],
+          [
+            185,
+            261
+          ],
+          [
+            185,
+            271
+          ],
+          [
+            145,
+            270
+          ]
+        ],
+        "transcription": "lialogica"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            149,
+            274
+          ],
+          [
+            185,
+            274
+          ],
+          [
+            185,
+            281
+          ],
+          [
+            149,
+            281
+          ]
+        ],
+        "transcription": "MEEIERLAREN"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-2380400.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            121,
+            63
+          ],
+          [
+            378,
+            63
+          ],
+          [
+            378,
+            77
+          ],
+          [
+            121,
+            77
+          ]
+        ],
+        "transcription": "Genome-Wide Locations: of HDAC3 in Mouse Liver"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-2402450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            74,
+            90
+          ],
+          [
+            150,
+            92
+          ],
+          [
+            150,
+            102
+          ],
+          [
+            74,
+            100
+          ]
+        ],
+        "transcription": "-Light-independent"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            74,
+            104
+          ],
+          [
+            123,
+            104
+          ],
+          [
+            123,
+            111
+          ],
+          [
+            74,
+            111
+          ]
+        ],
+        "transcription": "*Entrainabie"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            279,
+            129
+          ],
+          [
+            363,
+            129
+          ],
+          [
+            363,
+            136
+          ],
+          [
+            279,
+            136
+          ]
+        ],
+        "transcription": "Oniy During Lights On"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            266,
+            194
+          ],
+          [
+            297,
+            194
+          ],
+          [
+            297,
+            201
+          ],
+          [
+            266,
+            201
+          ]
+        ],
+        "transcription": "IDACC"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            305,
+            276
+          ],
+          [
+            366,
+            276
+          ],
+          [
+            366,
+            286
+          ],
+          [
+            305,
+            286
+          ]
+        ],
+        "transcription": "ZT10HDAC3ie"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            146,
+            277
+          ],
+          [
+            182,
+            277
+          ],
+          [
+            182,
+            284
+          ],
+          [
+            146,
+            284
+          ]
+        ],
+        "transcription": "TIRHRAC"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-2812550.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            129,
+            68
+          ],
+          [
+            373,
+            68
+          ],
+          [
+            373,
+            77
+          ],
+          [
+            129,
+            77
+          ]
+        ],
+        "transcription": "1DAC3 Controls a Circadian EpigenomicRhythmin Live"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-F1A31-2974465.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            118,
+            64
+          ],
+          [
+            389,
+            64
+          ],
+          [
+            389,
+            75
+          ],
+          [
+            118,
+            75
+          ]
+        ],
+        "transcription": "Functions of theRav-erbu/HDAC3TargetsGenome-Wide in Live"
+      }
+    ]
+  }
+]

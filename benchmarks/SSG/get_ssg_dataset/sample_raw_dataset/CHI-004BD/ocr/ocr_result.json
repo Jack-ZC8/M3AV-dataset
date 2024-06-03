@@ -1,0 +1,2598 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0005350.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            306,
+            96
+          ],
+          [
+            1013,
+            108
+          ],
+          [
+            1010,
+            250
+          ],
+          [
+            303,
+            238
+          ]
+        ],
+        "transcription": "Human"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            151,
+            277
+          ],
+          [
+            1177,
+            300
+          ],
+          [
+            1172,
+            492
+          ],
+          [
+            146,
+            469
+          ]
+        ],
+        "transcription": "Computer"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 0,
+        "points": [
+          [
+            103,
+            498
+          ],
+          [
+            1213,
+            500
+          ],
+          [
+            1213,
+            646
+          ],
+          [
+            103,
+            643
+          ]
+        ],
+        "transcription": "Interaction"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0009000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            324,
+            288
+          ],
+          [
+            702,
+            284
+          ],
+          [
+            703,
+            444
+          ],
+          [
+            325,
+            448
+          ]
+        ],
+        "transcription": "HCI"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            797,
+            386
+          ],
+          [
+            917,
+            386
+          ],
+          [
+            917,
+            405
+          ],
+          [
+            797,
+            405
+          ]
+        ],
+        "transcription": "THE UNIVERSITY OF"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 1,
+        "points": [
+          [
+            799,
+            409
+          ],
+          [
+            917,
+            409
+          ],
+          [
+            917,
+            428
+          ],
+          [
+            799,
+            428
+          ]
+        ],
+        "transcription": "MELBOURNE"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0049450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            36,
+            130
+          ],
+          [
+            576,
+            136
+          ],
+          [
+            576,
+            178
+          ],
+          [
+            36,
+            171
+          ]
+        ],
+        "transcription": "Dance and Choreography"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            36,
+            195
+          ],
+          [
+            493,
+            195
+          ],
+          [
+            493,
+            230
+          ],
+          [
+            36,
+            230
+          ]
+        ],
+        "transcription": "in HCl: A Two-Decade"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            37,
+            257
+          ],
+          [
+            327,
+            257
+          ],
+          [
+            327,
+            294
+          ],
+          [
+            37,
+            294
+          ]
+        ],
+        "transcription": "Retrospective"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            37,
+            341
+          ],
+          [
+            205,
+            341
+          ],
+          [
+            205,
+            369
+          ],
+          [
+            37,
+            369
+          ]
+        ],
+        "transcription": "Qiushi Zhou"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            39,
+            386
+          ],
+          [
+            307,
+            386
+          ],
+          [
+            307,
+            418
+          ],
+          [
+            39,
+            418
+          ]
+        ],
+        "transcription": "Cheng Cheng Chua"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 4,
+        "points": [
+          [
+            39,
+            434
+          ],
+          [
+            236,
+            434
+          ],
+          [
+            236,
+            462
+          ],
+          [
+            39,
+            462
+          ]
+        ],
+        "transcription": "Jarrod Knibbe"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            37,
+            480
+          ],
+          [
+            269,
+            480
+          ],
+          [
+            269,
+            508
+          ],
+          [
+            37,
+            508
+          ]
+        ],
+        "transcription": "Jorge Goncalves"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 5,
+        "points": [
+          [
+            39,
+            524
+          ],
+          [
+            265,
+            524
+          ],
+          [
+            265,
+            552
+          ],
+          [
+            39,
+            552
+          ]
+        ],
+        "transcription": "Eduardo Velloso"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0076450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            95,
+            214
+          ],
+          [
+            431,
+            219
+          ],
+          [
+            430,
+            260
+          ],
+          [
+            94,
+            255
+          ]
+        ],
+        "transcription": "Body Movement"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            95,
+            290
+          ],
+          [
+            424,
+            293
+          ],
+          [
+            424,
+            328
+          ],
+          [
+            95,
+            325
+          ]
+        ],
+        "transcription": "Creative Process"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0127000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            569,
+            15
+          ],
+          [
+            688,
+            12
+          ],
+          [
+            688,
+            39
+          ],
+          [
+            570,
+            43
+          ]
+        ],
+        "transcription": "WEIGHT"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            828,
+            119
+          ],
+          [
+            899,
+            122
+          ],
+          [
+            898,
+            150
+          ],
+          [
+            826,
+            147
+          ]
+        ],
+        "transcription": "Float"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            463,
+            132
+          ],
+          [
+            528,
+            132
+          ],
+          [
+            528,
+            158
+          ],
+          [
+            463,
+            158
+          ]
+        ],
+        "transcription": "Glide"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            718,
+            143
+          ],
+          [
+            786,
+            146
+          ],
+          [
+            784,
+            174
+          ],
+          [
+            717,
+            170
+          ]
+        ],
+        "transcription": "Flick"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            352,
+            181
+          ],
+          [
+            405,
+            181
+          ],
+          [
+            405,
+            210
+          ],
+          [
+            352,
+            210
+          ]
+        ],
+        "transcription": "Dab"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            583,
+            185
+          ],
+          [
+            674,
+            188
+          ],
+          [
+            673,
+            216
+          ],
+          [
+            582,
+            213
+          ]
+        ],
+        "transcription": "LIGHT"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            859,
+            217
+          ],
+          [
+            964,
+            207
+          ],
+          [
+            967,
+            242
+          ],
+          [
+            862,
+            251
+          ]
+        ],
+        "transcription": "TIME"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            560,
+            283
+          ],
+          [
+            731,
+            286
+          ],
+          [
+            730,
+            314
+          ],
+          [
+            560,
+            311
+          ]
+        ],
+        "transcription": "SUSTMNED"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            753,
+            326
+          ],
+          [
+            1027,
+            326
+          ],
+          [
+            1027,
+            352
+          ],
+          [
+            753,
+            352
+          ]
+        ],
+        "transcription": "FLEXIBLE->SPACE"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            260,
+            351
+          ],
+          [
+            508,
+            348
+          ],
+          [
+            508,
+            372
+          ],
+          [
+            260,
+            375
+          ]
+        ],
+        "transcription": "SPACE<-DIRECT"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            535,
+            388
+          ],
+          [
+            652,
+            391
+          ],
+          [
+            651,
+            418
+          ],
+          [
+            534,
+            415
+          ]
+        ],
+        "transcription": "SUDDEN"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            301,
+            472
+          ],
+          [
+            381,
+            468
+          ],
+          [
+            382,
+            496
+          ],
+          [
+            302,
+            499
+          ]
+        ],
+        "transcription": "TIME"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            834,
+            516
+          ],
+          [
+            914,
+            519
+          ],
+          [
+            913,
+            547
+          ],
+          [
+            833,
+            544
+          ]
+        ],
+        "transcription": "Wring"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 13,
+        "points": [
+          [
+            593,
+            520
+          ],
+          [
+            675,
+            520
+          ],
+          [
+            675,
+            548
+          ],
+          [
+            593,
+            548
+          ]
+        ],
+        "transcription": "FIRM"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 14,
+        "points": [
+          [
+            773,
+            545
+          ],
+          [
+            844,
+            545
+          ],
+          [
+            844,
+            573
+          ],
+          [
+            773,
+            573
+          ]
+        ],
+        "transcription": "Slash"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 15,
+        "points": [
+          [
+            489,
+            557
+          ],
+          [
+            561,
+            557
+          ],
+          [
+            561,
+            586
+          ],
+          [
+            489,
+            586
+          ]
+        ],
+        "transcription": "Press"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 16,
+        "points": [
+          [
+            392,
+            572
+          ],
+          [
+            468,
+            569
+          ],
+          [
+            470,
+            598
+          ],
+          [
+            393,
+            601
+          ]
+        ],
+        "transcription": "Punch"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 17,
+        "points": [
+          [
+            575,
+            683
+          ],
+          [
+            688,
+            683
+          ],
+          [
+            688,
+            707
+          ],
+          [
+            575,
+            707
+          ]
+        ],
+        "transcription": "WEIGHT"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0161450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            56,
+            200
+          ],
+          [
+            500,
+            207
+          ],
+          [
+            500,
+            246
+          ],
+          [
+            56,
+            239
+          ]
+        ],
+        "transcription": "Kinaesthetic Creativity"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            55,
+            278
+          ],
+          [
+            365,
+            281
+          ],
+          [
+            365,
+            322
+          ],
+          [
+            55,
+            319
+          ]
+        ],
+        "transcription": "Felt Experience"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            56,
+            352
+          ],
+          [
+            492,
+            357
+          ],
+          [
+            492,
+            395
+          ],
+          [
+            56,
+            389
+          ]
+        ],
+        "transcription": "Embodied Perception"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0168450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            101,
+            209
+          ],
+          [
+            431,
+            215
+          ],
+          [
+            430,
+            269
+          ],
+          [
+            100,
+            263
+          ]
+        ],
+        "transcription": "Alternative"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            95,
+            306
+          ],
+          [
+            469,
+            306
+          ],
+          [
+            469,
+            369
+          ],
+          [
+            95,
+            369
+          ]
+        ],
+        "transcription": "Approaches"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0209450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            122,
+            229
+          ],
+          [
+            374,
+            232
+          ],
+          [
+            373,
+            287
+          ],
+          [
+            121,
+            284
+          ]
+        ],
+        "transcription": "Creative"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            123,
+            325
+          ],
+          [
+            354,
+            333
+          ],
+          [
+            352,
+            384
+          ],
+          [
+            121,
+            377
+          ]
+        ],
+        "transcription": "Process"
+      }
+    ]
+  },
+  {
+    "check": "mathpix+check",
+    "name": "CHI-004BD-0217000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1057,
+            0
+          ],
+          [
+            1057,
+            38
+          ],
+          [
+            1107,
+            38
+          ],
+          [
+            1107,
+            0
+          ]
+        ],
+        "transcription": "3"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            818,
+            34
+          ],
+          [
+            829,
+            36
+          ],
+          [
+            836,
+            38
+          ],
+          [
+            841,
+            43
+          ],
+          [
+            841,
+            72
+          ],
+          [
+            838,
+            81
+          ],
+          [
+            832,
+            83
+          ],
+          [
+            778,
+            99
+          ],
+          [
+            764,
+            101
+          ],
+          [
+            760,
+            101
+          ],
+          [
+            739,
+            99
+          ],
+          [
+            730,
+            95
+          ],
+          [
+            728,
+            90
+          ],
+          [
+            726,
+            83
+          ],
+          [
+            726,
+            43
+          ],
+          [
+            728,
+            41
+          ],
+          [
+            733,
+            38
+          ],
+          [
+            755,
+            36
+          ]
+        ],
+        "transcription": "TYR"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            1071,
+            77
+          ],
+          [
+            1075,
+            81
+          ],
+          [
+            1077,
+            92
+          ],
+          [
+            1077,
+            99
+          ],
+          [
+            1075,
+            106
+          ],
+          [
+            1071,
+            115
+          ],
+          [
+            805,
+            122
+          ],
+          [
+            798,
+            122
+          ],
+          [
+            784,
+            119
+          ],
+          [
+            782,
+            117
+          ],
+          [
+            780,
+            113
+          ],
+          [
+            780,
+            97
+          ],
+          [
+            784,
+            95
+          ],
+          [
+            877,
+            83
+          ],
+          [
+            904,
+            81
+          ],
+          [
+            1019,
+            77
+          ]
+        ],
+        "transcription": "$A$ et $B$ arroncent at"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            1111,
+            106
+          ],
+          [
+            1143,
+            108
+          ],
+          [
+            1145,
+            113
+          ],
+          [
+            1145,
+            151
+          ],
+          [
+            1143,
+            156
+          ],
+          [
+            1136,
+            158
+          ],
+          [
+            1084,
+            169
+          ],
+          [
+            1037,
+            171
+          ],
+          [
+            1032,
+            171
+          ],
+          [
+            856,
+            169
+          ],
+          [
+            854,
+            167
+          ],
+          [
+            850,
+            153
+          ],
+          [
+            847,
+            137
+          ],
+          [
+            847,
+            133
+          ],
+          [
+            850,
+            122
+          ],
+          [
+            852,
+            117
+          ],
+          [
+            854,
+            115
+          ],
+          [
+            965,
+            110
+          ]
+        ],
+        "transcription": "reculent sin 1 mêure"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 3,
+        "points": [
+          [
+            1086,
+            140
+          ],
+          [
+            1086,
+            176
+          ],
+          [
+            1147,
+            176
+          ],
+          [
+            1147,
+            140
+          ]
+        ],
+        "transcription": "plen"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            629,
+            190
+          ],
+          [
+            660,
+            190
+          ],
+          [
+            660,
+            227
+          ],
+          [
+            629,
+            227
+          ]
+        ],
+        "transcription": "A"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            515,
+            378
+          ],
+          [
+            547,
+            378
+          ],
+          [
+            547,
+            412
+          ],
+          [
+            515,
+            412
+          ]
+        ],
+        "transcription": "B"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            926,
+            442
+          ],
+          [
+            933,
+            449
+          ],
+          [
+            935,
+            453
+          ],
+          [
+            935,
+            487
+          ],
+          [
+            933,
+            512
+          ],
+          [
+            926,
+            518
+          ],
+          [
+            888,
+            518
+          ],
+          [
+            884,
+            516
+          ],
+          [
+            879,
+            512
+          ],
+          [
+            877,
+            507
+          ],
+          [
+            875,
+            496
+          ],
+          [
+            872,
+            471
+          ],
+          [
+            872,
+            460
+          ],
+          [
+            877,
+            453
+          ],
+          [
+            881,
+            449
+          ],
+          [
+            888,
+            444
+          ],
+          [
+            893,
+            442
+          ]
+        ],
+        "transcription": "$a^{2}$"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 6,
+        "points": [
+          [
+            844,
+            594
+          ],
+          [
+            840,
+            527
+          ],
+          [
+            968,
+            519
+          ],
+          [
+            972,
+            587
+          ]
+        ],
+        "transcription": "beader"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0223000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            289,
+            5
+          ],
+          [
+            392,
+            5
+          ],
+          [
+            392,
+            19
+          ],
+          [
+            289,
+            19
+          ]
+        ],
+        "transcription": "Write a Journal entry"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            413,
+            5
+          ],
+          [
+            483,
+            5
+          ],
+          [
+            483,
+            19
+          ],
+          [
+            413,
+            19
+          ]
+        ],
+        "transcription": "Change Video"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            147,
+            8
+          ],
+          [
+            263,
+            8
+          ],
+          [
+            263,
+            17
+          ],
+          [
+            147,
+            17
+          ]
+        ],
+        "transcription": "Upload a new Video file"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            1063,
+            46
+          ],
+          [
+            1144,
+            46
+          ],
+          [
+            1144,
+            60
+          ],
+          [
+            1063,
+            60
+          ]
+        ],
+        "transcription": "Choreography No"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            164,
+            49
+          ],
+          [
+            351,
+            49
+          ],
+          [
+            351,
+            62
+          ],
+          [
+            164,
+            62
+          ]
+        ],
+        "transcription": "Hi test, This is video 3-16 Full Run.mp4"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            295,
+            475
+          ],
+          [
+            757,
+            475
+          ],
+          [
+            757,
+            488
+          ],
+          [
+            295,
+            488
+          ]
+        ],
+        "transcription": "CAMI: This transition right here is strange, the walking around yourself looks kinda tentative. Lets look at this"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0232450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            76,
+            230
+          ],
+          [
+            355,
+            230
+          ],
+          [
+            355,
+            295
+          ],
+          [
+            76,
+            295
+          ]
+        ],
+        "transcription": "Complex"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            80,
+            328
+          ],
+          [
+            461,
+            328
+          ],
+          [
+            461,
+            388
+          ],
+          [
+            80,
+            388
+          ]
+        ],
+        "transcription": "Idiosyncratic"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0246000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            1087,
+            54
+          ],
+          [
+            1154,
+            57
+          ],
+          [
+            1153,
+            76
+          ],
+          [
+            1086,
+            73
+          ]
+        ],
+        "transcription": "Welcome,"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            11,
+            57
+          ],
+          [
+            159,
+            57
+          ],
+          [
+            159,
+            74
+          ],
+          [
+            11,
+            74
+          ]
+        ],
+        "transcription": "Upload a New Video File"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 2,
+        "points": [
+          [
+            351,
+            57
+          ],
+          [
+            495,
+            57
+          ],
+          [
+            495,
+            74
+          ],
+          [
+            351,
+            74
+          ]
+        ],
+        "transcription": "Write/See Journal Entry"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 3,
+        "points": [
+          [
+            517,
+            57
+          ],
+          [
+            648,
+            57
+          ],
+          [
+            648,
+            74
+          ],
+          [
+            517,
+            74
+          ]
+        ],
+        "transcription": "Select/Change Video"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 4,
+        "points": [
+          [
+            1217,
+            57
+          ],
+          [
+            1273,
+            57
+          ],
+          [
+            1273,
+            75
+          ],
+          [
+            1217,
+            75
+          ]
+        ],
+        "transcription": "Log Out"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 5,
+        "points": [
+          [
+            183,
+            58
+          ],
+          [
+            328,
+            58
+          ],
+          [
+            328,
+            71
+          ],
+          [
+            183,
+            71
+          ]
+        ],
+        "transcription": "Upload Visualization file"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 6,
+        "points": [
+          [
+            956,
+            129
+          ],
+          [
+            995,
+            133
+          ],
+          [
+            994,
+            149
+          ],
+          [
+            954,
+            145
+          ]
+        ],
+        "transcription": "UI Log"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 7,
+        "points": [
+          [
+            791,
+            132
+          ],
+          [
+            849,
+            132
+          ],
+          [
+            849,
+            147
+          ],
+          [
+            791,
+            147
+          ]
+        ],
+        "transcription": "Comments"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 8,
+        "points": [
+          [
+            873,
+            132
+          ],
+          [
+            931,
+            132
+          ],
+          [
+            931,
+            147
+          ],
+          [
+            873,
+            147
+          ]
+        ],
+        "transcription": "Viz Videos"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 9,
+        "points": [
+          [
+            1065,
+            167
+          ],
+          [
+            1122,
+            170
+          ],
+          [
+            1121,
+            184
+          ],
+          [
+            1064,
+            181
+          ]
+        ],
+        "transcription": "Comments"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 10,
+        "points": [
+          [
+            887,
+            169
+          ],
+          [
+            916,
+            169
+          ],
+          [
+            916,
+            184
+          ],
+          [
+            887,
+            184
+          ]
+        ],
+        "transcription": "Time"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 11,
+        "points": [
+          [
+            797,
+            171
+          ],
+          [
+            812,
+            171
+          ],
+          [
+            812,
+            181
+          ],
+          [
+            797,
+            181
+          ]
+        ],
+        "transcription": "No"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 12,
+        "points": [
+          [
+            835,
+            171
+          ],
+          [
+            857,
+            171
+          ],
+          [
+            857,
+            181
+          ],
+          [
+            835,
+            181
+          ]
+        ],
+        "transcription": "User"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 13,
+        "points": [
+          [
+            933,
+            189
+          ],
+          [
+            1157,
+            189
+          ],
+          [
+            1157,
+            202
+          ],
+          [
+            933,
+            202
+          ]
+        ],
+        "transcription": "Quicker transition between two down-dog arches"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 13,
+        "points": [
+          [
+            931,
+            209
+          ],
+          [
+            1189,
+            209
+          ],
+          [
+            1189,
+            226
+          ],
+          [
+            931,
+            226
+          ]
+        ],
+        "transcription": "More weight into backwards walks, focus should be up"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 13,
+        "points": [
+          [
+            933,
+            233
+          ],
+          [
+            1076,
+            233
+          ],
+          [
+            1076,
+            246
+          ],
+          [
+            933,
+            246
+          ]
+        ],
+        "transcription": "L arm not wrapped on this one."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 14,
+        "points": [
+          [
+            880,
+            191
+          ],
+          [
+            911,
+            191
+          ],
+          [
+            911,
+            201
+          ],
+          [
+            880,
+            201
+          ]
+        ],
+        "transcription": "119.00"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 15,
+        "points": [
+          [
+            824,
+            192
+          ],
+          [
+            859,
+            192
+          ],
+          [
+            859,
+            201
+          ],
+          [
+            824,
+            201
+          ]
+        ],
+        "transcription": "melissa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 16,
+        "points": [
+          [
+            876,
+            210
+          ],
+          [
+            912,
+            210
+          ],
+          [
+            912,
+            224
+          ],
+          [
+            876,
+            224
+          ]
+        ],
+        "transcription": "237.00"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 16,
+        "points": [
+          [
+            877,
+            232
+          ],
+          [
+            912,
+            232
+          ],
+          [
+            912,
+            246
+          ],
+          [
+            877,
+            246
+          ]
+        ],
+        "transcription": "244.00"
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 16,
+        "points": [
+          [
+            877,
+            253
+          ],
+          [
+            912,
+            253
+          ],
+          [
+            912,
+            267
+          ],
+          [
+            877,
+            267
+          ]
+        ],
+        "transcription": "342.00"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 17,
+        "points": [
+          [
+            824,
+            213
+          ],
+          [
+            860,
+            213
+          ],
+          [
+            860,
+            222
+          ],
+          [
+            824,
+            222
+          ]
+        ],
+        "transcription": "melissa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 18,
+        "points": [
+          [
+            825,
+            234
+          ],
+          [
+            859,
+            234
+          ],
+          [
+            859,
+            244
+          ],
+          [
+            825,
+            244
+          ]
+        ],
+        "transcription": "melissa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 19,
+        "points": [
+          [
+            822,
+            253
+          ],
+          [
+            861,
+            253
+          ],
+          [
+            861,
+            270
+          ],
+          [
+            822,
+            270
+          ]
+        ],
+        "transcription": "melissa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 20,
+        "points": [
+          [
+            933,
+            254
+          ],
+          [
+            1048,
+            254
+          ],
+          [
+            1048,
+            267
+          ],
+          [
+            933,
+            267
+          ]
+        ],
+        "transcription": "Figure out that transition"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 21,
+        "points": [
+          [
+            935,
+            275
+          ],
+          [
+            1244,
+            275
+          ],
+          [
+            1244,
+            289
+          ],
+          [
+            935,
+            289
+          ]
+        ],
+        "transcription": "Should be closer to each other and Melissa needs to be more open"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 21,
+        "points": [
+          [
+            933,
+            287
+          ],
+          [
+            997,
+            287
+          ],
+          [
+            997,
+            302
+          ],
+          [
+            933,
+            302
+          ]
+        ],
+        "transcription": "to stage right."
+      },
+      {
+        "index_in_para": 2,
+        "index_para": 21,
+        "points": [
+          [
+            931,
+            307
+          ],
+          [
+            1097,
+            308
+          ],
+          [
+            1097,
+            323
+          ],
+          [
+            931,
+            322
+          ]
+        ],
+        "transcription": "Arm not wrapped around torso here"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 22,
+        "points": [
+          [
+            876,
+            281
+          ],
+          [
+            912,
+            281
+          ],
+          [
+            912,
+            294
+          ],
+          [
+            876,
+            294
+          ]
+        ],
+        "transcription": "348.00"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 23,
+        "points": [
+          [
+            824,
+            283
+          ],
+          [
+            859,
+            283
+          ],
+          [
+            859,
+            292
+          ],
+          [
+            824,
+            292
+          ]
+        ],
+        "transcription": "melissa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 24,
+        "points": [
+          [
+            823,
+            307
+          ],
+          [
+            864,
+            307
+          ],
+          [
+            864,
+            322
+          ],
+          [
+            823,
+            322
+          ]
+        ],
+        "transcription": "melissa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 25,
+        "points": [
+          [
+            876,
+            308
+          ],
+          [
+            912,
+            308
+          ],
+          [
+            912,
+            322
+          ],
+          [
+            876,
+            322
+          ]
+        ],
+        "transcription": "391.00"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 25,
+        "points": [
+          [
+            877,
+            330
+          ],
+          [
+            912,
+            330
+          ],
+          [
+            912,
+            344
+          ],
+          [
+            877,
+            344
+          ]
+        ],
+        "transcription": "398.00"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 26,
+        "points": [
+          [
+            823,
+            331
+          ],
+          [
+            861,
+            331
+          ],
+          [
+            861,
+            344
+          ],
+          [
+            823,
+            344
+          ]
+        ],
+        "transcription": "melissa"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 27,
+        "points": [
+          [
+            933,
+            331
+          ],
+          [
+            1092,
+            331
+          ],
+          [
+            1092,
+            344
+          ],
+          [
+            933,
+            344
+          ]
+        ],
+        "transcription": "Arm comes to chest much slower"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 28,
+        "points": [
+          [
+            243,
+            599
+          ],
+          [
+            272,
+            599
+          ],
+          [
+            272,
+            613
+          ],
+          [
+            243,
+            613
+          ]
+        ],
+        "transcription": "here..."
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 29,
+        "points": [
+          [
+            343,
+            637
+          ],
+          [
+            432,
+            637
+          ],
+          [
+            432,
+            651
+          ],
+          [
+            343,
+            651
+          ]
+        ],
+        "transcription": "SubmitCancel"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0274450.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            87,
+            251
+          ],
+          [
+            432,
+            256
+          ],
+          [
+            432,
+            295
+          ],
+          [
+            87,
+            291
+          ]
+        ],
+        "transcription": "Lived Experience"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            87,
+            325
+          ],
+          [
+            411,
+            328
+          ],
+          [
+            410,
+            365
+          ],
+          [
+            87,
+            363
+          ]
+        ],
+        "transcription": "Diverse Context"
+      }
+    ]
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0303000.jpg",
+    "ocr_data": [
+      {
+        "index_in_para": 0,
+        "index_para": 0,
+        "points": [
+          [
+            250,
+            388
+          ],
+          [
+            376,
+            391
+          ],
+          [
+            376,
+            409
+          ],
+          [
+            249,
+            406
+          ]
+        ],
+        "transcription": "THE UNIVERSITY OF"
+      },
+      {
+        "index_in_para": 1,
+        "index_para": 0,
+        "points": [
+          [
+            249,
+            414
+          ],
+          [
+            376,
+            414
+          ],
+          [
+            376,
+            433
+          ],
+          [
+            249,
+            433
+          ]
+        ],
+        "transcription": "MELBOURNE"
+      },
+      {
+        "index_in_para": 0,
+        "index_para": 1,
+        "points": [
+          [
+            399,
+            404
+          ],
+          [
+            980,
+            404
+          ],
+          [
+            980,
+            449
+          ],
+          [
+            399,
+            449
+          ]
+        ],
+        "transcription": "cis.unimelb.edu.au/hci"
+      }
+    ]
+  }
+]

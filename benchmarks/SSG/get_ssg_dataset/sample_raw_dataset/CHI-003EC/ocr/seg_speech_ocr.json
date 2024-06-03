@@ -1,0 +1,282 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0016000.jpg",
+    "ocr_text": "Project Tasca\nEnabling Touch and Contextual Interactions with a Pocket-based Textile Sensor\nXing-Dong Yang\nZheer Xu\nTe-Yen Wu\nPressure\nInductance\nPressure\nInductance Capacitance\napacitance\nSteve Hodge\nTeddy Seyed\nDartmouth\nMicrosoft\nDetected: Smartphone\nDetected: Heavy Swipe Left",
+    "speech_text": "Hello, everyone, I am Deng Wu from Denmark's College of Engineering. I present Project Tesco, enabling touch and contextual interaction with a pocket based tether sensor. This is the work I did last year at Microsoft",
+    "start": 0,
+    "end": 16.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0038450.jpg",
+    "ocr_text": "MESSAGES Project Tasca Project Tasca: Check Hand Sanitizer!\nnow",
+    "speech_text": "Research as an intern. So let's begin with some motivation here. Pockets are something that we use every day to carry things like phone, card key, hand, and many other things. This information if obtained by computing can be very useful for many applications. But the problem is that the pocket like the one we have on our pants or jacket, don't know their context of use. Imagine if the pocket can sense the things",
+    "start": 16.0,
+    "end": 38.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0043450.jpg",
+    "ocr_text": "Computational Science!\nInductance\nPressure\nCapacitance\nDetected: Noise",
+    "speech_text": "that people carry inside them. It can notify the user when they forget to take the hand sanitizer,",
+    "start": 38.45,
+    "end": 43.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0047450.jpg",
+    "ocr_text": "Pressure\nCapacitance\nInductance\nDetected: Hand",
+    "speech_text": "and when the user puts a hand inside the pocket, the system",
+    "start": 43.45,
+    "end": 47.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0051500.jpg",
+    "ocr_text": "Hello,\nConceptual Video\nBest, Anonymous",
+    "speech_text": "can automatically switch the smartphone ui. To support one handy use,",
+    "start": 47.45,
+    "end": 51.5
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0063500.jpg",
+    "ocr_text": "Pressure\nInductance\nCapacitance\nGesture Detected: None",
+    "speech_text": "so in this work all Go wants to develop a wearable pocket based data sensor that recognizes the object inside the pocket. We call it test car, Test, Car, can also detect finger gesture for the user to interact with the",
+    "start": 51.5,
+    "end": 63.5
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0069450.jpg",
+    "ocr_text": "Capacitance Pressure Inductance\nDetected: Noise",
+    "speech_text": "smart watch, and also detect taking object using Nfc. This increases the recognition capability of the test",
+    "start": 63.5,
+    "end": 69.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0070450.jpg",
+    "ocr_text": "Capacitance Pressure Inductance\nDetected: card tag, UID: 15502728",
+    "speech_text": "car.",
+    "start": 69.45,
+    "end": 70.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0074000.jpg",
+    "ocr_text": "Null\nRelated Work\n2X",
+    "speech_text": "Before I dive into the detail of this work, I would",
+    "start": 70.45,
+    "end": 74.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0082450.jpg",
+    "ocr_text": "Related Work\nNull\nTessutivo\n2X\nJun et al.",
+    "speech_text": "like to briefly go over some related work. So the 1st one is testable or intative fabric that can recognize a different metallic object based on intative sensing.",
+    "start": 74.0,
+    "end": 82.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0084455.jpg",
+    "ocr_text": "Related Work\nSensor Area\ncrouching figure atute\nCapacitivo Wu et al.",
+    "speech_text": "And here's the word I published",
+    "start": 82.45,
+    "end": 84.455
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0087450.jpg",
+    "ocr_text": "Related Work\nSensor Area\ncandle\nCapacitivo Wu et al",
+    "speech_text": "last year at waste. Enable the recognition of normal",
+    "start": 84.455,
+    "end": 87.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0090450.jpg",
+    "ocr_text": "Related Work\nnone\nCapacitivo Wu et al",
+    "speech_text": "technical objects on Internet fabric using capacity sensing.",
+    "start": 87.45,
+    "end": 90.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0097000.jpg",
+    "ocr_text": "Related Work\nConductive Textile\nPressure-sensitive Textile\nConductive Textile\nComputing with uncertainty in a smart textile surface for object recognition Rofouei et al.",
+    "speech_text": "Aside from them, pressure sensing techniques have been also used on interactive fabric to recognize the object based on the control of",
+    "start": 90.45,
+    "end": 97.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0102450.jpg",
+    "ocr_text": "Related Work\nProject Zanzibar Villar et al.",
+    "speech_text": "the object and. Since another choice could be implemented on intelligent fabric to recognize the object, but with",
+    "start": 97.0,
+    "end": 102.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0113000.jpg",
+    "ocr_text": "Gestures and Tagged objects (Capacitive sensing and NFC)\nMetallic objects (Inductive sensing)\nTASCA\nObjects (Pressure resistive sensing)\nNon-metallic objects (Capacitive sensing)",
+    "speech_text": "tag. So in our research, we integrate all these sensing techniques into one single package to develop an interactive pocket that is capable of sensing touch, pressure, And non metallic objects, as well as",
+    "start": 102.45,
+    "end": 113.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0115000.jpg",
+    "ocr_text": "2-Layer Sensor\nSensor\nImplementation",
+    "speech_text": "tagging objects next, Let me talk",
+    "start": 113.0,
+    "end": 115.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0119455.jpg",
+    "ocr_text": "Sensor Implementation\n2-Layer Sensor",
+    "speech_text": "about how we implement the sensor. We developed a two layer structure of tether",
+    "start": 115.0,
+    "end": 119.455
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0126460.jpg",
+    "ocr_text": "Sensor Implementation\nInductive-NFC Sensing Layer\n5mm",
+    "speech_text": "sensor. The button layer complies for overlapping in broad coil that are for inductive and Afc sensing.",
+    "start": 119.455,
+    "end": 126.46
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0141000.jpg",
+    "ocr_text": "Sensor Implementation\nResisitve- Capacitive Sensing\nLayer\nConductive Fabric (capacitive sensing)\nPressure Sensitive Fabric (Resistive sensing)\nConductive Fabric",
+    "speech_text": "And the top layer was made of a grid of conductive tether electrodes, sandwiching pressure sensitive fabric, which are for pressure and capacitive sensing. There are some technical challenges here, but I will keep it brief. If you are interested in the details, I",
+    "start": 126.46,
+    "end": 141.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0146000.jpg",
+    "ocr_text": "Object Recognition\nPressure\nInductance\nInductance Capacitance\nDetected: Smartphone",
+    "speech_text": "encourage you to read our paper. Next, I would like to talk about how we use the pocket sensor to recognize",
+    "start": 141.0,
+    "end": 146.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0155460.jpg",
+    "ocr_text": "Object Recognition\nFootprint\nPressure\nInductance\n4 x 4 capacitance footprint\n2 x 2 Inductance\n4 x 4 Pressure\nfootprint\nfootprint\nDetected: Smartphone",
+    "speech_text": "different types of objects, so when an object is placed inside a pocket. its capacitance, pressure, and the inductance footprint of the contact area of the object are captured",
+    "start": 146.0,
+    "end": 155.46
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0156460.jpg",
+    "ocr_text": "Object Recognition\nFootprint\nPressure\nInductance\nInductance Capacitance\nDetected: Smartphone",
+    "speech_text": "by the sensor. For",
+    "start": 155.46,
+    "end": 156.46
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0161000.jpg",
+    "ocr_text": "Object Recognition\nFootprint\nFeature\nExtraction\n86 x 3 Features\nPressure\nInductance\nShape related features (e.g., number of covered pixels) Materialrelated features\nmultiple footprint\n(e.g., mean and median)\nDetected: Smartphone",
+    "speech_text": "each type of footprint, we extract 86 features, including shape-related features",
+    "start": 156.46,
+    "end": 161.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0176350.jpg",
+    "ocr_text": "Object Recognition\nFeature\nExtraction\nFootprint\n86 x 3 Features\nMachine Learning\nPressure\nInductance\nmultiple footprint\nIdle Pressure\nfootprint\nDetected: Smartphone",
+    "speech_text": "and material-related features. Then we feed our feature along with pressure data, collect with all the presence of object, to read the forest model to use the same type of data to recognize the. Object inside the pocket here, the pressure data infer how tight the sensor was worn on the user's body.",
+    "start": 161.0,
+    "end": 176.35
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0190000.jpg",
+    "ocr_text": "Gesture Recognition\nBackground subtraction\nBlob detection\nObject recognition\nHand\nPressure\nInductance Capacitance\n4 x 4 capacitance footprint\n4 x 4 Pressure footprint\nGesture Detected: Heavy Swipe Left",
+    "speech_text": "Our system can also recognize finger gestures. Once a hand is detected, the system performs a background substation to remove the still pixel of the palm. And use the open Cv prompt detection to track the movement of the fingertip and",
+    "start": 176.35,
+    "end": 190.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0215000.jpg",
+    "ocr_text": "Evaluation - object recognition\n10 participants\n(4 males, 6 females)\n10 objects + Hand\n10 times for each object\nDetected: Smartphone",
+    "speech_text": "its pressure. So to evaluate the accuracy of our implementation, we conduct a study with ten participants. We test the system with hand and ten objects made of different material, such as phone airpods, key, phone, hand sanitizer, empty hand sanitizer. Wallet, wallet was coined Pen, car key and multi tool knife. We asked the participants to put each object into a pocket 10 times in a random order.",
+    "start": 190.0,
+    "end": 215.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0219000.jpg",
+    "ocr_text": "Evaluation - object recognition\nNoise\nWithin-user accuracy\nHand\nNoise\nHand\nIndex of predicted classes\nDetected: Smartphone",
+    "speech_text": "And we found that the system achieved a within-user accuracy of",
+    "start": 215.0,
+    "end": 219.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0232000.jpg",
+    "ocr_text": "Evaluation - object recognition\nCross-user accuracy\nNoise\nHand\nIndex of predicted classes\nDetected: Smartphone",
+    "speech_text": "92.3%. As one main image, there was an individual difference in the shape and diameter of people's sign. This led to a variation in the footprint of the tested object. As such, we observed a decrease in the object recognition accuracy of 81",
+    "start": 219.0,
+    "end": 232.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0238000.jpg",
+    "ocr_text": "Evaluation - Gesture recognition\n10 participants\n(4 males, 6 females)\nLight Swipe Left (L) Heavy Swipe Left (HL)\nLight Swipe Right(R) Heavy Swipe Right (HR)\n8 Gestures\n10 times for each gesture\nLight Swipe Up Heavy Swipe Up (HU)\nLight Swipe Down (D)\nHeavy Swipe Down (HD Gesture Detected: Heavy Swipe Left",
+    "speech_text": "3 %. Aside from object recognition, we also evaluated the performance of gesture recognition with four different gestures at two",
+    "start": 232.0,
+    "end": 238.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0241000.jpg",
+    "ocr_text": "Evaluation - Gesture recognition\nHR\nHL\nR\nHU\nNone\nU\nD\nHD\nL\nL\nHL\noverall accuracy\nR\nHR\nU\nHU\nD\nHD\nDetected: Heavy Swipe Left",
+    "speech_text": "different pressure levels. We observed an overall accuracy of",
+    "start": 238.0,
+    "end": 241.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0260000.jpg",
+    "ocr_text": "Evaluation - NFC\n10 participants\n(4 males, 6 females)\nKey and Card Tag\nDetected: card/tag\n5 Locations x 3 Distance",
+    "speech_text": "96.1%. Finally, we evaluate the robustness of office sensor with different tech, position and distance to the sensor. We choose two common type of Mfc tech. car tag and key tag. Note that most of the tested locations were at the corner of the parking or the edge of the sensor. These are the place where the signal",
+    "start": 241.0,
+    "end": 260.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0270000.jpg",
+    "ocr_text": "Evaluation - NFC\ncard\nkey\ntop right\nbottom right\nCenter\ntop right\nbottom right\ntop left\nbottom left\nbottom left\nCenter\ntop right\nbottom right\nCenter\ntop left\ntop left\nbottom left\nsuccess rate\n0mm\n3mm/10mm",
+    "speech_text": "is the weakest. Here's the result, As you can see at the near and medium distance, The tech detection work well. But at the far distance the signal is weaker, so the sensor's rate dropped quickly for the",
+    "start": 260.0,
+    "end": 270.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0299000.jpg",
+    "ocr_text": "Conclusion\nWe present a textile sensor design for an interactive pocket\nWe present a system that can sense user input and\nrecognize objects inside the pocket\nPressure\nInductance\nCapacitance We conducted an experimental evaluation of the\nsensing performance of our system\nDetected: Smartphone",
+    "speech_text": "key tag. I would like to conclude our work with three take home messages. 1st, we present a textilesensor design fusing for sensing techniques for an interactive parking. 2nd, we present a interactive pocket system that can sense user gesture, improve and recognize the object inside the pockets. In the end, we conducted a study to evaluate the sensing performance of our system, which showed that the object recognition accuracy can achieve 92 % for personal model. But slightly decreased to",
+    "start": 270.0,
+    "end": 299.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-003EC-0303450.jpg",
+    "ocr_text": "Project Tasca\nEnabling Touch and Contextual Interactions with a Pocket-based Textile Sensor\nZheer Xu\nXing-Dong Yang\nTe-Yen Wu\nPressure\nInductanceCapacitance\napacitance\nSteve Hodge\nTeddy Seyed\nDartmouth\nMicrosoft\nDetected: Smartphone",
+    "speech_text": "81 % for General model. Thank you for listening, and happy to",
+    "start": 299.0,
+    "end": 303.45
+  }
+]

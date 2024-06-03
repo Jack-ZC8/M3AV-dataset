@@ -1,0 +1,1577 @@
+[
+  {
+    "speech_text": "Hello, everyone, I am Deng Wu from Denmark's College of Engineering. I present Project Tesco, enabling touch and contextual interaction with a pocket based tether sensor. This is the work I did last year at Microsoft",
+    "related_sentences": [
+      {
+        "sentence": "In this paper, we introduce Tasca, an interactive pocket-based textile sensor integrated into a form factor that fts into the pocket of a pair of jeans (Figure 1).",
+        "cos_similarity": 0.42653244733810425
+      },
+      {
+        "sentence": "The capacitive sensing was implemented using self-capacitance with a FDC 2214 capacitor sensing chip also from Texas Instruments.",
+        "cos_similarity": 0.4209866523742676
+      },
+      {
+        "sentence": "The closest system that recognizes objects in a pocket was created by Shimozuru et al., using an array of infrared sensors, but is also impractiable due to its rigidness.",
+        "cos_similarity": 0.4148840308189392
+      },
+      {
+        "sentence": "For example, Project Zanzibar combines mutual and self-capacitive sensing to detect touch and hand gestures, and also used NFC tagging to detect objects.",
+        "cos_similarity": 0.4079437255859375
+      },
+      {
+        "sentence": "To implement inductive sensing for our pocket, we used an approach similar to one described in the research literature.",
+        "cos_similarity": 0.3938385844230652
+      },
+      {
+        "sentence": "In this paper, we demonstrate a technique that combines inductive sensing, capacitive sensing, resistive sensing, and NFC into a multilayered fabric that is integrated into a pocket of a pair of jeans.",
+        "cos_similarity": 0.38571494817733765
+      },
+      {
+        "sentence": "Our fabric resistive sensor implementation involved creating a three-layer structure with a piece of pressure sensitive material (e.g., velostat) sandwiched between two layers of conductive fabric.",
+        "cos_similarity": 0.3622824251651764
+      },
+      {
+        "sentence": "We briefy discuss the literature for interacting with fabrics, the diferent sensing techniques for smart fabrics, and the area of smart pockets.",
+        "cos_similarity": 0.3561360836029053
+      },
+      {
+        "sentence": "In this section, we detail the hardware implementation of the pocket sensor.",
+        "cos_similarity": 0.3560207784175873
+      },
+      {
+        "sentence": "These techniques were combined together to deliver a more practical solution for interactive fabrics in a wearable pocket context, in terms of robustness against sensor deformation (e.g. improved object recognition by fusing data from any pair of the sensors) and more capable in sensed object types (e.g. metallic, nonmetallic, and NFC tagged objects).",
+        "cos_similarity": 0.35550111532211304
+      }
+    ]
+  },
+  {
+    "speech_text": "Research as an intern. So let's begin with some motivation here. Pockets are something that we use every day to carry things like phone, card key, hand, and many other things. This information if obtained by computing can be very useful for many applications. But the problem is that the pocket like the one we have on our pants or jacket, don't know their context of use. Imagine if the pocket can sense the things",
+    "related_sentences": [
+      {
+        "sentence": "Concepts like interactive pockets (e.g., on a pair of pants) not only allow for touch interactions to occur beyond smartphones, watches or rings, but also be carried out in a comfortable, private, and alwaysavailable manner to use other computing devices (e.g., head-worn or wall-size displays) in ubiquitous computing environments.",
+        "cos_similarity": 0.6556658744812012
+      },
+      {
+        "sentence": "While prior research has explored the concept of interactive pockets, much of the focus was demonstrating proof-of-concepts and application scenarios using mockups through rigid devices or sensors, such as a camera, optical sensor panel, or capacitive touch panel, which are unsuitable for practical and daily use.",
+        "cos_similarity": 0.6032304763793945
+      },
+      {
+        "sentence": "In the context of object recognition, our current research focuses on pockets in a pair of jeans.",
+        "cos_similarity": 0.5842120051383972
+      },
+      {
+        "sentence": "Furthermore, understanding the items that a user has in a pocket (e.g., a phone) also enables a new set of applications, such as activity tracking, placement-dependent notifcation, or providing new context to the information sensed from other devices.",
+        "cos_similarity": 0.5828136205673218
+      },
+      {
+        "sentence": "Sensing the hands of a user inside the pants pockets can also provide rich contextual information related to their current activity.",
+        "cos_similarity": 0.577707052230835
+      },
+      {
+        "sentence": "This setup works well for a pocket.",
+        "cos_similarity": 0.5712777376174927
+      },
+      {
+        "sentence": "As part of this exploration, we identify unique challenges due to the constraints of a pocket and demonstrate promising solutions that are both applicable to pockets, as well as the wider space of smart fabrics.",
+        "cos_similarity": 0.5397420525550842
+      },
+      {
+        "sentence": "As a next step for future research, we will focus on new capabilities, such as wireless power transfer for charging electronic devices inside the pocket.",
+        "cos_similarity": 0.5362443923950195
+      },
+      {
+        "sentence": "Smart pocket prototypes have also been created using cameras, and other more rigid materials, but aren’t practical for an everyday pocket.",
+        "cos_similarity": 0.5335484743118286
+      },
+      {
+        "sentence": "Profta et al. has also demonstrated similar results that pockets are not as socially acceptable because of the physical location to diferent (private) parts of the body.",
+        "cos_similarity": 0.529391884803772
+      }
+    ]
+  },
+  {
+    "speech_text": "that people carry inside them. It can notify the user when they forget to take the hand sanitizer,",
+    "related_sentences": [
+      {
+        "sentence": "The major source of error, however, was from the confusion of the system between the full and empty bottle of hand sanitizer, which suggests that very small diferences in the material property of the objects is still challenging to distinguish.",
+        "cos_similarity": 0.49546727538108826
+      },
+      {
+        "sentence": "For the nonmetallic objects, we included a leather wallet and a bottle of hand sanitizer.",
+        "cos_similarity": 0.4741501808166504
+      },
+      {
+        "sentence": "Similar to the within-user condition, the full (57%) and empty hand sanitizer bottle (53%) contributed to most of the classifcation errors.",
+        "cos_similarity": 0.4607190489768982
+      },
+      {
+        "sentence": "We also purposefully included an empty sanitizer bottle and a few coins in the wallet to measure how well our system can recognize diferent statuses of a container.",
+        "cos_similarity": 0.42957454919815063
+      },
+      {
+        "sentence": "Aside from the hand sanitizer, the system also sometimes confused the multitool with the signature pen.",
+        "cos_similarity": 0.39338916540145874
+      },
+      {
+        "sentence": "For example, we tested how well the system can recognize if the sanitizer bottle is empty or if there are coins in the wallet.",
+        "cos_similarity": 0.3926590383052826
+      },
+      {
+        "sentence": "Sensing the hands of a user inside the pants pockets can also provide rich contextual information related to their current activity.",
+        "cos_similarity": 0.37241965532302856
+      },
+      {
+        "sentence": "We included the analysis of the same set of objects except that the most confusing ones (e.g., empty hand sanitize bottle in the within-user condition) were removed so the system worked in an \"ideal\" situation.",
+        "cos_similarity": 0.3563588261604309
+      },
+      {
+        "sentence": "The system can be setup to notify the user about their hand position through the vibration of a smartwatch.",
+        "cos_similarity": 0.3456195592880249
+      },
+      {
+        "sentence": "We found that the accuracy increased to 95.5% (SD = 2.2%) without the empty hand sanitizer.",
+        "cos_similarity": 0.33906784653663635
+      }
+    ]
+  },
+  {
+    "speech_text": "and when the user puts a hand inside the pocket, the system",
+    "related_sentences": [
+      {
+        "sentence": "For example, a user can use touch gestures inside the pocket to interact with a head-worn display or a smartwatch.",
+        "cos_similarity": 0.5867275595664978
+      },
+      {
+        "sentence": "Since the pocket is where hands can naturally reside, Tasca provides a useful input mechanism for a user to interact with computing devices.",
+        "cos_similarity": 0.5115781426429749
+      },
+      {
+        "sentence": "For example, a hand inside a pocket while interacting with a smartphone using the other hand indicates one-handed use of the smartphone.",
+        "cos_similarity": 0.5074233412742615
+      },
+      {
+        "sentence": "Sensing the hands of a user inside the pants pockets can also provide rich contextual information related to their current activity.",
+        "cos_similarity": 0.49454545974731445
+      },
+      {
+        "sentence": "This setup works well for a pocket.",
+        "cos_similarity": 0.49169084429740906
+      },
+      {
+        "sentence": "After this short training session, each participant performed a gesture inside the pocket using their right hand (Figure 11).",
+        "cos_similarity": 0.48515790700912476
+      },
+      {
+        "sentence": "Concepts like interactive pockets (e.g., on a pair of pants) not only allow for touch interactions to occur beyond smartphones, watches or rings, but also be carried out in a comfortable, private, and alwaysavailable manner to use other computing devices (e.g., head-worn or wall-size displays) in ubiquitous computing environments.",
+        "cos_similarity": 0.4696285128593445
+      },
+      {
+        "sentence": "When the user wants to use it, they can grab the physical token from their pocket (Figure 7).",
+        "cos_similarity": 0.46879255771636963
+      },
+      {
+        "sentence": "The closest system that recognizes objects in a pocket was created by Shimozuru et al., using an array of infrared sensors, but is also impractiable due to its rigidness.",
+        "cos_similarity": 0.4630737900733948
+      },
+      {
+        "sentence": "The system can be setup to notify the user about their hand position through the vibration of a smartwatch.",
+        "cos_similarity": 0.4533836245536804
+      }
+    ]
+  },
+  {
+    "speech_text": "can automatically switch the smartphone ui. To support one handy use,",
+    "related_sentences": [
+      {
+        "sentence": "As such, the smartphone UI can be adjusted accordingly to facilitate input using the thumb (e.g. a narrower keyboard for one-handed typing) (Figure 8).",
+        "cos_similarity": 0.5689605474472046
+      },
+      {
+        "sentence": "The system can be setup to notify the user about their hand position through the vibration of a smartwatch.",
+        "cos_similarity": 0.4158194065093994
+      },
+      {
+        "sentence": "Our goal was to implement Tasca as a pocket sensor that supports some of the most common input modalities, including: (1) 2D touch gestures commonly used on mobile and wearable devices and (2) force touch by pressing the fabric at diferent levels of pressure.",
+        "cos_similarity": 0.3569898009300232
+      },
+      {
+        "sentence": "Furthermore, understanding the items that a user has in a pocket (e.g., a phone) also enables a new set of applications, such as activity tracking, placement-dependent notifcation, or providing new context to the information sensed from other devices.",
+        "cos_similarity": 0.35275787115097046
+      },
+      {
+        "sentence": "For example, a user can use touch gestures inside the pocket to interact with a head-worn display or a smartwatch.",
+        "cos_similarity": 0.34704145789146423
+      },
+      {
+        "sentence": "Similarly, Holleis et al. used capactive buttons integrated into diferent garment form factors to demonstrate that the thigh area was potentially the most acceptable for touch-based wearable controls.",
+        "cos_similarity": 0.32610398530960083
+      },
+      {
+        "sentence": "For example, a hand inside a pocket while interacting with a smartphone using the other hand indicates one-handed use of the smartphone.",
+        "cos_similarity": 0.3220686614513397
+      },
+      {
+        "sentence": "Prior work has demonstrated that in scenarios involving standing, sitting or kneeling, the front of the thigh is the most appropriate position to place a touchpad-like interface.",
+        "cos_similarity": 0.3212525248527527
+      },
+      {
+        "sentence": "Concepts like interactive pockets (e.g., on a pair of pants) not only allow for touch interactions to occur beyond smartphones, watches or rings, but also be carried out in a comfortable, private, and alwaysavailable manner to use other computing devices (e.g., head-worn or wall-size displays) in ubiquitous computing environments.",
+        "cos_similarity": 0.31922096014022827
+      },
+      {
+        "sentence": "This enables richer contextual interactions in wearable scenarios beyond what is currently ofered by existing wearable devices, such as smartwatches or head-worn displays.",
+        "cos_similarity": 0.30925554037094116
+      }
+    ]
+  },
+  {
+    "speech_text": "so in this work all Go wants to develop a wearable pocket based data sensor that recognizes the object inside the pocket. We call it test car, Test, Car, can also detect finger gesture for the user to interact with the",
+    "related_sentences": [
+      {
+        "sentence": "The contributions of our work include: (1) the sensor design of an interactive pants pocket, capable of sensing explicit user input and recognizing the objects a user carries in their pocket and (2) the result of an experimental evaluation of the sensing performance of our system.",
+        "cos_similarity": 0.5596204996109009
+      },
+      {
+        "sentence": "Their approach consisted of a capacitive sensing grid (connected to a smart phone) that enabled touch interaction through the pocket, as well as stroke-based gestures that could be performed on the outside of the pocket.",
+        "cos_similarity": 0.5460634231567383
+      },
+      {
+        "sentence": "For example, a user can use touch gestures inside the pocket to interact with a head-worn display or a smartwatch.",
+        "cos_similarity": 0.5424668788909912
+      },
+      {
+        "sentence": "In our current implementation, we placed the sensor in the front-right pocket as it is easy for people to perform touch input.",
+        "cos_similarity": 0.5360900163650513
+      },
+      {
+        "sentence": "While prior research has explored the concept of interactive pockets, much of the focus was demonstrating proof-of-concepts and application scenarios using mockups through rigid devices or sensors, such as a camera, optical sensor panel, or capacitive touch panel, which are unsuitable for practical and daily use.",
+        "cos_similarity": 0.528407633304596
+      },
+      {
+        "sentence": "Sensing the hands of a user inside the pants pockets can also provide rich contextual information related to their current activity.",
+        "cos_similarity": 0.5271035432815552
+      },
+      {
+        "sentence": "The closest system that recognizes objects in a pocket was created by Shimozuru et al., using an array of infrared sensors, but is also impractiable due to its rigidness.",
+        "cos_similarity": 0.5153836011886597
+      },
+      {
+        "sentence": "Our goal was to implement Tasca as a pocket sensor that supports some of the most common input modalities, including: (1) 2D touch gestures commonly used on mobile and wearable devices and (2) force touch by pressing the fabric at diferent levels of pressure.",
+        "cos_similarity": 0.5150588750839233
+      },
+      {
+        "sentence": "Unlike the previous work that we build upon, our prototype was developed using an interactive fabric, and can sense touch, pressure, while also recognizing everyday items that people carry in their pocket such as keys, coins, electronic devices and some plastic items.",
+        "cos_similarity": 0.5063226222991943
+      },
+      {
+        "sentence": "Note that our sensor can detect other types of common gestures for interactive fabrics (e.g., deforming the fabric) but according to our pilot study, most of them require relatively large hand motion that are uncomfortable to perform in a small jeans pocket.",
+        "cos_similarity": 0.4915063977241516
+      }
+    ]
+  },
+  {
+    "speech_text": "smart watch, and also detect taking object using Nfc. This increases the recognition capability of the test",
+    "related_sentences": [
+      {
+        "sentence": "This afected the signal strength of NFC sensing.",
+        "cos_similarity": 0.4864030182361603
+      },
+      {
+        "sentence": "Tagged objects are sensed using Near Field Communication (NFC), which is a technique commonly used in applications involving contactless payments or tagged detection.",
+        "cos_similarity": 0.481780081987381
+      },
+      {
+        "sentence": "When a NFC tag is triggered by an electromagnetic interrogation signal from a nearby antenna coil, it transmits its data to the sensor coil.",
+        "cos_similarity": 0.48114895820617676
+      },
+      {
+        "sentence": "With a ten-participant study, we found our approach demonstrated a 92.3% with-user classifcation accuracy with 11 diferent objects, 96.4% accuracy for gesture recognition and 100% accuracy for NFC tag detection at a maximum distance of 3mm (key tag) or 10mm (card).",
+        "cos_similarity": 0.47773540019989014
+      },
+      {
+        "sentence": "The goal of this study was to evaluate the robustness of our NFC sensor in diferent tag position and distance to the sensor.",
+        "cos_similarity": 0.4511585831642151
+      },
+      {
+        "sentence": "Fused with the data from the capacitive and inductive sensor, resistive sensing could potentially improve the robustness and accuracy of object recognition.",
+        "cos_similarity": 0.4345996379852295
+      },
+      {
+        "sentence": "For example, Project Zanzibar combines mutual and self-capacitive sensing to detect touch and hand gestures, and also used NFC tagging to detect objects.",
+        "cos_similarity": 0.4226805865764618
+      },
+      {
+        "sentence": "Furthermore, understanding the items that a user has in a pocket (e.g., a phone) also enables a new set of applications, such as activity tracking, placement-dependent notifcation, or providing new context to the information sensed from other devices.",
+        "cos_similarity": 0.3844837248325348
+      },
+      {
+        "sentence": "All the data, except from NFC, was used for object or gesture recognition.",
+        "cos_similarity": 0.38370996713638306
+      },
+      {
+        "sentence": "In VR games, tagged objects (NFC) can be used as tangible tokens to enable a more immersive gaming experience by allowing the user to physically interact with virtual items in the digital world.",
+        "cos_similarity": 0.3810334801673889
+      }
+    ]
+  },
+  {
+    "speech_text": "car.",
+    "related_sentences": [
+      {
+        "sentence": "In the era of smart “things”, computing is becoming increasingly accessible and ubiquitous through new interface technologies developed on everyday objects in homes and work spaces, as well as those worn on the body.",
+        "cos_similarity": 0.23687802255153656
+      },
+      {
+        "sentence": "The interactivity available on these “things” that could be covered by (or made too) interactive fabrics (e.g., clothing, furniture, toys, and bags) enables numerous applications that were not previously possible.",
+        "cos_similarity": 0.16234590113162994
+      },
+      {
+        "sentence": "For the hybrid ones, we included a signature pen, multitool knife, car key, earbuds charging case, and LG Rebel 4 smartphone.",
+        "cos_similarity": 0.15942102670669556
+      },
+      {
+        "sentence": "Concepts like interactive pockets (e.g., on a pair of pants) not only allow for touch interactions to occur beyond smartphones, watches or rings, but also be carried out in a comfortable, private, and alwaysavailable manner to use other computing devices (e.g., head-worn or wall-size displays) in ubiquitous computing environments.",
+        "cos_similarity": 0.14362257719039917
+      },
+      {
+        "sentence": "Sensing.",
+        "cos_similarity": 0.1379597783088684
+      },
+      {
+        "sentence": "The noise could be reliably distinguished from the tested objects and hand.",
+        "cos_similarity": 0.1333279013633728
+      },
+      {
+        "sentence": "For the metallic object, we included a door key.",
+        "cos_similarity": 0.13077133893966675
+      },
+      {
+        "sentence": "Unlike existing work, our system can diferentiate between the hand (body) and other objects.",
+        "cos_similarity": 0.1258210688829422
+      },
+      {
+        "sentence": "As a fexible wearable sensor, the readings of our prototype are afected by the motion or posture of a user’s body.",
+        "cos_similarity": 0.11942651122808456
+      },
+      {
+        "sentence": "In our implementation, the system can detect whether the user carries loose change (e.g., coins) (metallic) in their wallet that can be used to pay for street parking or to purchase an item from a vending machine.",
+        "cos_similarity": 0.11897602677345276
+      }
+    ]
+  },
+  {
+    "speech_text": "Before I dive into the detail of this work, I would",
+    "related_sentences": [
+      {
+        "sentence": "In this section, we discuss limitations of our work and suggest future research for exploring the space of interactive pockets.",
+        "cos_similarity": 0.3564811646938324
+      },
+      {
+        "sentence": "As such, we had to minimize the use of them in our design.",
+        "cos_similarity": 0.32854539155960083
+      },
+      {
+        "sentence": "In this section, we detail the hardware implementation of the pocket sensor.",
+        "cos_similarity": 0.31463274359703064
+      },
+      {
+        "sentence": "Figure 2 shows the detail of our coil design.",
+        "cos_similarity": 0.3109402656555176
+      },
+      {
+        "sentence": "First, we discussed our sensing principle and approaches to optimize the layering, which was selected based on careful research.",
+        "cos_similarity": 0.28027236461639404
+      },
+      {
+        "sentence": "We invited the same group of participants to participate in this study.",
+        "cos_similarity": 0.27693620324134827
+      },
+      {
+        "sentence": "During this short training session, we also customized the pressure threshold for each participant.",
+        "cos_similarity": 0.27463534474372864
+      },
+      {
+        "sentence": "We were thus interested in knowing whether system performance could be improved after removing the data from the most confusing object.",
+        "cos_similarity": 0.27178603410720825
+      },
+      {
+        "sentence": "Our next step is to investigate whether our system can handle other types of body motion, identify other issues unique to the context of an interactive pocket, and explore practical solutions to overcome the challenges.",
+        "cos_similarity": 0.24138282239437103
+      },
+      {
+        "sentence": "Note that in order for the pressure sensor to work properly, contact between the velostat layer and the connection lines of the electrodes needs be avoided.",
+        "cos_similarity": 0.23397566378116608
+      }
+    ]
+  },
+  {
+    "speech_text": "like to briefly go over some related work. So the 1st one is testable or intative fabric that can recognize a different metallic object based on intative sensing.",
+    "related_sentences": [
+      {
+        "sentence": "Metallic objects are recognized using inductive sensing based on Faraday’s law of induction.",
+        "cos_similarity": 0.4667164087295532
+      },
+      {
+        "sentence": "Our prototype is capable of sensing touch, pressure, metallic objects, non-metallic objects, and tagged objects by integrating four diferent types of sensing methods, including inductive sensing, capacitive sensing, resistive sensing, and NFC.",
+        "cos_similarity": 0.44583404064178467
+      },
+      {
+        "sentence": "We developed our prototype using four diferent sensing techniques that have not been previously developed into a single fabric-based package: NFC, capacitive, inductive, and resistive sensing.",
+        "cos_similarity": 0.39921218156814575
+      },
+      {
+        "sentence": "In this paper, we demonstrate a technique that combines inductive sensing, capacitive sensing, resistive sensing, and NFC into a multilayered fabric that is integrated into a pocket of a pair of jeans.",
+        "cos_similarity": 0.39443519711494446
+      },
+      {
+        "sentence": "For object recognition, unlike capacitive and inductive sensing, resistive sensing detects objects primarily based on the shape and amount of pressure exerted on the sensor by the objects.",
+        "cos_similarity": 0.3811923861503601
+      },
+      {
+        "sentence": "Finally, to allow customization and enable the system to handle objects that are not registered in our system, we wanted the sensor to be able to (4) sense tags that are easy to attach to objects (e.g., NFC).",
+        "cos_similarity": 0.36919963359832764
+      },
+      {
+        "sentence": "Note that we chose the conductive fabric that was made of a non-metallic material (e.g., conductive polymer) to avoid interfering the signals of the other sensors (e.g., inductive sensor).",
+        "cos_similarity": 0.36875811219215393
+      },
+      {
+        "sentence": "As a complement for inductive sensing, we included capacitive sensing to recognize non-metallic objects (e.g. hand sanitizer and wallet), as well as sensing touch input, using a shared set of coplanar textile electrodes.",
+        "cos_similarity": 0.35740697383880615
+      },
+      {
+        "sentence": "Beyond using solely coils for sensing on smart fabrics, sensing techniques for textiles have included capacitive and NFC sensing, and object recognition, to name a few.",
+        "cos_similarity": 0.3569374680519104
+      },
+      {
+        "sentence": "Inductive sensing works primarily with metallic objects (e.g., keys, coins) and those composed of metallic parts (e.g., electronic devices).",
+        "cos_similarity": 0.3486562669277191
+      }
+    ]
+  },
+  {
+    "speech_text": "And here's the word I published",
+    "related_sentences": [
+      {
+        "sentence": "We invited the same group of participants to participate in this study.",
+        "cos_similarity": 0.21288561820983887
+      },
+      {
+        "sentence": "In the era of smart “things”, computing is becoming increasingly accessible and ubiquitous through new interface technologies developed on everyday objects in homes and work spaces, as well as those worn on the body.",
+        "cos_similarity": 0.20025266706943512
+      },
+      {
+        "sentence": "As part of this exploration, we identify unique challenges due to the constraints of a pocket and demonstrate promising solutions that are both applicable to pockets, as well as the wider space of smart fabrics.",
+        "cos_similarity": 0.17255130410194397
+      },
+      {
+        "sentence": "While many of the input techniques for smart fabrics have been explored in individual prototypes, many have not been combined together, providing an interesting opportunity to explore novel implicit and explicit input techniques.",
+        "cos_similarity": 0.1696022003889084
+      },
+      {
+        "sentence": "With multiple layers of electrodes, coils, and substrates, it is expected that our implemented jeans pocket is harder than it was before instrumentation.",
+        "cos_similarity": 0.16224299371242523
+      },
+      {
+        "sentence": "We present our results using within-user accuracy and cross-user accuracy.",
+        "cos_similarity": 0.1514158844947815
+      },
+      {
+        "sentence": "So in this study, we also included three tag distances at each of the tested locations (near, medium, and far).",
+        "cos_similarity": 0.14931102097034454
+      },
+      {
+        "sentence": "As such, we had to minimize the use of them in our design.",
+        "cos_similarity": 0.14786650240421295
+      },
+      {
+        "sentence": "The same group of ten participants were invited to participate in this study.",
+        "cos_similarity": 0.144698828458786
+      },
+      {
+        "sentence": "In this section, we discuss limitations of our work and suggest future research for exploring the space of interactive pockets.",
+        "cos_similarity": 0.14459335803985596
+      }
+    ]
+  },
+  {
+    "speech_text": "last year at waste. Enable the recognition of normal",
+    "related_sentences": [
+      {
+        "sentence": "We included the analysis of the same set of objects except that the most confusing ones (e.g., empty hand sanitize bottle in the within-user condition) were removed so the system worked in an \"ideal\" situation.",
+        "cos_similarity": 0.25266581773757935
+      },
+      {
+        "sentence": "For every 5s, we also updated the noise profle if the deltas between current sensor values and the initial ones were classifed as noise by a machine learning model.",
+        "cos_similarity": 0.21361544728279114
+      },
+      {
+        "sentence": "In our implementation, the system can detect whether the user carries loose change (e.g., coins) (metallic) in their wallet that can be used to pay for street parking or to purchase an item from a vending machine.",
+        "cos_similarity": 0.21340759098529816
+      },
+      {
+        "sentence": "When the variation in sensor readings at diferent locations was somewhat closed to the impact caused by the change in the material property of an object (e.g., with vs without liquid in this case), a reduction in system performance was observed.",
+        "cos_similarity": 0.2123895287513733
+      },
+      {
+        "sentence": "Similar to the within-user condition, the full (57%) and empty hand sanitizer bottle (53%) contributed to most of the classifcation errors.",
+        "cos_similarity": 0.20126031339168549
+      },
+      {
+        "sentence": "The major source of error, however, was from the confusion of the system between the full and empty bottle of hand sanitizer, which suggests that very small diferences in the material property of the objects is still challenging to distinguish.",
+        "cos_similarity": 0.18533796072006226
+      },
+      {
+        "sentence": "Objects with diferent permittivity have diferent efects on the amount of the electric displacement, which alters the capacitance of the object.",
+        "cos_similarity": 0.1801799237728119
+      },
+      {
+        "sentence": "Our system recognizes non-metallic objects based on their capacitance footprint introduced by the change in the capacitance of electrodes, afected by the presence of an object.",
+        "cos_similarity": 0.1790715903043747
+      },
+      {
+        "sentence": "If a hand was recognized, the system switched to the gesture recognition mode.",
+        "cos_similarity": 0.16042231023311615
+      },
+      {
+        "sentence": "We were thus interested in knowing whether system performance could be improved after removing the data from the most confusing object.",
+        "cos_similarity": 0.15807947516441345
+      }
+    ]
+  },
+  {
+    "speech_text": "technical objects on Internet fabric using capacity sensing.",
+    "related_sentences": [
+      {
+        "sentence": "Beyond using solely coils for sensing on smart fabrics, sensing techniques for textiles have included capacitive and NFC sensing, and object recognition, to name a few.",
+        "cos_similarity": 0.42677050828933716
+      },
+      {
+        "sentence": "Smart fabrics use a number of sensing methods that enable interactions for users, including inductive sensing, capacitive touch and gestures, all of which can accomplished using diferent weaving, braiding, sewing and embroidery techniques.",
+        "cos_similarity": 0.42645931243896484
+      },
+      {
+        "sentence": "We briefy discuss the literature for interacting with fabrics, the diferent sensing techniques for smart fabrics, and the area of smart pockets.",
+        "cos_similarity": 0.3979448974132538
+      },
+      {
+        "sentence": "Tasca’s unique sensing capabilities enable fve diferent input modalities in one fabric-based sensor: object recognition, touch gesture, pressure input, and activity tracking.",
+        "cos_similarity": 0.3936823904514313
+      },
+      {
+        "sentence": "These techniques were combined together to deliver a more practical solution for interactive fabrics in a wearable pocket context, in terms of robustness against sensor deformation (e.g. improved object recognition by fusing data from any pair of the sensors) and more capable in sensed object types (e.g. metallic, nonmetallic, and NFC tagged objects).",
+        "cos_similarity": 0.3820160925388336
+      },
+      {
+        "sentence": "Examples of such research include using the pressure footprint of an object to detect diferent objects, using a pressure sensitive fabric approach.",
+        "cos_similarity": 0.3752509355545044
+      },
+      {
+        "sentence": "A canonical example of capacitive sensing and textiles that is commercially available, is the Levi’s Jacquard jacket, where capacitive sensing is integrated into a jacket cuf and touch gestures are used to interact with a phone and other devices.",
+        "cos_similarity": 0.37311747670173645
+      },
+      {
+        "sentence": "Tagged objects are sensed using Near Field Communication (NFC), which is a technique commonly used in applications involving contactless payments or tagged detection.",
+        "cos_similarity": 0.366911381483078
+      },
+      {
+        "sentence": "We developed our prototype using four diferent sensing techniques that have not been previously developed into a single fabric-based package: NFC, capacitive, inductive, and resistive sensing.",
+        "cos_similarity": 0.36440107226371765
+      },
+      {
+        "sentence": "Capacitive sensing involves particular challenges for fabrics and wearables, but ultimately it can enable touch input, hand gesture and posture detection (e.g. detecting large swipe gestures with an entire hand), and material analysis.",
+        "cos_similarity": 0.3594096302986145
+      }
+    ]
+  },
+  {
+    "speech_text": "Aside from them, pressure sensing techniques have been also used on interactive fabric to recognize the object based on the control of",
+    "related_sentences": [
+      {
+        "sentence": "Unlike the previous work that we build upon, our prototype was developed using an interactive fabric, and can sense touch, pressure, while also recognizing everyday items that people carry in their pocket such as keys, coins, electronic devices and some plastic items.",
+        "cos_similarity": 0.5591543912887573
+      },
+      {
+        "sentence": "Aside from touch input, capacitive sensing has also been used for object recognition.",
+        "cos_similarity": 0.5579515099525452
+      },
+      {
+        "sentence": "Note that our sensor can detect other types of common gestures for interactive fabrics (e.g., deforming the fabric) but according to our pilot study, most of them require relatively large hand motion that are uncomfortable to perform in a small jeans pocket.",
+        "cos_similarity": 0.52858567237854
+      },
+      {
+        "sentence": "Prior research has shown the promise of pressure sensing in gestural input on smartphones or text input on small head-worn displays.",
+        "cos_similarity": 0.5282989740371704
+      },
+      {
+        "sentence": "Beyond using solely coils for sensing on smart fabrics, sensing techniques for textiles have included capacitive and NFC sensing, and object recognition, to name a few.",
+        "cos_similarity": 0.524415135383606
+      },
+      {
+        "sentence": "Pressure sensing is based on the change in the resistance of a piezo-resistive material when it is pressed or deformed.",
+        "cos_similarity": 0.5235081315040588
+      },
+      {
+        "sentence": "This suggested that even the pressure data along was unreliable for object recognition, it worked well as an addition to improve the performance of capacitive sensing when the sensor was deformed by the body.",
+        "cos_similarity": 0.5199363231658936
+      },
+      {
+        "sentence": "Capacitive sensing involves particular challenges for fabrics and wearables, but ultimately it can enable touch input, hand gesture and posture detection (e.g. detecting large swipe gestures with an entire hand), and material analysis.",
+        "cos_similarity": 0.5193175077438354
+      },
+      {
+        "sentence": "These techniques were combined together to deliver a more practical solution for interactive fabrics in a wearable pocket context, in terms of robustness against sensor deformation (e.g. improved object recognition by fusing data from any pair of the sensors) and more capable in sensed object types (e.g. metallic, nonmetallic, and NFC tagged objects).",
+        "cos_similarity": 0.5114834904670715
+      },
+      {
+        "sentence": "Touch input is sensed using capacitive sensing, which is a wellknown technique used on everyday devices ranging from smartphones and watches to interactive garments (e.g., Jacquard).",
+        "cos_similarity": 0.5097595453262329
+      }
+    ]
+  },
+  {
+    "speech_text": "the object and. Since another choice could be implemented on intelligent fabric to recognize the object, but with",
+    "related_sentences": [
+      {
+        "sentence": "For smart fabric interactions, implicit input has not been widely explored other than the work such as.",
+        "cos_similarity": 0.5378221273422241
+      },
+      {
+        "sentence": "While many of the input techniques for smart fabrics have been explored in individual prototypes, many have not been combined together, providing an interesting opportunity to explore novel implicit and explicit input techniques.",
+        "cos_similarity": 0.5155757069587708
+      },
+      {
+        "sentence": "Like other forms of input, smart fabric input can be broken into implicit and explicit input.",
+        "cos_similarity": 0.47704070806503296
+      },
+      {
+        "sentence": "The most common technique for explicit input on smart fabrics is touch or manipulating the fabric itself (deformation).",
+        "cos_similarity": 0.46000808477401733
+      },
+      {
+        "sentence": "Smart fabrics use a number of sensing methods that enable interactions for users, including inductive sensing, capacitive touch and gestures, all of which can accomplished using diferent weaving, braiding, sewing and embroidery techniques.",
+        "cos_similarity": 0.4423906207084656
+      },
+      {
+        "sentence": "Unlike implicit input on fabrics, explicit input techniques and their enabling technologies continue to be well explored.",
+        "cos_similarity": 0.4411894679069519
+      },
+      {
+        "sentence": "Beyond using solely coils for sensing on smart fabrics, sensing techniques for textiles have included capacitive and NFC sensing, and object recognition, to name a few.",
+        "cos_similarity": 0.4293677806854248
+      },
+      {
+        "sentence": "The interactivity available on these “things” that could be covered by (or made too) interactive fabrics (e.g., clothing, furniture, toys, and bags) enables numerous applications that were not previously possible.",
+        "cos_similarity": 0.42034831643104553
+      },
+      {
+        "sentence": "Note that we chose the conductive fabric that was made of a non-metallic material (e.g., conductive polymer) to avoid interfering the signals of the other sensors (e.g., inductive sensor).",
+        "cos_similarity": 0.41284799575805664
+      },
+      {
+        "sentence": "These techniques were combined together to deliver a more practical solution for interactive fabrics in a wearable pocket context, in terms of robustness against sensor deformation (e.g. improved object recognition by fusing data from any pair of the sensors) and more capable in sensed object types (e.g. metallic, nonmetallic, and NFC tagged objects).",
+        "cos_similarity": 0.4038882851600647
+      }
+    ]
+  },
+  {
+    "speech_text": "tag. So in our research, we integrate all these sensing techniques into one single package to develop an interactive pocket that is capable of sensing touch, pressure, And non metallic objects, as well as",
+    "related_sentences": [
+      {
+        "sentence": "The contributions of our work include: (1) the sensor design of an interactive pants pocket, capable of sensing explicit user input and recognizing the objects a user carries in their pocket and (2) the result of an experimental evaluation of the sensing performance of our system.",
+        "cos_similarity": 0.5907981991767883
+      },
+      {
+        "sentence": "Our prototype is capable of sensing touch, pressure, metallic objects, non-metallic objects, and tagged objects by integrating four diferent types of sensing methods, including inductive sensing, capacitive sensing, resistive sensing, and NFC.",
+        "cos_similarity": 0.5856541991233826
+      },
+      {
+        "sentence": "These techniques were combined together to deliver a more practical solution for interactive fabrics in a wearable pocket context, in terms of robustness against sensor deformation (e.g. improved object recognition by fusing data from any pair of the sensors) and more capable in sensed object types (e.g. metallic, nonmetallic, and NFC tagged objects).",
+        "cos_similarity": 0.5527209043502808
+      },
+      {
+        "sentence": "To implement inductive sensing for our pocket, we used an approach similar to one described in the research literature.",
+        "cos_similarity": 0.540959894657135
+      },
+      {
+        "sentence": "While prior research has explored the concept of interactive pockets, much of the focus was demonstrating proof-of-concepts and application scenarios using mockups through rigid devices or sensors, such as a camera, optical sensor panel, or capacitive touch panel, which are unsuitable for practical and daily use.",
+        "cos_similarity": 0.5123535990715027
+      },
+      {
+        "sentence": "In our current implementation, we placed the sensor in the front-right pocket as it is easy for people to perform touch input.",
+        "cos_similarity": 0.5014036297798157
+      },
+      {
+        "sentence": "Furthermore, going beyond the focus of our current research, incorporating diferent types of hardware design for sensing will likely open opportunities for a completely new set of applications in pocket-based computing.",
+        "cos_similarity": 0.5006229281425476
+      },
+      {
+        "sentence": "Furthermore, understanding the items that a user has in a pocket (e.g., a phone) also enables a new set of applications, such as activity tracking, placement-dependent notifcation, or providing new context to the information sensed from other devices.",
+        "cos_similarity": 0.48713627457618713
+      },
+      {
+        "sentence": "In this work, we are the frst to explore how multiple sensing techniques can be designed and developed in combination (rather than in isolation), to enable diferent types of interactions in an everyday pocket form factor.",
+        "cos_similarity": 0.4863836169242859
+      },
+      {
+        "sentence": "Through-pocket techniques have also been demonstrated by others and often rely on using the sensors of a mobile phone in a pocket.",
+        "cos_similarity": 0.47972702980041504
+      }
+    ]
+  },
+  {
+    "speech_text": "tagging objects next, Let me talk",
+    "related_sentences": [
+      {
+        "sentence": "In VR games, tagged objects (NFC) can be used as tangible tokens to enable a more immersive gaming experience by allowing the user to physically interact with virtual items in the digital world.",
+        "cos_similarity": 0.33804845809936523
+      },
+      {
+        "sentence": "Tagged objects are sensed using Near Field Communication (NFC), which is a technique commonly used in applications involving contactless payments or tagged detection.",
+        "cos_similarity": 0.3317561149597168
+      },
+      {
+        "sentence": "Note that the tags may appear at a small distance away from the sensor when attaching to an object of a certain thickness.",
+        "cos_similarity": 0.27816179394721985
+      },
+      {
+        "sentence": "For example, Project Zanzibar combines mutual and self-capacitive sensing to detect touch and hand gestures, and also used NFC tagging to detect objects.",
+        "cos_similarity": 0.2594078779220581
+      },
+      {
+        "sentence": "The distance between a tag and the sensor was controlled by attaching the tag to an acrylic sheet of certain thicknesses (Figure 12).",
+        "cos_similarity": 0.2587645947933197
+      },
+      {
+        "sentence": "When a NFC tag is triggered by an electromagnetic interrogation signal from a nearby antenna coil, it transmits its data to the sensor coil.",
+        "cos_similarity": 0.2516134977340698
+      },
+      {
+        "sentence": "For example, actions such as sitting down or jogging may introduce noises that can be hard to handle using a machine learning model trained in a stationary condition.",
+        "cos_similarity": 0.2490834891796112
+      },
+      {
+        "sentence": "Our prototype is capable of sensing touch, pressure, metallic objects, non-metallic objects, and tagged objects by integrating four diferent types of sensing methods, including inductive sensing, capacitive sensing, resistive sensing, and NFC.",
+        "cos_similarity": 0.24455855786800385
+      },
+      {
+        "sentence": "In the near condition, the tag was placed in a direct contact with the sensor.",
+        "cos_similarity": 0.24295897781848907
+      },
+      {
+        "sentence": "Finally, to allow customization and enable the system to handle objects that are not registered in our system, we wanted the sensor to be able to (4) sense tags that are easy to attach to objects (e.g., NFC).",
+        "cos_similarity": 0.24037012457847595
+      }
+    ]
+  },
+  {
+    "speech_text": "about how we implement the sensor. We developed a two layer structure of tether",
+    "related_sentences": [
+      {
+        "sentence": "To overcome this challenge, we designed the sensor in a two-layer structure (Figure 2) with the top layer composed of a grid of fabric resistive sensors with conductive electrodes for both capacitive and resistive sensing and the bottom layer composed of a grid of embroidered coils for inductive and NFC sensing.",
+        "cos_similarity": 0.607255220413208
+      },
+      {
+        "sentence": "The entire sensor was completed by stitching the two individual layers together into one piece.",
+        "cos_similarity": 0.5535367131233215
+      },
+      {
+        "sentence": "Our fabric resistive sensor implementation involved creating a three-layer structure with a piece of pressure sensitive material (e.g., velostat) sandwiched between two layers of conductive fabric.",
+        "cos_similarity": 0.5363582372665405
+      },
+      {
+        "sentence": "First, we discussed our sensing principle and approaches to optimize the layering, which was selected based on careful research.",
+        "cos_similarity": 0.5019007921218872
+      },
+      {
+        "sentence": "The coils on the inductive-NFC sensing layer was created by stitching conductive wires onto a cotton substrate, as shown in Figure 4A. Since our design requires some of coil traces to overlap with each other, we had to use insulated wires to avoid short circuits.",
+        "cos_similarity": 0.4929697513580322
+      },
+      {
+        "sentence": "Next, we stitched a connection line from the top right corner of each electrode to the corresponding position of the pins on the sensor board using the same enameled wire.",
+        "cos_similarity": 0.4807702302932739
+      },
+      {
+        "sentence": "This led to the design of our sensor primarily using contact-based techniques that require an object to be in contact with the sensor.",
+        "cos_similarity": 0.4788459539413452
+      },
+      {
+        "sentence": "To develop these four diferent sensor modalities in a single package, a naive approach would be to stack them four discrete sensors on top of each other.",
+        "cos_similarity": 0.47522246837615967
+      },
+      {
+        "sentence": "To ensure that the entire system can be worn on the body comfortably, we placed the rigid sensor board on the outside of the jeans.",
+        "cos_similarity": 0.4686288833618164
+      },
+      {
+        "sentence": "We see it as a interesting future research direction to investigate ways to optimize the sensor based on the material properties of the substrates and wires, which can lead to improvements in softness and comfort of the sensor.",
+        "cos_similarity": 0.4665767550468445
+      }
+    ]
+  },
+  {
+    "speech_text": "sensor. The button layer complies for overlapping in broad coil that are for inductive and Afc sensing.",
+    "related_sentences": [
+      {
+        "sentence": "Beyond using solely coils for sensing on smart fabrics, sensing techniques for textiles have included capacitive and NFC sensing, and object recognition, to name a few.",
+        "cos_similarity": 0.4716225266456604
+      },
+      {
+        "sentence": "The coils on the inductive-NFC sensing layer was created by stitching conductive wires onto a cotton substrate, as shown in Figure 4A. Since our design requires some of coil traces to overlap with each other, we had to use insulated wires to avoid short circuits.",
+        "cos_similarity": 0.4667118191719055
+      },
+      {
+        "sentence": "In our implementation, we carefully designed the coil layout and its circuit to ensure that the sensor can not only detect tags, but can also function as an inductive sensor.",
+        "cos_similarity": 0.4653499126434326
+      },
+      {
+        "sentence": "For object recognition, inductive sensing usually requires the sensor coils to be arranged in a grid layout to detect the rough geometry of the contact area of an object.",
+        "cos_similarity": 0.46315324306488037
+      },
+      {
+        "sentence": "To overcome this challenge, we designed the sensor in a two-layer structure (Figure 2) with the top layer composed of a grid of fabric resistive sensors with conductive electrodes for both capacitive and resistive sensing and the bottom layer composed of a grid of embroidered coils for inductive and NFC sensing.",
+        "cos_similarity": 0.4511909484863281
+      },
+      {
+        "sentence": "Our initial test suggests that with our coil design (see details below), a 5 mm overlap works best for balancing the coverage of NFC and the sensing resolution of the inductive sensor in the 2D space.",
+        "cos_similarity": 0.44933629035949707
+      },
+      {
+        "sentence": "Inductive sensing works primarily with metallic objects (e.g., keys, coins) and those composed of metallic parts (e.g., electronic devices).",
+        "cos_similarity": 0.44851094484329224
+      },
+      {
+        "sentence": "Once the design of the coils is determined, they are shared by the NFC and inductive sensing circuits.",
+        "cos_similarity": 0.44632017612457275
+      },
+      {
+        "sentence": "However, unlike the previous work, recognizing objects and touch gestures requires the sensor to be arranged in a grid layout.",
+        "cos_similarity": 0.43193191289901733
+      },
+      {
+        "sentence": "The multiplexer module connects the electrodes and coils to the corresponding sensor circuit.",
+        "cos_similarity": 0.42118555307388306
+      }
+    ]
+  },
+  {
+    "speech_text": "And the top layer was made of a grid of conductive tether electrodes, sandwiching pressure sensitive fabric, which are for pressure and capacitive sensing. There are some technical challenges here, but I will keep it brief. If you are interested in the details, I",
+    "related_sentences": [
+      {
+        "sentence": "To overcome this challenge, we designed the sensor in a two-layer structure (Figure 2) with the top layer composed of a grid of fabric resistive sensors with conductive electrodes for both capacitive and resistive sensing and the bottom layer composed of a grid of embroidered coils for inductive and NFC sensing.",
+        "cos_similarity": 0.6699174046516418
+      },
+      {
+        "sentence": "To create the electrodes for the resistive-capacitive layer, we frst stitched a sheet of conductive fabric (EeonTexTM NW170-PI-20) onto a cotton substrate.",
+        "cos_similarity": 0.600416898727417
+      },
+      {
+        "sentence": "To enable capacitive sensing we re-purposed the conductive fabric of the resistive sensor as the electrode for capacitive sensing.",
+        "cos_similarity": 0.5927218198776245
+      },
+      {
+        "sentence": "The resistive-capacitive sensor was completed by sandwiching a grid of 16 square-shaped pressure-sensitive fabrics (velostat) between the two electrode layers using stitches (Figure 4B).",
+        "cos_similarity": 0.5685348510742188
+      },
+      {
+        "sentence": "Note that we chose the conductive fabric that was made of a non-metallic material (e.g., conductive polymer) to avoid interfering the signals of the other sensors (e.g., inductive sensor).",
+        "cos_similarity": 0.5653305053710938
+      },
+      {
+        "sentence": "The conductive fabric faces the inner side of the sensor to allow a contact with the middle layer of a pressuresensitive material.",
+        "cos_similarity": 0.5628209114074707
+      },
+      {
+        "sentence": "Our fabric resistive sensor implementation involved creating a three-layer structure with a piece of pressure sensitive material (e.g., velostat) sandwiched between two layers of conductive fabric.",
+        "cos_similarity": 0.5529706478118896
+      },
+      {
+        "sentence": "Capacitive sensing involves particular challenges for fabrics and wearables, but ultimately it can enable touch input, hand gesture and posture detection (e.g. detecting large swipe gestures with an entire hand), and material analysis.",
+        "cos_similarity": 0.47451508045196533
+      },
+      {
+        "sentence": "For example, the row and column electrodes of the capacitive sensor need to be electrically separated while the row and column electrodes of the resistive sensor need to be electrically connected.",
+        "cos_similarity": 0.46619823575019836
+      },
+      {
+        "sentence": "To prevent the fabric from being bent easily along the gap between two adjacent electrodes, we added a sheet of felt to hold the electrodes on their positions.",
+        "cos_similarity": 0.4535512328147888
+      }
+    ]
+  },
+  {
+    "speech_text": "encourage you to read our paper. Next, I would like to talk about how we use the pocket sensor to recognize",
+    "related_sentences": [
+      {
+        "sentence": "Additionally, to allow for rich contextual interactions, we wanted the sensor to be able to (3) sense and recognize daily objects that users normally carry in their pants pockets.",
+        "cos_similarity": 0.5479059219360352
+      },
+      {
+        "sentence": "In our current implementation, we placed the sensor in the front-right pocket as it is easy for people to perform touch input.",
+        "cos_similarity": 0.5412522554397583
+      },
+      {
+        "sentence": "To implement inductive sensing for our pocket, we used an approach similar to one described in the research literature.",
+        "cos_similarity": 0.5190734267234802
+      },
+      {
+        "sentence": "The contributions of our work include: (1) the sensor design of an interactive pants pocket, capable of sensing explicit user input and recognizing the objects a user carries in their pocket and (2) the result of an experimental evaluation of the sensing performance of our system.",
+        "cos_similarity": 0.504421055316925
+      },
+      {
+        "sentence": "In the context of a pocket, using resistive sensing allows our system to infer the thickness of the objects since higher pressure can be observed with thicker objects.",
+        "cos_similarity": 0.4897922873497009
+      },
+      {
+        "sentence": "Through-pocket techniques have also been demonstrated by others and often rely on using the sensors of a mobile phone in a pocket.",
+        "cos_similarity": 0.48290330171585083
+      },
+      {
+        "sentence": "Preserving the softness of the fabric sensor is also an important consideration in our future explorations.",
+        "cos_similarity": 0.46523767709732056
+      },
+      {
+        "sentence": "To develop the sensor in a pocket form factor, we stitched it onto a piece of denim with an opining on the top.",
+        "cos_similarity": 0.46477603912353516
+      },
+      {
+        "sentence": "We designed our sensor to cover the space of a 100 mm x 100 mm region, which is roughly the size of a jeans pocket.",
+        "cos_similarity": 0.45830994844436646
+      },
+      {
+        "sentence": "In this section, we detail the hardware implementation of the pocket sensor.",
+        "cos_similarity": 0.4560966491699219
+      }
+    ]
+  },
+  {
+    "speech_text": "different types of objects, so when an object is placed inside a pocket. its capacitance, pressure, and the inductance footprint of the contact area of the object are captured",
+    "related_sentences": [
+      {
+        "sentence": "In the context of a pocket, using resistive sensing allows our system to infer the thickness of the objects since higher pressure can be observed with thicker objects.",
+        "cos_similarity": 0.5982727408409119
+      },
+      {
+        "sentence": "Further, the tightness inside the pocket also varied at diferent locations.",
+        "cos_similarity": 0.5649322867393494
+      },
+      {
+        "sentence": "This setup works well for a pocket.",
+        "cos_similarity": 0.5517696738243103
+      },
+      {
+        "sentence": "While prior research has explored the concept of interactive pockets, much of the focus was demonstrating proof-of-concepts and application scenarios using mockups through rigid devices or sensors, such as a camera, optical sensor panel, or capacitive touch panel, which are unsuitable for practical and daily use.",
+        "cos_similarity": 0.5494333505630493
+      },
+      {
+        "sentence": "In the context of object recognition, our current research focuses on pockets in a pair of jeans.",
+        "cos_similarity": 0.5191820859909058
+      },
+      {
+        "sentence": "An early example of pocket-based interaction in the literature is PocketTouch, which demonstrated capacitive sensing through fabric.",
+        "cos_similarity": 0.4961085617542267
+      },
+      {
+        "sentence": "To implement inductive sensing for our pocket, we used an approach similar to one described in the research literature.",
+        "cos_similarity": 0.4922342300415039
+      },
+      {
+        "sentence": "The closest system that recognizes objects in a pocket was created by Shimozuru et al., using an array of infrared sensors, but is also impractiable due to its rigidness.",
+        "cos_similarity": 0.4865100383758545
+      },
+      {
+        "sentence": "As part of this exploration, we identify unique challenges due to the constraints of a pocket and demonstrate promising solutions that are both applicable to pockets, as well as the wider space of smart fabrics.",
+        "cos_similarity": 0.4793305993080139
+      },
+      {
+        "sentence": "Unlike the previous work that we build upon, our prototype was developed using an interactive fabric, and can sense touch, pressure, while also recognizing everyday items that people carry in their pocket such as keys, coins, electronic devices and some plastic items.",
+        "cos_similarity": 0.47761309146881104
+      }
+    ]
+  },
+  {
+    "speech_text": "by the sensor. For",
+    "related_sentences": [
+      {
+        "sentence": "Each sensor was connected to the sensor board separately.",
+        "cos_similarity": 0.5532386898994446
+      },
+      {
+        "sentence": "Sensing.",
+        "cos_similarity": 0.5480445623397827
+      },
+      {
+        "sentence": "To ensure that the entire system can be worn on the body comfortably, we placed the rigid sensor board on the outside of the jeans.",
+        "cos_similarity": 0.5038915276527405
+      },
+      {
+        "sentence": "However, in other wearable scenarios beyond jeans (e.g., pockets in a hoodie, or a jacket), frm contact between an object and the sensor may not be guaranteed, so it is unknown how well our current object detection method can work in these situations.",
+        "cos_similarity": 0.4998309016227722
+      },
+      {
+        "sentence": "Finally, to allow customization and enable the system to handle objects that are not registered in our system, we wanted the sensor to be able to (4) sense tags that are easy to attach to objects (e.g., NFC).",
+        "cos_similarity": 0.4881594777107239
+      },
+      {
+        "sentence": "As a fexible wearable sensor, the readings of our prototype are afected by the motion or posture of a user’s body.",
+        "cos_similarity": 0.48656150698661804
+      },
+      {
+        "sentence": "The resistive-capacitive sensor was completed by sandwiching a grid of 16 square-shaped pressure-sensitive fabrics (velostat) between the two electrode layers using stitches (Figure 4B).",
+        "cos_similarity": 0.4712403416633606
+      },
+      {
+        "sentence": "We except that this problem can be solved by improving the 2D resolution of the sensor.",
+        "cos_similarity": 0.46837687492370605
+      },
+      {
+        "sentence": "We then replaced the original pocket of a pair of jeans with our pocket sensor by attaching the sensor to the jeans using velcro (Figure 4C).",
+        "cos_similarity": 0.46499428153038025
+      },
+      {
+        "sentence": "In our current implementation, we placed the sensor in the front-right pocket as it is easy for people to perform touch input.",
+        "cos_similarity": 0.4574671685695648
+      }
+    ]
+  },
+  {
+    "speech_text": "each type of footprint, we extract 86 features, including shape-related features",
+    "related_sentences": [
+      {
+        "sentence": "For the data collected from each type of sensor, we derived 33 material- or pressure-related features and 53 shape-related features.",
+        "cos_similarity": 0.532909631729126
+      },
+      {
+        "sentence": "In total, 274 features (see Table 1) were collected and used to train our machine learning model.",
+        "cos_similarity": 0.38475102186203003
+      },
+      {
+        "sentence": "In total, we collected 900 samples (10 participants × 2 tags × 5 locations × 3 distances × 3 repetitions) for analysis.",
+        "cos_similarity": 0.3699951767921448
+      },
+      {
+        "sentence": "Examples of such research include using the pressure footprint of an object to detect diferent objects, using a pressure sensitive fabric approach.",
+        "cos_similarity": 0.31497061252593994
+      },
+      {
+        "sentence": "We detail the design and implementation of our prototype to handle all of these requirements using four sensing techniques.",
+        "cos_similarity": 0.2684704661369324
+      },
+      {
+        "sentence": "We also added 16 pressure data collected when the sensor was in the idle model (e.g., without the presence of an object or hand).",
+        "cos_similarity": 0.2671906054019928
+      },
+      {
+        "sentence": "The shape of the sensor conforms with the user’s body, thus largely reducing the possibility of it to be deformed in a random way and consequently afect sensor readings.",
+        "cos_similarity": 0.26321521401405334
+      },
+      {
+        "sentence": "In total, we collected 1100 samples (10 participants × 11 objects × 10 repetitions) for analysis.",
+        "cos_similarity": 0.2468956559896469
+      },
+      {
+        "sentence": "Examples include signature pen (87%) versus multitool knife (87%) and wallet (64%) versus empty hand sanitizer bottle (53%).",
+        "cos_similarity": 0.2440057098865509
+      },
+      {
+        "sentence": "In total, we collected 800 samples (10 participants × 4 gestures × 2 forces × 10 repetitions).",
+        "cos_similarity": 0.23647964000701904
+      }
+    ]
+  },
+  {
+    "speech_text": "and material-related features. Then we feed our feature along with pressure data, collect with all the presence of object, to read the forest model to use the same type of data to recognize the. Object inside the pocket here, the pressure data infer how tight the sensor was worn on the user's body.",
+    "related_sentences": [
+      {
+        "sentence": "This suggested that even the pressure data along was unreliable for object recognition, it worked well as an addition to improve the performance of capacitive sensing when the sensor was deformed by the body.",
+        "cos_similarity": 0.4963296353816986
+      },
+      {
+        "sentence": "This data inferred how tight the sensor was worn on the user’s body.",
+        "cos_similarity": 0.4951936602592468
+      },
+      {
+        "sentence": "Additionally, to allow for rich contextual interactions, we wanted the sensor to be able to (3) sense and recognize daily objects that users normally carry in their pants pockets.",
+        "cos_similarity": 0.48929908871650696
+      },
+      {
+        "sentence": "Note that the tags may appear at a small distance away from the sensor when attaching to an object of a certain thickness.",
+        "cos_similarity": 0.46125632524490356
+      },
+      {
+        "sentence": "When the variation in sensor readings at diferent locations was somewhat closed to the impact caused by the change in the material property of an object (e.g., with vs without liquid in this case), a reduction in system performance was observed.",
+        "cos_similarity": 0.4605870842933655
+      },
+      {
+        "sentence": "To develop the sensor in a pocket form factor, we stitched it onto a piece of denim with an opining on the top.",
+        "cos_similarity": 0.4588719606399536
+      },
+      {
+        "sentence": "In the context of a pocket, using resistive sensing allows our system to infer the thickness of the objects since higher pressure can be observed with thicker objects.",
+        "cos_similarity": 0.45598429441452026
+      },
+      {
+        "sentence": "We also added 16 pressure data collected when the sensor was in the idle model (e.g., without the presence of an object or hand).",
+        "cos_similarity": 0.4493655562400818
+      },
+      {
+        "sentence": "However, in other wearable scenarios beyond jeans (e.g., pockets in a hoodie, or a jacket), frm contact between an object and the sensor may not be guaranteed, so it is unknown how well our current object detection method can work in these situations.",
+        "cos_similarity": 0.44755876064300537
+      },
+      {
+        "sentence": "For the data collected from each type of sensor, we derived 33 material- or pressure-related features and 53 shape-related features.",
+        "cos_similarity": 0.4427960515022278
+      }
+    ]
+  },
+  {
+    "speech_text": "Our system can also recognize finger gestures. Once a hand is detected, the system performs a background substation to remove the still pixel of the palm. And use the open Cv prompt detection to track the movement of the fingertip and",
+    "related_sentences": [
+      {
+        "sentence": "If a hand was recognized, the system switched to the gesture recognition mode.",
+        "cos_similarity": 0.6091160774230957
+      },
+      {
+        "sentence": "The system can be setup to notify the user about their hand position through the vibration of a smartwatch.",
+        "cos_similarity": 0.5579537749290466
+      },
+      {
+        "sentence": "Finger gesture recognition assumed the palm remains in a relatively stable position.",
+        "cos_similarity": 0.5243193507194519
+      },
+      {
+        "sentence": "This has caused difculties for the system to properly detect the touch gesture.",
+        "cos_similarity": 0.5094112753868103
+      },
+      {
+        "sentence": "We demonstrated that our system can recognize some everyday objects, as well as simple fnger gestures.",
+        "cos_similarity": 0.5009282231330872
+      },
+      {
+        "sentence": "The goal of this study was to measure how accurate our system can sense some of the most common touch gestures in daily computing tasks.",
+        "cos_similarity": 0.4193577766418457
+      },
+      {
+        "sentence": "Touch input is sensed using capacitive sensing, which is a wellknown technique used on everyday devices ranging from smartphones and watches to interactive garments (e.g., Jacquard).",
+        "cos_similarity": 0.41593751311302185
+      },
+      {
+        "sentence": "Our goal was to implement Tasca as a pocket sensor that supports some of the most common input modalities, including: (1) 2D touch gestures commonly used on mobile and wearable devices and (2) force touch by pressing the fabric at diferent levels of pressure.",
+        "cos_similarity": 0.4096093475818634
+      },
+      {
+        "sentence": "For example, a user can use touch gestures inside the pocket to interact with a head-worn display or a smartwatch.",
+        "cos_similarity": 0.4095272421836853
+      },
+      {
+        "sentence": "For example, Project Zanzibar combines mutual and self-capacitive sensing to detect touch and hand gestures, and also used NFC tagging to detect objects.",
+        "cos_similarity": 0.3987719714641571
+      }
+    ]
+  },
+  {
+    "speech_text": "its pressure. So to evaluate the accuracy of our implementation, we conduct a study with ten participants. We test the system with hand and ten objects made of different material, such as phone airpods, key, phone, hand sanitizer, empty hand sanitizer. Wallet, wallet was coined Pen, car key and multi tool knife. We asked the participants to put each object into a pocket 10 times in a random order.",
+    "related_sentences": [
+      {
+        "sentence": "We also purposefully included an empty sanitizer bottle and a few coins in the wallet to measure how well our system can recognize diferent statuses of a container.",
+        "cos_similarity": 0.40634259581565857
+      },
+      {
+        "sentence": "Participants were asked to place each of the tested object in their pocket 10 times at a random order.",
+        "cos_similarity": 0.3725697994232178
+      },
+      {
+        "sentence": "We tested our system using two common types of NFC tags, card and key tag (Figure 12).",
+        "cos_similarity": 0.36723122000694275
+      },
+      {
+        "sentence": "Through-pocket techniques have also been demonstrated by others and often rely on using the sensors of a mobile phone in a pocket.",
+        "cos_similarity": 0.3641931116580963
+      },
+      {
+        "sentence": "While prior research has explored the concept of interactive pockets, much of the focus was demonstrating proof-of-concepts and application scenarios using mockups through rigid devices or sensors, such as a camera, optical sensor panel, or capacitive touch panel, which are unsuitable for practical and daily use.",
+        "cos_similarity": 0.36325550079345703
+      },
+      {
+        "sentence": "Examples include signature pen (87%) versus multitool knife (87%) and wallet (64%) versus empty hand sanitizer bottle (53%).",
+        "cos_similarity": 0.35442104935646057
+      },
+      {
+        "sentence": "Unlike the previous work that we build upon, our prototype was developed using an interactive fabric, and can sense touch, pressure, while also recognizing everyday items that people carry in their pocket such as keys, coins, electronic devices and some plastic items.",
+        "cos_similarity": 0.35135895013809204
+      },
+      {
+        "sentence": "To implement inductive sensing for our pocket, we used an approach similar to one described in the research literature.",
+        "cos_similarity": 0.3494585156440735
+      },
+      {
+        "sentence": "The closest system that recognizes objects in a pocket was created by Shimozuru et al., using an array of infrared sensors, but is also impractiable due to its rigidness.",
+        "cos_similarity": 0.34836024045944214
+      },
+      {
+        "sentence": "For example, we tested how well the system can recognize if the sanitizer bottle is empty or if there are coins in the wallet.",
+        "cos_similarity": 0.34820860624313354
+      }
+    ]
+  },
+  {
+    "speech_text": "And we found that the system achieved a within-user accuracy of",
+    "related_sentences": [
+      {
+        "sentence": "We present our results using within-user accuracy and cross-user accuracy.",
+        "cos_similarity": 0.6512293219566345
+      },
+      {
+        "sentence": "Within-user accuracy is the measurement of prediction accuracy, where training and testing data are from the same participant.",
+        "cos_similarity": 0.6338277459144592
+      },
+      {
+        "sentence": "We then calculated the overall within-user accuracy by averaging the results from all the participants.",
+        "cos_similarity": 0.6199066042900085
+      },
+      {
+        "sentence": "The result yielded a 81.3% accuracy (SD: 6.0%).",
+        "cos_similarity": 0.5423628091812134
+      },
+      {
+        "sentence": "Across-user accuracy (or universality) measured how well our model works across diferent users.",
+        "cos_similarity": 0.5155512690544128
+      },
+      {
+        "sentence": "The result yielded an accuracy of 92.3% (SD = 3.2%).",
+        "cos_similarity": 0.49044865369796753
+      },
+      {
+        "sentence": "A close look at the study result reviewed that most objects received an accuracy over 90%.",
+        "cos_similarity": 0.4899692237377167
+      },
+      {
+        "sentence": "Real-time recognition accuracy was recorded for analyzing the study results.",
+        "cos_similarity": 0.4879228472709656
+      },
+      {
+        "sentence": "Overall, our system yielded an average gesture recognition accuracy of 96.1% (SD = 3%).",
+        "cos_similarity": 0.4574640393257141
+      },
+      {
+        "sentence": "However, if we combined any two of the sensors, the accuracy was improved.",
+        "cos_similarity": 0.43980810046195984
+      }
+    ]
+  },
+  {
+    "speech_text": "92.3%. As one main image, there was an individual difference in the shape and diameter of people's sign. This led to a variation in the footprint of the tested object. As such, we observed a decrease in the object recognition accuracy of 81",
+    "related_sentences": [
+      {
+        "sentence": "A close look at the study result reviewed that most objects received an accuracy over 90%.",
+        "cos_similarity": 0.5365230441093445
+      },
+      {
+        "sentence": "The confusion matrix shown in Figure 11 suggests that 6 out of the 8 tested gestures could be correctly recognized by the system with an accuracy of over 95%.",
+        "cos_similarity": 0.5312330722808838
+      },
+      {
+        "sentence": "As shown in our study, the number of electrodes and coils impacted recognition accuracy of the tested objects in both withinand cross-user conditions.",
+        "cos_similarity": 0.48292654752731323
+      },
+      {
+        "sentence": "With a ten-participant study, we found our approach demonstrated a 92.3% with-user classifcation accuracy with 11 diferent objects, 96.4% accuracy for gesture recognition and 100% accuracy for NFC tag detection at a maximum distance of 3mm (key tag) or 10mm (card).",
+        "cos_similarity": 0.4697565734386444
+      },
+      {
+        "sentence": "We found that the accuracy increased to 95.5% (SD = 2.2%) without the empty hand sanitizer.",
+        "cos_similarity": 0.46858757734298706
+      },
+      {
+        "sentence": "Additionally, we discuss how data from diferent sensors contributed to the accuracy of object recognition.",
+        "cos_similarity": 0.464576780796051
+      },
+      {
+        "sentence": "Overall, our system yielded an average gesture recognition accuracy of 96.1% (SD = 3%).",
+        "cos_similarity": 0.4636058211326599
+      },
+      {
+        "sentence": "As shown in Figure 10, object recognition accuracy was afected by which sensor(s) was involved and how they were combined.",
+        "cos_similarity": 0.4533601403236389
+      },
+      {
+        "sentence": "The goal of this study was to validate the object recognition accuracy of our prototype and its robustness against individual variance among diferent users.",
+        "cos_similarity": 0.449656218290329
+      },
+      {
+        "sentence": "The result yielded a 81.3% accuracy (SD: 6.0%).",
+        "cos_similarity": 0.4327467083930969
+      }
+    ]
+  },
+  {
+    "speech_text": "3 %. Aside from object recognition, we also evaluated the performance of gesture recognition with four different gestures at two",
+    "related_sentences": [
+      {
+        "sentence": "Before we started the experiment, participants were given several minutes to learn the 8 gestures.",
+        "cos_similarity": 0.5675782561302185
+      },
+      {
+        "sentence": "In total, we collected 800 samples (10 participants × 4 gestures × 2 forces × 10 repetitions).",
+        "cos_similarity": 0.5645975470542908
+      },
+      {
+        "sentence": "The confusion matrix shown in Figure 11 suggests that 6 out of the 8 tested gestures could be correctly recognized by the system with an accuracy of over 95%.",
+        "cos_similarity": 0.5555605888366699
+      },
+      {
+        "sentence": "With a ten-participant study, we found our approach demonstrated a 92.3% with-user classifcation accuracy with 11 diferent objects, 96.4% accuracy for gesture recognition and 100% accuracy for NFC tag detection at a maximum distance of 3mm (key tag) or 10mm (card).",
+        "cos_similarity": 0.5096600651741028
+      },
+      {
+        "sentence": "All the data, except from NFC, was used for object or gesture recognition.",
+        "cos_similarity": 0.5088996291160583
+      },
+      {
+        "sentence": "Overall, our system yielded an average gesture recognition accuracy of 96.1% (SD = 3%).",
+        "cos_similarity": 0.5076225996017456
+      },
+      {
+        "sentence": "The sensing accuracy of our system for both object and gesture sensing can be improved in the future with the availability of better hardware (e.g., multiplexer).",
+        "cos_similarity": 0.5011380314826965
+      },
+      {
+        "sentence": "The goal of this study was to validate the object recognition accuracy of our prototype and its robustness against individual variance among diferent users.",
+        "cos_similarity": 0.4809761643409729
+      },
+      {
+        "sentence": "The goal of this study was to measure how accurate our system can sense some of the most common touch gestures in daily computing tasks.",
+        "cos_similarity": 0.4756012558937073
+      },
+      {
+        "sentence": "Further, performing the swipe down gesture (90%) using two levels of pressures was more challenging than the other tested gestures because participants naturally exerted more force when pushing the fnger downwards even in the low pressure condition.",
+        "cos_similarity": 0.456967294216156
+      }
+    ]
+  },
+  {
+    "speech_text": "different pressure levels. We observed an overall accuracy of",
+    "related_sentences": [
+      {
+        "sentence": "The result yielded a 81.3% accuracy (SD: 6.0%).",
+        "cos_similarity": 0.5739612579345703
+      },
+      {
+        "sentence": "A close look at the study result reviewed that most objects received an accuracy over 90%.",
+        "cos_similarity": 0.5524470806121826
+      },
+      {
+        "sentence": "The result yielded an accuracy of 92.3% (SD = 3.2%).",
+        "cos_similarity": 0.5434012413024902
+      },
+      {
+        "sentence": "However, if we combined any two of the sensors, the accuracy was improved.",
+        "cos_similarity": 0.5365080833435059
+      },
+      {
+        "sentence": "Real-time recognition accuracy was recorded for analyzing the study results.",
+        "cos_similarity": 0.4773557782173157
+      },
+      {
+        "sentence": "We calculated the accuracy by using the data from nine participants for training and the remaining one for testing.",
+        "cos_similarity": 0.45203715562820435
+      },
+      {
+        "sentence": "We present our results using within-user accuracy and cross-user accuracy.",
+        "cos_similarity": 0.41785672307014465
+      },
+      {
+        "sentence": "The overall accuracy was then calculated by averaging the accuracy of all the ten combinations of training and test data.",
+        "cos_similarity": 0.41454219818115234
+      },
+      {
+        "sentence": "We found that the accuracy increased to 95.5% (SD = 2.2%) without the empty hand sanitizer.",
+        "cos_similarity": 0.4096803367137909
+      },
+      {
+        "sentence": "We then calculated the recognition accuracy using only a subset of the sensor data.",
+        "cos_similarity": 0.3966373801231384
+      }
+    ]
+  },
+  {
+    "speech_text": "96.1%. Finally, we evaluate the robustness of office sensor with different tech, position and distance to the sensor. We choose two common type of Mfc tech. car tag and key tag. Note that most of the tested locations were at the corner of the parking or the edge of the sensor. These are the place where the signal",
+    "related_sentences": [
+      {
+        "sentence": "We tested our system using two common types of NFC tags, card and key tag (Figure 12).",
+        "cos_similarity": 0.4608057737350464
+      },
+      {
+        "sentence": "The goal of this study was to evaluate the robustness of our NFC sensor in diferent tag position and distance to the sensor.",
+        "cos_similarity": 0.4607281982898712
+      },
+      {
+        "sentence": "In the near condition, the tag was placed in a direct contact with the sensor.",
+        "cos_similarity": 0.44963112473487854
+      },
+      {
+        "sentence": "However, in other wearable scenarios beyond jeans (e.g., pockets in a hoodie, or a jacket), frm contact between an object and the sensor may not be guaranteed, so it is unknown how well our current object detection method can work in these situations.",
+        "cos_similarity": 0.44454389810562134
+      },
+      {
+        "sentence": "For every 100 ms, the sensor reports a 4 × 4 grid of capacitance values, a 4 × 4 grid of pressure values, a 2 × 2 grid of inductance values, and NFC data.",
+        "cos_similarity": 0.44163990020751953
+      },
+      {
+        "sentence": "Mounted on the multiplexer module, the sensor module hosts the necessary circuitry for the four diferent types of sensors.",
+        "cos_similarity": 0.4322122037410736
+      },
+      {
+        "sentence": "Each sensor was connected to the sensor board separately.",
+        "cos_similarity": 0.43165338039398193
+      },
+      {
+        "sentence": "To overcome this challenge, we designed the sensor in a two-layer structure (Figure 2) with the top layer composed of a grid of fabric resistive sensors with conductive electrodes for both capacitive and resistive sensing and the bottom layer composed of a grid of embroidered coils for inductive and NFC sensing.",
+        "cos_similarity": 0.4287932813167572
+      },
+      {
+        "sentence": "Finally, to allow customization and enable the system to handle objects that are not registered in our system, we wanted the sensor to be able to (4) sense tags that are easy to attach to objects (e.g., NFC).",
+        "cos_similarity": 0.4283295273780823
+      },
+      {
+        "sentence": "Our customized sensor board is comprised of a multiplexer module, a sensor module and a processing module (Figure 3 and 5).",
+        "cos_similarity": 0.4266093969345093
+      }
+    ]
+  },
+  {
+    "speech_text": "is the weakest. Here's the result, As you can see at the near and medium distance, The tech detection work well. But at the far distance the signal is weaker, so the sensor's rate dropped quickly for the",
+    "related_sentences": [
+      {
+        "sentence": "However, in other wearable scenarios beyond jeans (e.g., pockets in a hoodie, or a jacket), frm contact between an object and the sensor may not be guaranteed, so it is unknown how well our current object detection method can work in these situations.",
+        "cos_similarity": 0.5412288904190063
+      },
+      {
+        "sentence": "We investigated the sensing techniques that are contact-based or the ones working in a short range so the operation of our sensor does not interfere with other personal electronic devices.",
+        "cos_similarity": 0.5158112645149231
+      },
+      {
+        "sentence": "Therefore, a small shift in inductance can be observed through the sensor.",
+        "cos_similarity": 0.5028700828552246
+      },
+      {
+        "sentence": "One of the potential reasons of this issue is related to the small inconsistency in sensor readings at diferent locations of the current prototype.",
+        "cos_similarity": 0.49153879284858704
+      },
+      {
+        "sentence": "Considering that the 2D sensing resolution for the inductive sensing is quite low in the current implementation (e .д., 2 × 2), we expect that the overall accuracy of our system can be improved by improving the 2D resolution of the inductive sensor.",
+        "cos_similarity": 0.4912862181663513
+      },
+      {
+        "sentence": "We see it as a interesting future research direction to investigate ways to optimize the sensor based on the material properties of the substrates and wires, which can lead to improvements in softness and comfort of the sensor.",
+        "cos_similarity": 0.4817071557044983
+      },
+      {
+        "sentence": "We chose these locations because sensor signals are weaker at the edges of the coils.",
+        "cos_similarity": 0.4751496911048889
+      },
+      {
+        "sentence": "This suggested that even the pressure data along was unreliable for object recognition, it worked well as an addition to improve the performance of capacitive sensing when the sensor was deformed by the body.",
+        "cos_similarity": 0.46002328395843506
+      },
+      {
+        "sentence": "The reduced accuracy was expected as the sensor deformed diferently across the users, which had made it more difcult for the machine learning model to handle.",
+        "cos_similarity": 0.4583446979522705
+      },
+      {
+        "sentence": "However, if we combined any two of the sensors, the accuracy was improved.",
+        "cos_similarity": 0.4575675129890442
+      }
+    ]
+  },
+  {
+    "speech_text": "key tag. I would like to conclude our work with three take home messages. 1st, we present a textilesensor design fusing for sensing techniques for an interactive parking. 2nd, we present a interactive pocket system that can sense user gesture, improve and recognize the object inside the pockets. In the end, we conducted a study to evaluate the sensing performance of our system, which showed that the object recognition accuracy can achieve 92 % for personal model. But slightly decreased to",
+    "related_sentences": [
+      {
+        "sentence": "The contributions of our work include: (1) the sensor design of an interactive pants pocket, capable of sensing explicit user input and recognizing the objects a user carries in their pocket and (2) the result of an experimental evaluation of the sensing performance of our system.",
+        "cos_similarity": 0.6163476705551147
+      },
+      {
+        "sentence": "While prior research has explored the concept of interactive pockets, much of the focus was demonstrating proof-of-concepts and application scenarios using mockups through rigid devices or sensors, such as a camera, optical sensor panel, or capacitive touch panel, which are unsuitable for practical and daily use.",
+        "cos_similarity": 0.5352623462677002
+      },
+      {
+        "sentence": "These techniques were combined together to deliver a more practical solution for interactive fabrics in a wearable pocket context, in terms of robustness against sensor deformation (e.g. improved object recognition by fusing data from any pair of the sensors) and more capable in sensed object types (e.g. metallic, nonmetallic, and NFC tagged objects).",
+        "cos_similarity": 0.527856171131134
+      },
+      {
+        "sentence": "The sensing accuracy of our system for both object and gesture sensing can be improved in the future with the availability of better hardware (e.g., multiplexer).",
+        "cos_similarity": 0.520011842250824
+      },
+      {
+        "sentence": "For example, Project Zanzibar combines mutual and self-capacitive sensing to detect touch and hand gestures, and also used NFC tagging to detect objects.",
+        "cos_similarity": 0.5192412734031677
+      },
+      {
+        "sentence": "Their approach consisted of a capacitive sensing grid (connected to a smart phone) that enabled touch interaction through the pocket, as well as stroke-based gestures that could be performed on the outside of the pocket.",
+        "cos_similarity": 0.5099963545799255
+      },
+      {
+        "sentence": "Our goal was to implement Tasca as a pocket sensor that supports some of the most common input modalities, including: (1) 2D touch gestures commonly used on mobile and wearable devices and (2) force touch by pressing the fabric at diferent levels of pressure.",
+        "cos_similarity": 0.5024961829185486
+      },
+      {
+        "sentence": "Sensing the hands of a user inside the pants pockets can also provide rich contextual information related to their current activity.",
+        "cos_similarity": 0.500532329082489
+      },
+      {
+        "sentence": "Furthermore, understanding the items that a user has in a pocket (e.g., a phone) also enables a new set of applications, such as activity tracking, placement-dependent notifcation, or providing new context to the information sensed from other devices.",
+        "cos_similarity": 0.4927772283554077
+      },
+      {
+        "sentence": "To implement inductive sensing for our pocket, we used an approach similar to one described in the research literature.",
+        "cos_similarity": 0.49026352167129517
+      }
+    ]
+  },
+  {
+    "speech_text": "81 % for General model. Thank you for listening, and happy to",
+    "related_sentences": [
+      {
+        "sentence": "The same pattern was observed for inductive sensing with performance increased to above 80% for both within- and cross-user conditions.",
+        "cos_similarity": 0.35878637433052063
+      },
+      {
+        "sentence": "For instance, the combination of capacitive and resistive sensing yields a better accuracy (within-in user: 80.5%, SD = 6.7%; cross-user: 55.1%, SD = 9.4%) than using the capacitive (within-in user: 73.0%, SD = 5.7%; cross-user: 47.3%, SD = 6.2%) or resistive sensing along (within-in user: 73.2, SD = 11.3; cross-user: 42.9%, SD = 6.6%).",
+        "cos_similarity": 0.3303080201148987
+      },
+      {
+        "sentence": "The result yielded a 81.3% accuracy (SD: 6.0%).",
+        "cos_similarity": 0.32725176215171814
+      },
+      {
+        "sentence": "Overall, our system yielded an average gesture recognition accuracy of 96.1% (SD = 3%).",
+        "cos_similarity": 0.30429312586784363
+      },
+      {
+        "sentence": "This is in fact quite promising as it suggests that it is technically feasible to use a general model across diferent users without a impact on the type of objects that the system can correctly recognize.",
+        "cos_similarity": 0.27912983298301697
+      },
+      {
+        "sentence": "A close look at the study result reviewed that most objects received an accuracy over 90%.",
+        "cos_similarity": 0.27145054936408997
+      },
+      {
+        "sentence": "Overall, the recognition success rate for the card was 98% across all the locations and distances.",
+        "cos_similarity": 0.2693842649459839
+      },
+      {
+        "sentence": "The result yielded an accuracy of 92.3% (SD = 3.2%).",
+        "cos_similarity": 0.25565817952156067
+      },
+      {
+        "sentence": "With a ten-participant study, we found our approach demonstrated a 92.3% with-user classifcation accuracy with 11 diferent objects, 96.4% accuracy for gesture recognition and 100% accuracy for NFC tag detection at a maximum distance of 3mm (key tag) or 10mm (card).",
+        "cos_similarity": 0.2541237473487854
+      },
+      {
+        "sentence": "The confusion matrix shown in Figure 11 suggests that 6 out of the 8 tested gestures could be correctly recognized by the system with an accuracy of over 95%.",
+        "cos_similarity": 0.247672900557518
+      }
+    ]
+  }
+]

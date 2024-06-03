@@ -1,0 +1,386 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0282000.jpg",
+    "ocr_text": "UNC SCHOOLOFMEDICINE\nThe Broad Impact of NLRs on Immunity and Beyond\nNIH Wednesday Afternoon Lecture Series Jenny Ting 2-5-13 The University of North Carolina at Chapel Hill",
+    "speech_text": "So, good afternoon everybody and welcome to the Wednesday afternoon lecture series. My name is Bob Colbert and it's a distinct pleasure for me to be able to introduce today's speaker who is Jenny Ting. Dr. Ting is the William Keenan Professor of Microbiology and Immunology at the University of North Carolina at Chapel Hill where she directs the Center for Translational Immunology and is co-director of the Inflammatory Diseases Institute also at UNC. I first got to know Jenny about 20 or almost 25 years ago when we co-taught an immunology lab for medical students at the University of North Carolina. You can tell that's a long time ago because I said immunology lab and medical students in the same sentence. So, we also share a little bit of a common academic ancestry because we both did post-doctoral work with Jeff Frelinger, although at different times. But let me just say a few things about Jenny, and and some of the major contributions that she's made to immunology. She has a very long track record of really outstanding work contributing to our overall understanding of immune regulation. In the early 90s, she discovered how C2TA, which is the MHC class 2 transactivator Known to be mutated in and causative baro lymphocyte syndrome, How this mediates cytokine induction of class two expression. And which is critically important for adaptive immunity? I think what's really interesting is that it was her interest in. In C, two ta, and the recognition that mutants in proteins that had a similar domain structure. Actually caused inflammatory disorders that led her to look for genes with a similar domain structure and. that resulted in the discovery of a large multi-gene family, I think 22 members to date, at least in humans, that we now know as the Nod-like receptors or genes that encode the Nod-like receptors or NLRs. So, Many Nlr's are intracellular pattern recognition receptors involved in initiating or and or regulating. the innate immune response to danger signals created during cellular injury or toxins or invasion by microorganisms. And of course, we know that mutations in various NLRs, such as NLRP3, cause a variety of systemic inflammatory diseases, such as the cryopyrin-associated periodic syndromes or CAPS. So, while many of these diseases are relatively rare, unless you work at the Nih, they really are can be quite devastating diseases. And they really highlight the importance of these genes to fundamental biological and immunological processes. And this has all become increasingly apparent over the last decade, and it seems to be growing almost on a daily basis. So what we're going to hear about today is how NLRs regulate diverse cell death responses, such as apoptosis, necrosis, and autophagy, as well as diverse signaling pathways, including pathways involving NF-kappa-B and MAP-Ks. So Dr. Ting will present evidence for the broad biological and clinical impact of the NLR family of genes. So, Jenny, welcome. Thank you for coming. And I want to mention that there will be a reception immediately following her talk in the library. Is this on? I just want to thank you so much, Bob, for inviting me, and thank all the people for coming, despite the weather report. So what I'd like to tell you today is some of the things that we've been doing recently. And I just want to say that I've known Bob for 25 years, and at that time I was about ten years old and Bob was about six, so so we're not as old as we look.",
+    "start": 3.0,
+    "end": 282.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0363000.jpg",
+    "ocr_text": "Innnate Immune Receptors and Sensors\nC-type lectin receptors (CLR)\nToll like receptors (TLR)\nRig-I like helicases (RLH) C-CC-CH\nProinflammatory factors\nlelicas\nImmune Regulation\nDNA sensors DAI, IFI16 AIM2, Sting DDX41, DHX36 DHX9\nInfectious diseases\n15-3 Nucleotide binding- leucine rich repeat proteins Inflammatory diseases (NLR) Metabolic diseases Cancer\nOLRRI\nNBD\nScavenger receptors, surfactant receptors",
+    "speech_text": "Is this showing up? Okay. So I'd just like to give a big picture, because I know this might be a more heterogeneous group, And give you some background about this field, the Nlr field, and just to put in things into perspective, the innate immune. sensors or receptor field has really exploded in the last 15 years. The first one, of course, was toll-like receptor, C-type lectins. We now know there are RNA sensors, such as re-glycolic cases. There are a bunch of DNA sensors listed here, and this is where our protein belong, a family of proteins belong. And these have at least two names. One is the name of MBDLR, which stands for nucleotide binding domain, losing rich repeat. And the other is non-like receptors, which stands for nucleotide oligomerization and dimerization domain receptors. And to be honest, I actually prefer the MBDLR, which is a name that 22 of us proposed years ago, and the reason is because we really don't know how these function. And this is one of the leading issues that I will discuss in this talk. And so we don't know if these are truly receptors, They might be or might not be. And, but they impact a lot of things, including inflammation, infectious diseases.",
+    "start": 282.0,
+    "end": 363.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0464000.jpg",
+    "ocr_text": "Identification of the NBD-LRR (NLR) family\nHuman genome\nNBD\nLRR\nC-C TA\nMHC Class II Transactivator (CIITA) Transcriptional activator but not a DNA-bindingprotein\nC-C = Coiled-coil TA = Transactivation domain NBD = Nucleotide binding domain LRR = Leucine rich repeats\n22 NLR (CATERPILLER) proteins\nHarton et al. J. Immunol. 2002, 69: 4088 Ting and Davis, Ann. Rev. Immunol, 2005, 23: 387 Ting et al.. Immunity. 2008. 28: 285",
+    "speech_text": "cancer, et cetera. The way we came into this, I see Dina in the crowd, and both of us have worked a long time as colleagues and friends on this molecule, C2TA. It was discovered by Victor Steinle in Bernard Mock's lab, and most of us who are studying MHC jumped on it when this protein was discovered, because it is the protein that's mutated in a disease that cannot express class II MHC, and this is a class II transactivator. And we found that it has a functional ATP binding domain called nucleotide binding domain, and also it has a leucine-rich repeat that's functional as well. So by combining these two, we worked for a long time on C2TA, as have others, looking at all its different function, and at the end, I'll come back to this protein. But it's a transcription coactivator, so it recognizes DNA through DNA binding proteins, and then activates transcription. But two people in my lab, John Hartin and Mike Lindhoff, decided that this is such an important protein, because you can pop it on any cell, and they will express class II MHC, which is pretty remarkable. And they used these two domains and searched the human genome before the human genome was published, and came up with 22 genes. And then we named it Caterpillar for a long reason, I won't tell you about it, but now it's renamed either MBDLR or Nod-like receptors. And from that, the 22 genes, that's it. There's no more. If you search and search, you cannot find any more. That's the end of the story. So I always joke with my TLR colleague, unlike TLR, which there's trickles of TLRs that came out, there's only these many",
+    "start": 363.0,
+    "end": 464.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0509000.jpg",
+    "ocr_text": "Diseases associated with NLR polymorphisms/mutations\nCIITA - Bare lymphocyte syndrome\nNOD2 - Crohn's disease; Blau syndrome\nNLRP1 - Vitiligo, other autoimmune and inflammatory diseases\nNLRP3 - Cold induced autoinflammatory syndrome; - Neonatal onset multi-system inflammatory disease - Mruckle-Wells syndrome",
+    "speech_text": "NLRs. So one of the reasons we're so interested in this family is because they're linked to human diseases. For example, C2TA, I already told you, is linked to the bare lymphocyte syndrome, which is the lack of class II MHC expression, therefore people name this as a bare lymphocyte. Now, too, the work of a number of people have shown that this is one of the most important genetic, this Link linkage to Crohn's disease, as well as this rheumatologic disease called Blough syndrome. And NLRP1 is another one that I'll just mention for a little bit. This is linked to a skin disease as well as a variety of autoimmune diseases. And of course, the big one, NLRP3, that I'll tell you a lot more about in just",
+    "start": 464.0,
+    "end": 509.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0660000.jpg",
+    "ocr_text": "NLR Family -- Initiators and Inhibitors of Immunity\nRegulators of:\nVBS-LRR proteins\nMHC genes (CIITA and NLRC5) Inflammasome (IL-13 and IL-18) (NLRP1, NLRP2, NLRP3, NLRC4, NAIP. NLRP6, NLRP7, NLRP12, NLRC5)\nAPAFI\nNLRs\nRegulators of NFkB MAPK and/or IFN (NOD1, NOD2, NLRX1, NLRP12 NLRC3, NLRP4, NLRC5) Cell death and autophagy\nCentral NBD\nC-terminal repeats\nN-terminal effector domain\nNLRP1, NLRP3, NLRC4, NAIP, NOD2, NLRX1)\nNature Reviews | Immunolog Ting. Kastner and Hoffman 2008",
+    "speech_text": "a little bit. So thinking about the NLR family, I just want to summarize, because most people think about the NLRs, they only think about the inflammasome. And that's actually not the case. And inflammasome, I'll explain it to you in just a little bit. So we started because C2TA is a transcription co-activator that leads to class II MHC gene regulation, which is the major histocompatibility complex. And more recently, it was found that NLRC5 is a master regulator of class I MHC genes, and mostly lymphocytes. And so these two are transcriptional regulators. And this is, again, the reason why I prefer the term NBDLR, because it doesn't look like that these two are RNAs or are typical PAMP receptors. So they're really not considered as PAMP receptor. And I think this point is very important, what we call things, because if we call something a specific term, then we have preconceived notion about what they should do. But in the field of NLR, I think we're still struggling in terms of trying to understand what they all do. The other one, as far as this inflammasome, and I will tell you more about this, but basically this is a complex formation that leads to the processing of IL-1 and IL-18 from their premature form into their mature form due to activation of caspase-1. And I'll explain a lot more about this. But now we have at least nine NLRs that have exhibited this function in at least one paper. So there are seven of these. I'm sorry, nine of these. And then the group that I'll concentrate on the most at the last part of the talk is regulators of NF-kappa-B myokinases or interferon. And I will focus my talk really on the interferon signature that's related to these NLR protein. Of course, interferon is really important for a lot of inflammatory diseases and genetic diseases. And today I heard more and more about that. And these are several NLRs are in that pathway. And another one I wish I had time to tell you a lot more about. I know there's a lot of interest here. Many of these NLRs are also causes of cell death, necrosis, and autophagy. And remember that NLR actually are found from plants to humans. And they're preserved all the way in plants. But they also look like apoptotic protease activating factor APAP-1, which makes sense in terms of the role in cell death. So this is an overall",
+    "start": 509.0,
+    "end": 660.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0664000.jpg",
+    "ocr_text": "NLRC5 regulates class I MHC\nB Sorted Splenic Populations\nIIM\nB2m\nI-Ab\nTla\nCa1d2",
+    "speech_text": "picture of this entire family of proteins. Now I just want to go",
+    "start": 660.0,
+    "end": 664.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0688000.jpg",
+    "ocr_text": "NLR Family -- Initiators and Inhibitors of Immunity\nRegulators of:\nVBS-LRR proteins\no MHC genes (CIITA and NLRC5)\nAPAFI\no Inflammasome (IL-13 and IL-18) (NLRP1, NLRP2, NLRP3, NLRC4, NAIP NLRP6, NLRP7, NLRP12, NLRC5)\nNLRs\no Regulators of NFkB MAPK and/or IFN (NOD1, NOD2, NLRX1, NLRP12 NLRC3, NLRP4, NLRC5) o Cell death and autophagy\nCentral NBD\nN-terminal effector domain\nC-terminal repeats\nNLRP1, NLRP3, NLRC4, NAIP, NOD2, NLRX1)\nNature Reviews | Immunolog Tina. Kastner and Hoffman 2008",
+    "speech_text": "through, kind All kind of check through all of these functions and show you some evidence of what they do, so you have can have a big picture of this entire family of proteins. So the 1st one is how we came to this, and I should say by the time we came to the. all of the genes, there were at least five of these proteins that were already found by somebody else. And that includes C2TA. And",
+    "start": 664.0,
+    "end": 688.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0819000.jpg",
+    "ocr_text": "NLRC5AND CIITA RESPECTIVELYREGULATE\nMHC-IAND MHC-II\nMHCI Expression\nMHCIl Expression\nT cells\nB cells\nB cells\nCIITA-\nTTA\nM\nWT",
+    "speech_text": "of course, we and others have done a lot of work on. But the last protein which Function was elucidated is Nlrc Five, and many of us have done a lot of experiments to try to figure out what does this is protein do. And a young faculty who's now at Harvard, Kobayashi, was the first person who had a clue about what it might be doing and maybe doing other things. But the most prominent function is that it regulates class 1 MHC. And it looks like it also binds to, it can be found by chip assays, a chromatin IP assay, to be located to the class 1 MHC promoter. And this is what we did. So we made a knockout and we look at class 1 genes, class 1 MHC, including H2K. Beta 2M is an adapter molecule of H2K. TLA is a non-classical class 1 molecule. And in every case, if you knock out NLRC5, there's very little class 1 expression on B cells, T cells, or NK cells. And this is true for H2K, for Beta H2k for Beta two M, as well as Tla, However, it has no function on class two Mhc gene regulation, as shown here. nor does it have any effect on CD1, which is not encoded by the MHC domain. So this shows that this is maybe a master regulator of these two, of these three genes. And other people have similar data. And just to show you that we made a knockout of C2TA a long time ago, and NLRC5 right here. And in NLRC5 knockout mouse, there's reduced class 1, and C2TA, there's no reduction of class 1. And if you look over here, however, there's C2TA knockouts have reduced class 2. In fact, class 2 is almost gone, but NLRC5 knockout mice have no reduction of class 2. So it's reciprocal in that these two proteins regulate class 1 and class 2 reciprocally. So when you think about how a protein wants to regulate adaptive immune response, I can't think of a better pathway for them to regulate, which is both class 1 and class 2. So this changes the entire landscape for the",
+    "start": 688.0,
+    "end": 819.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-0926000.jpg",
+    "ocr_text": "CAPS -- Cryopyrin-associated Periodic Syndrome FCAS -- Familial Cold Autoinflammatory Syndrome\nSeverity\nSYMPTOMS\nFCU\nMWS\nNOMID/CINCA\nOnset\nInfancy\nInfancy\nInfancy-Adolescence\nCutaneous Auditory\nCold-Induced Urticaria\nSpontaneous Urticaria\nSpontaneous Urticaria\nHearing Loss\nNormal\nHearing Loss\nArthralgias\nMusculoskeletal\nArthralgias, Stiffness\nDeforming Arthropathy\nSystemic\nFever, Chills, Chronic Aseptic Meningitis\nFever, Chills\nFever, Chills, Renal Amyloidosis\nwww.pediatria.univ.tireste Feldman etal., AJHG 2002\nTreatment: Anakinra",
+    "speech_text": "adaptive immune response. So I've covered this pretty quickly, and then the inflammasome. And of course, this has received a ton of attention, but I again want to emphasize, inflammasome is just a subgroup of NLRs. There are NLRs that do not have any inflammasome functions. And the reason we came to this is the the work of several rheumatologists, Dan Kassner and his colleague Iwona. and Raphael Golbach-Mansky, of course, are really giants in the field. And Hal Hoffman was the first person who realized the connection of this family of diseases with this gene called NLRP3, initially called cryopyrin, because it was found in patients who have an inflammatory response to a drop in temperature. So Hal Hoffman called this the cryopyrin protein. In Europe, Michael McDermott was really doing many of the same things in the translational immunology. So it was found that mutations in this protein that initially was called cryopyrin resulted in a lot of skin rashes, Arthralgia stiffness, and there's many three different diseases that are linked to this with a gradation of severity, and there's. more than 80 mutations now, I think, in this gene that's related to inflammatory response. One of the triumphs of the field is that they found out that IL-1 is increased in these patients, and you can treat these patients with an IL-1 receptor antagonist called Anacara, and within a day, they all got better. So that's really a remarkable triumph of what these groups have done, including, of course, the giants of the",
+    "start": 819.0,
+    "end": 926.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1087000.jpg",
+    "ocr_text": "NLRP3 inflammasome activation\nSIGNAL 2 - DAMPS, PAMPS, ATP, TOXINS c-diGMP/AMP, ER stress MAVS, salt, osmolality\nSIGNAL 1 (TLR, TNFR, CARD9\nmiRNA223 NO cAMP Ub\nPro-IL-1/ IL-18 NLRP3\nK+eflux, mROS, mtDNA Ca2+\nPKR\nATP NBD\nLRR\nPYR PYR\nNLRP3\nCasp1\nCARD\nASC/PYCARD Pro-Caspase-1\nCARD\nIL-1 IL-1\nSome cells have constitutive caspase-1: Human monocytes",
+    "speech_text": "field at NIH. So I just want to give you a little bit of background on what the inflammasome activation process is. And we now know that what you really want at the end is processing of pro-IL-1 and pro-IL-18 into their mature form, and that's what the inflammasome concept is. But you have two signals that are required in many cell types, but not all cell types. Some cell types already have signal one that's activated. So these signals can be TLRs or TNF receptor, and Alan Shear has beautiful work to show that CARD9 is also very important for the first step of inducing pro-IL-1 production. And we showed a long time ago that LPS induces NLRP3 induction in IL-18. So you have to have these to be transcriptionally induced and translationally induced, but this is not enough. You need signal two, and signal two, I always joke with the people in the inflammasome field, basically you look at the cells wrong and they have signal two. So this could be DAMPS, of course, that's the work, very early and prophetic work of Pauli Matsinger at NIH, That there's damage and associated or danger, associated, molecular patterns and pamps, and many other toxins and dinucleotides Er. stress, MAFs protein from the work of Ron Germain, salt, osmolality, et cetera, can induce a number of factors. We don't know how common all of these are. There's debates about how each one is important, and some would argue that potassium efflux is the most important factor. Other, many of us have also seen mitochondrial ros upstream of inflammasome, activation, calcium, mitochondrial Dna release, et Cetera, and. And you have negative regulators as well, And these, really what they're doing is leading to the. complex formation of this inflammasome complex, comprising of NLR protein, indicated here as NLRP3, adapter molecule ASC, and PROCASPASE-1. And what all these things do is cause the assembly of this into a multimeric complex such as this, and it's predicted to have about six or seven copies of each one of these based on some EM, cryo-EM studies. And this complex then leads to the proteolytic, I'm sorry, proximal activation of PROCASPASE-1 into CASPASE-1, which then cleaves IL-1 beta and IL-18 to their mature forms. So this whole concept is the inflammasome. And again, for those of you who work with human cells, I just want to say, human monocytes actually do not require SIGNL1,",
+    "start": 926.0,
+    "end": 1087.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1157450.jpg",
+    "ocr_text": "Specificity of inflammasomes\nBacteria: Viruses Fungi Toxins DNA, RNA Environmental, silica, asbestos alum Endogenous, ATP, uric acid, - amyloid, cholesterol crystal, saturated fatty acid C-diAMP/GMP\nDNA\nDSS Colitis\nSalmonella (Flagellin and PrgJ) Gram neg. T3SS rod from gram- negative bacteria\nAIM2\nNILRP6\nMycopl. Lipo- peptide\nIntra- cellular LPS\nAnthrax LT MDP\nYersinia\nCaspase 11\nNLRP1/ NOD2\nNLRP3\nNAIP/NLRC4\nNLRP7\nNILRP12",
+    "speech_text": "for example. Another concept of the inflammasome is their specificity, although some have very broad specificity, some have very deep refined. E.g. Nlrp, three, like I said, many things can activate this Nlrp. One is highly specific, especially in in in. rodents. So anthrax is very important, and that's, again, is based on much of the work done here at NIH. And intracellular, more recently it's found by Vishwa Dixit that there's an alternative non-canonical inflammasome that actually activates CASPASE-11, and that's through intracellular LPS. So LPS can activate this. We don't know all the pathways that leads to this. And there's also DSS colitis can activate NLRP6. Again, it's not entirely clear what activates this, but probably microbiome changes. And finally, in addition to NLR proteins, there are other inflammasomes, such as AIM2, can be activated by DNA, and AIM2 has been crystallized by the Shell Lab here at NIH. So obviously, NIH has done a huge amount of work to really promote",
+    "start": 1087.0,
+    "end": 1157.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1232000.jpg",
+    "ocr_text": "NIrp3/ASC affect host response to the\nA/PR/8/34 (H1N1) influenza virus\nInfluenza viral titer (PFU/ml)\nSurvival (%)\nWild Type NIrp3 NIrc4 Mock\nMock Nirp3Wild-type Mock NIrp3Wild-type 3 Days 7 Days after infection after infection\nTime after infection (days)",
+    "speech_text": "this field. So the reason these family, many of these innate immune sensors or receptors were discovered was the thinking that these are related to infectious diseases, and that is indeed the case. So I just want to show you some of the work we did, knowing that this is a sea of work that other people have contributed to. And so years ago, we wanted to know if this is important for infection, and we picked influenza. This is 2009. Of course, The H1n1 flu was going crazy at that time, and of course our work was done way before the H1n flu and one flu came. but luckily we were published in that year. And what we showed is NLRP3 has a dramatic effect in countering the flu infections. So this is NLRP3 knockout mice. They don't do very well. They don't survive very well. Wild type, they do okay in this system. And then when we look at viral titers, the NLRP3 knockout mice have much, knockouts have much higher viral titer, about a two log difference in viral titer. So we think this is an important protein to combat influenza infection. And the lab of Peter Doherty and Conaganti have published",
+    "start": 1157.45,
+    "end": 1232.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1266000.jpg",
+    "ocr_text": "MICROBIAL INHIBITION OF\nY.pseudotuberculosis\nINFLAMMASOME RESPONSE\nM.tuberculosis/BCG zmp1 S. pneumoniae pneumolysin\nYopK Binds TSS3 trans- locon\nTLR\nNLR\nInflammasome\nIL-1\nPro-IL-13\nPYCARD\nPoxvirus M013 gp013L\nPro-caspase -1\nProcessed caspase -1\nPoxvirus crmA B13R Serp2 SPI-2\nInfluenza A NS1 Baculovirus p35\nF.tularensis ripA P.aeruginosa ExoU, ExoS (TSS3 Ef) Y. enterocolitica YonF\nTaxman et al Cell, host and Microbes 2010",
+    "speech_text": "a side-by-side paper. And based on that, we propose, and it's really not, we're not the first one to propose this, but many people have noticed that many of these steps leading to IL-1 are Targeted by both viruses as well as by bacteria, so it certainly we've worked a lot with Francicella and. And showed many francicella steps can inhibit this caspase, one activation, and. And what we didn't show, however, is that there is maybe a viral protein that can directly influence",
+    "start": 1232.0,
+    "end": 1266.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1283000.jpg",
+    "ocr_text": "Kaposi's Sarcoma-Associated Herpesvirus Herpesviridae\nDouble-stranded, linear DNA genome\nInfects human cells but not murine cells\nSubset of viral genes to facilitate viral replication immune evasion, cell proliferation and survival.\nKaposi's sarcoma\nPrimary effusionlvmphoma\nMulticentric Castleman's disease",
+    "speech_text": "inflammasome activation. So in collaboration about two or three years ago with the laboratory of Blossom Domania, we looked at this virus, Kaposi's sarcoma-associated herpesvirus, which can cause cancer. And we were looking through this genome,",
+    "start": 1266.0,
+    "end": 1283.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1352000.jpg",
+    "ocr_text": "The vNLR and NLRP1 Inflammasome\nCellular NLRP1\nvNLR/ORF63\n>NLRP1 mutations are linked to\nB\npLenti7.3 pLenti7.3-Orf63\nUnstim. MDP\nOrf63\nautoimmune disease vitiligo NLRP1 is broadly expressed Activators: Muramyl-dipeptide (MDP) in humans\nControl Orf63\npro- IL-1\ncleaved IL-1\nMDP\nUnstimulated\nGregory et al., Science 2011",
+    "speech_text": "and we were able to show that the viral genome of this very large herpesvirus has a viral NLR encoded by open reading frame 63 that has NBD NLR domain. And it most looked like A cellular Nlrp, one which is an inflammasome Nlr, So the fact there's a viral Nlr. NLR made us wonder if this could inhibit inflammasome activation, and that is what this paper showed. And I just want to show you the seminal two figures out of a large number of experiment, and that if we overexpress this protein, and this is a human disease only, we can show that overexpression of this protein reduced IL-1 production. And if we have overexpression of this protein indicated here, we were able to show that instead of getting pro-IL-1 process into IL-1, we were able to block this with this Kaposi's sarcoma viral NLR-like molecule. And the mechanism turns out that this viral NLR can block the assembly of the inflammasome complex that I",
+    "start": 1283.0,
+    "end": 1352.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1427000.jpg",
+    "ocr_text": "Infiammasome and Non-infectious Diseases\nAdaptive immunity\nGeneral Inflammation -- Lung, CNS, skin, bone\nMetabolic diseases -- gout, atherosclerosis, diabetes\nColitis and Colitis-associated cancer\nMacular Degeneration\nLiver drug toxicity\nIschemic reperfusion",
+    "speech_text": "indicated to you earlier. So this is what we have done, and many others have looked at many other bacterial diseases, viral diseases, fungal diseases, etc., in the role of inflammasome. But what was appreciated that the role of these proteins are not just limited to infectious diseases, and they have a large role in many other functions. And I'll just list some of the ones that we have contributed to. And the first one is its role in adaptive immunity. The second one is just in general inflammatory disorders. And thirdly, of course, this is a huge A group of diseases that we all became much more aware of because of public health hazard. that is metabolic diseases. And finally, colitis and colitis-associated colon cancer. And I forgot to mention, actually, the inflammasome, the concept of the inflammasome is really the work of the late York Shop, who did many of the seminal work that lead to this field. And other people have also found roles of these proteins and other diseases, such as macular degeneration, other neurological diseases, Detoxicity, ischemic reperfusion, and you name it so, but when I think about this infectious diseases, adaptive immunity, inflammation, metabolic diseases. and cancer, that pretty much covers a",
+    "start": 1352.0,
+    "end": 1427.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1462000.jpg",
+    "ocr_text": "NLRP3 exacerbates EAE, a model of multiple sclerosis\nPrectin EAE Disease state\nPear\nOva\nDays post immunization\nDays post immunization",
+    "speech_text": "lot of the problems that we are encountering right now. And just to go through some of these discoveries that we have found, is we looked at adaptive immunity, thinking that this should influence adaptive immunity because IL-1 has a profound effect, for example, on Th17. And so this is just one of the typical slides that we have done. We look at NLRP3. This is innate immune molecule. It's increased during EAE. And if we have a knockout mouse, the knockout have much reduced EAE, indicated here. So this has a really strong effect",
+    "start": 1427.0,
+    "end": 1462.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1510000.jpg",
+    "ocr_text": "NIrp3 exacerbates inflammation in a non-T cell model o demyelination and inflammation\nFigure-2\nGFAP+Cells per sq mm RCA+cells per sq mm\n3Wks LHS Microglia Nuclei\nNuclei\nRHs Corpus callosum\nRHS\nRCA+cells per sqmm\nMicroglis Nucle\nGFAP+cells persqmm\nAstrocyte Nuclei",
+    "speech_text": "on adaptive immunity. And then we also looked at an inflammatory disease that has nothing to do with the T cells, T cell system, or actually many of the things we think about in terms of multiple sclerosis, but it does result in microglia activation, indicated here. So microglia are all the red Red cells, and in the knockout there's very little inflammatory response in this model system. The bottom part is just we were looking at the left hemisphere. and the right hemisphere, and this is maybe a reviewer gone wild. They decided that not only should we look at the left hemisphere, because, but we should always also look at the right hemisphere, so we obliged because it's such an easy experiment with. so we did both. And expectedly, there's no difference between the two.",
+    "start": 1462.0,
+    "end": 1510.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1533000.jpg",
+    "ocr_text": "Infiammasome and Non-infectious Diseases\nAdaptive immunity\nGeneral Inflammation -- Lung, CNS, skin, bone\nMetabolic diseases -- gout, atherosclerosis, diabetes\nColitis and Colitis-associated cancer\nMacular Degeneration\nLiver drug toxicity\nIschemic reperfusion",
+    "speech_text": "So this, of course, shows that it has a very important role in many general inflammation, including lungs, CNS, skin, and bone. And then several of us also started looking at metabolic diseases, and York Shoppe was the first one to really look at gout, And Ikey Lotz, the 1st one to look at arthritis, And then many of us looked at",
+    "start": 1510.0,
+    "end": 1533.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1579000.jpg",
+    "ocr_text": "NLRP3 exacerbates metabolic disorders Saturated fatty acid-induces the inflammasome\nBSA PA-BSA\nBSA PA-BSA\nTime (h) LPS\nDosage (uM)\nDosage(uM\nOWT\nNIrp3 Pycard NIrc4\nNIrp3 Pycard NIrc4\nLPS PA-BSA (M)\nLPS PA-BSA (uM)\nLPS PA-BSA (uM)\nNature Immunol. 2011",
+    "speech_text": "metabolic diabetes, And this is our contribution, and we're still looking more on this. which is the idea that saturated fatty acid is not good for you, but does it induce inflammasome. And we know that many of the Obesity, related disease are linked to inflammatory. I have an inflammatory component, so we use. palmitic acid, and because it's insoluble, we have to link this to BSA to get it solubilized. And we can see that if we add signal 1 LPS and signal 2, which is palmitic acid, we were able to induce IL-1 production. So saturated fatty acid also goes through this pathway. And we showed that this is through the NLRP3 pathway, because if we have a knockout cell, we have very little IL-1 production. And this was published",
+    "start": 1533.0,
+    "end": 1579.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1622000.jpg",
+    "ocr_text": "FINDING: Fatty acid induces inflammasome activation via the normal FA metabolic pathway (inhibition of AMPK )\nSignal 2\nInsulin\nPA\nSignal 1\nTLR\nAMPK\nInflammasome\nIRS1\nAutophagy IROS\nNF-kB\nP Akt\nPro- IL-1\nP NF-KB\nNucleus\nMacrophages\nInsulin Target Cells",
+    "speech_text": "more than two years ago. And to make a very long story short, we were able to show that palmitic acid, which is a very nutrient-rich environment, turns off this metabolic master regulator, AMPK, and this in turn turns off autophagy. And many people have linked autophagy as a negative regulator of inflammasome. So these two then, when they're released, this turns on inflammasome, which makes IL-1, which then goes to insulin-targeting tissues, such as liver, adipose tissues, and muscle cells, To inhibit the the insulin sensitivity pathway, so this is what we have",
+    "start": 1579.0,
+    "end": 1622.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1654000.jpg",
+    "ocr_text": "NLRP3 inflammasome pathway and Metabolic disease-associated molecules\nIAPP oligomers\nPalmitate\nCholesterol crystals\nAMPK\nPhagolysosome pathway\nULK, LC3B\nUric acid\np-amyloid\nROS\nCeramide\nIL-1p p17\nNLRP3/ASC/Casp1\nGlucose\nLiver, Muscle Fat cells - more Insulin resistance\nMacrophages",
+    "speech_text": "found. And other people have found many other things, such as cholesterol crystal associated with atherosclerosis, uric acid associated with Gout, beta, amyloid protein associated with Alzheimer's done mostly by but Doug Golombok and his colleague, Ceramide, glucose et Cetera, can activate the inflammasome pathways. And many of us have actually gone in vivo to show that when you don't have the inflammasome pathway, many of these diseases are much better, which is why many companies are now targeting this",
+    "start": 1622.0,
+    "end": 1654.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1660000.jpg",
+    "ocr_text": "Inflammasome and Non-infectious Diseases\nAdaptive immunity\nGeneral Inflammation -- Lung, CNS, skin, bone\nMetabolic diseases -- gout, atherosclerosis, diabetes\nColitis and Colitis-associated cancer\nMacular Degeneration\nLiver drug toxicity\nIschemic reperfusion",
+    "speech_text": "for metabolic diseases. So I've quickly gone through these three, and I'll just go quickly",
+    "start": 1654.0,
+    "end": 1660.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1703000.jpg",
+    "ocr_text": "NLRP3 Mediates Gastrointestinal Tumorigenesis in a\nColitis Associated Cancer Model\nWild Type AOM/DSS\nNlrp 3 AOM/DSS\nMock\nNIrc4 AOM/DSS\nAverage Number of Macroscopic\nAverage Polyp Weight (mg)\nPolyp Size (mm)\nPolyps/Mouse\nHAI Score\nAllen et al., JEM 2010\nAOM/DSS\nAOWDSS",
+    "speech_text": "to the cancer field. And this is some studies that we did looking at its relevance in colitis-associated cancer model, and we have found that actually inflammasome, in contrast to what one can anticipate, when you don't have the inflammasome, you have increased polyformation in this model system. So actually the inflammasome in the GI is protective, And that's been found in many cases as these Tlr molecules, my D88 molecules in Nlr and the colon. pathway are protective because they're to provide a homeostatic pathway. So instead of inflammation being bad in these cases, the innate immune receptors are",
+    "start": 1660.0,
+    "end": 1703.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1753000.jpg",
+    "ocr_text": "IL-18-- mice show a similar increased in polyps in the AOM-DSS model\nPolyp Number Tl\nns\nPolyp Number\nns\nIL-18 reduces proinflammatory cytokines (IL6) and pSTAT3 in models of colon cancer; IL-18 repairs the epithelium in Experimental colitis (Zaki et al., Dupaul et al.)\nSalcedo and Trinchieri 2010",
+    "speech_text": "protective. And Giorgio Trincari really provided some of the very important mechanism as to why this can be done, and what he showed is downstream of the inflammasome, of course, there's IL-1 and IL-18, and IL-1 doesn't have any effect on polyp formation, but IL-18 has a profound role, in that if you take away IL-18, polyps actually go up in the colon, and this is due because IL-18 can reduce IL-6, which is a pro-inflammatory cytokine. IL-18 can also downregulate STAT-3, which is very important for colon cancer, and IL-18 can repair the epithelium In the in the experimental, colitis and other and other other groups have also found this, So this is. Just showing you inflammasome have at least two targets, Il1 and I, beta and Il18 and they may have",
+    "start": 1703.0,
+    "end": 1753.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1810000.jpg",
+    "ocr_text": "NLR Family -- Initiators and Inhibitors of Immunity\nRegulators of:\nVBS-LRR proteins\nTIR/CC\nNBD\nMHC genes (CIITA and NLRC5) Inflammasome (IL-13 and IL-18) (NLRP1, NLRP2, NLRP3.NLRC4, NAIP NLRP6, NLRP7, NLRP12, NLRC5)\nLRR\nNBD\nAPAFI\nCARD\nWD40\nPYR\nNBD\nLRR\nCARD\nBIR\nNLRs\nAD\nRegulators of NFkB MAPK and/or IFN (NOD1, NOD2, NLRX1, NLRP12 NLRC3, NLRP4, NLRC5) Cell death and autophagy\nCentral NBD\nN-terminal effector domain\nC-terminal repeats\nNLRP1, NLRP3, NLRC4, NAIP, NOD2, NLRX1)\nNature Reviews | Immunolog Ting. Kastner and Hoffman 2008",
+    "speech_text": "divergent roles in different tissues. So I've quickly gone through this very huge field of inflammasome, and now I just want to touch on this and show you some unpublished work that we have been working on in terms of the NLR proteins and another very important pathway, interferon. And so, again, in In the 1st discovery of not one and not two, several of the early work of not one and not two. have shown that they're related to NF-kappa-B. Both the work of John Burton as well as the work of Gabriel Nunez have pointed to this, and so we were interested to see if there are other NLRs that can regulate NF-kappa-B, for example, MAP kinases, but additionally we have found a link to interferon, and I'll just tell you some of the work that we have done in this. What was surprising is we found most of these cases, these proteins are negative inhibitors, are inhibitors of the interferon",
+    "start": 1753.0,
+    "end": 1810.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1885000.jpg",
+    "ocr_text": "NLRP12 inhibits canonical and non-canonical NF-kB\nCD40, BAFFR\nMyD88\nTransfect NIK+pcDNA\nLich et al, JI, 2006 Zaki et al., Cancer Cell 2011 Allen et al, Immunity 2012 Zaki et al, PNAS 2014\nNLRP12\nIP: NIK\nTransfect: NIK+Monarch-1\nTRAF6\nNIK\nTAK1\nTime\nCXCL12 CXCL13 CXCR4 ERK?",
+    "speech_text": "pathway, or of Nf Kappa B pathways, so the 1st one that we found is one that we isolated in two. in early 2000s, and this one was named different things, including Monarch, and now it's named NLRP12. And we have a paper that came out about a year or two ago showing NLRP12 can regulate the NF-kappa-B pathway. And there are now at least four papers indicating this is the case, and these are shown here. in our model system we look at at a colon cancer colitis model. and we found that the NLRP12 negatively regulates NIC, which is the NF-kappa-B-inducing kinase, which causes non-canonical NF-kappa-B to be induced. And NLRP12, just to show you, in overexpression systems, if you have NLRP12, this is a very old paper, reduces the amount of NIC. And I won't get into all of the mechanisms, but because of this, it down-regulates non-canonical pathway and influences non-canonical pathway chemokines, such as CL6, CL12, and 13, which are now all found to be really important for solid tumors.",
+    "start": 1810.0,
+    "end": 1885.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1986000.jpg",
+    "ocr_text": "NLRX1 negatively regulates cytokines Negative regulator of cytokines TNF, IL-6 and IFN-I via MAVS and TRAF 6 (Moore et al. Nature. 2008; Allen et al. Immunity. 2011, Xia et al. Immunity 2011). Positive regulator of ROS (Tattoli EMBO Report, 2008); autophagy (Lei et al. lmmunity.2012, 36: 933)\nComplex A\nComplex B\nMitochondrion\nHRR\nMAVS\nMfn2\nNLRX1\nLRR\nIMAVS\nNOD2\nGTPas\nLBR\nNLRP3\nAtg5\nNLRX1\nRIG-I\nAtg12\nAtg5\nVirus\nAtg12\nIKK-a\nRIG-I\nCARD\nIKK-\nNEMO\nTBK1\nNOD2\nIKK-E\nNF-x8 p IRF3\nCytoplasm\nNucleus\nTing et al.",
+    "speech_text": "A 2nd Nlr that we found to be negatively regulating cytokines is Nlrx One. I won't have too much time to talk to about this except to say this is a very interesting. mitochondrial NLR, and we found it to be a negative regulator of cytokines, such as TNF, IL-6, and interferon. And in our hands, we found this interferes with this protein called mitochondria antiviral signaling protein MAFs, and therefore reducing both interferon as well as these inflammatory cytokines. The laboratory of Rongfu Wang in our lab also showed that this is a negative regulator of the TRAF6 pathway. Therefore, in macrophages, it reduces LPS signaling. In macrophages, it actually doesn't reduce interferon. Other people have shown it's a positive regulator of ROS. We have shown it's a positive regulator of autophagy. Just to summarize what I've told you, NLRX1 binds to this MAFs protein, which is really important for TNF, IL-6, and interferon, and this is all occurring in the mitochondria. Now, more recently, the laboratory of wait, I have. I don't have that yet. Another lab have shown has shown that Nod two can also interact with Mafs, so this may be a pretty common. Common association of Nlrs with Mafs More recently, the laboratory of John Ron Germain has shown that Mafs interacts with Nlrp three. to increase inflammasome. So we have found several of these NLRs interacting with MAFs. In our case, we use endogenous NLRX1 and endogenous MAFs to show",
+    "start": 1885.0,
+    "end": 1986.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-1989450.jpg",
+    "ocr_text": "NLRC3 reduces cytokines in response to LPS/TLR4\nCARD\nNBD\nLRR\nTranscript ofIL-6 EV NLRC3\nTranscript of TNFa\nFold-change over untreated,\nnormalized to -actin\nEV NLRC3\nOver- expressed NLRC3\nTime post LPS stimulation (hr)\nTime post LPS stimulation (hr)\nuntreated, Fold-change over y\nFold-change over untreated,\nTranscript of\nTranscript of IL-6\nTNFa\n-actin normalized to\nnormalized to -actin\nEV shNLRC3\nEV shNLRC3\nshRNA Knockdown NLRC3\nTime post LPS stimulation (hr)\nTime post LPS stimulation (hr)\nSchneider et al.Natlmmunol. 2012",
+    "speech_text": "this interaction. So these cells show that these are",
+    "start": 1986.0,
+    "end": 1989.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2102450.jpg",
+    "ocr_text": "NLRC3 associates with TRAF6 and alters TRAFe K63 activating ubiquitination\nTime post LPS stim (min).\nanti-HA\nIP: V5-TRAF6; IB:\nanti-V5\nK63-Ub\nIP: TRAF6 IB\nanti-HA\nIB:\nanti-V5\nTRAF6\nanti-actin\nTRAF6\nIB\nIxBa\nV5-TRAF6 HA-NLRC3 HA-site1AAAA HA-site2AAAA\nactin\nIP ctl NIrc3\nWT\nNIrc3-",
+    "speech_text": "NLRs. The NLRX1 is an inhibitor. NLRP12 is an inhibitor of these pathways. And so we were looking at another molecule called NLRC3, and this is the one I'll spend most of the time on. This is a protein with a card domain NBDLR. It's encoded on human on chromosome 16, and we showed in a nature immunology paper published over a year ago that if we overexpress NLRC3, we have a reduction of TNF as well as IL-6 response in response to LPS. So we think there's a link between the TLR pathway and NLR pathway. If we do a shRNA knocking down NLRC3, we see increased transcription of these genes, suggesting that it is an inhibitor of transcription of these genes. So then the mechanism we tried to look at is mechanism, and we narrowed it down to a trap, and we found NLRC3 can interact with trap during LPS treatment, and this is shown here, which we showed that NLRC3 interacts with trap. If we mutate a trap binding site, we knock down this interaction. And through many different studies, we were able to show that in NLRC3 knockout mice cells, there's a reduction in the activating ubiquination of TRAP6, and TRAP6 is activated by the K63 ubiquination of TRAP6. And in NLR knockout mice, there's increased activation of this K63 ubiquination. So this would lead to TRAP6 activation. So to summarize, we think what happens is NLRC3 interacts with TRAP6 to prevent it normally from being activated by ubiquination. If we remove NLRC3, we now have enhanced K63 ubiquination.",
+    "start": 1989.45,
+    "end": 2102.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2121000.jpg",
+    "ocr_text": "IL-6 and TNF are increased systemically and locally after LPS challenge in N/rc3-/- mice\nSerum TNF-aLevels\nSerum IL-6 Levels\nWT NIrc3-\nWT NIrc3-\npg/mL\npg/mL\nTime post LPS challenge(hr)\nTime post LPS challenge(hr)\nPeritoneal Lavage IL-6\nPeritoneal Lavage TNF-a\nWT Nirc3\nWT\npg/mL\npg/mL\nTime post LPS challenge(hr)\nTime post LPS challenge(hr)",
+    "speech_text": "So this is do anything in vivo in response to LPS, and we showed that NLRC3 knockout mice do have increased TNF, increased IL-6, in response to LPS treatment. So this just indicates that this molecule has an inhibitory role in inflammatory response.",
+    "start": 2102.45,
+    "end": 2121.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2158000.jpg",
+    "ocr_text": "Second function: NIrc3 reduces DNA-induced type I interferon (IFN-I) and cytokines\nb\na\nWT-BMDM NIrc3\nWT-BMDM NIrc3\nIL-6 pg/ml\nIFN pg/mI\npoly(lI: C)\nmock\nmock\npoly(dA: dT) extracellular\npoly(dA: dT) intracellular\nSame with MEFs",
+    "speech_text": "So I'll lead you now to a second function that we have recently found, and I just want to preface this by saying that many NLRs actually have multiple functions. For example, NLRP1 is known to be really important in apoptosis, also important in inflammasome, And also important in hemopoietic myogenesis, I'm sorry, hemopoiesis. So it's known to be important for all these functions, and we really don't know how we can tie all these three together. So it's not surprising that NLRs may have different functions, depending on what you're looking at.",
+    "start": 2121.0,
+    "end": 2158.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2160000.jpg",
+    "ocr_text": "Nlrc3-/- cells show elevated level of\nHSV-1-induced IFN-I and cytokines\nWT NIrc3\nWT-MEF NIrc3\ninduction fold\ntfnb mRNA\nIFN3 pg/mI\nHSV-1\nHSV generated the same data IndependentIy of TRAF6",
+    "speech_text": "And so this is one of the",
+    "start": 2158.0,
+    "end": 2160.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2253000.jpg",
+    "ocr_text": "Second function: NIrc3 reduces DNA-induced type I interferon (IFN-I) and cytokines\nb\na\nWT-BMDM\nWT-BMDM\nNIrc3\nNIrc3\nIL-6 pg/ml\nIFN pg/mI\nmock\npoly(I: C)\npoly(dA: dT) extra-\npoly(dA: dT) intra-\nmock\npoly(dA: dT) intracellular\npoly(dA: dT) extracellular\nSame with MEFs",
+    "speech_text": "students in my lab really wanted to see if she can find interferon changes in NLRs. So she screened a number of NLR knockouts that we have made, And what she found was this, and showing Nlrc three is reduces Dna induced type one interferon response. And this is shown here. She used polyDADT, which is an analog of double-stranded DNA, and used it extracellularly, which would be activating through extracellular membrane-bound receptors, or put it intracellularly into cells. So that would be in intracellular sensors or receptors. And I should point out that all NLRs are considered intracellular sensors or receptors, Ok, while Tlr's are considered as membrane bound innate immune receptors, so she found that if she put. double-stranded DNA analogs into cells, that the wild type has a pretty good response in terms of interferon, but the knockouts have an even more profound response when it comes to interferon. And the NLRC3 Nlr C, three knockouts have a very small effect when it comes to polyic or Lps. And this is just showing with IL-6, and we see the same pattern that is intracellular double-stranded DNA, suggesting it's DNA-involved in DNA sensing, but as a negative molecule regulator of DNA sensing. So the knockouts have a higher response to intracellular DNA. So",
+    "start": 2160.0,
+    "end": 2253.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2308000.jpg",
+    "ocr_text": "Nlrc3-/- cells show elevated level of\nHSV-1-induced IFN-I and cytokines\nWT NIrc3\nWT-MEF NIrc3\nIfnb mRNA\nIFN3 pg/mI\nHSV-1\nHSV generated the same data IndependentIy of TRAF6",
+    "speech_text": "since intracellular DNA is a mimetic, essentially, of DNA viruses, we wanted to see if this has any function when we infect cells with HSV, herpes simplex virus 1. And we were able to induce interferon induction, and the knockouts have higher levels of interferon again. And we were able to show this. Now, in our Our previous paper with Lps, we showed that it involved Traf six, so we wanted to see if this is all because there's a difference in Traf six. And we did a knockout study provided by TACMAC, and we were able to show that TRAF6 knockout cells do not show any difference in terms of interferon induction by HSV. So we think with HSV response, this is separate from the TRAF6 pathway. So we think this is a different pathway",
+    "start": 2253.0,
+    "end": 2308.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2362000.jpg",
+    "ocr_text": "NLRC3 reduces c-di-GMP induced IFN-I response\nA\nB\nWT-MEF Nirc3\nWT-MEF NIrc3\nIFN- pg/ml\nIL-6 pg/ml\nc-di-GMP\nc-di-GMP\nc\nE\nD\nWT-MEF Nirc3\nWT-MEF NIrc3\nWT-MEF Nirc3\ninduction fold\nIFN- pg/ml\nIfna4 mRNA\npg/ml\nmock\nLm 6h\nmock\nmock\nLm 6h\nLm 6h",
+    "speech_text": "than the TRAF6 that I was telling you about. So we looked at more clues in terms of what the pathway might be. And mostly the laboratory of Dan Portnoy and his colleagues, as well as others, have found that cyclic di-GMP can induce type 1 interferon when it's produced by bacteria. And the bacteria that produces this include listeria. So we wanted to see if NRC3 can regulate cyclic di-nucleotide-induced type 1 interferon. And this is shown here. So, again, wild-type MEFs, NRC3 knockout MEFs, and this is with the cyclic di-nucleotide. In every case, the NRC3 knockouts produce more interferon. So again, suggesting as a negative, it's an inhibitor of these pathways, and it also did this with the whole bacteria. Bacteria, listeria,",
+    "start": 2308.0,
+    "end": 2362.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2442000.jpg",
+    "ocr_text": "DNA virus-initiated IFN-I signaling via STING/ MPYS / MITA / ERIS\nPyrin domain CARD HIN domain Helicase domain\nViruses\nAIM2\nDNA 1 IFI16 or p204\nDAI ZaZB\nRNA polymerase.III\nASC\nRIG-I\nCDN\nCaspase-1\nSTING\nMAVS\nTBK1\nIL-1B\nPro-IL-1B\np65p60 NF-xB\nIRF3IRF3\nCytoplasm\nInnate response genes(such as Ifna and Ifnb\nIFI16 or p204\nNucleus\nGoubau et al Nature Immunoloav. 201",
+    "speech_text": "So at this point these two clues were enough to make us think about a specific pathway. that has gained a lot of attention, especially last year, and that's the STING pathway. The STING pathway, Many, there's many studies trying to figure out what are the pathways that are important for Dna sensing by intracellular molecules. And the sting has become the major central adapter of many big different pathways, so. DNA can feed in, for example, into IFI-16 or P200. This feeds into STING pathway. DNA can be converted by polymerase III, go through RIG-I and MAFs, activate the STING pathway. DAI goes through the STING pathway. But it's one of the things about sting is it activates Tbk, One activates in Irf Three and Nf Kappa B to induce interferon. So this is the central molecule that's a central dicyclic nucleotide sensing molecule because it's been crystallized and found to bind to cyclic dinucleotide. But also the laboratory of Glenn Barber has found that this can bind directly to DNA. So this can either sense DNA or cyclic dinucleotide, activating TBK. So we wanted to see if NRC3 can be placed in this",
+    "start": 2362.0,
+    "end": 2442.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2496000.jpg",
+    "ocr_text": "NLRC3 inhibits the STING-dependent pathway\nDNA viruses or bacteria\na\nvector NLRC3 NLRP11\ndsDNA ma\nIFN- (RcL Luc.Act)\nempty vector NLRC3\nIFN- (RcL Luc.Act)\nsenso\nPS-1\nSTING\nTRAF3\nTBK1\nTBK1\nvector\nIRF3\ncon\nSTING/MITA\nIRF3/7\nNF-kB\nInflammatory cytokines\nAntiviral cytokines\nFurrS.R.et.al.2012",
+    "speech_text": "pathway. So again, we have STING here, TBK here. So we wanted to see if overexpressed NRC3 can reduce interferon promoter activation by STING, and it did, and by TBK, and it did. And because the scale is so low, this is probably about 20-fold, and IRF3 and NRC3 has no effect on IRF3. Irf Irf three. That's because it acts over here, and so if you have Irf three activation. it's too high. It cannot affect downstream IRF3. So this is where we're placing NRC3, right upstream in the STING and TBK pathway, in these two. So then we wanted to know can NRC3, how does NRC3 inhibit STING and TBK? Does it directly bind to these two?",
+    "start": 2442.0,
+    "end": 2496.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2561450.jpg",
+    "ocr_text": "NLRC3 associates with STING and TBK1\nHA-NLRC3\nHA-NLRC3\nIP: a-STING /MITA\nIP: IgG control\nFlag-STING/MITA\nFlag-STING/MITA\nInput\nEmpty vector\nEmptyvector\nF lag-TBK1\nHA-NLRC3\nHA\nlag-IRF3\nFlag-IRF3\nIB: a-HA IB: a-STING /MITA\nIB: a-FIag\nInput\nIP: a-HA\nHA-NLRC3\nIB: a-TBK1\nIB: a-HA\nIPa-HA\nInput\nIB: a-HA",
+    "speech_text": "And so we started with overexpression system by overexpressing NRC3 and looking at its interaction with STING, and we were able to see pretty strong interaction with STING as well as some interaction with TBK right over here. And then we wanted to know if this could happen in a hemidogenous pathway, because this is all overexpressed, so we wanted to see if this can happen with endogenous STING that's not overexpressed, And we were able to show that overexpressed Nrc three can interact with sting right over here at this, so they co precipitate with each other. But NRC3 can also co-precipitate with endogenous TBK1. And we did a lot of mapping, and like I said, this paper is not published but soon to be published in Immunity, and we were able to show that the fragment that NRC3 interacts with in STING and TBK are exactly the same domain that these two molecules use to interact with one another. So the proposal is NRC3 can interfere with the interaction",
+    "start": 2496.0,
+    "end": 2561.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2648450.jpg",
+    "ocr_text": "NLRC3 directIy binds purified STING and reduces STING-TBK1 association\nD STINO13934 rSTINO133-379 NLRC3 -8TNO3D\nE\nSTINO13934 TINO1337 rHDIO-NLRC3 Hoab\nP.aRao IESTNO\n0-STNO\nIB\nG\nNieN\n1B: -3TING MITA\nW MreJ\nSTINGCo\n-TBK1\nou\nG-TBK1",
+    "speech_text": "of STING and TBK. So then the reviewers asked us, can we show this with purified protein? And as all of you know, purified NRs are a nightmare, but we were very happy that we have a colleague who can produce these proteins, and we were able to get purified NRC3, and we used two different STING, and these STINGs were used for crystallization by the Ouyang lab, and we were able to show that STING and NLRP3 purified can interact with each other right over here. And the reverse direction, we were able to show that if we precipitate NRC3, it also co-precipitated STING. So I think this pretty clearly shows that STING can interact with NRC3. Then the question is, what is the functional consequence of this? We know one of the functional consequences of STING activation is TBK. Remember I showed you TBK is downstream of STING, and TBK is the Taq kinase, which is an NFKP activating kinase. And if you activate STING, you can see TBK phosphorylation indicated here. So this is wild-type cells activated with double-stranded DNA, and TBK is not that much phosphorylated until six hours after treatment. If we look at NLRP3 knockout cells, we see increased TBK phosphorylation very early on, so there's a kinetic switch to a very early time point of TBK phosphorylation.",
+    "start": 2561.45,
+    "end": 2648.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2698000.jpg",
+    "ocr_text": "NLRC3 reduces DNA-induced STING translocatior\nSTING\nISD 4 h\nNT\nNLRC3\nPERINUCLEAR\nPUNCTA",
+    "speech_text": "Then we want to look at a second function of STING, That is when Sting is sync containing cells are treated with double stranded rna. Two things happen. 1st of all, Sting assumes a very unique. localization, as shown by Glenn Barber and Akira, and that is it becomes perinuclear or has a punctated appearance. And we showed if we overexpress Nlrp Three, However, the perinuclear experience appearance this almost disappeared from. 10 %, about to 1 %, and we cannot find any cells with this punctated appearance, so it changed the localization of sting. So it changed TBK, which is downstream of STING, and it also changed the localization of STING, from where it should be associated with With activation to",
+    "start": 2648.45,
+    "end": 2698.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2796000.jpg",
+    "ocr_text": "NLRC3 reduces STING translocation to the TBK1-containing complex\nSTING-HSV-1\nS TING-Mock\nPercentage to lane 1\nPercentage to lane 1\n+WT + NIrc3\nArea under curve\nTBK 1-containing fractions\nTBK 1-contaning fractions\nmockHSV.1",
+    "speech_text": "a non activation form and the 3rd way we looked at this is can we change the Co localization? of TBK, indicated here, this is TBK, and the second two roles are STING, their co-localization. So we are looking at different fractions on an FPLC column From wild type cells and Nlrp, three knockout cells, and working looking at Co, fractionation of Tbk indicated here, which is not different. between wild-type and NLRP3 knockout cells, versus STING. And you can see that wild-type, we can see it up to here, but there's more STING that's co-localized with the TBK column in non-treated cells in NLRP3 knockouts. But if we treat these cells, infect these cells with HSV, there's a more dramatic co-localization of STING in the knockout cells, and this is TBK and this is STING, so there's more co-localization of these bands in the knockout cells than in the wild-type cells. To quantitate this, we quantitated it based on the first fraction, and did it as a ratio of the first fraction. And it's probably clear as here, which is the HSV-treated cells, and these are looking at fractions that contain both TBK and STING. And so you can see in the knockouts, we have a lot more fractions that contain fractions with both TBK and STING. So this is using a biochemical approach, kind of confirming that when you don't have NLRP3, STING and TBK became More co",
+    "start": 2698.0,
+    "end": 2796.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2848000.jpg",
+    "ocr_text": "NIrc3 deficiency leads to reduced in vitro viral Ioad\nm Relative HSV-1\nn\nWT-BMDM NIrc3\nWTMEF NIrc3\ngenome copy\nRelative HSV-1\ngenome copy\nHSV-1\nHSV-1\nNLRC3 does not significant affect poly(I: C) or SeV/VSV infection",
+    "speech_text": "localized to the same bio biochemical fraction, then we wanted to biologically ask. If Nlrp, three is a negative, is an inhibitor of sting. we would expect that in NLRP3 knockouts, we would have more STING activation and therefore more antiviral responses, and we should see less viruses. And that is indeed what we saw in vitro in cell culture. That is, if you infect NLRP3 knockouts with HSV, we saw less HSV genomic copy as indicated here. We don't see an effect of NLRP3 in poly-IC or in Sendovirus, but we actually later now, we do see an effect on some viral RNA viruses. We still don't understand how that is achieved, but it's much more",
+    "start": 2796.0,
+    "end": 2848.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2914000.jpg",
+    "ocr_text": "NIrc3-/- mice show augmented host response to HsV-\nb\na\nHSV-1\nHSV-1\nPercent survival\nWT(n=7 NIrc3n=7\nBody Weight (%)\nDays post injection\nDays\nAll WT mice have to be sacrificed due to body temperature drop and weight loss\nBrain relative HsV\ngDNA copy\njw/6d dNHI\nTNF pg/mI\nIL-6 pg/ml",
+    "speech_text": "preferential for DNA viruses. So then in vivo, is there a difference? So we went all the way from overexpression to endogenous NLRP3 knockout, to biochemistry, to function of STING, and now we want to see in overall mouse what happens when we infect these mice with HSV1. And so what we expect again is NLRP3 is an inhibitor of the STING pathway. We would expect if we knock out NLRP3, we would have more of a STING function and therefore more of an antiviral effect. And so we would expect these mice, Nlrp, three mice to do better when they're infected with the Hsv one. And indeed they did, they all did better. And the wild-type mice did very poorly in that in an infection that's IV, we saw much less survival because these mice have a dramatic drop in weight of over 20%. And in these knockout mice, we do see enhanced interferon, we see enhanced IL-6, enhanced TNF, and lower genomic",
+    "start": 2848.0,
+    "end": 2914.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-2963000.jpg",
+    "ocr_text": "DNA reduces NIrc3 expression\nA\ninduction fold\nNIrc3 mRNA\nISD:",
+    "speech_text": "copies. So in our proposal then, we would say that NLRP3 is there to naturally prevent STING from activating when there's no virus. But the question is how does this break becomes is released during viral infection. And we haven't done a whole lot, and this is in a supplemental figure in the paper to address some of the reviewers' comments. What we saw is that if you have DNA or DNA infection with DNA viruses, there's a drop of NLRP3 expression. And I couldn't make my student come in between after 6 hours to 16, because that's, I think, after 12 hours of working in the lab, but we don't know what happens in between. But there's a significant drop of this expression.",
+    "start": 2914.0,
+    "end": 2963.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-3006000.jpg",
+    "ocr_text": "Model of NLRC3 function\nUninfected state\nDNA virus infected state\nMEMBRANE\nMEMBRANE\nNLRC3\nNLRC3\nInactive TBK TBK\nER\nONA\npTBK\nCTO\nN-tern\nSTING dimer (not active)\nSTING dimer (bound to DNA)\nIRF3\nNF-kB\nCytosolic, inactive IRF3 and NF-B\nNuclear, IRF3 dimer pNF-KB\npNF-kB\nIFN-I\nIFN-I\nNUCLEUS\nNUCLEUS",
+    "speech_text": "So in our model system, we would propose as follows, that is in a steady state, NLRP3 can interact with STING because we saw this interaction without doing anything. And so this prevents STING from activating TBK1, from associating with TBK1, and activating the entire interferon pathway. However, when you have viral infection, NRC3 is removed, and we would suggest one of the ways it is removed, an expression. Its expression went down, and this allows then the STING molecule to interact with TBK. We don't think this is the only way that does this, but this is a possible way it does this. And then STING interacts with TBK and activates",
+    "start": 2963.0,
+    "end": 3006.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-3132000.jpg",
+    "ocr_text": "Nucleic acids and NLRs\nMammalia\nViraldsRNA 5'ppp-ssRNA polyl: C\nViral DNA\nLigand\nMHC Class II Promoters\nCREB\nRFX\nNF-Y\nMDA-5\nReceptor Complex\nRIG-I\nSTING\nMAVS\nTBK1\nGuard Protein\nCIITA\nNLRC3\nNLRX1",
+    "speech_text": "the entire pathway. So we then come to the overall picture, that is we have NLR proteins that can regulate transcription activation of class 1 and class 2. We have NLR proteins that act as inflammasome. We have NLR proteins that change interferon in MITOG. And also there are some that changes NF-kappa-B and so forth. So how do we have an overall picture of this? I'm not sure I can introduce an overall picture, but I can think of some consensus in terms of what these might be doing. So I come to Nlrs and nucleic, acids, and going from here we know C, two ta based. based on the work of many, that the C2TA promoter is, of course, a DNA. It binds to DNA-binding proteins, and C2TA is found at the promoter by chromatin IP. So C2TA is very good at recognizing DNA, whether it's DNA protein complex or DNA. It's not entirely clear, but it certainly can recognize DNA. Our previous work with NLRX1 suggests that this molecule can interfere Can interfere with this pathway, which is Rna sensing by Rig I, which binds to. RNA molecule. And so this molecule can also be part of the RNA-sensing pathway. We now have evidence that NLRC3 can regulate this DNA-sensing pathway of STING and TBK. So in many of these cases, we're suggesting NLR may be connected to DNA and RNA. In innate immunity, we call this DNA and RNA-sensing. In transcription, we call this transcriptional activation. And I should just point out that there are papers showing that NLRP3 can recognize mitochondria DNA. So coming to a full picture, whether that's something we should all be thinking about, that is maybe there is an underlying rule, and it's connecting NLRs with nucleic",
+    "start": 3006.0,
+    "end": 3132.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "NIH-FC81B-3194000.jpg",
+    "ocr_text": "Acknowledgments\nGreg Robbins, Aga Truax; Sushmita Jha, Denis Gris; Haitao Wen. Denis Gris; Coy Allen; Monika Schneider, Lu Zhang, Karen Swans Blossom Damania, Sean Gregory, Joshua Uronis, Hans Herfarth Christian Jobin, Arlin Rogers, Bev Koller, Jinyao Mo, J. Alex Duncan, Songying Ouyang, Hong-Bing Shu",
+    "speech_text": "acids. So I just want to then come back and thank all the people who are involved in the NLR field In my lab, Greg Robbins and Agha Truax worked on Nr. the Nlrc five molecules, Sushmita and Dennis worked on the neuroinflammatory component. Haitao and Dennis worked on the metabolic diseases. Khoi worked on viral recognition, Monica 's and Lou two. amazing graduate students, and Karen Swanson worked on the NLRC3 proteins and did all the work on that protein. And these are our collaborators, some in-house. Blossom, Sean Gregory, Josh, Hans, Chris Chun, and Arlen all helped us with the viral models and colitis models. And Bev Culler and Jin Yao helped us a lot with making knockouts in the very early days. And Alex and his postdoc did a lot of work on purifying these proteins. And Ouyang and Hongbing Su provided many of the reagents that I mentioned. I just want to thank you very much for your attention.",
+    "start": 3132.0,
+    "end": 3194.0
+  }
+]

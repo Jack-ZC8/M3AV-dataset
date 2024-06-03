@@ -1,0 +1,98 @@
+[
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0049450.jpg",
+    "ocr_text": "Dance and Choreography\nin HCl: A Two-Decade\nRetrospective\nQiushi Zhou\nCheng Cheng Chua Jarrod Knibbe\nJorge Goncalves Eduardo Velloso",
+    "speech_text": "When we think of dance in its most basic form, we think of it as a way of artistic expression through body movement. However, when we think of technology in dance, the image is less clear than, for instance, the use of technology in painting or in music. The reason is that the tool of expression in dance, which is the abstract movement of the human body, cannot be simply captured in digital formats without losing its essence. Intrigued by this unique challenge, we conducted a systematic review on the literature of dance and choreography in HCI for the past two decades. My name is Qiu Shizhou, and I will present an overview of our findings on behalf of",
+    "start": 9.0,
+    "end": 49.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0076450.jpg",
+    "ocr_text": "Body Movement\nCreative Process",
+    "speech_text": "my co-authors. In this review, we discuss the literature from two perspectives. First, 1st, we focus on the body as the instrument of artistic expression in dance. and look at how technology contributed to the recognition and analysis of the expressive qualities in dance movement. Then, we look at how technology has influenced the practice of dance-making in existing case studies. So, what is the body in the context of dance?",
+    "start": 49.45,
+    "end": 76.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0127000.jpg",
+    "ocr_text": "WEIGHT\nFloat\nGlide\nFlick\nDab\nLIGHT\nTIME\nSUSTMNED\nFLEXIBLE->SPACE\nSPACE<-DIRECT\nSUDDEN\nTIME\nWring\nFIRM\nSlash\nPress\nPunch\nWEIGHT",
+    "speech_text": "From an HCI perspective, the dancer's body is a physical interface that can be accessed and extended through technology. We can read the bodily signals through physiological sensors to directly control multimedia stage effects and to provide context for further augmentation of the performance. We can also write to the body through its underlying sensory neural system to alter the felt experience of the dancer. Physical costumes can change the dancer's perception of their own bodies and redefine the possibility of movement. A similar effect can be achieved with visual and acoustic effects, which influence the dancer's lived experience on stage. Recognizing and analyzing the expressive movement qualities has been another direction of the research in dance. Learning from existing frameworks for categorizing",
+    "start": 76.45,
+    "end": 127.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0161450.jpg",
+    "ocr_text": "Kinaesthetic Creativity\nFelt Experience\nEmbodied Perception",
+    "speech_text": "movement qualities, such as the Laban Movement Analysis, previous works have attempted to automatically detect movement qualities and convert them to visual output and to help with choreographic training and education. Equipped with advanced technologies such as motion tracking and machine learning, HCI dance researchers are still faced with a major challenge of quantifying the kinesthetic creativity, the felt experience of the dancers, and expressive movement qualities, channeled through the embodied perception from the choreographers to the audience. As a result, previous works",
+    "start": 127.0,
+    "end": 161.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0168450.jpg",
+    "ocr_text": "Alternative\nApproaches",
+    "speech_text": "have employed alternative approaches to the body and its abstract movement apart from the direct bodily sensing and motion capturing.",
+    "start": 161.45,
+    "end": 168.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0209450.jpg",
+    "ocr_text": "Creative\nProcess",
+    "speech_text": "One of the promising trends of those approaches is the use of virtual and physical agents to accompany the dancers' performance while forming new bodily relationships on stage. For instance, neural networks have been used to create virtual body extensions that react to different features in the movement of the dancers. Robotic agents have also been explored extensively, including drones that respond to specific types of movement from human dancers, and autonomous agents that collaboratively improvise with the human dancers. The other perspective in our review is to look at how technology has influenced the creative process of dance in practice.",
+    "start": 168.45,
+    "end": 209.45
+  },
+  {
+    "check": "mathpix+check",
+    "name": "CHI-004BD-0217000.jpg",
+    "ocr_text": "TYR\n$A$ et $B$ arroncent at\nreculent sin 1 mêure plen\nA\nB\n$a^{2}$ beader",
+    "speech_text": "Those works include novel tools for choreographers, such as the sketching interfaces that help reflect abstract choreographic",
+    "start": 209.45,
+    "end": 217.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0223000.jpg",
+    "ocr_text": "Write a Journal entry\nChange Video\nUpload a new Video file\nChoreography No\nHi test, This is video 3-16 Full Run.mp4\nCAMI: This transition right here is strange, the walking around yourself looks kinda tentative. Lets look at this",
+    "speech_text": "ideas, and recording and annotating tools used across the development process of a dance",
+    "start": 217.0,
+    "end": 223.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0232450.jpg",
+    "ocr_text": "Complex Idiosyncratic",
+    "speech_text": "project. The common conclusion from those works is that the creative process of dance is highly complex and idiosyncratic, and the introduction of technology",
+    "start": 223.0,
+    "end": 232.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0246000.jpg",
+    "ocr_text": "Welcome,\nUpload a New Video File\nWrite/See Journal Entry\nSelect/Change Video\nLog Out\nUpload Visualization file\nUI Log\nComments\nViz Videos\nComments\nTime\nNo\nUser\nQuicker transition between two down-dog arches More weight into backwards walks, focus should be up L arm not wrapped on this one.\nmelissa\nmelissa\nmelissa\nmelissa\nFigure out that transition\nShould be closer to each other and Melissa needs to be more open to stage right. Arm not wrapped around torso here\nmelissa\nmelissa\nmelissa\nArm comes to chest much slower\nhere...\nSubmitCancel",
+    "speech_text": "may produce unexpected impact. For instance, while choreographic tools with online user interface makes communication between choreographers and dancers more easily accessible, they also cause disturbance in the creative",
+    "start": 232.45,
+    "end": 246.0
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0274450.jpg",
+    "ocr_text": "Lived Experience\nDiverse Context",
+    "speech_text": "process, due to the change of context from face-to-face rehearsals to the online text communications. Overall, the challenges and opportunities reflected in the field of dance during the past 20 years contributed a wealth of knowledge that benefit broader HCI research in the context of creativity support and beyond. The focus on the lived experience of the body and the attention to the diverse and specific cultural context in dance embody the characteristics",
+    "start": 246.0,
+    "end": 274.45
+  },
+  {
+    "check": "paddleocr+check",
+    "name": "CHI-004BD-0303000.jpg",
+    "ocr_text": "THE UNIVERSITY OF MELBOURNE\ncis.unimelb.edu.au/hci",
+    "speech_text": "of what we call the third wave shift of HCI. The unique offerings in HCI dance research, such as the bodily improvisation with robotic agents, and the attempts to reflect abstract movement qualities using computational tools, provoke future works in HCI to rethink the relationships between human experience and technology. Thank you for watching, and we invite you to read the paper for more details.",
+    "start": 274.45,
+    "end": 303.0
+  }
+]
