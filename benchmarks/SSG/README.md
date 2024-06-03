@@ -110,16 +110,16 @@ or
 
 1. ROUGE score
 
-```json
+```bash
 python score/score_rouge.py {input_file}
 ```
 
 1. BERTScore & BARTScore
 
-```json
+```bash
 python score/score_brt.py {input_file}
 ```
 
 The scoring results will be stored near the input file. 
 
-1. You can refer to `score/sample`  to check the correctness of scoring.
+3. You can refer to `score/sample`  to check the correctness of scoring.
