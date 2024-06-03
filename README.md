@@ -1,4 +1,4 @@
-# 🎓M<sup>3</sup>AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset
+# 🎓M<sup>3</sup>AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset (ACL 2024)
 
 <div align="center">
 
