@@ -14,10 +14,11 @@ The M<sup>3</sup>AV dataset is available to download for non-commercial purposes
 
 - `dataset_v1.0_onlyaudio_tar_gz/dataset_v1.0_onlyaudio.tar.gz.*` denote the audio data of M3AV_v1.0 dataset.
 
-We provide two optional download links, both of which yield the same results:
+We provide three optional download links, all of which yield the same results:
 
 1. [HuggingFace Link](https://huggingface.co/datasets/CHHHH/M3AV_v1.0)
 2. [BaiduNetdisk Link](https://pan.baidu.com/s/1TPU3o9aa5TSBJ_YZ2_91-Q?pwd=v5j6)
+3. [ModelScope Link](https://www.modelscope.cn/datasets/cc2024A/M3AV_v1.0)
 
 Please use sha256 to verify that the download is valid by comparing your sha256 values and [ours](./M3AV_v1.0_sha256.txt).
 
