@@ -144,3 +144,24 @@ CUDA_VISIBLE_DEVICES=2 python infer.py \
 1. Quantizer (put it under `quantizer/checkpoints/`): [here](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuheyang_sjtu_edu_cn/EVyi4SEjkb5Es1irpP8cBHUBdY3cJGx6ncIhGaIJQ0aICQ?e=OGxB8f)
 
 2. Transformer (100M version) (put it under `ckpt/`): [model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuheyang_sjtu_edu_cn/EYjLEf16UkJLnS0sttqn1wsBcGEW3l4FJOMr_1-QGgS15w?e=a8VLmx), [config](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuheyang_sjtu_edu_cn/EecsKbUgONJDumBJh-qsxN4B9r6GHA89hX9OwBLTvNjt6g?e=JVHETp)
+
+### Citation
+If you find this code useful for your research, please cite the following papers
+```
+@inproceedings{chen2023vector,
+  title={A vector quantized approach for text to speech synthesis on real-world spontaneous speech},
+  author={Chen, Li-Wei and Watanabe, Shinji and Rudnicky, Alexander},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={11},
+  pages={12644--12652},
+  year={2023}
+}
+
+@article{chen2024m,
+  title={M $\^{} 3$ AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset},
+  author={Chen, Zhe and Liu, Heyang and Yu, Wenyi and Sun, Guangzhi and Liu, Hongcheng and Wu, Ji and Zhang, Chao and Wang, Yu and Wang, Yanfeng},
+  journal={arXiv preprint arXiv:2403.14168},
+  year={2024}
+}
+```

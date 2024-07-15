@@ -37,8 +37,8 @@ else
      echo "Download M3AV audio finish."
   else
      echo "Please download dataset_v1.0_noaudio first."
+     exit 1
   fi
-  echo "Please download dataset_v1.0_noaudio first."
 fi
 
 if [ -e "${M3AV}/dataset_v1.0_noaudio/CHI-003EC/speech/metadata.json" ]; then
