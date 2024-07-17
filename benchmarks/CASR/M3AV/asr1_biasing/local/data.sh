@@ -35,21 +35,23 @@ else
 fi
 
 if [ ${stage} -le 1 ] && [ ${stop_stage} -ge 1 ]; then
-    if [ -d "${M3AV}/dataset_v1.0_onlyaudio" ]; then
-      echo "M3AV audio found."
-    else
-      echo "M3AV audio not found in ${M3AV}."
-      if [ -d "${M3AV}/dataset_v1.0_noaudio" ]; then
-         echo "Download M3AV audio begin."
-         mkdir ${M3AV}/dataset_v1.0_onlyaudio
-         for dir in ${M3AV}/dataset_v1.0_noaudio/*; do
-           yt-dlp -x --audio-format flac -o ${M3AV}/dataset_v1.0_onlyaudio/`basename $dir .flac` `cat $dir/raw/*.ytbUrl`
-         done
-         echo "Download M3AV audio finish."
+    if [ -d "${M3AV}/dataset_v1.0_noaudio" ]; then
+      echo "M3AV transcription found."
+      if [ -d "${M3AV}/dataset_v1.0_onlyaudio" ]; then
+        echo "M3AV audio found."
       else
-         echo "Please download dataset_v1.0_noaudio first."
-         exit 1
+        echo "M3AV audio not found in ${M3AV}."
+        echo "Download M3AV audio begin."
+        mkdir ${M3AV}/dataset_v1.0_onlyaudio
+        for dir in ${M3AV}/dataset_v1.0_noaudio/*; do
+          yt-dlp -x --audio-format flac -o ${M3AV}/dataset_v1.0_onlyaudio/`basename $dir .flac` `cat $dir/raw/*.ytbUrl`
+        done
+        echo "Download M3AV audio finish."
       fi
+    else
+      echo "M3AV transcription not found."
+      echo "Please download dataset_v1.0_noaudio first."
+      exit 1
     fi
 fi
 
