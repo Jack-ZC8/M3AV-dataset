@@ -30,6 +30,7 @@ We download various academic lectures ranging from Human-computer Interaction, a
 
 ## News
 
+- [2024-08] 🤖All Benchmarks have been released!
 - [2024-06] 🤖Benchmarks of LLaMA-2 and GPT-4 have been released!
 - [2024-05] 🎉Our work has been accepted by ACL 2024 main conference!
 - [2024-04] 🔥v1.0 has been released! We have further refined all speech data. Specifically, the training set adopts the text-normalised Whisper results, and the development/testing set employs a manual combination of Whisper and microsoft STT results.
