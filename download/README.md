@@ -14,6 +14,8 @@ The M<sup>3</sup>AV dataset is available to download for non-commercial purposes
 
 - `dataset_v1.0_onlyaudio_tar_gz/dataset_v1.0_onlyaudio.tar.gz.*` denote the audio data of M3AV_v1.0 dataset.
 
+- `paper_link.json` denotes the PDF link of the paper of each video.
+
 We provide three optional download links, all of which yield the same results:
 
 1. [HuggingFace Link](https://huggingface.co/datasets/CHHHH/M3AV_v1.0)
