@@ -16,11 +16,7 @@ The M<sup>3</sup>AV dataset is available to download for non-commercial purposes
 
 - `paper_link.json` denotes the PDF link of the paper of each video.
 
-We provide three optional download links, all of which yield the same results:
-
-1. [HuggingFace Link](https://huggingface.co/datasets/CHHHH/M3AV_v1.0)
-2. [BaiduNetdisk Link](https://pan.baidu.com/s/1TPU3o9aa5TSBJ_YZ2_91-Q?pwd=v5j6)
-3. [ModelScope Link](https://www.modelscope.cn/datasets/cc2024A/M3AV_v1.0)
+We provide the download link: [HuggingFace Link](https://huggingface.co/datasets/CHHHH/M3AV_v1.0)
 
 Please use sha256 to verify that the download is valid by comparing your sha256 values and [ours](./M3AV_v1.0_sha256.txt).
 

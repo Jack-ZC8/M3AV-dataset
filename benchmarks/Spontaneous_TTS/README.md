@@ -141,9 +141,9 @@ CUDA_VISIBLE_DEVICES=2 python infer.py \
 
 ### Pretrained checkpoints
 
-1. Quantizer (put it under `quantizer/checkpoints/`): [here](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuheyang_sjtu_edu_cn/EVyi4SEjkb5Es1irpP8cBHUBdY3cJGx6ncIhGaIJQ0aICQ?e=OGxB8f)
+1. Quantizer (put it under `quantizer/checkpoints/`): [here](https://huggingface.co/CHHHH/M3AV_Spontaneous_TTS/blob/main/g_00600000)
 
-2. Transformer (100M version) (put it under `ckpt/`): [model](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuheyang_sjtu_edu_cn/EYjLEf16UkJLnS0sttqn1wsBcGEW3l4FJOMr_1-QGgS15w?e=a8VLmx), [config](https://sjtueducn-my.sharepoint.com/:u:/g/personal/liuheyang_sjtu_edu_cn/EecsKbUgONJDumBJh-qsxN4B9r6GHA89hX9OwBLTvNjt6g?e=JVHETp)
+2. Transformer (100M version) (put it under `ckpt/`): [model](https://huggingface.co/CHHHH/M3AV_Spontaneous_TTS/blob/main/last.ckpt), [config](https://huggingface.co/CHHHH/M3AV_Spontaneous_TTS/blob/main/config.json)
 
 ### Citation
 If you find this code useful for your research, please cite the following papers
