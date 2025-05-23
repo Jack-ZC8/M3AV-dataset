@@ -39,3 +39,29 @@ We download various academic lectures ranging from Human-computer Interaction, a
 
 The folder [demo](./demo/) contains a sample for demonstration.
 
+---
+```
+@inproceedings{chen-etal-2024-m3av,
+    title = "{M}$^3${AV}: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset",
+    author = "Chen, Zhe  and
+      Liu, Heyang  and
+      Yu, Wenyi  and
+      Sun, Guangzhi  and
+      Liu, Hongcheng  and
+      Wu, Ji  and
+      Zhang, Chao  and
+      Wang, Yu  and
+      Wang, Yanfeng",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.489/",
+    doi = "10.18653/v1/2024.acl-long.489",
+    pages = "9041--9060"
+}
+```
