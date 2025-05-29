@@ -39,29 +39,19 @@ We download various academic lectures ranging from Human-computer Interaction, a
 
 The folder [demo](./demo/) contains a sample for demonstration.
 
----
+## Citation
+
 ```
-@inproceedings{chen-etal-2024-m3av,
-    title = "{M}$^3${AV}: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset",
-    author = "Chen, Zhe  and
-      Liu, Heyang  and
-      Yu, Wenyi  and
-      Sun, Guangzhi  and
-      Liu, Hongcheng  and
-      Wu, Ji  and
-      Zhang, Chao  and
-      Wang, Yu  and
-      Wang, Yanfeng",
-    editor = "Ku, Lun-Wei  and
-      Martins, Andre  and
-      Srikumar, Vivek",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = aug,
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.acl-long.489/",
-    doi = "10.18653/v1/2024.acl-long.489",
-    pages = "9041--9060"
+@InProceedings{Chen2024a,
+  author    = {Zhe Chen and Heyang Liu and Wenyi Yu and Guangzhi Sun and Hongcheng Liu and Ji Wu and Chao Zhang and Yu Wang and Yanfeng Wang},
+  booktitle = {Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), {ACL} 2024, Bangkok, Thailand, August 11-16, 2024},
+  title     = {M{\({^3}\)}{AV}: A Multimodal, Multigenre, and Multipurpose Audio-Visual Academic Lecture Dataset},
+  year      = {2024},
+  editor    = {Lun{-}Wei Ku and Andre Martins and Vivek Srikumar},
+  pages     = {9041--9060},
+  publisher = {Association for Computational Linguistics},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl    = {https://dblp.org/rec/conf/acl/ChenLYSLWZWW24.bib},
+  doi       = {10.18653/V1/2024.ACL-LONG.489},
 }
 ```
